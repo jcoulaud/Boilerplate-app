@@ -8,10 +8,16 @@
 }
 
 .App-header {
-  background-color: #222;
-  height: 150px;
+  background-color: #00BCD4;
+  height: 180px;
   padding: 20px;
   color: white;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.App-subHeader {
+  letter-spacing: 1px;
+  text-transform: none;
 }
 
 .App-intro {

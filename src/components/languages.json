@@ -1,0 +1,38 @@
+[
+	{
+		"type": "Javascript",
+		"code": "devicon-git-plain "
+	},
+	{
+		"type": "Java",
+		"code": "devicon-java-plain "
+	},
+	{
+		"type": "Python",
+		"code": "devicon-python-plain "
+	},
+	{
+		"type": "PHP",
+		"code": "devicon-php-plain "
+	},
+	{
+		"type": "Ruby",
+		"code": "devicon-ruby-plain "
+	},
+	{
+		"type": "C++",
+		"code": "devicon-cplusplus-plain "
+	},
+	{
+		"type": "C",
+		"code": "devicon-c-plain "
+	},
+	{
+		"type": "C#",
+		"code": "devicon-csharp-plain "
+	},
+	{
+		"type": "Go",
+		"code": "devicon-go-plain "
+	}
+]

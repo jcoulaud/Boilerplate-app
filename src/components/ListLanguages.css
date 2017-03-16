@@ -1,0 +1,26 @@
+.ListLanguages-root {
+  flex-grow: 1;
+  flex-direction: row;
+  justify-content: space-around;
+  max-width: 1024px;
+  margin: auto !important;
+  padding: 30px;
+}
+.ListLanguages-item {
+  margin-bottom: 30px;
+}
+.ListLanguages-paper {
+  padding: 30px;
+  height: 100%;
+  width: 50%;
+  display: inline-table;
+  cursor: pointer;
+}
+.ListLanguages-root i {
+  font-size: 7em;
+  color: #00BCD4;
+}
+.ListLanguages-root span {
+  font-size: 0.8em;
+  color: #00BCD4;
+}
