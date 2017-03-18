@@ -6,9 +6,12 @@
   margin: auto !important;
   padding: 30px;
 }
+
 .ListLanguages-item {
   margin-bottom: 30px;
+  text-align: center;
 }
+
 .ListLanguages-paper {
   padding: 30px;
   height: 100%;
@@ -16,11 +19,11 @@
   display: inline-table;
   cursor: pointer;
 }
-.ListLanguages-root i {
+.ListLanguages-paper i {
   font-size: 7em;
   color: #00BCD4;
 }
-.ListLanguages-root span {
+.ListLanguages-paper span {
   font-size: 0.8em;
   color: #00BCD4;
 }

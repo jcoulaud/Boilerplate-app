@@ -3,10 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.15.3",
     "devicon": "^2.0.0",
     "material-ui": "next",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
+    "react-router-dom": "^4.0.0",
     "react-tap-event-plugin": "^2.0.1"
   },
   "devDependencies": {

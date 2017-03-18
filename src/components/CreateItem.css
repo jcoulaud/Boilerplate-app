@@ -1,0 +1,49 @@
+.item-root {
+  flex-grow: 1;
+  flex-direction: row;
+  justify-content: space-around;
+  max-width: 1024px;
+  margin: auto !important;
+  margin-top: 50px !important;
+}
+
+.item-item {
+  text-align: center;
+}
+
+.item-paper {
+  padding: 30px;
+  height: 100%;
+  width: 80%;
+  display: inline-table;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+.item-paper i {
+  font-size: 7em;
+  color: #00BCD4;
+}
+.item-paper span {
+  font-size: 0.8em;
+  color: #00BCD4;
+}
+
+.card {
+  display: 'flex';
+  flex-direction: row;
+  justify-content: space-around;
+  text-align: left;
+  height: 150px;
+}
+.item-image {
+  width: 10%;
+  height: 100%;
+  float: left;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+.item-content {
+  width: 90%;
+  float: right;
+}
