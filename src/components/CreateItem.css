@@ -2,19 +2,18 @@
   flex-grow: 1;
   flex-direction: row;
   justify-content: space-around;
-  max-width: 1024px;
+  /*max-width: 1024px;*/
   margin: auto !important;
   margin-top: 50px !important;
 }
-
 .item-item {
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
-
 .item-paper {
   padding: 30px;
   height: 100%;
-  width: 80%;
   display: inline-table;
   cursor: pointer;
   margin-bottom: 20px;
@@ -33,17 +32,244 @@
   flex-direction: row;
   justify-content: space-around;
   text-align: left;
-  height: 150px;
+  margin-bottom: 20px;
 }
 .item-image {
-  width: 10%;
   height: 100%;
   float: left;
-  display: flex;
-  justify-content: center;
-  flex-direction: row;
 }
-.item-content {
-  width: 90%;
+.item-image img {
+  width: 70%;
+  padding: 20px;
+}
+.item-content-left {
+  height: 100%;
+  float: left;
+}
+.item-content-left .author {
+  font-size: 0.8em;
+  color: #444;
+  font-weight: 200;
+}
+.item-content-left .repo {
+  font-size: 0.9em;
+  color: #444;
+}
+.item-content-right {
+  text-align: right;
+  float: left;
+  color: #999;
+  font-size: 0.9em;
+}
+.item-content-icon {
+  padding-bottom: 7px;
+  display: block;
+}
+.card-content-bottom {
+  border-top: 1px solid #F6F9FC;
+}
+.card-content-subline {
+  float: left;
+  padding: 18px 20px;
+  color: #999;
+  font-weight: 200;
+  font-size: 0.9em;
+}
+.card-content-subline svg {
+  font-size: 1.1em;
+}
+.card-content-bottom button {
+  margin: 10px 20px;
   float: right;
+}
+.card-content-subline-dates {
+  padding-right: 20px;
+}
+
+@media screen and (min-width: 1201px) {
+  .item-paper {
+    width: 80%;
+  }
+  .item-image {
+    width: 10%;
+  }
+  .item-content-left {
+    width: 70%;
+  }
+  .item-content-right {
+    width: 16%;
+    padding: 20px;
+  }
+}
+@media screen and (min-width: 1057px) and (max-width: 1200px) {
+  .item-paper {
+    width: 80%;
+  }
+  .item-image {
+    width: 10%;
+  }
+  .item-content-right {
+    width: 15%;
+    padding: 20px 22px;
+  }
+  .item-content-left {
+    width: 70%;
+  }
+}
+@media screen and (min-width: 880px) and (max-width: 1056px) {
+  .item-paper {
+    width: 80%;
+  }
+  .item-image {
+    width: 10%;
+  }
+  .item-content-right {
+    width: 14%;
+    padding: 20px 22px;
+  }
+  .item-content-left {
+    width: 70%;
+  }
+}
+@media screen and (min-width: 854px) and (max-width: 879px) {
+  .item-paper {
+    width: 80%;
+  }
+  .item-image {
+    width: 20%;
+  }
+  .item-content-right {
+    width: 100%;
+    padding: 0px 20px;
+  }
+  .item-content-icon {
+    padding-bottom: 7px;
+    float: left;
+    padding-right: 10px;
+  }
+  .item-content-left {
+    width: 70%;
+  }
+  .item-content-left .author {
+    font-size: 0.7em;
+  }
+  .card-content-bottom {
+    width: 100%;
+    text-align: center;
+  }
+  .card-content-bottom button {
+    margin: 10px 0px;
+    float: none;
+    width: 95%;
+  }
+}
+@media screen and (min-width: 700px) and (max-width: 853px) {
+  .item-paper {
+    width: 80%;
+  }
+  .item-image {
+    width: 20%;
+  }
+  .item-content-right {
+    width: 100%;
+    padding: 0px 20px;
+  }
+  .item-content-icon {
+    padding-bottom: 7px;
+    float: left;
+    padding-right: 10px;
+  }
+  .item-content-left {
+    width: 70%;
+  }
+  .item-content-left .author {
+    font-size: 0.7em;
+  }
+  .card-content-bottom {
+    width: 100%;
+    text-align: center;
+  }
+  .card-content-bottom button {
+    margin: 10px 0px;
+    float: none;
+    width: 95%;
+  }
+}
+@media screen and (min-width: 639px) and (max-width: 699px) {
+  .item-paper {
+    width: 80%;
+  }
+  .item-image {
+    display: none;
+  }
+  .item-content-right {
+    width: 100%;
+    padding: 0px 20px;
+  }
+  .item-content-icon {
+    padding-bottom: 7px;
+    float: left;
+    padding-right: 10px;
+  }
+  .item-content-left {
+    width: 100%;
+  }
+  .item-content-left .author {
+    font-size: 0.7em;
+  }
+  .card-content-bottom {
+    width: 100%;
+    text-align: center;
+  }
+  .card-content-bottom button {
+    margin: 10px 0px;
+    float: none;
+    width: 95%;
+  }
+}
+@media screen and (max-width: 638px) {
+  .card {
+    text-align: center;
+  }
+  .item-paper {
+    width: 80%;
+  }
+  .item-image {
+    display: none;
+  }
+  .item-content-right {
+    width: 100%;
+    padding: 0px;
+    font-size: 0.8em;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .item-content-icon {
+    float: none;
+    display: initial;
+    padding-right: 20px;
+  }
+  .item-content-left {
+    width: 100%;
+  }
+  .item-content-left .author {
+    font-size: 0.7em;
+  }
+  .card-content-bottom {
+    width: 100%;
+    text-align: center;
+  }
+  .card-content-subline {
+    float: none;
+  }
+  .card-content-subline-dates {
+    padding-bottom: 5px;
+    padding-left: 0px;
+    display: block;
+  }
+  .card-content-bottom button {
+    margin: 10px 0px;
+    float: none;
+    width: 95%;
+  }
 }

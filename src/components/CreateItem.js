@@ -1,14 +1,26 @@
 import React, { Component } from 'react';
 import axios from 'axios';
+import moment from 'moment';
+import { Link } from 'react-router-dom';
 import Layout from 'material-ui/Layout';
+import { LinearProgress } from 'material-ui/Progress';
 import { Card, CardContent } from 'material-ui/Card';
-import { Avatar } from 'material-ui/Avatar';
-import IconButton from 'material-ui/IconButton';
 import Text from 'material-ui/Text';
+import Button from 'material-ui/Button';
+import * as FontAwesome from 'react-icons/lib/go';
 
 class CreateItem extends Component {
 	state = {
-		avatar: ""
+		loading: true,
+		description: "",
+		size: 0,
+		avatar: "",
+		forks: 0,
+		stars: 0,
+		watchers: 0,
+		created_at: "",
+		updated_at: "",
+		url: ""
 	}
 
 	componentWillMount() {
@@ -17,36 +29,71 @@ class CreateItem extends Component {
 		axios.get(`https://api.github.com/repos/${author}/${repo}`)
 	  .then((response) => {
 	    console.log(response);
-	    this.setState({ avatar: response.data.owner.avatar_url });
+	    this.setState({
+	    	loading: false,
+	    	description: response.data.description,
+	    	size: response.data.size,
+	    	avatar: response.data.owner.avatar_url,
+	    	forks: response.data.forks_count,
+				stars: response.data.stargazers_count,
+				watchers: response.data.subscribers_count,
+				created_at: response.data.created_at,
+				updated_at: response.data.updated_at,
+				url: response.data.html_url
+	    });
 	  })
 	  .catch((error) => {
 	    console.log(error);
 	  });
 	}
 
-	render() {
+	renderRepo() {
+		if (this.state.loading) {
+			return <LinearProgress />;
+		}
 		return (
-			<Layout className="item-item" item xs={12}>
+			<Layout className="item-item" item xs={10} sm={10} md={10}>
 				<Card className="card">
-					<div className="item-image">
-	          <Avatar src={this.state.avatar} alt="Avatar" />
-	        </div>
-	        <div className="item-content">
-	          <CardContent className="content">
-	            <Text type="headline">{this.props.repo.author}/this.props.repo.repo</Text>
-	            <Text type="subheading" secondary>
-	              Mac Miller
-	            </Text>
-	          </CardContent>
-	          <div className="controls">
-	            <IconButton>skip_previous</IconButton>
-	            <IconButton iconClassName="playIcon">play_arrow</IconButton>
-	            <IconButton>skip_next</IconButton>
-	          </div>
-	        </div>
+
+					<div className="card-content-top">
+						<div className="item-image">
+		          <img src={this.state.avatar} alt="Avatar" />
+		        </div>
+
+		        <div className="item-content-left">
+		          <CardContent>
+		            <Text type="headline"><span className="author">{this.props.repo.author} / </span><span className="repo">{this.props.repo.repo}</span></Text>
+		            <Text type="subheading" secondary>{this.state.description}</Text>
+		          </CardContent>
+		        </div>
+
+		        <div className="item-content-right">
+		        	<span className="item-content-icon"><FontAwesome.GoEye /> Watch: {this.state.watchers}</span>
+		        	<span className="item-content-icon"><FontAwesome.GoStar /> Star: {this.state.stars}</span>
+		        	<span className="item-content-icon"><FontAwesome.GoRepoForked /> Fork: {this.state.forks}</span>
+		        </div>
+		       </div>
+
+		       <div className="card-content-bottom">
+		       	<div className="card-content-subline">
+		       		<span className="card-content-subline-dates"><FontAwesome.GoDatabase /> {this.state.size / 100} MB</span>
+		       		<span className="card-content-subline-dates"><FontAwesome.GoClock /> Created: {moment(this.state.created_at).format("MMMM Do YYYY")} </span>
+		       		<span className="card-content-subline-dates"><FontAwesome.GoClock /> Last Update: {moment(this.state.updated_at).fromNow('dd')} ago</span>
+
+		       	</div>
+		       	<Link to={this.state.url} target="_blank">
+		       		<Button raised accent>More details +</Button>
+		       	</Link>
+		       </div>
 
 	      </Card>
 			</Layout>
+		);
+	}
+
+	render() {
+		return (
+			this.renderRepo()
 		);
 	}
 }
