@@ -6,6 +6,7 @@ import injectTapEventPlugin from 'react-tap-event-plugin';
 injectTapEventPlugin();
 
 import Header from './components/Header';
+import Footer from './components/Footer';
 import routes from './routes/routes';
 import './index.css';
 import './components/ListLanguages.css';
@@ -21,6 +22,7 @@ ReactDOM.render((
 	  		{routes.map((route, i) => (
 					<Route key={i} {...route}/>
 				))}
+				<Footer />
 	    </div>
 	  </Router>
 	</MuiThemeProvider>

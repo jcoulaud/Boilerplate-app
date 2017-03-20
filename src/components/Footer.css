@@ -1,0 +1,23 @@
+.Footer-container {
+  background-color: #00BCD4;
+  padding: 10px;
+  color: #fff;
+}
+.Footer-container a {
+  text-decoration: none;
+  color: #fff;
+  padding-left: 5px;
+}
+
+.Footer-Layout {
+  flex-direction: row;
+  justify-content: flex-start;
+  max-width: 1024px;
+  margin: auto !important;
+  padding-left: 80px;
+}
+
+.Footer-Layout-Right {
+  float: right;
+  padding-left: 50px;
+}

@@ -1,23 +1,33 @@
 .App-logo {
-  animation: App-logo-spin infinite 20s linear;
   height: 80px;
+  margin-right: 20px;
 }
 
 .App-header {
   background-color: #00BCD4;
-  height: 180px;
   padding: 20px;
   color: white;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
 
+.App-header-Layout {
+  flex-direction: row;
+  justify-content: flex-start;
+  max-width: 1024px;
+  margin: auto !important;
+  padding-left: 80px;
+}
+
+.App-header h2 {
+  margin-bottom: 0px;
+}
+
+.App-header-container {
+  float: left;
+}
+
 .App-subHeader {
   letter-spacing: 1px;
   text-transform: none;
-}
-
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
 }

@@ -34,6 +34,9 @@
   text-align: left;
   margin-bottom: 20px;
 }
+.card-content-top {
+  display: inline-block;
+}
 .item-image {
   height: 100%;
   float: left;
@@ -67,6 +70,8 @@
 }
 .card-content-bottom {
   border-top: 1px solid #F6F9FC;
+  display: inline-block;
+  width: 100%;
 }
 .card-content-subline {
   float: left;
@@ -78,9 +83,17 @@
 .card-content-subline svg {
   font-size: 1.1em;
 }
-.card-content-bottom button {
+/*.card-content-bottom button {
+  margin: 10px 0px;
   margin: 10px 20px;
   float: right;
+}*/
+.card-content-button {
+  float: right;
+  margin: 10px 20px;
+}
+.card-content-button a {
+  text-decoration: none;
 }
 .card-content-subline-dates {
   padding-right: 20px;
@@ -97,26 +110,11 @@
     width: 70%;
   }
   .item-content-right {
-    width: 16%;
+    width: 15%;
     padding: 20px;
   }
 }
 @media screen and (min-width: 1057px) and (max-width: 1200px) {
-  .item-paper {
-    width: 80%;
-  }
-  .item-image {
-    width: 10%;
-  }
-  .item-content-right {
-    width: 15%;
-    padding: 20px 22px;
-  }
-  .item-content-left {
-    width: 70%;
-  }
-}
-@media screen and (min-width: 880px) and (max-width: 1056px) {
   .item-paper {
     width: 80%;
   }
@@ -131,7 +129,22 @@
     width: 70%;
   }
 }
-@media screen and (min-width: 854px) and (max-width: 879px) {
+@media screen and (min-width: 895px) and (max-width: 1056px) {
+  .item-paper {
+    width: 80%;
+  }
+  .item-image {
+    width: 10%;
+  }
+  .item-content-right {
+    width: 14%;
+    padding: 20px 22px;
+  }
+  .item-content-left {
+    width: 70%;
+  }
+}
+@media screen and (min-width: 854px) and (max-width: 894px) {
   .item-paper {
     width: 80%;
   }
@@ -157,9 +170,14 @@
     width: 100%;
     text-align: center;
   }
-  .card-content-bottom button {
+  .card-content-subline {
+    padding: 10px 20px 2px 20px;
+  }
+  .card-content-button {
+    width: 100%;
     margin: 10px 0px;
-    float: none;
+  }
+  .card-content-button button{
     width: 95%;
   }
 }
@@ -189,13 +207,18 @@
     width: 100%;
     text-align: center;
   }
-  .card-content-bottom button {
+  .card-content-subline {
+    padding: 10px 20px 2px 20px;
+  }
+  .card-content-button {
+    width: 100%;
     margin: 10px 0px;
-    float: none;
+  }
+  .card-content-button button{
     width: 95%;
   }
 }
-@media screen and (min-width: 639px) and (max-width: 699px) {
+@media screen and (min-width: 661px) and (max-width: 699px) {
   .item-paper {
     width: 80%;
   }
@@ -221,13 +244,18 @@
     width: 100%;
     text-align: center;
   }
-  .card-content-bottom button {
+  .card-content-subline {
+    padding: 10px 20px 2px 20px;
+  }
+  .card-content-button {
+    width: 100%;
     margin: 10px 0px;
-    float: none;
+  }
+  .card-content-button button{
     width: 95%;
   }
 }
-@media screen and (max-width: 638px) {
+@media screen and (max-width: 660px) {
   .card {
     text-align: center;
   }
@@ -242,7 +270,7 @@
     padding: 0px;
     font-size: 0.8em;
     text-align: center;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
   }
   .item-content-icon {
     float: none;
@@ -261,15 +289,18 @@
   }
   .card-content-subline {
     float: none;
+    padding: 10px 20px 2px 20px;
   }
   .card-content-subline-dates {
     padding-bottom: 5px;
     padding-left: 0px;
     display: block;
   }
-  .card-content-bottom button {
+  .card-content-button {
+    width: 100%;
     margin: 10px 0px;
-    float: none;
+  }
+  .card-content-button button{
     width: 95%;
   }
 }

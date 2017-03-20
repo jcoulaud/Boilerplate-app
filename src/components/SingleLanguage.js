@@ -2,13 +2,26 @@ import React, { Component } from 'react';
 
 import Repositories from './languages/languages.json';
 import CreateItem from './CreateItem';
+import { LinearProgress } from 'material-ui/Progress';
 
 class SingleLanguage extends Component {
-	constructor() {
-		super();
-		this.state = {
-			exist: false
+
+	state = { isLoading: true };
+	handlerLoading = this.handlerLoading.bind(this);
+
+	handlerLoading() {
+		this.setState({ isLoading: false });
+	}
+
+	renderLoader() {
+		if (this.state.isLoading) {
+			return (
+			  <div className="loader">
+				  <LinearProgress />
+				</div>
+			);
 		}
+		return null;
 	}
 
 	renderLanguage() {
@@ -18,7 +31,7 @@ class SingleLanguage extends Component {
 		if (repos[0]) {
 			return repos[0].repositories.map((repo) => {
 				return (
-					<CreateItem key={repo.repo} repo={repo} />
+					<CreateItem key={repo.repo} action={this.handlerLoading} repo={repo} />
 				);
 			})
 		}
@@ -27,7 +40,10 @@ class SingleLanguage extends Component {
 
 	render() {
 		return (
-			<div className="item-root">{this.renderLanguage()}</div>
+				<div className="item-root">
+					{this.renderLoader()}
+					{this.renderLanguage()}
+				</div>
 		);
 	}
 }

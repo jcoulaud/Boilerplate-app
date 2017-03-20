@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import axios from 'axios';
 import moment from 'moment';
+
 import { Link } from 'react-router-dom';
 import Layout from 'material-ui/Layout';
-import { LinearProgress } from 'material-ui/Progress';
 import { Card, CardContent } from 'material-ui/Card';
 import Text from 'material-ui/Text';
 import Button from 'material-ui/Button';
@@ -11,7 +11,6 @@ import * as FontAwesome from 'react-icons/lib/go';
 
 class CreateItem extends Component {
 	state = {
-		loading: true,
 		description: "",
 		size: 0,
 		avatar: "",
@@ -28,9 +27,8 @@ class CreateItem extends Component {
 		const author = this.props.repo.author;
 		axios.get(`https://api.github.com/repos/${author}/${repo}`)
 	  .then((response) => {
-	    console.log(response);
+	  	this.props.action();
 	    this.setState({
-	    	loading: false,
 	    	description: response.data.description,
 	    	size: response.data.size,
 	    	avatar: response.data.owner.avatar_url,
@@ -48,9 +46,6 @@ class CreateItem extends Component {
 	}
 
 	renderRepo() {
-		if (this.state.loading) {
-			return <LinearProgress />;
-		}
 		return (
 			<Layout className="item-item" item xs={10} sm={10} md={10}>
 				<Card className="card">
@@ -79,11 +74,12 @@ class CreateItem extends Component {
 		       		<span className="card-content-subline-dates"><FontAwesome.GoDatabase /> {this.state.size / 100} MB</span>
 		       		<span className="card-content-subline-dates"><FontAwesome.GoClock /> Created: {moment(this.state.created_at).format("MMMM Do YYYY")} </span>
 		       		<span className="card-content-subline-dates"><FontAwesome.GoClock /> Last Update: {moment(this.state.updated_at).fromNow('dd')} ago</span>
-
 		       	</div>
-		       	<Link to={this.state.url} target="_blank">
-		       		<Button raised accent>More details +</Button>
-		       	</Link>
+		       	<div className="card-content-button">
+			       	<Link to={this.state.url} target="_blank">
+			       		<Button raised accent>More details +</Button>
+			       	</Link>
+			       </div>
 		       </div>
 
 	      </Card>
