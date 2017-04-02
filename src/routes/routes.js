@@ -1,4 +1,4 @@
-import ListLanguages from './../components/ListLanguages';
+import ListLanguages from './../components/ListCategories';
 import SingleLanguage from './../components/SingleLanguage.js';
 
 const routes = [

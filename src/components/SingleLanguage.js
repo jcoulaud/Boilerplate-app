@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
-import Repositories from './languages/languages.json';
+import Languages from './languages/languages';
+import Repository from './../utils/Repository';
 import CreateItem from './CreateItem';
 import { LinearProgress } from 'material-ui/Progress';
 
@@ -26,10 +27,13 @@ class SingleLanguage extends Component {
 
 	renderLanguage() {
 		const currentLanguage = this.props.match.params.language;
-		const repos = Repositories.filter((repo) => repo.type === currentLanguage);
+		const repos = Languages.filter((repo) => repo.lang === currentLanguage);
 
 		if (repos[0]) {
-			return repos[0].repositories.map((repo) => {
+			const reposUrls = repos[0].repositories;
+			const reposSeeds = reposUrls.map(url => new Repository(url));
+			console.log(reposSeeds);
+			return reposSeeds.map((repo) => {
 				return (
 					<CreateItem key={repo.repo} action={this.handlerLoading} repo={repo} />
 				);

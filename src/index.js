@@ -9,7 +9,7 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import routes from './routes/routes';
 import './index.css';
-import './components/ListLanguages.css';
+import './components/ListCategories.css';
 import './components/CreateItem.css';
 import './assets/fonts/index.css';
 import 'devicon';
