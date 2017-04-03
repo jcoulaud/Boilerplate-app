@@ -32,10 +32,14 @@ class SingleLanguage extends Component {
 		if (repos[0]) {
 			const reposUrls = repos[0].repositories;
 			const reposSeeds = reposUrls.map(url => new Repository(url));
-			console.log(reposSeeds);
+			// console.log(reposSeeds);
 			return reposSeeds.map((repo) => {
+				// console.log("repo start");
+				// console.log(repo);
+				// console.log("repo end");
+
 				return (
-					<CreateItem key={repo.repo} action={this.handlerLoading} repo={repo} />
+					<CreateItem key={repo.state.githubName} action={this.handlerLoading} repo={repo.state} />
 				);
 			})
 		}

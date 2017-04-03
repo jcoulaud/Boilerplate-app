@@ -23,8 +23,8 @@ class CreateItem extends Component {
 	}
 
 	componentWillMount() {
-		const repo = this.props.repo.repo;
-		const author = this.props.repo.author;
+		const repo = this.props.repo.githubName;
+		const author = this.props.repo.githubOwner;
 		axios.get(`https://api.github.com/repos/${author}/${repo}`)
 	  .then((response) => {
 	  	this.props.action();
