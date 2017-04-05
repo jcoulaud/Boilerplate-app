@@ -11,6 +11,10 @@
   letter-spacing: 1px;
 }
 
+.App-header a {
+  text-decoration: none !important;
+}
+
 .App-header-Layout {
   flex-direction: row;
   justify-content: flex-start;
@@ -30,4 +34,5 @@
 .App-subHeader {
   letter-spacing: 1px;
   text-transform: none;
+  color: #fff;
 }

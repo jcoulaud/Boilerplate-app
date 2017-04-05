@@ -29,7 +29,7 @@ class Filters extends Component {
 	render() {
 		return (
 			<div>
-				<Layout className="item-item" item xs={2} sm={2} md={2}>
+				<Layout className="item-item" item xs={4} sm={3} md={2}>
 					<List>
 		          <ListItem
 		            button
