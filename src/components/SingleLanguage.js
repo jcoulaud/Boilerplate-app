@@ -7,7 +7,10 @@ import { LinearProgress } from 'material-ui/Progress';
 
 class SingleLanguage extends Component {
 
-	state = { isLoading: true };
+	state = {
+		isLoading: true,
+		repos: []
+	};
 	handlerLoading = this.handlerLoading.bind(this);
 
 	handlerLoading() {
@@ -25,25 +28,41 @@ class SingleLanguage extends Component {
 		return null;
 	}
 
+	displayLanguage() {
+		const repos = this.state.repos;
+		// Sort by stars
+		repos.sort((a, b) => {
+			return a.githubStars > b.githubStars ? -1 : 1;
+		});
+		return repos.map((repo) => {
+			return (
+				<CreateItem key={repo.githubName} repo={repo} />
+			);
+		});
+	}
+
 	renderLanguage() {
 		const currentLanguage = this.props.match.params.language;
 		const repos = Languages.filter((repo) => repo.lang === currentLanguage);
 
 		if (repos[0]) {
-			const reposUrls = repos[0].repositories;
-			const reposSeeds = reposUrls.map(url => new Repository(url));
-			// console.log(reposSeeds);
-			return reposSeeds.map((repo) => {
-				// console.log("repo start");
-				// console.log(repo);
-				// console.log("repo end");
-
-				return (
-					<CreateItem key={repo.state.githubName} action={this.handlerLoading} repo={repo.state} />
-				);
-			})
+			if (this.state.isLoading) {
+				const reposUrls = repos[0].repositories;
+				const reposSeeds = reposUrls.map((url) => {
+					return new Repository(url).then(data => data);
+				});
+				Promise.all(reposSeeds).then(values => {
+					this.setState({
+						isLoading: false,
+						repos: values
+					});
+				});
+			} else {
+				return this.displayLanguage();
+			}
+		} else {
+			return <span>Could not fetch {currentLanguage} language. Please verify the URL.</span>;
 		}
-		return <span>Could not fetch language. Please verify the URL.</span>;
 	}
 
 	render() {

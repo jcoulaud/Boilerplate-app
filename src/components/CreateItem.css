@@ -3,8 +3,7 @@
   flex-direction: row;
   justify-content: space-around;
   /*max-width: 1024px;*/
-  margin: auto !important;
-  margin-top: 50px !important;
+  margin: 50px auto !important;
 }
 .item-item {
   text-align: center;
