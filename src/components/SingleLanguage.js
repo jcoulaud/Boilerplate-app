@@ -3,18 +3,24 @@ import React, { Component } from 'react';
 import Languages from './languages/languages';
 import Repository from './../utils/Repository';
 import CreateItem from './CreateItem';
+import Filters from './Filters';
 import { LinearProgress } from 'material-ui/Progress';
 
 class SingleLanguage extends Component {
-
 	state = {
 		isLoading: true,
-		repos: []
+		repos: [],
+		filter: 0 // stars
 	};
 	handlerLoading = this.handlerLoading.bind(this);
+	handlerFilter = this.handlerFilter.bind(this);
 
 	handlerLoading() {
 		this.setState({ isLoading: false });
+	}
+
+	handlerFilter(filter) {
+		this.setState({ filter: filter });
 	}
 
 	renderLoader() {
@@ -28,12 +34,46 @@ class SingleLanguage extends Component {
 		return null;
 	}
 
+	displayFilters() {
+		if (!this.state.isLoading) {
+			return <Filters handler={this.handlerFilter} />
+		} else {
+			return null;
+		}
+	}
+
 	displayLanguage() {
 		const repos = this.state.repos;
-		// Sort by stars
-		repos.sort((a, b) => {
-			return a.githubStars > b.githubStars ? -1 : 1;
-		});
+		// Apply filters
+		switch (this.state.filter) {
+			// Filter by stars
+			case 0:
+				repos.sort((a, b) => {
+					return a.githubStars > b.githubStars ? -1 : 1;
+				});
+				break;
+			// Filter by Date of creation
+			case 1:
+				repos.sort((a, b) => {
+					return a.githubCreated_at > b.githubCreated_at ? -1 : 1;
+				});
+				break;
+			// Filter by Last update
+			case 2:
+				repos.sort((a, b) => {
+					return a.githubUpdated_at > b.githubUpdated_at ? -1 : 1;
+				});
+				break;
+			// Filter by Last update
+			case 3:
+				repos.sort((a, b) => {
+					return a.githubSize < b.githubSize ? -1 : 1;
+				});
+				break;
+			// If filter is unknown, throw error
+			default:
+				throw new Error('Filter is not valid!');
+		};
 		return repos.map((repo) => {
 			return (
 				<CreateItem key={repo.githubName} repo={repo} />
@@ -69,6 +109,7 @@ class SingleLanguage extends Component {
 		return (
 				<div className="item-root">
 					{this.renderLoader()}
+					{this.displayFilters()}
 					{this.renderLanguage()}
 				</div>
 		);

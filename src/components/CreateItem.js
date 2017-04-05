@@ -36,7 +36,7 @@ class CreateItem extends Component {
 
 		       <div className="card-content-bottom">
 		       	<div className="card-content-subline">
-		       		<span className="card-content-subline-dates"><FontAwesome.GoDatabase /> {repo.githubSize / 100} MB</span>
+		       		<span className="card-content-subline-dates"><FontAwesome.GoDatabase /> {Math.round(repo.githubSize / 100) / 10} MB</span>
 		       		<span className="card-content-subline-dates"><FontAwesome.GoClock /> Created: {moment(repo.githubCreated_at).format("MMMM Do YYYY")} </span>
 		       		<span className="card-content-subline-dates"><FontAwesome.GoClock /> Last Update: {moment(repo.githubUpdated_at).fromNow('dd')} ago</span>
 		       	</div>
