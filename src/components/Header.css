@@ -20,7 +20,6 @@
   justify-content: flex-start;
   max-width: 1024px;
   margin: auto !important;
-  padding-left: 80px;
 }
 
 .App-header h2 {
@@ -35,4 +34,11 @@
   letter-spacing: 1px;
   text-transform: none;
   color: #fff;
+  width: 70%;
+}
+
+@media screen and (max-width: 894px) {
+  .App-subHeader {
+    font-size: 0.9em;
+  }
 }

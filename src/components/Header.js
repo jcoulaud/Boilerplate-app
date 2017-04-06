@@ -9,7 +9,8 @@ const Header = () => {
     return (
       <div className="App-header">
         <Link to="/">
-          <Layout container className="App-header-Layout">
+
+          <Layout container className="App-header-Layout" item xs={10} sm={10} md={10}>
             <div className="App-header-container">
               <img src={logo} className="App-logo" alt="logo" />
             </div>
