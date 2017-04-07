@@ -51,8 +51,7 @@ class SingleLanguage extends Component {
 		});
 	}
 
-	renderLanguage(repos) {
-		const currentLanguage = this.props.match.params.language;
+	renderLanguage(repos, currentLanguage) {
 		if (repos) {
 			return this.displayLanguage(repos);
 		} else {
@@ -63,11 +62,11 @@ class SingleLanguage extends Component {
 	render() {
 		const currentLanguage = this.props.match.params.language;
 		try {
-    	const repos = require(`./../languages/${currentLanguage}.json`);
+    	const repos = require(`${__dirname}/../languages/${currentLanguage}.json`);
     	return (
 					<div className="item-root">
 						<Filters handler={this.handlerFilter} />
-						{this.renderLanguage(repos)}
+						{this.renderLanguage(repos, currentLanguage)}
 					</div>
 			);
 		} catch(e) {
