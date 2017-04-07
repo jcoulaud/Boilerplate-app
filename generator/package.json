@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "async": "^2.3.0",
+    "bluebird": "^3.5.0",
+    "dotenv": "^4.0.0",
+    "github": "^9.2.0",
+    "jsonfile": "^2.4.0",
+    "path": "^0.12.7"
+  }
+}

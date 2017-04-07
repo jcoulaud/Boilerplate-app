@@ -3,7 +3,7 @@ import Paper from 'material-ui/Paper';
 import Layout from 'material-ui/Layout';
 import { Link } from 'react-router-dom';
 
-import Languages from './languages/languages';
+import Languages from './../languages/languages';
 
 class ListCategories extends Component {
 	render() {

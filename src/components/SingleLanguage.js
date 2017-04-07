@@ -1,49 +1,19 @@
 import React, { Component } from 'react';
 
-import Languages from './languages/languages';
-import Repository from './../utils/Repository';
 import CreateItem from './CreateItem';
 import Filters from './Filters';
-import { LinearProgress } from 'material-ui/Progress';
 
 class SingleLanguage extends Component {
 	state = {
-		isLoading: true,
-		repos: [],
 		filter: 0 // stars
 	};
-	handlerLoading = this.handlerLoading.bind(this);
 	handlerFilter = this.handlerFilter.bind(this);
-
-	handlerLoading() {
-		this.setState({ isLoading: false });
-	}
 
 	handlerFilter(filter) {
 		this.setState({ filter: filter });
 	}
 
-	renderLoader() {
-		if (this.state.isLoading) {
-			return (
-			  <div className="loader">
-				  <LinearProgress />
-				</div>
-			);
-		}
-		return null;
-	}
-
-	displayFilters() {
-		if (!this.state.isLoading) {
-			return <Filters handler={this.handlerFilter} />
-		} else {
-			return null;
-		}
-	}
-
-	displayLanguage() {
-		const repos = this.state.repos;
+	displayLanguage(repos) {
 		// Apply filters
 		switch (this.state.filter) {
 			// Filter by stars
@@ -74,32 +44,18 @@ class SingleLanguage extends Component {
 			default:
 				throw new Error('Filter is not valid!');
 		};
-		return repos.map((repo) => {
+		return repos.map((repo, index) => {
 			return (
-				<CreateItem key={repo.githubName} repo={repo} />
+				<CreateItem key={index + repo.githubName} repo={repo} />
 			);
 		});
 	}
 
 	renderLanguage() {
 		const currentLanguage = this.props.match.params.language;
-		const repos = Languages.filter((repo) => repo.lang === currentLanguage);
-
-		if (repos[0]) {
-			if (this.state.isLoading) {
-				const reposUrls = repos[0].repositories;
-				const reposSeeds = reposUrls.map((url) => {
-					return new Repository(url).then(data => data);
-				});
-				Promise.all(reposSeeds).then(values => {
-					this.setState({
-						isLoading: false,
-						repos: values
-					});
-				});
-			} else {
-				return this.displayLanguage();
-			}
+		const repos = require(`./../languages/${currentLanguage}.json`);
+		if (repos) {
+			return this.displayLanguage(repos);
 		} else {
 			return <span>Could not fetch {currentLanguage} language. Please verify the URL.</span>;
 		}
@@ -108,8 +64,7 @@ class SingleLanguage extends Component {
 	render() {
 		return (
 				<div className="item-root">
-					{this.renderLoader()}
-					{this.displayFilters()}
+					<Filters handler={this.handlerFilter} />
 					{this.renderLanguage()}
 				</div>
 		);
