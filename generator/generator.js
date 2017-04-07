@@ -77,7 +77,7 @@ function growRepos(repoList, callback) {
 Languages.map((language) => {
 	return growRepos(language.repositories, (error, trees) => {
 		// Append response to file
-		const jsonOutputPath = path.join(__dirname, '..', 'src', 'languages', `${language.lang}.json`);
+		const jsonOutputPath = path.join(__dirname, '..', 'src', 'languages', `${language.lang.toLowerCase()}.json`);
 		jsonfile.writeFileSync(jsonOutputPath, trees, {spaces: 2})
 	})
 });

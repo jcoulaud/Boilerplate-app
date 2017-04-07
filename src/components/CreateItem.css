@@ -1,3 +1,8 @@
+.error-404 {
+    text-align: center;
+    margin: 50px auto;
+    color: red;
+}
 .item-root {
   flex-grow: 1;
   flex-direction: row;

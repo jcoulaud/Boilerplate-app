@@ -5,7 +5,7 @@ import Filters from './Filters';
 
 class SingleLanguage extends Component {
 	state = {
-		filter: 0 // stars
+		filter: 0 // stars by default
 	};
 	handlerFilter = this.handlerFilter.bind(this);
 
@@ -51,9 +51,8 @@ class SingleLanguage extends Component {
 		});
 	}
 
-	renderLanguage() {
+	renderLanguage(repos) {
 		const currentLanguage = this.props.match.params.language;
-		const repos = require(`./../languages/${currentLanguage}.json`);
 		if (repos) {
 			return this.displayLanguage(repos);
 		} else {
@@ -62,12 +61,18 @@ class SingleLanguage extends Component {
 	}
 
 	render() {
-		return (
-				<div className="item-root">
-					<Filters handler={this.handlerFilter} />
-					{this.renderLanguage()}
-				</div>
-		);
+		const currentLanguage = this.props.match.params.language;
+		try {
+    	const repos = require(`./../languages/${currentLanguage}.json`);
+    	return (
+					<div className="item-root">
+						<Filters handler={this.handlerFilter} />
+						{this.renderLanguage(repos)}
+					</div>
+			);
+		} catch(e) {
+		    return <div className="error-404">Could not fetch {currentLanguage} language. Please verify the URL.</div>;
+		}
 	}
 }
 

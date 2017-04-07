@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
-import { BrowserRouter as Router, Route, hashHistory } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Redirect, Switch, hashHistory } from 'react-router-dom';
 import injectTapEventPlugin from 'react-tap-event-plugin';
 injectTapEventPlugin();
 
@@ -19,9 +19,12 @@ ReactDOM.render((
 	  <Router history={hashHistory}>
 	  	<div>
 	  		<Header />
-	  		{routes.map((route, i) => (
-					<Route key={i} {...route}/>
-				))}
+	  		<Switch>
+		  		{routes.map((route, i) => (
+						<Route key={i} {...route}/>
+					))}
+					<Redirect to="/" />
+				</Switch>
 				<Footer />
 	    </div>
 	  </Router>
