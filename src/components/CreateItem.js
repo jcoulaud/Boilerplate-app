@@ -22,7 +22,7 @@ class CreateItem extends Component {
 
 		        <div className="item-content-left">
 		          <CardContent>
-		            <Text type="headline"><span className="author">{repo.githubOwner} / </span><span className="repo">{repo.githubName}</span></Text>
+		            <Text type="headline"><span className="author">{repo.githubOwner}</span><span className="separator"> / </span><span className="repo">{repo.githubName}</span></Text>
 		            <Text type="subheading" secondary>{repo.githubDescription}</Text>
 		          </CardContent>
 		        </div>

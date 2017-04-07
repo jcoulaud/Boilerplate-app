@@ -40,5 +40,9 @@
 @media screen and (max-width: 894px) {
   .App-subHeader {
     font-size: 0.9em;
+    width: 60%;
+  }
+  .App-header-container {
+    margin-top: 12px;
   }
 }
