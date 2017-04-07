@@ -67,7 +67,6 @@ const languages = [
 			'https://github.com/openaphid/Boilerplate-iOS',
 			'https://github.com/nabilfreeman/ios-universal-webview-boilerplate',
 			'https://github.com/JohnSundell/SwiftPlate',
-			'https://github.com/crushlovely/Amaro',
 			'https://github.com/thoughtbot/liftoff'
 		]
 	},
