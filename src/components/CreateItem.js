@@ -12,7 +12,7 @@ class CreateItem extends Component {
 	renderRepo() {
 		const repo = this.props.repo;
 		return (
-			<Layout className="item-item" item xs={10} sm={10} md={10}>
+			<Layout className="item-item" item xs={10} sm={10} md={12}>
 				<Card className="card">
 
 					<div className="card-content-top">

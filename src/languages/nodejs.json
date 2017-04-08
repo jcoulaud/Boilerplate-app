@@ -19,7 +19,7 @@
     "githubDescription": "Boilerplate to kickstart creating a node module",
     "githubSize": 18,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/170270?v=3",
-    "githubForks": 25,
+    "githubForks": 26,
     "githubStars": 346,
     "githubWatchers": 10,
     "githubCreated_at": "2015-03-14T05:47:45Z",
@@ -45,11 +45,11 @@
     "githubDescription": "A boilerplate for Node.js web applications",
     "githubSize": 9160,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/544954?v=3",
-    "githubForks": 3289,
-    "githubStars": 19350,
+    "githubForks": 3293,
+    "githubStars": 19354,
     "githubWatchers": 707,
     "githubCreated_at": "2013-11-13T17:24:12Z",
-    "githubUpdated_at": "2017-04-07T14:26:28Z"
+    "githubUpdated_at": "2017-04-08T09:17:21Z"
   },
   {
     "githubUrl": "https://github.com/skaapgif/webapp-boilerplate",
@@ -85,10 +85,10 @@
     "githubSize": 283,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/773036?v=3",
     "githubForks": 52,
-    "githubStars": 340,
+    "githubStars": 341,
     "githubWatchers": 16,
     "githubCreated_at": "2016-09-30T13:14:17Z",
-    "githubUpdated_at": "2017-04-06T22:19:27Z"
+    "githubUpdated_at": "2017-04-08T06:31:49Z"
   },
   {
     "githubUrl": "https://github.com/neogeek/nodejs-starter-kit",
@@ -123,7 +123,7 @@
     "githubDescription": ":star: Full stack JS web app boilerplate with NodeJS, Express, Mongo and VueJS",
     "githubSize": 11809,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/306521?v=3",
-    "githubForks": 58,
+    "githubForks": 59,
     "githubStars": 199,
     "githubWatchers": 22,
     "githubCreated_at": "2016-06-18T12:09:40Z",
@@ -147,13 +147,13 @@
     "githubOwner": "alexa",
     "githubName": "alexa-skills-kit-sdk-for-nodejs",
     "githubDescription": "The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code.",
-    "githubSize": 81,
+    "githubSize": 86,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/17815977?v=3",
-    "githubForks": 170,
-    "githubStars": 765,
+    "githubForks": 171,
+    "githubStars": 769,
     "githubWatchers": 89,
     "githubCreated_at": "2016-06-24T06:26:05Z",
-    "githubUpdated_at": "2017-04-07T14:25:57Z"
+    "githubUpdated_at": "2017-04-08T07:00:56Z"
   },
   {
     "githubUrl": "https://github.com/diegohaz/rest",

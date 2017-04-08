@@ -18,8 +18,9 @@
 .App-header-Layout {
   flex-direction: row;
   justify-content: flex-start;
-  max-width: 1024px;
+  max-width: 1024px !important;
   margin: auto !important;
+  padding-left: 30px;
 }
 
 .App-header h2 {

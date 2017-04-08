@@ -12,6 +12,8 @@
 }
 .Footer-Layout {
   margin: auto !important;
+  max-width: 1024px !important;
+  padding-left: 30px;
 }
 .Footer-follow {
   padding: 2px;
@@ -21,6 +23,9 @@
   margin-left: 10px;
 }
 @media screen and (max-width: 589px) {
+  .Footer-Layout {
+    padding-left: 0px;
+  }
   .Footer-follow {
     padding: 2px;
     margin-left: 0px;

@@ -7,7 +7,7 @@
   flex-grow: 1;
   flex-direction: row;
   justify-content: space-around;
-  /*max-width: 1024px;*/
+  max-width: 1024px;
   margin: 5px auto 50px !important;
 }
 .item-item {

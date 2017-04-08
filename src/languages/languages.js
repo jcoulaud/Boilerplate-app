@@ -134,7 +134,11 @@ const languages = [
 		"lang": "Csharp",
 		"icon": "devicon-csharp-plain",
 		"repositories": [
-			'https://github.com/kasperisager/csharp-boilerplate'
+			'https://github.com/kasperisager/csharp-boilerplate',
+			'https://github.com/aspnetboilerplate/aspnetboilerplate',
+			'https://github.com/ASP-NET-MVC-Boilerplate/Templates',
+			'https://github.com/aspnetboilerplate/module-zero',
+			'https://github.com/kriasoft/aspnet-starter-kit'
 		]
 	},
 	{

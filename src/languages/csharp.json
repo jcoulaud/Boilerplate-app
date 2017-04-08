@@ -11,5 +11,57 @@
     "githubWatchers": 1,
     "githubCreated_at": "2015-06-29T11:16:02Z",
     "githubUpdated_at": "2016-10-08T21:42:57Z"
+  },
+  {
+    "githubUrl": "https://github.com/aspnetboilerplate/aspnetboilerplate",
+    "githubOwner": "aspnetboilerplate",
+    "githubName": "aspnetboilerplate",
+    "githubDescription": "ASP.NET Boilerplate - Application Framework",
+    "githubSize": 22779,
+    "githubAvatar": "https://avatars3.githubusercontent.com/u/5957277?v=3",
+    "githubForks": 1335,
+    "githubStars": 2512,
+    "githubWatchers": 504,
+    "githubCreated_at": "2013-08-18T20:45:08Z",
+    "githubUpdated_at": "2017-04-08T10:16:44Z"
+  },
+  {
+    "githubUrl": "https://github.com/ASP-NET-MVC-Boilerplate/Templates",
+    "githubOwner": "ASP-NET-MVC-Boilerplate",
+    "githubName": "Templates",
+    "githubDescription": "Professional ASP.NET MVC templates for building secure, fast, robust and adaptable web applications or sites. It provides the minimum amount of code required on top of the default MVC template provided by Microsoft.",
+    "githubSize": 41411,
+    "githubAvatar": "https://avatars2.githubusercontent.com/u/22211766?v=3",
+    "githubForks": 203,
+    "githubStars": 780,
+    "githubWatchers": 123,
+    "githubCreated_at": "2014-10-27T08:57:45Z",
+    "githubUpdated_at": "2017-04-08T01:55:57Z"
+  },
+  {
+    "githubUrl": "https://github.com/aspnetboilerplate/module-zero",
+    "githubOwner": "aspnetboilerplate",
+    "githubName": "module-zero",
+    "githubDescription": "ASP.NET Boilerplate - Module Zero",
+    "githubSize": 19194,
+    "githubAvatar": "https://avatars3.githubusercontent.com/u/5957277?v=3",
+    "githubForks": 373,
+    "githubStars": 426,
+    "githubWatchers": 129,
+    "githubCreated_at": "2014-08-22T17:57:19Z",
+    "githubUpdated_at": "2017-04-07T00:51:41Z"
+  },
+  {
+    "githubUrl": "https://github.com/kriasoft/aspnet-starter-kit",
+    "githubOwner": "kriasoft",
+    "githubName": "aspnet-starter-kit",
+    "githubDescription": "Cross-platform web development with Visual Studio Code, C#, F#, JavaScript, ASP.NET Core, EF Core, React (ReactJS), Redux, Babel. Single-page application boilerplate.",
+    "githubSize": 1398,
+    "githubAvatar": "https://avatars1.githubusercontent.com/u/773036?v=3",
+    "githubForks": 128,
+    "githubStars": 634,
+    "githubWatchers": 75,
+    "githubCreated_at": "2014-08-21T09:51:46Z",
+    "githubUpdated_at": "2017-04-07T17:59:11Z"
   }
 ]

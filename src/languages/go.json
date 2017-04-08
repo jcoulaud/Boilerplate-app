@@ -33,10 +33,10 @@
     "githubSize": 4080,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/233907?v=3",
     "githubForks": 2421,
-    "githubStars": 10371,
+    "githubStars": 10380,
     "githubWatchers": 843,
     "githubCreated_at": "2012-02-29T02:32:08Z",
-    "githubUpdated_at": "2017-04-07T16:02:56Z"
+    "githubUpdated_at": "2017-04-08T09:01:05Z"
   },
   {
     "githubUrl": "https://github.com/go-zoo/bone",
@@ -45,7 +45,7 @@
     "githubDescription": "Lightning Fast HTTP Multiplexer",
     "githubSize": 2504,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/10365993?v=3",
-    "githubForks": 66,
+    "githubForks": 65,
     "githubStars": 1010,
     "githubWatchers": 36,
     "githubCreated_at": "2014-11-19T02:16:36Z",
@@ -72,10 +72,10 @@
     "githubSize": 3258,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/18835?v=3",
     "githubForks": 101,
-    "githubStars": 1655,
+    "githubStars": 1656,
     "githubWatchers": 85,
     "githubCreated_at": "2015-10-15T20:46:29Z",
-    "githubUpdated_at": "2017-04-07T17:03:20Z"
+    "githubUpdated_at": "2017-04-08T10:53:44Z"
   },
   {
     "githubUrl": "https://github.com/labstack/echo",
@@ -84,11 +84,11 @@
     "githubDescription": "High performance, minimalist Go web framework",
     "githubSize": 4866,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/2624634?v=3",
-    "githubForks": 594,
-    "githubStars": 6934,
+    "githubForks": 592,
+    "githubStars": 6940,
     "githubWatchers": 359,
     "githubCreated_at": "2015-03-01T17:43:01Z",
-    "githubUpdated_at": "2017-04-07T16:32:30Z"
+    "githubUpdated_at": "2017-04-08T07:37:46Z"
   },
   {
     "githubUrl": "https://github.com/buaazp/fasthttprouter",
@@ -98,10 +98,10 @@
     "githubSize": 173,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1470377?v=3",
     "githubForks": 38,
-    "githubStars": 271,
-    "githubWatchers": 20,
+    "githubStars": 272,
+    "githubWatchers": 21,
     "githubCreated_at": "2015-12-13T09:32:30Z",
-    "githubUpdated_at": "2017-04-07T11:21:04Z"
+    "githubUpdated_at": "2017-04-08T10:47:27Z"
   },
   {
     "githubUrl": "https://github.com/jabong/florest-core",
@@ -150,10 +150,10 @@
     "githubSize": 5283,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/10981023?v=3",
     "githubForks": 593,
-    "githubStars": 6294,
+    "githubStars": 6300,
     "githubWatchers": 383,
     "githubCreated_at": "2015-02-03T00:01:19Z",
-    "githubUpdated_at": "2017-04-07T15:00:39Z"
+    "githubUpdated_at": "2017-04-08T05:38:05Z"
   },
   {
     "githubUrl": "https://github.com/codehack/go-relax",
@@ -202,9 +202,9 @@
     "githubSize": 300,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/81045?v=3",
     "githubForks": 75,
-    "githubStars": 543,
+    "githubStars": 544,
     "githubWatchers": 66,
     "githubCreated_at": "2014-12-17T03:07:09Z",
-    "githubUpdated_at": "2017-04-06T12:51:53Z"
+    "githubUpdated_at": "2017-04-08T10:37:54Z"
   }
 ]
