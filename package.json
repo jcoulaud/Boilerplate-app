@@ -4,7 +4,6 @@
   "private": true,
   "dependencies": {
     "async": "^2.3.0",
-    "axios": "^0.15.3",
     "devicon": "^2.0.0",
     "fs-extra": "^2.1.2",
     "github": "^9.2.0",
@@ -14,6 +13,7 @@
     "path": "^0.12.7",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
+    "react-ga": "^2.1.2",
     "react-icons": "^2.2.3",
     "react-router-dom": "^4.0.0",
     "react-tap-event-plugin": "^2.0.1"
