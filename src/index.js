@@ -6,6 +6,7 @@ import { BrowserRouter as Router, Route, Redirect, Switch, browserHistory } from
 import injectTapEventPlugin from 'react-tap-event-plugin';
 injectTapEventPlugin();
 
+import ContactMe from './components/ContactMe';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import routes from './routes/routes';
@@ -29,6 +30,7 @@ ReactDOM.render((
 	  	<div>
 	  		<Route component={fireTracking} />
 	  		<Header />
+	  		<ContactMe />
 	  		<Switch>
 		  		{routes.map((route, i) => (
 						<Route key={i} {...route}/>

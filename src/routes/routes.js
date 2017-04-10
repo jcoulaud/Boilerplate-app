@@ -1,5 +1,5 @@
 import ListLanguages from './../components/ListCategories';
-import SingleLanguage from './../components/SingleLanguage.js';
+import SingleLanguage from './../components/SingleLanguage';
 
 const routes = [
   { path: '/',
