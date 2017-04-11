@@ -7,10 +7,10 @@
     "githubSize": 442,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1714870?v=3",
     "githubForks": 129,
-    "githubStars": 404,
+    "githubStars": 406,
     "githubWatchers": 23,
     "githubCreated_at": "2013-05-15T15:15:10Z",
-    "githubUpdated_at": "2017-04-06T13:53:29Z"
+    "githubUpdated_at": "2017-04-11T08:13:36Z"
   },
   {
     "githubUrl": "https://github.com/sindresorhus/node-module-boilerplate",
@@ -20,10 +20,10 @@
     "githubSize": 18,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/170270?v=3",
     "githubForks": 26,
-    "githubStars": 346,
+    "githubStars": 347,
     "githubWatchers": 10,
     "githubCreated_at": "2015-03-14T05:47:45Z",
-    "githubUpdated_at": "2017-04-06T00:49:05Z"
+    "githubUpdated_at": "2017-04-10T18:07:31Z"
   },
   {
     "githubUrl": "https://github.com/expressjs/generator",
@@ -32,11 +32,11 @@
     "githubDescription": "Express' application generator",
     "githubSize": 172,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/5658226?v=3",
-    "githubForks": 240,
-    "githubStars": 619,
-    "githubWatchers": 34,
+    "githubForks": 242,
+    "githubStars": 623,
+    "githubWatchers": 35,
     "githubCreated_at": "2013-11-20T22:24:21Z",
-    "githubUpdated_at": "2017-04-05T13:26:27Z"
+    "githubUpdated_at": "2017-04-10T01:42:56Z"
   },
   {
     "githubUrl": "https://github.com/sahat/hackathon-starter",
@@ -45,11 +45,11 @@
     "githubDescription": "A boilerplate for Node.js web applications",
     "githubSize": 9160,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/544954?v=3",
-    "githubForks": 3293,
-    "githubStars": 19354,
-    "githubWatchers": 707,
+    "githubForks": 3298,
+    "githubStars": 19383,
+    "githubWatchers": 706,
     "githubCreated_at": "2013-11-13T17:24:12Z",
-    "githubUpdated_at": "2017-04-08T09:17:21Z"
+    "githubUpdated_at": "2017-04-11T16:25:08Z"
   },
   {
     "githubUrl": "https://github.com/skaapgif/webapp-boilerplate",
@@ -72,10 +72,10 @@
     "githubSize": 1124,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/30158?v=3",
     "githubForks": 87,
-    "githubStars": 561,
+    "githubStars": 562,
     "githubWatchers": 41,
     "githubCreated_at": "2012-02-25T16:22:06Z",
-    "githubUpdated_at": "2017-04-07T15:24:49Z"
+    "githubUpdated_at": "2017-04-10T02:00:35Z"
   },
   {
     "githubUrl": "https://github.com/kriasoft/nodejs-api-starter",
@@ -84,11 +84,11 @@
     "githubDescription": "Boilerplate and tooling for authoring data API backends with Node.js and GraphQL",
     "githubSize": 283,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/773036?v=3",
-    "githubForks": 52,
-    "githubStars": 341,
+    "githubForks": 53,
+    "githubStars": 345,
     "githubWatchers": 16,
     "githubCreated_at": "2016-09-30T13:14:17Z",
-    "githubUpdated_at": "2017-04-08T06:31:49Z"
+    "githubUpdated_at": "2017-04-10T13:13:32Z"
   },
   {
     "githubUrl": "https://github.com/neogeek/nodejs-starter-kit",
@@ -123,11 +123,11 @@
     "githubDescription": ":star: Full stack JS web app boilerplate with NodeJS, Express, Mongo and VueJS",
     "githubSize": 11809,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/306521?v=3",
-    "githubForks": 59,
-    "githubStars": 199,
-    "githubWatchers": 22,
+    "githubForks": 60,
+    "githubStars": 207,
+    "githubWatchers": 23,
     "githubCreated_at": "2016-06-18T12:09:40Z",
-    "githubUpdated_at": "2017-04-07T09:33:57Z"
+    "githubUpdated_at": "2017-04-11T15:03:35Z"
   },
   {
     "githubUrl": "https://github.com/diki/nodejs-passport-boilerplate",
@@ -149,11 +149,11 @@
     "githubDescription": "The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code.",
     "githubSize": 86,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/17815977?v=3",
-    "githubForks": 171,
-    "githubStars": 769,
-    "githubWatchers": 89,
+    "githubForks": 173,
+    "githubStars": 775,
+    "githubWatchers": 90,
     "githubCreated_at": "2016-06-24T06:26:05Z",
-    "githubUpdated_at": "2017-04-08T07:00:56Z"
+    "githubUpdated_at": "2017-04-11T16:23:09Z"
   },
   {
     "githubUrl": "https://github.com/diegohaz/rest",
@@ -163,9 +163,9 @@
     "githubSize": 244,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/3068563?v=3",
     "githubForks": 38,
-    "githubStars": 234,
+    "githubStars": 235,
     "githubWatchers": 19,
     "githubCreated_at": "2016-09-06T23:05:11Z",
-    "githubUpdated_at": "2017-04-06T23:08:56Z"
+    "githubUpdated_at": "2017-04-08T14:54:39Z"
   }
 ]

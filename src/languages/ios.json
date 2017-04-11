@@ -7,10 +7,10 @@
     "githubSize": 2587,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/50486?v=3",
     "githubForks": 518,
-    "githubStars": 2908,
-    "githubWatchers": 212,
+    "githubStars": 2909,
+    "githubWatchers": 211,
     "githubCreated_at": "2011-08-22T22:16:17Z",
-    "githubUpdated_at": "2017-04-02T03:59:36Z"
+    "githubUpdated_at": "2017-04-10T05:42:45Z"
   },
   {
     "githubUrl": "https://github.com/crushlovely/Amaro",
@@ -19,7 +19,7 @@
     "githubDescription": "Featureful iOS Boilerplate",
     "githubSize": 430,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/7337?v=3",
-    "githubForks": 37,
+    "githubForks": 38,
     "githubStars": 365,
     "githubWatchers": 43,
     "githubCreated_at": "2014-03-02T22:28:45Z",
@@ -56,13 +56,13 @@
     "githubOwner": "JohnSundell",
     "githubName": "SwiftPlate",
     "githubDescription": "Easily generate cross platform Swift framework projects from the command line",
-    "githubSize": 441,
+    "githubSize": 442,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/2466701?v=3",
-    "githubForks": 47,
-    "githubStars": 1027,
+    "githubForks": 48,
+    "githubStars": 1035,
     "githubWatchers": 26,
     "githubCreated_at": "2015-06-10T23:48:16Z",
-    "githubUpdated_at": "2017-04-07T21:08:16Z"
+    "githubUpdated_at": "2017-04-11T14:50:35Z"
   },
   {
     "githubUrl": "https://github.com/thoughtbot/liftoff",
@@ -72,9 +72,9 @@
     "githubSize": 17610,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/6183?v=3",
     "githubForks": 105,
-    "githubStars": 1506,
+    "githubStars": 1510,
     "githubWatchers": 71,
     "githubCreated_at": "2012-10-19T00:58:18Z",
-    "githubUpdated_at": "2017-04-06T15:19:36Z"
+    "githubUpdated_at": "2017-04-11T13:17:46Z"
   }
 ]

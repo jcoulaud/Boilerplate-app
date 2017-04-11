@@ -138,7 +138,8 @@ const languages = [
 			'https://github.com/aspnetboilerplate/aspnetboilerplate',
 			'https://github.com/ASP-NET-MVC-Boilerplate/Templates',
 			'https://github.com/aspnetboilerplate/module-zero',
-			'https://github.com/kriasoft/aspnet-starter-kit'
+			'https://github.com/kriasoft/aspnet-starter-kit',
+			'https://github.com/restsharp/RestSharp'
 		]
 	},
 	{
