@@ -17,13 +17,13 @@
     "githubOwner": "aspnetboilerplate",
     "githubName": "aspnetboilerplate",
     "githubDescription": "ASP.NET Boilerplate - Application Framework",
-    "githubSize": 22761,
+    "githubSize": 23186,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/5957277?v=3",
-    "githubForks": 1344,
-    "githubStars": 2536,
+    "githubForks": 1343,
+    "githubStars": 2538,
     "githubWatchers": 511,
     "githubCreated_at": "2013-08-18T20:45:08Z",
-    "githubUpdated_at": "2017-04-12T08:39:41Z"
+    "githubUpdated_at": "2017-04-12T12:34:27Z"
   },
   {
     "githubUrl": "https://github.com/ASP-NET-MVC-Boilerplate/Templates",
@@ -33,23 +33,23 @@
     "githubSize": 41422,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/22211766?v=3",
     "githubForks": 206,
-    "githubStars": 792,
+    "githubStars": 794,
     "githubWatchers": 125,
     "githubCreated_at": "2014-10-27T08:57:45Z",
-    "githubUpdated_at": "2017-04-12T09:00:07Z"
+    "githubUpdated_at": "2017-04-12T13:15:52Z"
   },
   {
     "githubUrl": "https://github.com/aspnetboilerplate/module-zero",
     "githubOwner": "aspnetboilerplate",
     "githubName": "module-zero",
     "githubDescription": "ASP.NET Boilerplate - Module Zero",
-    "githubSize": 19206,
+    "githubSize": 19223,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/5957277?v=3",
     "githubForks": 375,
-    "githubStars": 430,
-    "githubWatchers": 131,
+    "githubStars": 431,
+    "githubWatchers": 130,
     "githubCreated_at": "2014-08-22T17:57:19Z",
-    "githubUpdated_at": "2017-04-12T03:24:20Z"
+    "githubUpdated_at": "2017-04-12T11:55:15Z"
   },
   {
     "githubUrl": "https://github.com/kriasoft/aspnet-starter-kit",
@@ -59,10 +59,10 @@
     "githubSize": 1398,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/773036?v=3",
     "githubForks": 130,
-    "githubStars": 638,
+    "githubStars": 639,
     "githubWatchers": 76,
     "githubCreated_at": "2014-08-21T09:51:46Z",
-    "githubUpdated_at": "2017-04-12T06:10:16Z"
+    "githubUpdated_at": "2017-04-12T11:36:10Z"
   },
   {
     "githubUrl": "https://github.com/restsharp/RestSharp",
@@ -72,9 +72,9 @@
     "githubSize": 37966,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1057779?v=3",
     "githubForks": 1408,
-    "githubStars": 4194,
+    "githubStars": 4195,
     "githubWatchers": 387,
     "githubCreated_at": "2009-11-16T02:01:45Z",
-    "githubUpdated_at": "2017-04-12T11:29:35Z"
+    "githubUpdated_at": "2017-04-12T12:00:19Z"
   }
 ]

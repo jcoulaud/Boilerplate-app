@@ -33,10 +33,10 @@
     "githubSize": 4087,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/233907?v=3",
     "githubForks": 2439,
-    "githubStars": 10446,
-    "githubWatchers": 842,
+    "githubStars": 10451,
+    "githubWatchers": 843,
     "githubCreated_at": "2012-02-29T02:32:08Z",
-    "githubUpdated_at": "2017-04-12T11:31:48Z"
+    "githubUpdated_at": "2017-04-12T14:46:24Z"
   },
   {
     "githubUrl": "https://github.com/go-zoo/bone",
@@ -72,10 +72,10 @@
     "githubSize": 3258,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/18835?v=3",
     "githubForks": 101,
-    "githubStars": 1669,
-    "githubWatchers": 86,
+    "githubStars": 1670,
+    "githubWatchers": 87,
     "githubCreated_at": "2015-10-15T20:46:29Z",
-    "githubUpdated_at": "2017-04-12T10:34:27Z"
+    "githubUpdated_at": "2017-04-12T14:07:23Z"
   },
   {
     "githubUrl": "https://github.com/labstack/echo",
@@ -85,10 +85,10 @@
     "githubSize": 4868,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/2624634?v=3",
     "githubForks": 599,
-    "githubStars": 6987,
-    "githubWatchers": 362,
+    "githubStars": 6988,
+    "githubWatchers": 363,
     "githubCreated_at": "2015-03-01T17:43:01Z",
-    "githubUpdated_at": "2017-04-12T10:21:57Z"
+    "githubUpdated_at": "2017-04-12T14:08:12Z"
   },
   {
     "githubUrl": "https://github.com/buaazp/fasthttprouter",
@@ -127,7 +127,7 @@
     "githubStars": 213,
     "githubWatchers": 11,
     "githubCreated_at": "2015-06-07T10:21:15Z",
-    "githubUpdated_at": "2017-03-25T00:01:51Z"
+    "githubUpdated_at": "2017-04-12T14:08:28Z"
   },
   {
     "githubUrl": "https://github.com/ant0ine/go-json-rest",
@@ -149,11 +149,11 @@
     "githubDescription": "A standard library for microservices.",
     "githubSize": 5295,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/10981023?v=3",
-    "githubForks": 596,
-    "githubStars": 6325,
+    "githubForks": 597,
+    "githubStars": 6326,
     "githubWatchers": 387,
     "githubCreated_at": "2015-02-03T00:01:19Z",
-    "githubUpdated_at": "2017-04-12T06:39:11Z"
+    "githubUpdated_at": "2017-04-12T13:00:15Z"
   },
   {
     "githubUrl": "https://github.com/codehack/go-relax",
@@ -176,10 +176,10 @@
     "githubSize": 10424,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/496526?v=3",
     "githubForks": 243,
-    "githubStars": 1649,
+    "githubStars": 1650,
     "githubWatchers": 94,
     "githubCreated_at": "2013-07-13T13:04:38Z",
-    "githubUpdated_at": "2017-04-12T03:05:51Z"
+    "githubUpdated_at": "2017-04-12T14:04:09Z"
   },
   {
     "githubUrl": "https://github.com/gocraft/web",

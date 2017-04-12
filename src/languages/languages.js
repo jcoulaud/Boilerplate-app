@@ -163,6 +163,65 @@ const languages = [
 			'https://github.com/gocraft/web',
 			'https://github.com/lunny/tango'
 		]
+	},
+	{
+		"lang": "Wordpress",
+		"icon": "devicon-wordpress-plain",
+		"repositories": [
+			'https://github.com/roots/bedrock',
+			'https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered',
+			'https://github.com/DevinVinson/WordPress-Plugin-Boilerplate',
+			'https://github.com/iandunn/WordPress-Plugin-Skeleton',
+			'https://github.com/tommcfarlin/WordPress-Widget-Boilerplate',
+			'https://github.com/maxkostinevich/WP-Plugin-Starter-Kit',
+			'https://github.com/zencoder/html5-boilerplate-for-wordpress',
+			'https://github.com/Darep/wordpress-boilerplate',
+			'https://github.com/theantichris/WordPress-Plugin-Boilerplate',
+			'https://github.com/claudiosanches/wordpress-plugin-boilerplate',
+			'https://github.com/Tmeister/wppb-gen-site'
+		]
+	},
+	{
+		"lang": "Html",
+		"icon": "devicon-html5-plain",
+		"repositories": [
+			'https://github.com/corysimmons/boy',
+			'https://github.com/h5bp/html5-boilerplate',
+			'https://github.com/IceCreamYou/HTML5-Canvas-Game-Boilerplate',
+			'https://github.com/imarc/boilerplate',
+			'https://github.com/verekia/initializr-template'
+		]
+	},
+	{
+		"lang": "Bootstrap",
+		"icon": "devicon-bootstrap-plain",
+		"repositories": [
+			'https://github.com/modularcode/modular-admin-html',
+			'https://github.com/lewagon/bootstrap-boilerplate',
+			'https://github.com/micromata/bootstrap-kickstart',
+			'https://github.com/mneuhaus/Bootstrap-Boilerplate',
+			'https://github.com/abhinayrathore/Bootstrap-Boilerplate',
+			'https://github.com/verekia/initializr-template'
+		]
+	},
+	{
+		"lang": "Python",
+		"icon": "devicon-python-plain",
+		"repositories": [
+			'https://github.com/vintasoftware/django-react-boilerplate',
+			'https://github.com/femmerling/EmeraldBox',
+			'https://github.com/mtchavez/python-package-boilerplate',
+			'https://github.com/mattharrison/poachplate',
+			'https://github.com/imwilsonxu/fbone',
+			'https://github.com/python-attrs/attrs',
+			'https://github.com/misja/python-boilerpipe',
+			'https://github.com/RPi-Distro/python-gpiozero',
+			'https://github.com/italomaia/flask-empty',
+			'https://github.com/miso-belica/jusText',
+			'https://github.com/ionelmc/python-fields',
+			'https://github.com/MaxHalford/Flask-Boilerplate',
+			'https://github.com/salimane/bottle-mvc'
+		]
 	}
 ]
 

@@ -32,11 +32,11 @@
     "githubDescription": "Express' application generator",
     "githubSize": 172,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/5658226?v=3",
-    "githubForks": 243,
-    "githubStars": 624,
+    "githubForks": 244,
+    "githubStars": 625,
     "githubWatchers": 35,
     "githubCreated_at": "2013-11-20T22:24:21Z",
-    "githubUpdated_at": "2017-04-12T03:23:10Z"
+    "githubUpdated_at": "2017-04-12T13:42:32Z"
   },
   {
     "githubUrl": "https://github.com/sahat/hackathon-starter",
@@ -45,11 +45,11 @@
     "githubDescription": "A boilerplate for Node.js web applications",
     "githubSize": 9160,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/544954?v=3",
-    "githubForks": 3299,
-    "githubStars": 19391,
-    "githubWatchers": 705,
+    "githubForks": 3301,
+    "githubStars": 19395,
+    "githubWatchers": 704,
     "githubCreated_at": "2013-11-13T17:24:12Z",
-    "githubUpdated_at": "2017-04-12T10:22:09Z"
+    "githubUpdated_at": "2017-04-12T14:50:31Z"
   },
   {
     "githubUrl": "https://github.com/skaapgif/webapp-boilerplate",
@@ -72,10 +72,10 @@
     "githubSize": 1124,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/30158?v=3",
     "githubForks": 87,
-    "githubStars": 562,
+    "githubStars": 563,
     "githubWatchers": 41,
     "githubCreated_at": "2012-02-25T16:22:06Z",
-    "githubUpdated_at": "2017-04-10T02:00:35Z"
+    "githubUpdated_at": "2017-04-12T12:02:00Z"
   },
   {
     "githubUrl": "https://github.com/kriasoft/nodejs-api-starter",
@@ -124,10 +124,10 @@
     "githubSize": 11809,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/306521?v=3",
     "githubForks": 61,
-    "githubStars": 208,
+    "githubStars": 210,
     "githubWatchers": 23,
     "githubCreated_at": "2016-06-18T12:09:40Z",
-    "githubUpdated_at": "2017-04-12T10:57:35Z"
+    "githubUpdated_at": "2017-04-12T14:50:55Z"
   },
   {
     "githubUrl": "https://github.com/diki/nodejs-passport-boilerplate",
@@ -163,9 +163,9 @@
     "githubSize": 244,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/3068563?v=3",
     "githubForks": 39,
-    "githubStars": 236,
+    "githubStars": 237,
     "githubWatchers": 19,
     "githubCreated_at": "2016-09-06T23:05:11Z",
-    "githubUpdated_at": "2017-04-11T21:48:28Z"
+    "githubUpdated_at": "2017-04-12T13:04:20Z"
   }
 ]
