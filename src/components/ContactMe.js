@@ -4,7 +4,7 @@ import './ContactMe.css';
 
 const ContactMe = () => {
 	return (
-		<a href='mailto:hi@jcoulaud.com'>
+		<a href='mailto:j.coulaud@gmail.com'>
 			<div className="corner-ribbon top-right">Contact me</div>
 		</a>
 	);
