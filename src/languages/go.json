@@ -33,10 +33,10 @@
     "githubSize": 4087,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/233907?v=3",
     "githubForks": 2439,
-    "githubStars": 10452,
+    "githubStars": 10455,
     "githubWatchers": 843,
     "githubCreated_at": "2012-02-29T02:32:08Z",
-    "githubUpdated_at": "2017-04-12T15:10:22Z"
+    "githubUpdated_at": "2017-04-12T21:00:53Z"
   },
   {
     "githubUrl": "https://github.com/go-zoo/bone",
@@ -72,23 +72,23 @@
     "githubSize": 3258,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/18835?v=3",
     "githubForks": 101,
-    "githubStars": 1670,
+    "githubStars": 1671,
     "githubWatchers": 87,
     "githubCreated_at": "2015-10-15T20:46:29Z",
-    "githubUpdated_at": "2017-04-12T14:07:23Z"
+    "githubUpdated_at": "2017-04-12T17:01:00Z"
   },
   {
     "githubUrl": "https://github.com/labstack/echo",
     "githubOwner": "labstack",
     "githubName": "echo",
     "githubDescription": "High performance, minimalist Go web framework",
-    "githubSize": 4868,
+    "githubSize": 4869,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/2624634?v=3",
     "githubForks": 599,
-    "githubStars": 6990,
-    "githubWatchers": 363,
+    "githubStars": 6992,
+    "githubWatchers": 362,
     "githubCreated_at": "2015-03-01T17:43:01Z",
-    "githubUpdated_at": "2017-04-12T15:42:17Z"
+    "githubUpdated_at": "2017-04-12T16:26:24Z"
   },
   {
     "githubUrl": "https://github.com/buaazp/fasthttprouter",
@@ -137,10 +137,10 @@
     "githubSize": 976,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/40227?v=3",
     "githubForks": 299,
-    "githubStars": 2728,
-    "githubWatchers": 147,
+    "githubStars": 2730,
+    "githubWatchers": 148,
     "githubCreated_at": "2013-02-19T03:15:45Z",
-    "githubUpdated_at": "2017-04-12T07:21:22Z"
+    "githubUpdated_at": "2017-04-12T20:49:41Z"
   },
   {
     "githubUrl": "https://github.com/go-kit/kit",
@@ -150,10 +150,10 @@
     "githubSize": 5295,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/10981023?v=3",
     "githubForks": 597,
-    "githubStars": 6327,
+    "githubStars": 6330,
     "githubWatchers": 387,
     "githubCreated_at": "2015-02-03T00:01:19Z",
-    "githubUpdated_at": "2017-04-12T15:06:30Z"
+    "githubUpdated_at": "2017-04-12T21:42:28Z"
   },
   {
     "githubUrl": "https://github.com/codehack/go-relax",

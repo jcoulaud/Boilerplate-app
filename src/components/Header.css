@@ -47,3 +47,9 @@
     margin-top: 12px;
   }
 }
+
+@media screen and (max-width: 489px) {
+  .App-header-Layout {
+    padding-left: 0px;
+  }
+}

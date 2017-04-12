@@ -17,7 +17,8 @@ const languages = [
 			'https://github.com/reactGo/reactGo',
 			'https://github.com/jaredpalmer/react-production-starter',
 			'https://github.com/diegohaz/arc',
-			'https://github.com/ctrlplusb/react-universally'
+			'https://github.com/ctrlplusb/react-universally',
+			'https://github.com/guilherme90/react-webpack-starter'
 		]
 	},
 	{

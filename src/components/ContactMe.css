@@ -1,39 +1,62 @@
-.corner-ribbon{
-  width: 200px;
-  background: #ff4081;
+/* common */
+.ribbon {
+  width: 150px;
+  height: 156px;
+  overflow: hidden;
   position: absolute;
-  top: 25px;
-  left: -50px;
+}
+.ribbon span {
+  position: absolute;
+  display: block;
+  width: 236px;
+  padding: 10px 0;
+  background-color: #ff4081;
+  box-shadow: 0 5px 10px rgba(0,0,0,.1);
+  color: #fff;
   text-align: center;
-  line-height: 46px;
-  letter-spacing: 1px;
-  color: #f0f0f0;
-  transform: rotate(-45deg);
-  -webkit-transform: rotate(-45deg);
 }
 
-.corner-ribbon.sticky{
-  position: fixed;
+/* top right*/
+.ribbon-top-right {
+  top: 0px;
+  right: 0px;
 }
-
-.corner-ribbon.shadow{
-  box-shadow: 0 0 3px rgba(0,0,0,.3);
+.ribbon-top-right::before,
+.ribbon-top-right::after {
+  border-top-color: transparent;
+  border-right-color: transparent;
 }
-
-.corner-ribbon.top-right{
-  top: 25px;
-  right: -55px;
-  left: auto;
+.ribbon-top-right::before {
+  top: 0;
+  left: 0;
+}
+.ribbon-top-right::after {
+  bottom: 0;
+  right: 0;
+}
+.ribbon-top-right span {
+  left: -25px;
+  top: 30px;
   transform: rotate(45deg);
-  -webkit-transform: rotate(45deg);
+}
+
+@media screen and (min-width: 895px) {
+  .ribbon {
+    width: 140px;
+  }
+  .ribbon-top-right {
+    top: -13px;
+  }
+  .ribbon-top-right span {
+    top: 40px;
+  }
 }
 
 @media screen and (max-width: 660px) {
-  .corner-ribbon{
-    line-height: 35px;
+  .ribbon {
+    width: 130px;
   }
-  .corner-ribbon.top-right{
-    top: 25px;
-    right: -60px;
+  .ribbon-top-right {
+    top: -13px;
   }
 }

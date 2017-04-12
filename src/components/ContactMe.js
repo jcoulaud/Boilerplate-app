@@ -5,7 +5,8 @@ import './ContactMe.css';
 const ContactMe = () => {
 	return (
 		<a href='mailto:j.coulaud@gmail.com'>
-			<div className="corner-ribbon top-right">Contact me</div>
+			<div className="ribbon ribbon-top-right"><span>Contact me</span></div>
+
 		</a>
 	);
 }

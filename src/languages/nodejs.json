@@ -33,10 +33,10 @@
     "githubSize": 172,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/5658226?v=3",
     "githubForks": 244,
-    "githubStars": 625,
+    "githubStars": 627,
     "githubWatchers": 35,
     "githubCreated_at": "2013-11-20T22:24:21Z",
-    "githubUpdated_at": "2017-04-12T13:42:32Z"
+    "githubUpdated_at": "2017-04-12T19:42:33Z"
   },
   {
     "githubUrl": "https://github.com/sahat/hackathon-starter",
@@ -45,11 +45,11 @@
     "githubDescription": "A boilerplate for Node.js web applications",
     "githubSize": 9160,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/544954?v=3",
-    "githubForks": 3301,
-    "githubStars": 19396,
+    "githubForks": 3302,
+    "githubStars": 19407,
     "githubWatchers": 704,
     "githubCreated_at": "2013-11-13T17:24:12Z",
-    "githubUpdated_at": "2017-04-12T15:48:58Z"
+    "githubUpdated_at": "2017-04-12T21:14:53Z"
   },
   {
     "githubUrl": "https://github.com/skaapgif/webapp-boilerplate",
@@ -59,10 +59,10 @@
     "githubSize": 235,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1281646?v=3",
     "githubForks": 9,
-    "githubStars": 22,
+    "githubStars": 23,
     "githubWatchers": 2,
     "githubCreated_at": "2013-03-13T19:01:44Z",
-    "githubUpdated_at": "2017-03-25T09:52:01Z"
+    "githubUpdated_at": "2017-04-12T16:18:49Z"
   },
   {
     "githubUrl": "https://github.com/inadarei/nodebootstrap/",
@@ -85,10 +85,10 @@
     "githubSize": 283,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/773036?v=3",
     "githubForks": 54,
-    "githubStars": 346,
+    "githubStars": 348,
     "githubWatchers": 16,
     "githubCreated_at": "2016-09-30T13:14:17Z",
-    "githubUpdated_at": "2017-04-11T23:36:03Z"
+    "githubUpdated_at": "2017-04-12T19:40:15Z"
   },
   {
     "githubUrl": "https://github.com/neogeek/nodejs-starter-kit",
@@ -111,10 +111,10 @@
     "githubSize": 1567,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/7906835?v=3",
     "githubForks": 13,
-    "githubStars": 75,
+    "githubStars": 76,
     "githubWatchers": 5,
     "githubCreated_at": "2016-07-26T03:27:12Z",
-    "githubUpdated_at": "2017-03-08T15:35:11Z"
+    "githubUpdated_at": "2017-04-12T22:06:25Z"
   },
   {
     "githubUrl": "https://github.com/icebob/vue-express-mongo-boilerplate",
@@ -124,10 +124,10 @@
     "githubSize": 11809,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/306521?v=3",
     "githubForks": 61,
-    "githubStars": 210,
+    "githubStars": 213,
     "githubWatchers": 23,
     "githubCreated_at": "2016-06-18T12:09:40Z",
-    "githubUpdated_at": "2017-04-12T14:50:55Z"
+    "githubUpdated_at": "2017-04-12T19:41:39Z"
   },
   {
     "githubUrl": "https://github.com/diki/nodejs-passport-boilerplate",
@@ -149,11 +149,11 @@
     "githubDescription": "The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code.",
     "githubSize": 86,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/17815977?v=3",
-    "githubForks": 174,
-    "githubStars": 777,
+    "githubForks": 176,
+    "githubStars": 780,
     "githubWatchers": 90,
     "githubCreated_at": "2016-06-24T06:26:05Z",
-    "githubUpdated_at": "2017-04-12T04:21:39Z"
+    "githubUpdated_at": "2017-04-12T21:07:38Z"
   },
   {
     "githubUrl": "https://github.com/diegohaz/rest",
@@ -163,9 +163,9 @@
     "githubSize": 244,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/3068563?v=3",
     "githubForks": 39,
-    "githubStars": 237,
+    "githubStars": 239,
     "githubWatchers": 19,
     "githubCreated_at": "2016-09-06T23:05:11Z",
-    "githubUpdated_at": "2017-04-12T13:04:20Z"
+    "githubUpdated_at": "2017-04-12T19:56:11Z"
   }
 ]
