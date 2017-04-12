@@ -205,22 +205,68 @@ const languages = [
 		]
 	},
 	{
-		"lang": "Python",
-		"icon": "devicon-python-plain",
+		"lang": "Electron",
+		"icon": "devicon-atom-plain",
 		"repositories": [
+			'https://github.com/chentsulin/electron-react-boilerplate',
+			'https://github.com/szwacz/electron-boilerplate',
+			'https://github.com/SimulatedGREG/electron-vue',
+			'https://github.com/bradstewart/electron-boilerplate-vue',
+			'https://github.com/sindresorhus/generator-electron',
+			'https://github.com/sindresorhus/electron-boilerplate',
+			'https://github.com/Equanox/gotron',
+			'https://github.com/Stephn-R/electron-angular-boilerplate',
+			'https://github.com/jschr/electron-react-redux-boilerplate',
+			'https://github.com/Quramy/electron-jsx-babel-boilerplate',
+			'https://github.com/sohelamin/electron-vue-boilerplate',
+			'https://github.com/react-photonkit/epp',
+			'https://github.com/taichi/js-boilerplate'
+		]
+	},
+	{
+		"lang": "Backbone",
+		"icon": "devicon-backbonejs-plain",
+		"repositories": [
+			'https://github.com/tbranyen/backbone-boilerplate',
+			'https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate',
+			'https://github.com/addyosmani/backbone-boilerplates',
+			'https://github.com/alexbeletsky/backbone-express-spa',
+			'https://github.com/artsy/ezel',
+			'https://github.com/shorttompkins/benm',
+			'https://github.com/sabarasaba/modern-backbone-starterkit',
+			'https://github.com/phawk/Backbone-Stack',
+			'https://github.com/david0178418/BackboneJS-AMD-Boilerplate',
+			'https://github.com/AlexSergey/rocket'
+		]
+	},
+	{
+		"lang": "Django",
+		"icon": "devicon-django-plain",
+		"repositories": [
+			'https://github.com/DrkSephy/django-hackathon-starter',
+			'https://github.com/zapier/django-knowledge',
+			'https://github.com/mbrochh/django-reactjs-boilerplate',
+			'https://github.com/lincolnloop/django-startproject',
+			'https://github.com/agconti/cookiecutter-django-rest',
+			'https://github.com/brwr/thinkster-django-angular-boilerplate',
+			'https://github.com/mike360/django-html5-boilerplate',
 			'https://github.com/vintasoftware/django-react-boilerplate',
-			'https://github.com/femmerling/EmeraldBox',
-			'https://github.com/mtchavez/python-package-boilerplate',
-			'https://github.com/mattharrison/poachplate',
-			'https://github.com/imwilsonxu/fbone',
-			'https://github.com/python-attrs/attrs',
-			'https://github.com/misja/python-boilerpipe',
-			'https://github.com/RPi-Distro/python-gpiozero',
-			'https://github.com/italomaia/flask-empty',
-			'https://github.com/miso-belica/jusText',
-			'https://github.com/ionelmc/python-fields',
-			'https://github.com/MaxHalford/Flask-Boilerplate',
-			'https://github.com/salimane/bottle-mvc'
+			'https://github.com/bueda/django-boilerplate'
+		]
+	},
+	{
+		"lang": "Meteor",
+		"icon": "devicon-meteor-plain",
+		"repositories": [
+			'https://github.com/Differential/meteor-boilerplate',
+			'https://github.com/matteodem/meteor-boilerplate',
+			'https://github.com/themeteorchef/base',
+			'https://github.com/radiegtya/meteoris2',
+			'https://github.com/AdamBrodzinski/meteor-react-boilerplate',
+			'https://github.com/ffxsam/ffx-meteor-react-boilerplate',
+			'https://github.com/meteor-useraccounts/boilerplates',
+			'https://github.com/patrickocoffeyo/meteor-boilerplate',
+			'https://github.com/SilentCicero/meteor-dapp-boilerplate'
 		]
 	}
 ]

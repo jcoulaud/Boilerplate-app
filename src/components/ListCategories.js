@@ -9,7 +9,7 @@ class ListCategories extends Component {
 	render() {
 	  const languagesCategories = Languages.map((language) => {
 	    return (
-	    	<Layout key={language.lang.toLowerCase()} className="ListLanguages-item" item xs={12} sm={12} md={4}>
+	    	<Layout key={language.lang.toLowerCase()} className="ListLanguages-item" item xs={12} sm={4} md={3}>
 	    		<Link to={"/language/" + language.lang.toLowerCase()}>
 						<Paper className="ListLanguages-paper">
 							<i className={language.icon}></i>
