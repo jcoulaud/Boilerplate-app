@@ -7,10 +7,10 @@
     "githubSize": 348,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/5037285?v=3",
     "githubForks": 0,
-    "githubStars": 19,
+    "githubStars": 20,
     "githubWatchers": 3,
     "githubCreated_at": "2016-07-20T12:09:48Z",
-    "githubUpdated_at": "2017-04-03T20:48:47Z"
+    "githubUpdated_at": "2017-04-11T22:23:20Z"
   },
   {
     "githubUrl": "https://github.com/gernest/alien",
@@ -20,10 +20,10 @@
     "githubSize": 37,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/6039952?v=3",
     "githubForks": 6,
-    "githubStars": 76,
+    "githubStars": 77,
     "githubWatchers": 2,
     "githubCreated_at": "2016-01-30T23:23:10Z",
-    "githubUpdated_at": "2017-03-07T13:06:29Z"
+    "githubUpdated_at": "2017-04-12T00:58:32Z"
   },
   {
     "githubUrl": "https://github.com/astaxie/beego",
@@ -32,11 +32,11 @@
     "githubDescription": "beego is an open-source, high-performance web framework for the Go programming language.",
     "githubSize": 4087,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/233907?v=3",
-    "githubForks": 2434,
-    "githubStars": 10404,
-    "githubWatchers": 840,
+    "githubForks": 2439,
+    "githubStars": 10446,
+    "githubWatchers": 842,
     "githubCreated_at": "2012-02-29T02:32:08Z",
-    "githubUpdated_at": "2017-04-11T16:05:35Z"
+    "githubUpdated_at": "2017-04-12T11:31:48Z"
   },
   {
     "githubUrl": "https://github.com/go-zoo/bone",
@@ -71,11 +71,11 @@
     "githubDescription": "lightweight, idiomatic and composable router for building Go 1.7+ HTTP services",
     "githubSize": 3258,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/18835?v=3",
-    "githubForks": 100,
-    "githubStars": 1668,
+    "githubForks": 101,
+    "githubStars": 1669,
     "githubWatchers": 86,
     "githubCreated_at": "2015-10-15T20:46:29Z",
-    "githubUpdated_at": "2017-04-11T11:01:40Z"
+    "githubUpdated_at": "2017-04-12T10:34:27Z"
   },
   {
     "githubUrl": "https://github.com/labstack/echo",
@@ -84,11 +84,11 @@
     "githubDescription": "High performance, minimalist Go web framework",
     "githubSize": 4868,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/2624634?v=3",
-    "githubForks": 598,
-    "githubStars": 6974,
-    "githubWatchers": 361,
+    "githubForks": 599,
+    "githubStars": 6987,
+    "githubWatchers": 362,
     "githubCreated_at": "2015-03-01T17:43:01Z",
-    "githubUpdated_at": "2017-04-11T16:10:00Z"
+    "githubUpdated_at": "2017-04-12T10:21:57Z"
   },
   {
     "githubUrl": "https://github.com/buaazp/fasthttprouter",
@@ -137,10 +137,10 @@
     "githubSize": 976,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/40227?v=3",
     "githubForks": 299,
-    "githubStars": 2726,
+    "githubStars": 2728,
     "githubWatchers": 147,
     "githubCreated_at": "2013-02-19T03:15:45Z",
-    "githubUpdated_at": "2017-04-10T14:24:10Z"
+    "githubUpdated_at": "2017-04-12T07:21:22Z"
   },
   {
     "githubUrl": "https://github.com/go-kit/kit",
@@ -149,11 +149,11 @@
     "githubDescription": "A standard library for microservices.",
     "githubSize": 5295,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/10981023?v=3",
-    "githubForks": 595,
-    "githubStars": 6320,
-    "githubWatchers": 385,
+    "githubForks": 596,
+    "githubStars": 6325,
+    "githubWatchers": 387,
     "githubCreated_at": "2015-02-03T00:01:19Z",
-    "githubUpdated_at": "2017-04-11T09:58:46Z"
+    "githubUpdated_at": "2017-04-12T06:39:11Z"
   },
   {
     "githubUrl": "https://github.com/codehack/go-relax",
@@ -163,10 +163,10 @@
     "githubSize": 171,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/652951?v=3",
     "githubForks": 5,
-    "githubStars": 141,
+    "githubStars": 142,
     "githubWatchers": 8,
     "githubCreated_at": "2014-06-26T02:30:45Z",
-    "githubUpdated_at": "2017-04-09T18:58:03Z"
+    "githubUpdated_at": "2017-04-11T16:52:27Z"
   },
   {
     "githubUrl": "https://github.com/googollee/go-socket.io",
@@ -176,10 +176,10 @@
     "githubSize": 10424,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/496526?v=3",
     "githubForks": 243,
-    "githubStars": 1647,
-    "githubWatchers": 93,
+    "githubStars": 1649,
+    "githubWatchers": 94,
     "githubCreated_at": "2013-07-13T13:04:38Z",
-    "githubUpdated_at": "2017-04-10T12:59:21Z"
+    "githubUpdated_at": "2017-04-12T03:05:51Z"
   },
   {
     "githubUrl": "https://github.com/gocraft/web",
@@ -202,9 +202,9 @@
     "githubSize": 301,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/81045?v=3",
     "githubForks": 75,
-    "githubStars": 546,
+    "githubStars": 548,
     "githubWatchers": 65,
     "githubCreated_at": "2014-12-17T03:07:09Z",
-    "githubUpdated_at": "2017-04-11T09:54:53Z"
+    "githubUpdated_at": "2017-04-12T05:58:06Z"
   }
 ]

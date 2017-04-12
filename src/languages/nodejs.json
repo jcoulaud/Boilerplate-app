@@ -32,11 +32,11 @@
     "githubDescription": "Express' application generator",
     "githubSize": 172,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/5658226?v=3",
-    "githubForks": 242,
-    "githubStars": 623,
+    "githubForks": 243,
+    "githubStars": 624,
     "githubWatchers": 35,
     "githubCreated_at": "2013-11-20T22:24:21Z",
-    "githubUpdated_at": "2017-04-10T01:42:56Z"
+    "githubUpdated_at": "2017-04-12T03:23:10Z"
   },
   {
     "githubUrl": "https://github.com/sahat/hackathon-starter",
@@ -45,11 +45,11 @@
     "githubDescription": "A boilerplate for Node.js web applications",
     "githubSize": 9160,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/544954?v=3",
-    "githubForks": 3298,
-    "githubStars": 19383,
-    "githubWatchers": 706,
+    "githubForks": 3299,
+    "githubStars": 19391,
+    "githubWatchers": 705,
     "githubCreated_at": "2013-11-13T17:24:12Z",
-    "githubUpdated_at": "2017-04-11T16:25:08Z"
+    "githubUpdated_at": "2017-04-12T10:22:09Z"
   },
   {
     "githubUrl": "https://github.com/skaapgif/webapp-boilerplate",
@@ -84,11 +84,11 @@
     "githubDescription": "Boilerplate and tooling for authoring data API backends with Node.js and GraphQL",
     "githubSize": 283,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/773036?v=3",
-    "githubForks": 53,
-    "githubStars": 345,
+    "githubForks": 54,
+    "githubStars": 346,
     "githubWatchers": 16,
     "githubCreated_at": "2016-09-30T13:14:17Z",
-    "githubUpdated_at": "2017-04-10T13:13:32Z"
+    "githubUpdated_at": "2017-04-11T23:36:03Z"
   },
   {
     "githubUrl": "https://github.com/neogeek/nodejs-starter-kit",
@@ -123,11 +123,11 @@
     "githubDescription": ":star: Full stack JS web app boilerplate with NodeJS, Express, Mongo and VueJS",
     "githubSize": 11809,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/306521?v=3",
-    "githubForks": 60,
-    "githubStars": 207,
+    "githubForks": 61,
+    "githubStars": 208,
     "githubWatchers": 23,
     "githubCreated_at": "2016-06-18T12:09:40Z",
-    "githubUpdated_at": "2017-04-11T15:03:35Z"
+    "githubUpdated_at": "2017-04-12T10:57:35Z"
   },
   {
     "githubUrl": "https://github.com/diki/nodejs-passport-boilerplate",
@@ -150,10 +150,10 @@
     "githubSize": 86,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/17815977?v=3",
     "githubForks": 173,
-    "githubStars": 775,
+    "githubStars": 777,
     "githubWatchers": 90,
     "githubCreated_at": "2016-06-24T06:26:05Z",
-    "githubUpdated_at": "2017-04-11T16:23:09Z"
+    "githubUpdated_at": "2017-04-12T04:21:39Z"
   },
   {
     "githubUrl": "https://github.com/diegohaz/rest",
@@ -162,10 +162,10 @@
     "githubDescription": "RESTful API generator using NodeJS, Express and Mongoose",
     "githubSize": 244,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/3068563?v=3",
-    "githubForks": 38,
-    "githubStars": 235,
+    "githubForks": 39,
+    "githubStars": 236,
     "githubWatchers": 19,
     "githubCreated_at": "2016-09-06T23:05:11Z",
-    "githubUpdated_at": "2017-04-08T14:54:39Z"
+    "githubUpdated_at": "2017-04-11T21:48:28Z"
   }
 ]
