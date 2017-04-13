@@ -32,11 +32,11 @@
     "githubDescription": "beego is an open-source, high-performance web framework for the Go programming language.",
     "githubSize": 4087,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/233907?v=3",
-    "githubForks": 2439,
-    "githubStars": 10455,
-    "githubWatchers": 843,
+    "githubForks": 2444,
+    "githubStars": 10490,
+    "githubWatchers": 842,
     "githubCreated_at": "2012-02-29T02:32:08Z",
-    "githubUpdated_at": "2017-04-12T21:00:53Z"
+    "githubUpdated_at": "2017-04-13T09:28:39Z"
   },
   {
     "githubUrl": "https://github.com/go-zoo/bone",
@@ -46,10 +46,10 @@
     "githubSize": 2504,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/10365993?v=3",
     "githubForks": 65,
-    "githubStars": 1011,
+    "githubStars": 1010,
     "githubWatchers": 36,
     "githubCreated_at": "2014-11-19T02:16:36Z",
-    "githubUpdated_at": "2017-04-11T05:30:50Z"
+    "githubUpdated_at": "2017-04-13T08:50:40Z"
   },
   {
     "githubUrl": "https://github.com/claygod/Bxog",
@@ -72,10 +72,10 @@
     "githubSize": 3258,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/18835?v=3",
     "githubForks": 101,
-    "githubStars": 1671,
+    "githubStars": 1672,
     "githubWatchers": 87,
     "githubCreated_at": "2015-10-15T20:46:29Z",
-    "githubUpdated_at": "2017-04-12T17:01:00Z"
+    "githubUpdated_at": "2017-04-13T03:45:04Z"
   },
   {
     "githubUrl": "https://github.com/labstack/echo",
@@ -84,11 +84,11 @@
     "githubDescription": "High performance, minimalist Go web framework",
     "githubSize": 4869,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/2624634?v=3",
-    "githubForks": 599,
-    "githubStars": 6992,
-    "githubWatchers": 362,
+    "githubForks": 600,
+    "githubStars": 6998,
+    "githubWatchers": 361,
     "githubCreated_at": "2015-03-01T17:43:01Z",
-    "githubUpdated_at": "2017-04-12T16:26:24Z"
+    "githubUpdated_at": "2017-04-13T07:12:35Z"
   },
   {
     "githubUrl": "https://github.com/buaazp/fasthttprouter",
@@ -98,10 +98,10 @@
     "githubSize": 173,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1470377?v=3",
     "githubForks": 38,
-    "githubStars": 273,
+    "githubStars": 274,
     "githubWatchers": 21,
     "githubCreated_at": "2015-12-13T09:32:30Z",
-    "githubUpdated_at": "2017-04-09T17:57:11Z"
+    "githubUpdated_at": "2017-04-13T07:11:04Z"
   },
   {
     "githubUrl": "https://github.com/jabong/florest-core",
@@ -137,10 +137,10 @@
     "githubSize": 976,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/40227?v=3",
     "githubForks": 299,
-    "githubStars": 2730,
+    "githubStars": 2731,
     "githubWatchers": 148,
     "githubCreated_at": "2013-02-19T03:15:45Z",
-    "githubUpdated_at": "2017-04-12T20:49:41Z"
+    "githubUpdated_at": "2017-04-13T01:26:24Z"
   },
   {
     "githubUrl": "https://github.com/go-kit/kit",
@@ -149,11 +149,11 @@
     "githubDescription": "A standard library for microservices.",
     "githubSize": 5295,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/10981023?v=3",
-    "githubForks": 597,
-    "githubStars": 6330,
+    "githubForks": 598,
+    "githubStars": 6334,
     "githubWatchers": 387,
     "githubCreated_at": "2015-02-03T00:01:19Z",
-    "githubUpdated_at": "2017-04-12T21:42:28Z"
+    "githubUpdated_at": "2017-04-13T08:48:11Z"
   },
   {
     "githubUrl": "https://github.com/codehack/go-relax",
@@ -176,10 +176,10 @@
     "githubSize": 10424,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/496526?v=3",
     "githubForks": 243,
-    "githubStars": 1650,
+    "githubStars": 1651,
     "githubWatchers": 94,
     "githubCreated_at": "2013-07-13T13:04:38Z",
-    "githubUpdated_at": "2017-04-12T14:04:09Z"
+    "githubUpdated_at": "2017-04-13T05:18:47Z"
   },
   {
     "githubUrl": "https://github.com/gocraft/web",
@@ -189,10 +189,10 @@
     "githubSize": 207,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/6075192?v=3",
     "githubForks": 89,
-    "githubStars": 1205,
+    "githubStars": 1204,
     "githubWatchers": 56,
     "githubCreated_at": "2013-11-16T20:48:20Z",
-    "githubUpdated_at": "2017-04-08T16:49:01Z"
+    "githubUpdated_at": "2017-04-13T08:48:34Z"
   },
   {
     "githubUrl": "https://github.com/lunny/tango",

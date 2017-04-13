@@ -7,10 +7,10 @@
     "githubSize": 285,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/4986074?v=3",
     "githubForks": 693,
-    "githubStars": 3401,
+    "githubStars": 3402,
     "githubWatchers": 233,
     "githubCreated_at": "2013-11-02T21:10:54Z",
-    "githubUpdated_at": "2017-04-12T16:12:46Z"
+    "githubUpdated_at": "2017-04-13T00:31:55Z"
   },
   {
     "githubUrl": "https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered",
@@ -58,11 +58,11 @@
     "githubDescription": "[WordPress] The WordPress Widget Boilerplate is an organized, maintainable boilerplate for building widgets using WordPress best practices.",
     "githubSize": 238,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/132166?v=3",
-    "githubForks": 190,
-    "githubStars": 924,
+    "githubForks": 189,
+    "githubStars": 925,
     "githubWatchers": 75,
     "githubCreated_at": "2011-07-08T17:08:51Z",
-    "githubUpdated_at": "2017-04-12T16:11:23Z"
+    "githubUpdated_at": "2017-04-12T23:48:41Z"
   },
   {
     "githubUrl": "https://github.com/maxkostinevich/WP-Plugin-Starter-Kit",
@@ -141,5 +141,70 @@
     "githubWatchers": 8,
     "githubCreated_at": "2014-11-15T03:21:00Z",
     "githubUpdated_at": "2017-04-10T14:08:46Z"
+  },
+  {
+    "githubUrl": "https://github.com/ahmadawais/WP-Welcome-Page-Boilerplate",
+    "githubOwner": "ahmadawais",
+    "githubName": "WP-Welcome-Page-Boilerplate",
+    "githubDescription": "WordPress plugin welcome page boilerplate!",
+    "githubSize": 27,
+    "githubAvatar": "https://avatars2.githubusercontent.com/u/960133?v=3",
+    "githubForks": 3,
+    "githubStars": 15,
+    "githubWatchers": 2,
+    "githubCreated_at": "2016-02-22T09:30:15Z",
+    "githubUpdated_at": "2016-12-19T12:43:41Z"
+  },
+  {
+    "githubUrl": "https://github.com/ahmadawais/_child",
+    "githubOwner": "ahmadawais",
+    "githubName": "_child",
+    "githubDescription": "_child is a WordPress Child Theme Boilerplate",
+    "githubSize": 923,
+    "githubAvatar": "https://avatars2.githubusercontent.com/u/960133?v=3",
+    "githubForks": 8,
+    "githubStars": 43,
+    "githubWatchers": 5,
+    "githubCreated_at": "2015-08-06T14:51:05Z",
+    "githubUpdated_at": "2017-04-07T19:05:53Z"
+  },
+  {
+    "githubUrl": "https://github.com/ahmadawais/WPCustomize",
+    "githubOwner": "ahmadawais",
+    "githubName": "WPCustomize",
+    "githubDescription": "WP Customize component related boilerplate theme and features implementation.",
+    "githubSize": 37,
+    "githubAvatar": "https://avatars2.githubusercontent.com/u/960133?v=3",
+    "githubForks": 1,
+    "githubStars": 28,
+    "githubWatchers": 5,
+    "githubCreated_at": "2016-05-26T18:20:34Z",
+    "githubUpdated_at": "2017-03-18T13:21:18Z"
+  },
+  {
+    "githubUrl": "https://github.com/ahmadawais/WPGulp",
+    "githubOwner": "ahmadawais",
+    "githubName": "WPGulp",
+    "githubDescription": "💯ⓦ → Use Gulp with WordPress. An advanced but portable Gulp front end to help you kickstart a build-workflow for your WordPress plugins and themes.",
+    "githubSize": 52,
+    "githubAvatar": "https://avatars2.githubusercontent.com/u/960133?v=3",
+    "githubForks": 49,
+    "githubStars": 322,
+    "githubWatchers": 31,
+    "githubCreated_at": "2015-12-02T12:35:38Z",
+    "githubUpdated_at": "2017-04-13T09:20:31Z"
+  },
+  {
+    "githubUrl": "https://github.com/ViLourenco/woocommerce-extension-plugin-boilerplate",
+    "githubOwner": "ViLourenco",
+    "githubName": "woocommerce-extension-plugin-boilerplate",
+    "githubDescription": "Plugin boilerplate to create extensions of WooCommerce",
+    "githubSize": 2,
+    "githubAvatar": "https://avatars1.githubusercontent.com/u/1047262?v=3",
+    "githubForks": 0,
+    "githubStars": 2,
+    "githubWatchers": 1,
+    "githubCreated_at": "2017-02-04T02:56:06Z",
+    "githubUpdated_at": "2017-03-02T07:42:22Z"
   }
 ]

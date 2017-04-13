@@ -4,13 +4,13 @@
     "githubOwner": "chentsulin",
     "githubName": "electron-react-boilerplate",
     "githubDescription": "Live editing development on desktop app",
-    "githubSize": 4622,
+    "githubSize": 4636,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/3382565?v=3",
     "githubForks": 812,
-    "githubStars": 5519,
-    "githubWatchers": 160,
+    "githubStars": 5526,
+    "githubWatchers": 159,
     "githubCreated_at": "2015-05-18T09:54:57Z",
-    "githubUpdated_at": "2017-04-12T21:49:25Z"
+    "githubUpdated_at": "2017-04-13T09:21:18Z"
   },
   {
     "githubUrl": "https://github.com/szwacz/electron-boilerplate",
@@ -20,10 +20,10 @@
     "githubSize": 770,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/4573903?v=3",
     "githubForks": 345,
-    "githubStars": 1907,
+    "githubStars": 1908,
     "githubWatchers": 97,
     "githubCreated_at": "2015-04-25T09:16:40Z",
-    "githubUpdated_at": "2017-04-12T15:47:03Z"
+    "githubUpdated_at": "2017-04-13T07:30:49Z"
   },
   {
     "githubUrl": "https://github.com/SimulatedGREG/electron-vue",
@@ -33,10 +33,10 @@
     "githubSize": 4764,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/8327811?v=3",
     "githubForks": 122,
-    "githubStars": 1618,
+    "githubStars": 1621,
     "githubWatchers": 72,
     "githubCreated_at": "2016-05-12T07:08:12Z",
-    "githubUpdated_at": "2017-04-12T20:39:40Z"
+    "githubUpdated_at": "2017-04-13T05:46:58Z"
   },
   {
     "githubUrl": "https://github.com/bradstewart/electron-boilerplate-vue",
@@ -84,7 +84,7 @@
     "githubDescription": "Golang & Electron Boilerplate For Platform Independent Desktop Applications",
     "githubSize": 121,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/3776893?v=3",
-    "githubForks": 5,
+    "githubForks": 6,
     "githubStars": 203,
     "githubWatchers": 15,
     "githubCreated_at": "2017-03-31T12:05:44Z",
