@@ -179,7 +179,12 @@ const languages = [
 			'https://github.com/Darep/wordpress-boilerplate',
 			'https://github.com/theantichris/WordPress-Plugin-Boilerplate',
 			'https://github.com/claudiosanches/wordpress-plugin-boilerplate',
-			'https://github.com/Tmeister/wppb-gen-site'
+			'https://github.com/Tmeister/wppb-gen-site',
+			'https://github.com/ahmadawais/WP-Welcome-Page-Boilerplate',
+			'https://github.com/ahmadawais/_child',
+			'https://github.com/ahmadawais/WPCustomize',
+			'https://github.com/ahmadawais/WPGulp',
+			'https://github.com/ViLourenco/woocommerce-extension-plugin-boilerplate'
 		]
 	},
 	{
