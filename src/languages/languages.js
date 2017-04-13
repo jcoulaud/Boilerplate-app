@@ -87,7 +87,9 @@ const languages = [
 			'https://github.com/icebob/vue-express-mongo-boilerplate',
 			'https://github.com/diki/nodejs-passport-boilerplate',
 			'https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs',
-			'https://github.com/diegohaz/rest'
+			'https://github.com/diegohaz/rest',
+			'https://github.com/ericmdantas/generator-ng-fullstack',
+			'https://github.com/jbutko/ExpressJS-Socket.IO-AngularJS-Boilerplate'
 		]
 	},
 	{
@@ -112,7 +114,8 @@ const languages = [
 			'https://github.com/meanjs/mean',
 			'https://github.com/linnovate/mean',
 			'https://github.com/akveo/blur-admin',
-			'https://github.com/gusgard/angular-seed-es6'
+			'https://github.com/gusgard/angular-seed-es6',
+			'https://github.com/ericmdantas/generator-ng-fullstack'
 		]
 	},
 	{
@@ -162,7 +165,8 @@ const languages = [
 			'https://github.com/codehack/go-relax',
 			'https://github.com/googollee/go-socket.io',
 			'https://github.com/gocraft/web',
-			'https://github.com/lunny/tango'
+			'https://github.com/lunny/tango',
+			'https://github.com/ericmdantas/generator-ng-fullstack'
 		]
 	},
 	{
