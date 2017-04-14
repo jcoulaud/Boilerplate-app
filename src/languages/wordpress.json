@@ -206,5 +206,18 @@
     "githubWatchers": 1,
     "githubCreated_at": "2017-02-04T02:56:06Z",
     "githubUpdated_at": "2017-03-02T07:42:22Z"
+  },
+  {
+    "githubUrl": "https://github.com/Vizir/wordpress-plugin-boilerplate",
+    "githubOwner": "Vizir",
+    "githubName": "wordpress-plugin-boilerplate",
+    "githubDescription": "It's a object-oriented boilerplate for your WordPress Plugins",
+    "githubSize": 147,
+    "githubAvatar": "https://avatars2.githubusercontent.com/u/2676132?v=3",
+    "githubForks": 0,
+    "githubStars": 1,
+    "githubWatchers": 12,
+    "githubCreated_at": "2017-03-17T22:34:00Z",
+    "githubUpdated_at": "2017-03-17T23:14:00Z"
   }
 ]
