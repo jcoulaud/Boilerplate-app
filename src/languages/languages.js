@@ -170,7 +170,7 @@ const languages = [
 		]
 	},
 	{
-		"lang": "Wordpress",
+		"lang": "WordPress",
 		"icon": "devicon-wordpress-plain",
 		"repositories": [
 			'https://github.com/roots/bedrock',
@@ -188,7 +188,8 @@ const languages = [
 			'https://github.com/ahmadawais/_child',
 			'https://github.com/ahmadawais/WPCustomize',
 			'https://github.com/ahmadawais/WPGulp',
-			'https://github.com/ViLourenco/woocommerce-extension-plugin-boilerplate'
+			'https://github.com/ViLourenco/woocommerce-extension-plugin-boilerplate',
+			'https://github.com/Vizir/wordpress-plugin-boilerplate'
 		]
 	},
 	{
