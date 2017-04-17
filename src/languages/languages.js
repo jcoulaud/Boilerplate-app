@@ -18,7 +18,10 @@ const languages = [
 			'https://github.com/jaredpalmer/react-production-starter',
 			'https://github.com/diegohaz/arc',
 			'https://github.com/ctrlplusb/react-universally',
-			'https://github.com/guilherme90/react-webpack-starter'
+			'https://github.com/guilherme90/react-webpack-starter',
+			'https://github.com/reactstrap/reactstrap',
+			'https://github.com/FredericHeem/starhackit',
+			'https://github.com/a-tarasyuk/rr-boilerplate'
 		]
 	},
 	{
