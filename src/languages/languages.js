@@ -93,7 +93,8 @@ const languages = [
 			'https://github.com/diegohaz/rest',
 			'https://github.com/ericmdantas/generator-ng-fullstack',
 			'https://github.com/jbutko/ExpressJS-Socket.IO-AngularJS-Boilerplate',
-			'https://github.com/diegohaz/nod'
+			'https://github.com/diegohaz/nod',
+			'https://github.com/talyssonoc/node-api-boilerplate/'
 		]
 	},
 	{
@@ -193,7 +194,8 @@ const languages = [
 			'https://github.com/ahmadawais/WPCustomize',
 			'https://github.com/ahmadawais/WPGulp',
 			'https://github.com/ViLourenco/woocommerce-extension-plugin-boilerplate',
-			'https://github.com/Vizir/wordpress-plugin-boilerplate'
+			'https://github.com/Vizir/wordpress-plugin-boilerplate',
+			'https://github.com/automattic/_s'
 		]
 	},
 	{
