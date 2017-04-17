@@ -32,11 +32,11 @@
     "githubDescription": "beego is an open-source, high-performance web framework for the Go programming language.",
     "githubSize": 4087,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/233907?v=3",
-    "githubForks": 2455,
-    "githubStars": 10552,
-    "githubWatchers": 842,
+    "githubForks": 2457,
+    "githubStars": 10558,
+    "githubWatchers": 844,
     "githubCreated_at": "2012-02-29T02:32:08Z",
-    "githubUpdated_at": "2017-04-17T07:08:51Z"
+    "githubUpdated_at": "2017-04-17T15:57:16Z"
   },
   {
     "githubUrl": "https://github.com/go-zoo/bone",
@@ -46,10 +46,10 @@
     "githubSize": 2505,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/10365993?v=3",
     "githubForks": 65,
-    "githubStars": 1011,
+    "githubStars": 1012,
     "githubWatchers": 36,
     "githubCreated_at": "2014-11-19T02:16:36Z",
-    "githubUpdated_at": "2017-04-14T03:22:49Z"
+    "githubUpdated_at": "2017-04-17T14:27:08Z"
   },
   {
     "githubUrl": "https://github.com/claygod/Bxog",
@@ -72,10 +72,10 @@
     "githubSize": 3264,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/18835?v=3",
     "githubForks": 101,
-    "githubStars": 1685,
+    "githubStars": 1687,
     "githubWatchers": 87,
     "githubCreated_at": "2015-10-15T20:46:29Z",
-    "githubUpdated_at": "2017-04-17T05:36:42Z"
+    "githubUpdated_at": "2017-04-17T20:40:27Z"
   },
   {
     "githubUrl": "https://github.com/labstack/echo",
@@ -85,10 +85,10 @@
     "githubSize": 4869,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/2624634?v=3",
     "githubForks": 603,
-    "githubStars": 7028,
+    "githubStars": 7031,
     "githubWatchers": 362,
     "githubCreated_at": "2015-03-01T17:43:01Z",
-    "githubUpdated_at": "2017-04-17T02:50:00Z"
+    "githubUpdated_at": "2017-04-17T20:50:57Z"
   },
   {
     "githubUrl": "https://github.com/buaazp/fasthttprouter",
@@ -140,7 +140,7 @@
     "githubStars": 2738,
     "githubWatchers": 148,
     "githubCreated_at": "2013-02-19T03:15:45Z",
-    "githubUpdated_at": "2017-04-17T00:49:01Z"
+    "githubUpdated_at": "2017-04-17T19:46:45Z"
   },
   {
     "githubUrl": "https://github.com/go-kit/kit",
@@ -149,11 +149,11 @@
     "githubDescription": "A standard library for microservices.",
     "githubSize": 5297,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/10981023?v=3",
-    "githubForks": 606,
-    "githubStars": 6427,
+    "githubForks": 605,
+    "githubStars": 6440,
     "githubWatchers": 391,
     "githubCreated_at": "2015-02-03T00:01:19Z",
-    "githubUpdated_at": "2017-04-17T07:49:07Z"
+    "githubUpdated_at": "2017-04-17T20:03:58Z"
   },
   {
     "githubUrl": "https://github.com/codehack/go-relax",
@@ -179,7 +179,7 @@
     "githubStars": 1656,
     "githubWatchers": 94,
     "githubCreated_at": "2013-07-13T13:04:38Z",
-    "githubUpdated_at": "2017-04-17T07:12:54Z"
+    "githubUpdated_at": "2017-04-17T12:43:02Z"
   },
   {
     "githubUrl": "https://github.com/gocraft/web",
@@ -214,7 +214,7 @@
     "githubDescription": "Client, server or fullstack - it's up to you. ng-fullstack gives you the best of the latest: Node, Go, HTTP/2, Angular 1, Angular 2, Vue, Aurelia, Express, Koa, Echo, Gin, MongoDB, Gulp, Babel, Typescript and much more.",
     "githubSize": 1794,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/7040162?v=3",
-    "githubForks": 78,
+    "githubForks": 79,
     "githubStars": 542,
     "githubWatchers": 42,
     "githubCreated_at": "2015-03-04T01:59:47Z",

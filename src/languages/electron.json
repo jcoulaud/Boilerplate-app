@@ -4,13 +4,13 @@
     "githubOwner": "chentsulin",
     "githubName": "electron-react-boilerplate",
     "githubDescription": "Live editing development on desktop app",
-    "githubSize": 4566,
+    "githubSize": 4789,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/3382565?v=3",
-    "githubForks": 822,
-    "githubStars": 5570,
+    "githubForks": 824,
+    "githubStars": 5577,
     "githubWatchers": 160,
     "githubCreated_at": "2015-05-18T09:54:57Z",
-    "githubUpdated_at": "2017-04-17T07:44:02Z"
+    "githubUpdated_at": "2017-04-17T20:34:11Z"
   },
   {
     "githubUrl": "https://github.com/szwacz/electron-boilerplate",
@@ -19,7 +19,7 @@
     "githubDescription": "Boilerplate application for Electron runtime",
     "githubSize": 770,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/4573903?v=3",
-    "githubForks": 342,
+    "githubForks": 341,
     "githubStars": 1917,
     "githubWatchers": 98,
     "githubCreated_at": "2015-04-25T09:16:40Z",
@@ -33,10 +33,10 @@
     "githubSize": 4749,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/8327811?v=3",
     "githubForks": 124,
-    "githubStars": 1652,
+    "githubStars": 1659,
     "githubWatchers": 73,
     "githubCreated_at": "2016-05-12T07:08:12Z",
-    "githubUpdated_at": "2017-04-17T02:42:31Z"
+    "githubUpdated_at": "2017-04-17T20:30:29Z"
   },
   {
     "githubUrl": "https://github.com/bradstewart/electron-boilerplate-vue",
@@ -85,10 +85,10 @@
     "githubSize": 121,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/3776893?v=3",
     "githubForks": 8,
-    "githubStars": 241,
+    "githubStars": 249,
     "githubWatchers": 19,
     "githubCreated_at": "2017-03-31T12:05:44Z",
-    "githubUpdated_at": "2017-04-17T06:18:50Z"
+    "githubUpdated_at": "2017-04-17T21:30:51Z"
   },
   {
     "githubUrl": "https://github.com/Stephn-R/electron-angular-boilerplate",
@@ -97,7 +97,7 @@
     "githubDescription": "An Electron template app using AngularJS, Skeleton and a whoe sleuth of tools for building Windows/Mac/Linux desktop applications",
     "githubSize": 1866,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/5117415?v=3",
-    "githubForks": 38,
+    "githubForks": 39,
     "githubStars": 134,
     "githubWatchers": 9,
     "githubCreated_at": "2015-06-16T13:51:16Z",
@@ -110,7 +110,7 @@
     "githubDescription": "A minimal boilerplate to get started with Electron, React and Redux.",
     "githubSize": 36,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1163252?v=3",
-    "githubForks": 33,
+    "githubForks": 32,
     "githubStars": 137,
     "githubWatchers": 8,
     "githubCreated_at": "2015-09-14T16:44:57Z",
@@ -150,10 +150,10 @@
     "githubSize": 238,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/15132822?v=3",
     "githubForks": 22,
-    "githubStars": 90,
+    "githubStars": 91,
     "githubWatchers": 5,
     "githubCreated_at": "2015-10-26T14:21:24Z",
-    "githubUpdated_at": "2017-04-15T17:59:59Z"
+    "githubUpdated_at": "2017-04-17T15:34:07Z"
   },
   {
     "githubUrl": "https://github.com/taichi/js-boilerplate",

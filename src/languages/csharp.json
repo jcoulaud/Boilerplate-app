@@ -19,11 +19,11 @@
     "githubDescription": "ASP.NET Boilerplate - Application Framework",
     "githubSize": 23199,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/5957277?v=3",
-    "githubForks": 1355,
-    "githubStars": 2560,
-    "githubWatchers": 509,
+    "githubForks": 1356,
+    "githubStars": 2562,
+    "githubWatchers": 510,
     "githubCreated_at": "2013-08-18T20:45:08Z",
-    "githubUpdated_at": "2017-04-17T02:43:06Z"
+    "githubUpdated_at": "2017-04-17T20:44:03Z"
   },
   {
     "githubUrl": "https://github.com/ASP-NET-MVC-Boilerplate/Templates",
@@ -43,13 +43,13 @@
     "githubOwner": "aspnetboilerplate",
     "githubName": "module-zero",
     "githubDescription": "ASP.NET Boilerplate - Module Zero",
-    "githubSize": 19232,
+    "githubSize": 19238,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/5957277?v=3",
     "githubForks": 379,
-    "githubStars": 436,
-    "githubWatchers": 130,
+    "githubStars": 437,
+    "githubWatchers": 129,
     "githubCreated_at": "2014-08-22T17:57:19Z",
-    "githubUpdated_at": "2017-04-15T23:12:48Z"
+    "githubUpdated_at": "2017-04-17T09:48:52Z"
   },
   {
     "githubUrl": "https://github.com/kriasoft/aspnet-starter-kit",
@@ -59,10 +59,10 @@
     "githubSize": 1398,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/773036?v=3",
     "githubForks": 131,
-    "githubStars": 643,
+    "githubStars": 645,
     "githubWatchers": 77,
     "githubCreated_at": "2014-08-21T09:51:46Z",
-    "githubUpdated_at": "2017-04-16T16:51:18Z"
+    "githubUpdated_at": "2017-04-17T19:34:08Z"
   },
   {
     "githubUrl": "https://github.com/restsharp/RestSharp",
@@ -72,9 +72,9 @@
     "githubSize": 37966,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1057779?v=3",
     "githubForks": 1407,
-    "githubStars": 4207,
+    "githubStars": 4208,
     "githubWatchers": 388,
     "githubCreated_at": "2009-11-16T02:01:45Z",
-    "githubUpdated_at": "2017-04-17T06:19:55Z"
+    "githubUpdated_at": "2017-04-17T22:05:03Z"
   }
 ]
