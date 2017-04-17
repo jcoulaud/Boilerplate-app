@@ -92,7 +92,8 @@ const languages = [
 			'https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs',
 			'https://github.com/diegohaz/rest',
 			'https://github.com/ericmdantas/generator-ng-fullstack',
-			'https://github.com/jbutko/ExpressJS-Socket.IO-AngularJS-Boilerplate'
+			'https://github.com/jbutko/ExpressJS-Socket.IO-AngularJS-Boilerplate',
+			'https://github.com/diegohaz/nod'
 		]
 	},
 	{
