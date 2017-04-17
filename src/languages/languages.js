@@ -93,6 +93,7 @@ const languages = [
 			'https://github.com/diegohaz/rest',
 			'https://github.com/ericmdantas/generator-ng-fullstack',
 			'https://github.com/jbutko/ExpressJS-Socket.IO-AngularJS-Boilerplate',
+			'https://github.com/diegohaz/nod',
 			'https://github.com/talyssonoc/node-api-boilerplate/'
 		]
 	},
