@@ -6,7 +6,7 @@
     "githubDescription": "A boilerplate for Django web applications",
     "githubSize": 4821,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1226900?v=3",
-    "githubForks": 182,
+    "githubForks": 181,
     "githubStars": 994,
     "githubWatchers": 66,
     "githubCreated_at": "2015-05-08T02:26:16Z",
@@ -20,10 +20,10 @@
     "githubSize": 1514,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1261889?v=3",
     "githubForks": 74,
-    "githubStars": 396,
+    "githubStars": 398,
     "githubWatchers": 54,
     "githubCreated_at": "2012-02-16T19:45:17Z",
-    "githubUpdated_at": "2017-04-08T22:03:09Z"
+    "githubUpdated_at": "2017-04-19T10:45:24Z"
   },
   {
     "githubUrl": "https://github.com/mbrochh/django-reactjs-boilerplate",
@@ -56,7 +56,7 @@
     "githubOwner": "agconti",
     "githubName": "cookiecutter-django-rest",
     "githubDescription": "For creating REST apis for mobile and web applications.",
-    "githubSize": 4484,
+    "githubSize": 4486,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/3332051?v=3",
     "githubForks": 38,
     "githubStars": 189,
@@ -71,7 +71,7 @@
     "githubDescription": "Boilerplate for the Thinkster.io Django and AngularJS tutorial.",
     "githubSize": 417,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/4095660?v=3",
-    "githubForks": 1389,
+    "githubForks": 1391,
     "githubStars": 187,
     "githubWatchers": 15,
     "githubCreated_at": "2014-11-03T21:04:43Z",
@@ -98,10 +98,10 @@
     "githubSize": 73,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/5529080?v=3",
     "githubForks": 11,
-    "githubStars": 61,
+    "githubStars": 62,
     "githubWatchers": 14,
     "githubCreated_at": "2016-07-19T20:37:29Z",
-    "githubUpdated_at": "2017-04-12T17:55:09Z"
+    "githubUpdated_at": "2017-04-18T03:58:14Z"
   },
   {
     "githubUrl": "https://github.com/bueda/django-boilerplate",

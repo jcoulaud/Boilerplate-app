@@ -21,7 +21,8 @@ const languages = [
 			'https://github.com/guilherme90/react-webpack-starter',
 			'https://github.com/reactstrap/reactstrap',
 			'https://github.com/FredericHeem/starhackit',
-			'https://github.com/a-tarasyuk/rr-boilerplate'
+			'https://github.com/a-tarasyuk/rr-boilerplate',
+			'https://github.com/peter-mouland/react-lego/'
 		]
 	},
 	{
@@ -195,7 +196,8 @@ const languages = [
 			'https://github.com/ahmadawais/WPGulp',
 			'https://github.com/ViLourenco/woocommerce-extension-plugin-boilerplate',
 			'https://github.com/Vizir/wordpress-plugin-boilerplate',
-			'https://github.com/automattic/_s'
+			'https://github.com/automattic/_s',
+			'https://github.com/wordplate/wordplate'
 		]
 	},
 	{
