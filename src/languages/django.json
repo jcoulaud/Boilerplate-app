@@ -7,10 +7,10 @@
     "githubSize": 4821,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1226900?v=3",
     "githubForks": 181,
-    "githubStars": 994,
+    "githubStars": 993,
     "githubWatchers": 66,
     "githubCreated_at": "2015-05-08T02:26:16Z",
-    "githubUpdated_at": "2017-04-17T14:35:49Z"
+    "githubUpdated_at": "2017-04-20T15:14:31Z"
   },
   {
     "githubUrl": "https://github.com/zapier/django-knowledge",
@@ -59,10 +59,10 @@
     "githubSize": 4486,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/3332051?v=3",
     "githubForks": 38,
-    "githubStars": 189,
+    "githubStars": 190,
     "githubWatchers": 8,
     "githubCreated_at": "2015-06-04T16:46:49Z",
-    "githubUpdated_at": "2017-04-16T04:59:41Z"
+    "githubUpdated_at": "2017-04-21T10:54:34Z"
   },
   {
     "githubUrl": "https://github.com/brwr/thinkster-django-angular-boilerplate",
@@ -71,7 +71,7 @@
     "githubDescription": "Boilerplate for the Thinkster.io Django and AngularJS tutorial.",
     "githubSize": 417,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/4095660?v=3",
-    "githubForks": 1391,
+    "githubForks": 1390,
     "githubStars": 187,
     "githubWatchers": 15,
     "githubCreated_at": "2014-11-03T21:04:43Z",
@@ -95,13 +95,13 @@
     "githubOwner": "vintasoftware",
     "githubName": "django-react-boilerplate",
     "githubDescription": "Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate",
-    "githubSize": 73,
+    "githubSize": 76,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/5529080?v=3",
-    "githubForks": 11,
-    "githubStars": 62,
-    "githubWatchers": 14,
+    "githubForks": 12,
+    "githubStars": 63,
+    "githubWatchers": 15,
     "githubCreated_at": "2016-07-19T20:37:29Z",
-    "githubUpdated_at": "2017-04-18T03:58:14Z"
+    "githubUpdated_at": "2017-04-19T22:30:08Z"
   },
   {
     "githubUrl": "https://github.com/bueda/django-boilerplate",

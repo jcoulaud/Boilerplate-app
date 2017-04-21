@@ -22,7 +22,9 @@ const languages = [
 			'https://github.com/reactstrap/reactstrap',
 			'https://github.com/FredericHeem/starhackit',
 			'https://github.com/a-tarasyuk/rr-boilerplate',
-			'https://github.com/peter-mouland/react-lego/'
+			'https://github.com/peter-mouland/react-lego/',
+			'https://github.com/zeit/next.js/',
+			'https://github.com/codefoundries/UniversalRelayBoilerplate'
 		]
 	},
 	{

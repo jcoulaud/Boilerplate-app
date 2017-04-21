@@ -7,10 +7,10 @@
     "githubSize": 4821,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1226900?v=3",
     "githubForks": 181,
-    "githubStars": 994,
+    "githubStars": 993,
     "githubWatchers": 66,
     "githubCreated_at": "2015-05-08T02:26:16Z",
-    "githubUpdated_at": "2017-04-17T14:35:49Z"
+    "githubUpdated_at": "2017-04-20T15:14:31Z"
   },
   {
     "githubUrl": "https://github.com/kirang89/bootstrapy",
@@ -33,10 +33,10 @@
     "githubSize": 704,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/368066?v=3",
     "githubForks": 242,
-    "githubStars": 1370,
+    "githubStars": 1374,
     "githubWatchers": 77,
     "githubCreated_at": "2012-10-17T04:23:32Z",
-    "githubUpdated_at": "2017-04-17T16:47:11Z"
+    "githubUpdated_at": "2017-04-21T12:37:03Z"
   },
   {
     "githubUrl": "https://github.com/esbullington/flask-bootstrap",
@@ -56,13 +56,13 @@
     "githubOwner": "audreyr",
     "githubName": "cookiecutter",
     "githubDescription": "A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.",
-    "githubSize": 2016,
+    "githubSize": 2049,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/74739?v=3",
     "githubForks": 570,
-    "githubStars": 4855,
-    "githubWatchers": 148,
+    "githubStars": 4873,
+    "githubWatchers": 149,
     "githubCreated_at": "2013-07-14T18:31:22Z",
-    "githubUpdated_at": "2017-04-19T12:53:58Z"
+    "githubUpdated_at": "2017-04-21T12:43:28Z"
   },
   {
     "githubUrl": "https://github.com/JackStouffer/Flask-Foundation",
@@ -71,11 +71,11 @@
     "githubDescription": "A solid foundation for your flask app",
     "githubSize": 1436,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/680068?v=3",
-    "githubForks": 107,
-    "githubStars": 1005,
+    "githubForks": 108,
+    "githubStars": 1008,
     "githubWatchers": 41,
     "githubCreated_at": "2013-09-15T06:34:48Z",
-    "githubUpdated_at": "2017-04-17T11:31:35Z"
+    "githubUpdated_at": "2017-04-21T12:39:00Z"
   },
   {
     "githubUrl": "https://github.com/coto/gae-boilerplate",
@@ -85,10 +85,10 @@
     "githubSize": 7326,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/25914?v=3",
     "githubForks": 227,
-    "githubStars": 704,
+    "githubStars": 706,
     "githubWatchers": 103,
     "githubCreated_at": "2012-02-12T16:17:18Z",
-    "githubUpdated_at": "2017-04-13T10:09:00Z"
+    "githubUpdated_at": "2017-04-20T11:12:21Z"
   },
   {
     "githubUrl": "https://github.com/kamalgill/flask-appengine-template",
@@ -114,7 +114,7 @@
     "githubStars": 64,
     "githubWatchers": 9,
     "githubCreated_at": "2014-07-20T16:52:39Z",
-    "githubUpdated_at": "2017-04-11T15:32:08Z"
+    "githubUpdated_at": "2017-04-21T07:32:53Z"
   },
   {
     "githubUrl": "https://github.com/kdeldycke/cherrypy_mako_formish_ooop_boilerplate",
