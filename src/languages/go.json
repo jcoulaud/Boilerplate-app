@@ -30,13 +30,13 @@
     "githubOwner": "astaxie",
     "githubName": "beego",
     "githubDescription": "beego is an open-source, high-performance web framework for the Go programming language.",
-    "githubSize": 4102,
+    "githubSize": 4098,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/233907?v=3",
     "githubForks": 2474,
-    "githubStars": 10596,
+    "githubStars": 10579,
     "githubWatchers": 849,
     "githubCreated_at": "2012-02-29T02:32:08Z",
-    "githubUpdated_at": "2017-04-21T13:12:34Z"
+    "githubUpdated_at": "2017-04-22T15:32:39Z"
   },
   {
     "githubUrl": "https://github.com/go-zoo/bone",
@@ -46,10 +46,10 @@
     "githubSize": 2507,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/10365993?v=3",
     "githubForks": 67,
-    "githubStars": 1013,
+    "githubStars": 1015,
     "githubWatchers": 36,
     "githubCreated_at": "2014-11-19T02:16:36Z",
-    "githubUpdated_at": "2017-04-20T15:24:43Z"
+    "githubUpdated_at": "2017-04-22T11:15:05Z"
   },
   {
     "githubUrl": "https://github.com/claygod/Bxog",
@@ -72,10 +72,10 @@
     "githubSize": 3264,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/18835?v=3",
     "githubForks": 104,
-    "githubStars": 1750,
+    "githubStars": 1757,
     "githubWatchers": 88,
     "githubCreated_at": "2015-10-15T20:46:29Z",
-    "githubUpdated_at": "2017-04-21T13:41:50Z"
+    "githubUpdated_at": "2017-04-22T08:49:57Z"
   },
   {
     "githubUrl": "https://github.com/labstack/echo",
@@ -84,11 +84,11 @@
     "githubDescription": "High performance, minimalist Go web framework",
     "githubSize": 4876,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/2624634?v=3",
-    "githubForks": 604,
-    "githubStars": 7068,
-    "githubWatchers": 362,
+    "githubForks": 603,
+    "githubStars": 7074,
+    "githubWatchers": 363,
     "githubCreated_at": "2015-03-01T17:43:01Z",
-    "githubUpdated_at": "2017-04-21T13:40:32Z"
+    "githubUpdated_at": "2017-04-22T10:44:56Z"
   },
   {
     "githubUrl": "https://github.com/buaazp/fasthttprouter",
@@ -98,10 +98,10 @@
     "githubSize": 173,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1470377?v=3",
     "githubForks": 37,
-    "githubStars": 275,
+    "githubStars": 276,
     "githubWatchers": 21,
     "githubCreated_at": "2015-12-13T09:32:30Z",
-    "githubUpdated_at": "2017-04-15T21:38:01Z"
+    "githubUpdated_at": "2017-04-22T10:44:20Z"
   },
   {
     "githubUrl": "https://github.com/jabong/florest-core",
@@ -137,10 +137,10 @@
     "githubSize": 976,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/40227?v=3",
     "githubForks": 298,
-    "githubStars": 2744,
+    "githubStars": 2746,
     "githubWatchers": 148,
     "githubCreated_at": "2013-02-19T03:15:45Z",
-    "githubUpdated_at": "2017-04-21T12:26:27Z"
+    "githubUpdated_at": "2017-04-22T15:44:26Z"
   },
   {
     "githubUrl": "https://github.com/go-kit/kit",
@@ -149,18 +149,18 @@
     "githubDescription": "A standard library for microservices.",
     "githubSize": 5299,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/10981023?v=3",
-    "githubForks": 613,
-    "githubStars": 6489,
+    "githubForks": 614,
+    "githubStars": 6498,
     "githubWatchers": 396,
     "githubCreated_at": "2015-02-03T00:01:19Z",
-    "githubUpdated_at": "2017-04-21T13:21:30Z"
+    "githubUpdated_at": "2017-04-22T16:21:47Z"
   },
   {
     "githubUrl": "https://github.com/codehack/go-relax",
     "githubOwner": "codehack",
     "githubName": "go-relax",
     "githubDescription": "Framework for building RESTful API's in Go",
-    "githubSize": 180,
+    "githubSize": 181,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/652951?v=3",
     "githubForks": 5,
     "githubStars": 142,
@@ -189,10 +189,10 @@
     "githubSize": 207,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/6075192?v=3",
     "githubForks": 89,
-    "githubStars": 1202,
+    "githubStars": 1203,
     "githubWatchers": 56,
     "githubCreated_at": "2013-11-16T20:48:20Z",
-    "githubUpdated_at": "2017-04-18T21:08:25Z"
+    "githubUpdated_at": "2017-04-22T14:32:27Z"
   },
   {
     "githubUrl": "https://github.com/lunny/tango",
@@ -201,7 +201,7 @@
     "githubDescription": "Micro & pluggable web framework for Go",
     "githubSize": 301,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/81045?v=3",
-    "githubForks": 75,
+    "githubForks": 76,
     "githubStars": 553,
     "githubWatchers": 65,
     "githubCreated_at": "2014-12-17T03:07:09Z",

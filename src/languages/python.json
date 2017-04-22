@@ -32,11 +32,11 @@
     "githubDescription": "Fbone (Flask bone) is a Flask (Python microframework) template/bootstrap/boilerplate application.",
     "githubSize": 704,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/368066?v=3",
-    "githubForks": 242,
-    "githubStars": 1374,
+    "githubForks": 241,
+    "githubStars": 1375,
     "githubWatchers": 77,
     "githubCreated_at": "2012-10-17T04:23:32Z",
-    "githubUpdated_at": "2017-04-21T12:37:03Z"
+    "githubUpdated_at": "2017-04-22T02:49:05Z"
   },
   {
     "githubUrl": "https://github.com/esbullington/flask-bootstrap",
@@ -59,10 +59,10 @@
     "githubSize": 2049,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/74739?v=3",
     "githubForks": 570,
-    "githubStars": 4873,
+    "githubStars": 4879,
     "githubWatchers": 149,
     "githubCreated_at": "2013-07-14T18:31:22Z",
-    "githubUpdated_at": "2017-04-21T12:43:28Z"
+    "githubUpdated_at": "2017-04-22T15:21:40Z"
   },
   {
     "githubUrl": "https://github.com/JackStouffer/Flask-Foundation",
@@ -72,10 +72,10 @@
     "githubSize": 1436,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/680068?v=3",
     "githubForks": 108,
-    "githubStars": 1008,
+    "githubStars": 1010,
     "githubWatchers": 41,
     "githubCreated_at": "2013-09-15T06:34:48Z",
-    "githubUpdated_at": "2017-04-21T12:39:00Z"
+    "githubUpdated_at": "2017-04-21T21:37:22Z"
   },
   {
     "githubUrl": "https://github.com/coto/gae-boilerplate",
@@ -97,9 +97,9 @@
     "githubDescription": "Boilerplate project template for running Flask on Google App Engine",
     "githubSize": 3279,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/133923?v=3",
-    "githubForks": 208,
+    "githubForks": 207,
     "githubStars": 988,
-    "githubWatchers": 75,
+    "githubWatchers": 76,
     "githubCreated_at": "2010-09-19T17:42:15Z",
     "githubUpdated_at": "2017-04-16T17:56:39Z"
   },
@@ -150,9 +150,9 @@
     "githubSize": 276,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/187098?v=3",
     "githubForks": 77,
-    "githubStars": 327,
+    "githubStars": 328,
     "githubWatchers": 22,
     "githubCreated_at": "2010-11-13T22:19:42Z",
-    "githubUpdated_at": "2017-04-16T16:57:35Z"
+    "githubUpdated_at": "2017-04-22T10:16:04Z"
   }
 ]
