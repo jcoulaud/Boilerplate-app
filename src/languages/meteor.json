@@ -17,7 +17,7 @@
     "githubOwner": "matteodem",
     "githubName": "meteor-boilerplate",
     "githubDescription": "A boilerplate for meteorjs projects",
-    "githubSize": 2675,
+    "githubSize": 2628,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1301147?v=3",
     "githubForks": 143,
     "githubStars": 842,
@@ -33,10 +33,10 @@
     "githubSize": 3368,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/8183166?v=3",
     "githubForks": 246,
-    "githubStars": 621,
-    "githubWatchers": 52,
+    "githubStars": 622,
+    "githubWatchers": 54,
     "githubCreated_at": "2014-07-21T20:44:21Z",
-    "githubUpdated_at": "2017-04-22T10:25:09Z"
+    "githubUpdated_at": "2017-04-24T20:18:25Z"
   },
   {
     "githubUrl": "https://github.com/radiegtya/meteoris2",
@@ -46,10 +46,10 @@
     "githubSize": 23137,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/2161622?v=3",
     "githubForks": 51,
-    "githubStars": 270,
+    "githubStars": 269,
     "githubWatchers": 52,
     "githubCreated_at": "2014-09-11T11:19:54Z",
-    "githubUpdated_at": "2017-04-02T03:01:55Z"
+    "githubUpdated_at": "2017-04-23T22:03:02Z"
   },
   {
     "githubUrl": "https://github.com/AdamBrodzinski/meteor-react-boilerplate",
@@ -72,10 +72,10 @@
     "githubSize": 132,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/12532733?v=3",
     "githubForks": 25,
-    "githubStars": 140,
+    "githubStars": 141,
     "githubWatchers": 22,
     "githubCreated_at": "2016-01-28T21:20:25Z",
-    "githubUpdated_at": "2017-04-21T09:51:05Z"
+    "githubUpdated_at": "2017-04-25T17:03:05Z"
   },
   {
     "githubUrl": "https://github.com/meteor-useraccounts/boilerplates",
