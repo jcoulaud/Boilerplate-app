@@ -17,13 +17,13 @@
     "githubOwner": "aspnetboilerplate",
     "githubName": "aspnetboilerplate",
     "githubDescription": "ASP.NET Boilerplate - Application Framework",
-    "githubSize": 23261,
+    "githubSize": 23262,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/5957277?v=3",
-    "githubForks": 1380,
-    "githubStars": 2616,
-    "githubWatchers": 517,
+    "githubForks": 1387,
+    "githubStars": 2624,
+    "githubWatchers": 518,
     "githubCreated_at": "2013-08-18T20:45:08Z",
-    "githubUpdated_at": "2017-04-26T10:10:16Z"
+    "githubUpdated_at": "2017-04-27T07:11:14Z"
   },
   {
     "githubUrl": "https://github.com/ASP-NET-MVC-Boilerplate/Templates",
@@ -32,22 +32,22 @@
     "githubDescription": "Professional ASP.NET MVC templates for building secure, fast, robust and adaptable web applications or sites. It provides the minimum amount of code required on top of the default MVC template provided by Microsoft.",
     "githubSize": 41538,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/22211766?v=3",
-    "githubForks": 213,
-    "githubStars": 819,
+    "githubForks": 214,
+    "githubStars": 825,
     "githubWatchers": 129,
     "githubCreated_at": "2014-10-27T08:57:45Z",
-    "githubUpdated_at": "2017-04-26T04:59:17Z"
+    "githubUpdated_at": "2017-04-27T08:00:29Z"
   },
   {
     "githubUrl": "https://github.com/aspnetboilerplate/module-zero",
     "githubOwner": "aspnetboilerplate",
     "githubName": "module-zero",
     "githubDescription": "ASP.NET Boilerplate - Module Zero",
-    "githubSize": 19223,
+    "githubSize": 19230,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/5957277?v=3",
-    "githubForks": 383,
+    "githubForks": 384,
     "githubStars": 443,
-    "githubWatchers": 129,
+    "githubWatchers": 130,
     "githubCreated_at": "2014-08-22T17:57:19Z",
     "githubUpdated_at": "2017-04-24T11:23:29Z"
   },
@@ -59,10 +59,10 @@
     "githubSize": 1398,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/773036?v=3",
     "githubForks": 131,
-    "githubStars": 654,
+    "githubStars": 655,
     "githubWatchers": 77,
     "githubCreated_at": "2014-08-21T09:51:46Z",
-    "githubUpdated_at": "2017-04-26T10:04:25Z"
+    "githubUpdated_at": "2017-04-26T17:28:19Z"
   },
   {
     "githubUrl": "https://github.com/restsharp/RestSharp",
@@ -72,9 +72,9 @@
     "githubSize": 37966,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1057779?v=3",
     "githubForks": 1415,
-    "githubStars": 4239,
+    "githubStars": 4241,
     "githubWatchers": 386,
     "githubCreated_at": "2009-11-16T02:01:45Z",
-    "githubUpdated_at": "2017-04-26T03:58:52Z"
+    "githubUpdated_at": "2017-04-27T09:06:37Z"
   }
 ]

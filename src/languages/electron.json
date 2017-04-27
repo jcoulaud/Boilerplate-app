@@ -4,39 +4,39 @@
     "githubOwner": "chentsulin",
     "githubName": "electron-react-boilerplate",
     "githubDescription": "Live editing development on desktop app",
-    "githubSize": 4670,
+    "githubSize": 4679,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/3382565?v=3",
-    "githubForks": 840,
-    "githubStars": 5666,
-    "githubWatchers": 157,
+    "githubForks": 841,
+    "githubStars": 5679,
+    "githubWatchers": 156,
     "githubCreated_at": "2015-05-18T09:54:57Z",
-    "githubUpdated_at": "2017-04-26T09:51:12Z"
+    "githubUpdated_at": "2017-04-27T08:10:52Z"
   },
   {
     "githubUrl": "https://github.com/szwacz/electron-boilerplate",
     "githubOwner": "szwacz",
     "githubName": "electron-boilerplate",
     "githubDescription": "Boilerplate application for Electron runtime",
-    "githubSize": 769,
+    "githubSize": 748,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/4573903?v=3",
     "githubForks": 345,
-    "githubStars": 1932,
-    "githubWatchers": 98,
+    "githubStars": 1933,
+    "githubWatchers": 97,
     "githubCreated_at": "2015-04-25T09:16:40Z",
-    "githubUpdated_at": "2017-04-26T08:48:11Z"
+    "githubUpdated_at": "2017-04-26T13:43:00Z"
   },
   {
     "githubUrl": "https://github.com/SimulatedGREG/electron-vue",
     "githubOwner": "SimulatedGREG",
     "githubName": "electron-vue",
     "githubDescription": "An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.",
-    "githubSize": 4757,
+    "githubSize": 4762,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/8327811?v=3",
-    "githubForks": 133,
-    "githubStars": 1723,
+    "githubForks": 134,
+    "githubStars": 1728,
     "githubWatchers": 76,
     "githubCreated_at": "2016-05-12T07:08:12Z",
-    "githubUpdated_at": "2017-04-26T08:37:48Z"
+    "githubUpdated_at": "2017-04-27T07:49:43Z"
   },
   {
     "githubUrl": "https://github.com/bradstewart/electron-boilerplate-vue",
@@ -111,10 +111,10 @@
     "githubSize": 36,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1163252?v=3",
     "githubForks": 33,
-    "githubStars": 139,
+    "githubStars": 140,
     "githubWatchers": 8,
     "githubCreated_at": "2015-09-14T16:44:57Z",
-    "githubUpdated_at": "2017-04-26T10:13:38Z"
+    "githubUpdated_at": "2017-04-26T11:06:55Z"
   },
   {
     "githubUrl": "https://github.com/Quramy/electron-jsx-babel-boilerplate",

@@ -32,11 +32,11 @@
     "githubDescription": "beego is an open-source, high-performance web framework for the Go programming language.",
     "githubSize": 4139,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/233907?v=3",
-    "githubForks": 2487,
-    "githubStars": 10624,
-    "githubWatchers": 854,
+    "githubForks": 2491,
+    "githubStars": 10631,
+    "githubWatchers": 855,
     "githubCreated_at": "2012-02-29T02:32:08Z",
-    "githubUpdated_at": "2017-04-26T09:55:37Z"
+    "githubUpdated_at": "2017-04-27T09:31:43Z"
   },
   {
     "githubUrl": "https://github.com/go-zoo/bone",
@@ -71,24 +71,24 @@
     "githubDescription": "lightweight, idiomatic and composable router for building Go 1.7+ HTTP services",
     "githubSize": 3264,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/18835?v=3",
-    "githubForks": 105,
-    "githubStars": 1772,
-    "githubWatchers": 90,
+    "githubForks": 106,
+    "githubStars": 1776,
+    "githubWatchers": 91,
     "githubCreated_at": "2015-10-15T20:46:29Z",
-    "githubUpdated_at": "2017-04-26T05:40:56Z"
+    "githubUpdated_at": "2017-04-27T05:10:28Z"
   },
   {
     "githubUrl": "https://github.com/labstack/echo",
     "githubOwner": "labstack",
     "githubName": "echo",
     "githubDescription": "High performance, minimalist Go web framework",
-    "githubSize": 4883,
+    "githubSize": 4885,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/2624634?v=3",
-    "githubForks": 604,
-    "githubStars": 7109,
+    "githubForks": 608,
+    "githubStars": 7129,
     "githubWatchers": 367,
     "githubCreated_at": "2015-03-01T17:43:01Z",
-    "githubUpdated_at": "2017-04-26T09:33:49Z"
+    "githubUpdated_at": "2017-04-27T09:39:50Z"
   },
   {
     "githubUrl": "https://github.com/buaazp/fasthttprouter",
@@ -137,10 +137,10 @@
     "githubSize": 976,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/40227?v=3",
     "githubForks": 299,
-    "githubStars": 2750,
-    "githubWatchers": 147,
+    "githubStars": 2754,
+    "githubWatchers": 148,
     "githubCreated_at": "2013-02-19T03:15:45Z",
-    "githubUpdated_at": "2017-04-26T04:58:56Z"
+    "githubUpdated_at": "2017-04-26T21:21:39Z"
   },
   {
     "githubUrl": "https://github.com/go-kit/kit",
@@ -149,11 +149,11 @@
     "githubDescription": "A standard library for microservices.",
     "githubSize": 5303,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/10981023?v=3",
-    "githubForks": 615,
-    "githubStars": 6533,
-    "githubWatchers": 396,
+    "githubForks": 618,
+    "githubStars": 6547,
+    "githubWatchers": 397,
     "githubCreated_at": "2015-02-03T00:01:19Z",
-    "githubUpdated_at": "2017-04-26T10:29:23Z"
+    "githubUpdated_at": "2017-04-27T09:36:20Z"
   },
   {
     "githubUrl": "https://github.com/codehack/go-relax",
@@ -175,11 +175,11 @@
     "githubDescription": "socket.io library for golang, a realtime application framework.",
     "githubSize": 10424,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/496526?v=3",
-    "githubForks": 246,
-    "githubStars": 1668,
+    "githubForks": 247,
+    "githubStars": 1671,
     "githubWatchers": 93,
     "githubCreated_at": "2013-07-13T13:04:38Z",
-    "githubUpdated_at": "2017-04-26T05:21:45Z"
+    "githubUpdated_at": "2017-04-27T06:57:27Z"
   },
   {
     "githubUrl": "https://github.com/gocraft/web",
@@ -189,10 +189,10 @@
     "githubSize": 207,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/6075192?v=3",
     "githubForks": 89,
-    "githubStars": 1204,
+    "githubStars": 1205,
     "githubWatchers": 56,
     "githubCreated_at": "2013-11-16T20:48:20Z",
-    "githubUpdated_at": "2017-04-23T13:03:51Z"
+    "githubUpdated_at": "2017-04-26T11:58:16Z"
   },
   {
     "githubUrl": "https://github.com/lunny/tango",
@@ -215,9 +215,9 @@
     "githubSize": 1788,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/7040162?v=3",
     "githubForks": 81,
-    "githubStars": 549,
+    "githubStars": 551,
     "githubWatchers": 42,
     "githubCreated_at": "2015-03-04T01:59:47Z",
-    "githubUpdated_at": "2017-04-24T08:05:18Z"
+    "githubUpdated_at": "2017-04-27T00:16:56Z"
   }
 ]

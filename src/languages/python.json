@@ -7,10 +7,10 @@
     "githubSize": 4821,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1226900?v=3",
     "githubForks": 180,
-    "githubStars": 994,
+    "githubStars": 995,
     "githubWatchers": 66,
     "githubCreated_at": "2015-05-08T02:26:16Z",
-    "githubUpdated_at": "2017-04-22T19:50:09Z"
+    "githubUpdated_at": "2017-04-27T03:12:32Z"
   },
   {
     "githubUrl": "https://github.com/kirang89/bootstrapy",
@@ -56,13 +56,13 @@
     "githubOwner": "audreyr",
     "githubName": "cookiecutter",
     "githubDescription": "A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.",
-    "githubSize": 1989,
+    "githubSize": 1992,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/74739?v=3",
     "githubForks": 572,
-    "githubStars": 4900,
+    "githubStars": 4903,
     "githubWatchers": 149,
     "githubCreated_at": "2013-07-14T18:31:22Z",
-    "githubUpdated_at": "2017-04-26T03:10:59Z"
+    "githubUpdated_at": "2017-04-27T05:36:03Z"
   },
   {
     "githubUrl": "https://github.com/JackStouffer/Flask-Foundation",
@@ -72,10 +72,10 @@
     "githubSize": 1436,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/680068?v=3",
     "githubForks": 108,
-    "githubStars": 1011,
+    "githubStars": 1012,
     "githubWatchers": 41,
     "githubCreated_at": "2013-09-15T06:34:48Z",
-    "githubUpdated_at": "2017-04-25T18:08:31Z"
+    "githubUpdated_at": "2017-04-27T06:42:17Z"
   },
   {
     "githubUrl": "https://github.com/coto/gae-boilerplate",
@@ -84,7 +84,7 @@
     "githubDescription": "Google App Engine Boilerplate",
     "githubSize": 7326,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/25914?v=3",
-    "githubForks": 226,
+    "githubForks": 225,
     "githubStars": 706,
     "githubWatchers": 103,
     "githubCreated_at": "2012-02-12T16:17:18Z",
