@@ -25,7 +25,8 @@ const languages = [
 			'https://github.com/peter-mouland/react-lego/',
 			'https://github.com/zeit/next.js/',
 			'https://github.com/codefoundries/UniversalRelayBoilerplate',
-			'https://github.com/insin/nwb'
+			'https://github.com/insin/nwb',
+			'https://github.com/jquintozamora/react-typescript-webpack2-cssModules-postCSS'
 		]
 	},
 	{
@@ -211,7 +212,8 @@ const languages = [
 			'https://github.com/h5bp/html5-boilerplate',
 			'https://github.com/IceCreamYou/HTML5-Canvas-Game-Boilerplate',
 			'https://github.com/imarc/boilerplate',
-			'https://github.com/verekia/initializr-template'
+			'https://github.com/verekia/initializr-template',
+			'https://github.com/sesh/base.html'
 		]
 	},
 	{
