@@ -6,11 +6,11 @@
     "githubDescription": "A boilerplate for Django web applications",
     "githubSize": 4821,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1226900?v=3",
-    "githubForks": 184,
+    "githubForks": 183,
     "githubStars": 998,
     "githubWatchers": 67,
     "githubCreated_at": "2015-05-08T02:26:16Z",
-    "githubUpdated_at": "2017-04-28T19:27:14Z"
+    "githubUpdated_at": "2017-05-02T07:33:18Z"
   },
   {
     "githubUrl": "https://github.com/zapier/django-knowledge",
@@ -33,10 +33,10 @@
     "githubSize": 794,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/166590?v=3",
     "githubForks": 78,
-    "githubStars": 287,
+    "githubStars": 288,
     "githubWatchers": 34,
     "githubCreated_at": "2016-03-05T09:52:38Z",
-    "githubUpdated_at": "2017-04-30T02:02:39Z"
+    "githubUpdated_at": "2017-05-02T07:41:03Z"
   },
   {
     "githubUrl": "https://github.com/lincolnloop/django-startproject",
@@ -59,10 +59,10 @@
     "githubSize": 4487,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/3332051?v=3",
     "githubForks": 38,
-    "githubStars": 192,
+    "githubStars": 194,
     "githubWatchers": 9,
     "githubCreated_at": "2015-06-04T16:46:49Z",
-    "githubUpdated_at": "2017-04-28T13:19:52Z"
+    "githubUpdated_at": "2017-05-02T07:08:15Z"
   },
   {
     "githubUrl": "https://github.com/brwr/thinkster-django-angular-boilerplate",
@@ -71,7 +71,7 @@
     "githubDescription": "Boilerplate for the Thinkster.io Django and AngularJS tutorial.",
     "githubSize": 417,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/4095660?v=3",
-    "githubForks": 1395,
+    "githubForks": 1393,
     "githubStars": 189,
     "githubWatchers": 15,
     "githubCreated_at": "2014-11-03T21:04:43Z",
@@ -85,10 +85,10 @@
     "githubSize": 634,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/243422?v=3",
     "githubForks": 44,
-    "githubStars": 185,
+    "githubStars": 184,
     "githubWatchers": 16,
     "githubCreated_at": "2011-02-04T18:48:42Z",
-    "githubUpdated_at": "2017-04-02T02:55:38Z"
+    "githubUpdated_at": "2017-04-30T16:45:09Z"
   },
   {
     "githubUrl": "https://github.com/vintasoftware/django-react-boilerplate",

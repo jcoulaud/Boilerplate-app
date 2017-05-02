@@ -292,6 +292,70 @@ const languages = [
 			'https://github.com/patrickocoffeyo/meteor-boilerplate',
 			'https://github.com/SilentCicero/meteor-dapp-boilerplate'
 		]
+	},
+	{
+		"lang": "Rails",
+		"icon": "devicon-rails-plain",
+		"repositories": [
+			'https://github.com/lewagon/rails-templates',
+			'https://github.com/mattbrictson/rails-template',
+			'https://github.com/sporkd/html5-rails',
+			'https://github.com/TristanToye/rails-4-boilerplate',
+			'https://github.com/RailsApps/rails-composer',
+			'https://github.com/RailsApps/rails-bootstrap'
+		]
+	},
+	{
+		"lang": "Css",
+		"icon": "devicon-css3-plain",
+		"repositories": [
+			'https://github.com/inuitcss/inuitcss',
+			'https://github.com/suitcss/suit',
+			'https://github.com/Chalarangelo/mini.css',
+			'https://github.com/WhatsNewSaes/Skeleton-Sass',
+			'https://github.com/grahammiller/ResponsiveGridSystem',
+			'https://github.com/jonikorpi/Less-Framework'
+		]
+	},
+	{
+		"lang": "C++",
+		"icon": "devicon-cplusplus-plain",
+		"repositories": [
+			'https://github.com/emil-e/rapidcheck',
+			'https://github.com/senbon/gloom',
+			'https://github.com/Paspartout/BoilerplatePP',
+			'https://github.com/kafeman/cpp-boilerplate',
+			'https://github.com/boostorg/boost',
+			'https://github.com/davisking/dlib',
+			'https://github.com/sumeetchhetri/ffead-cpp',
+			'https://github.com/facebook/folly',
+			'https://github.com/WeAreROLI/JUCE',
+			'https://github.com/openframeworks/openFrameworks',
+			'https://github.com/stxxl/stxxl',
+			'https://github.com/bloomberg/bde',
+			'https://github.com/treefrogframework/treefrog-framework'
+		]
+	},
+	{
+		"lang": "Php",
+		"icon": "devicon-php-plain",
+		"repositories": [
+			'https://github.com/laravel/laravel',
+			'https://github.com/symfony/symfony',
+			'https://github.com/bcit-ci/CodeIgniter',
+			'https://github.com/cakephp/cakephp',
+			'https://github.com/zendframework/zendframework',
+			'https://github.com/phalcon/cphalcon',
+			'https://github.com/slimphp/Slim',
+			'https://github.com/yiisoft/yii',
+			'https://github.com/bcosca/fatfree',
+			'https://github.com/kohana/kohana',
+			'https://github.com/fuel/fuel',
+			'https://github.com/mikecao/flight',
+			'https://github.com/panique/mini',
+			'https://github.com/zikula/core',
+			'https://github.com/tylerhall/simple-php-framework/'
+		]
 	}
 ]
 

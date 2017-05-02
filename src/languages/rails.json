@@ -1,0 +1,80 @@
+[
+  {
+    "githubUrl": "https://github.com/lewagon/rails-templates",
+    "githubOwner": "lewagon",
+    "githubName": "rails-templates",
+    "githubDescription": "Jump start your Rails development with Le Wagon best practices",
+    "githubSize": 45,
+    "githubAvatar": "https://avatars1.githubusercontent.com/u/5470001?v=3",
+    "githubForks": 58,
+    "githubStars": 69,
+    "githubWatchers": 9,
+    "githubCreated_at": "2015-08-23T19:48:19Z",
+    "githubUpdated_at": "2017-04-28T07:43:07Z"
+  },
+  {
+    "githubUrl": "https://github.com/mattbrictson/rails-template",
+    "githubOwner": "mattbrictson",
+    "githubName": "rails-template",
+    "githubDescription": "Application template for Rails 5 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.",
+    "githubSize": 125,
+    "githubAvatar": "https://avatars3.githubusercontent.com/u/189693?v=3",
+    "githubForks": 61,
+    "githubStars": 286,
+    "githubWatchers": 18,
+    "githubCreated_at": "2015-01-30T22:17:11Z",
+    "githubUpdated_at": "2017-05-02T05:38:11Z"
+  },
+  {
+    "githubUrl": "https://github.com/sporkd/html5-rails",
+    "githubOwner": "sporkd",
+    "githubName": "html5-rails",
+    "githubDescription": "Generate Html5 Boilerplate for your Rails apps!",
+    "githubSize": 453,
+    "githubAvatar": "https://avatars1.githubusercontent.com/u/11115?v=3",
+    "githubForks": 39,
+    "githubStars": 250,
+    "githubWatchers": 14,
+    "githubCreated_at": "2011-06-20T21:35:09Z",
+    "githubUpdated_at": "2017-04-29T17:33:50Z"
+  },
+  {
+    "githubUrl": "https://github.com/TristanToye/rails-4-boilerplate",
+    "githubOwner": "TristanToye",
+    "githubName": "rails-4-boilerplate",
+    "githubDescription": "The Rails Boilerplate I Wish Existed, Now it Does",
+    "githubSize": 421,
+    "githubAvatar": "https://avatars1.githubusercontent.com/u/3744876?v=3",
+    "githubForks": 15,
+    "githubStars": 66,
+    "githubWatchers": 8,
+    "githubCreated_at": "2015-01-26T15:43:29Z",
+    "githubUpdated_at": "2017-05-01T03:52:01Z"
+  },
+  {
+    "githubUrl": "https://github.com/RailsApps/rails-composer",
+    "githubOwner": "RailsApps",
+    "githubName": "rails-composer",
+    "githubDescription": "Rails Composer. The Rails generator on steroids for starter apps.",
+    "githubSize": 749,
+    "githubAvatar": "https://avatars1.githubusercontent.com/u/788200?v=3",
+    "githubForks": 457,
+    "githubStars": 3095,
+    "githubWatchers": 167,
+    "githubCreated_at": "2012-07-24T18:43:01Z",
+    "githubUpdated_at": "2017-04-30T20:12:41Z"
+  },
+  {
+    "githubUrl": "https://github.com/RailsApps/rails-bootstrap",
+    "githubOwner": "RailsApps",
+    "githubName": "rails-bootstrap",
+    "githubDescription": "Rails 5.0 starter app with the Bootstrap 4 front-end framework.",
+    "githubSize": 453,
+    "githubAvatar": "https://avatars1.githubusercontent.com/u/788200?v=3",
+    "githubForks": 202,
+    "githubStars": 431,
+    "githubWatchers": 41,
+    "githubCreated_at": "2013-07-10T03:35:06Z",
+    "githubUpdated_at": "2017-04-28T19:35:45Z"
+  }
+]

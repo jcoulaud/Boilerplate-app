@@ -20,10 +20,10 @@
     "githubSize": 23328,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/5957277?v=3",
     "githubForks": 1388,
-    "githubStars": 2632,
-    "githubWatchers": 517,
+    "githubStars": 2635,
+    "githubWatchers": 518,
     "githubCreated_at": "2013-08-18T20:45:08Z",
-    "githubUpdated_at": "2017-04-29T08:21:13Z"
+    "githubUpdated_at": "2017-05-02T07:36:35Z"
   },
   {
     "githubUrl": "https://github.com/ASP-NET-MVC-Boilerplate/Templates",
@@ -32,24 +32,24 @@
     "githubDescription": "Professional ASP.NET MVC templates for building secure, fast, robust and adaptable web applications or sites. It provides the minimum amount of code required on top of the default MVC template provided by Microsoft.",
     "githubSize": 41468,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/22211766?v=3",
-    "githubForks": 214,
-    "githubStars": 828,
+    "githubForks": 215,
+    "githubStars": 832,
     "githubWatchers": 131,
     "githubCreated_at": "2014-10-27T08:57:45Z",
-    "githubUpdated_at": "2017-04-30T02:38:38Z"
+    "githubUpdated_at": "2017-05-02T00:19:23Z"
   },
   {
     "githubUrl": "https://github.com/aspnetboilerplate/module-zero",
     "githubOwner": "aspnetboilerplate",
     "githubName": "module-zero",
     "githubDescription": "ASP.NET Boilerplate - Module Zero",
-    "githubSize": 19230,
+    "githubSize": 19237,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/5957277?v=3",
     "githubForks": 384,
-    "githubStars": 442,
-    "githubWatchers": 130,
+    "githubStars": 444,
+    "githubWatchers": 129,
     "githubCreated_at": "2014-08-22T17:57:19Z",
-    "githubUpdated_at": "2017-04-29T02:12:13Z"
+    "githubUpdated_at": "2017-05-02T02:54:37Z"
   },
   {
     "githubUrl": "https://github.com/kriasoft/aspnet-starter-kit",
@@ -59,10 +59,10 @@
     "githubSize": 1398,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/773036?v=3",
     "githubForks": 131,
-    "githubStars": 661,
+    "githubStars": 662,
     "githubWatchers": 78,
     "githubCreated_at": "2014-08-21T09:51:46Z",
-    "githubUpdated_at": "2017-04-30T05:43:20Z"
+    "githubUpdated_at": "2017-05-02T07:58:19Z"
   },
   {
     "githubUrl": "https://github.com/restsharp/RestSharp",
@@ -71,10 +71,10 @@
     "githubDescription": "Simple REST and HTTP API Client for .NET",
     "githubSize": 37966,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1057779?v=3",
-    "githubForks": 1418,
-    "githubStars": 4245,
-    "githubWatchers": 385,
+    "githubForks": 1419,
+    "githubStars": 4248,
+    "githubWatchers": 384,
     "githubCreated_at": "2009-11-16T02:01:45Z",
-    "githubUpdated_at": "2017-04-29T22:35:10Z"
+    "githubUpdated_at": "2017-05-02T09:02:57Z"
   }
 ]

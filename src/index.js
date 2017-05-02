@@ -24,11 +24,17 @@ const fireTracking = () => {
 	return null;
 }
 
+const ScrollToTop = () => {
+  window.scrollTo(0, 0);
+  return null;
+};
+
 ReactDOM.render((
 	<MuiThemeProvider>
 	  <Router history={browserHistory}>
 	  	<div>
-	  		<Route component={fireTracking} />
+	  		<Route component={fireTracking}/>
+	  		<Route component={ScrollToTop}/>
 	  		<Header />
 	  		<ContactMe />
 	  		<Switch>

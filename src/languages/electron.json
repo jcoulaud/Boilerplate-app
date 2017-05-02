@@ -4,13 +4,13 @@
     "githubOwner": "chentsulin",
     "githubName": "electron-react-boilerplate",
     "githubDescription": "Live editing development on desktop app",
-    "githubSize": 5007,
+    "githubSize": 5022,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/3382565?v=3",
-    "githubForks": 848,
-    "githubStars": 5699,
-    "githubWatchers": 158,
+    "githubForks": 850,
+    "githubStars": 5713,
+    "githubWatchers": 159,
     "githubCreated_at": "2015-05-18T09:54:57Z",
-    "githubUpdated_at": "2017-04-30T00:48:54Z"
+    "githubUpdated_at": "2017-05-02T02:34:03Z"
   },
   {
     "githubUrl": "https://github.com/szwacz/electron-boilerplate",
@@ -19,11 +19,11 @@
     "githubDescription": "Boilerplate application for Electron runtime",
     "githubSize": 748,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/4573903?v=3",
-    "githubForks": 347,
+    "githubForks": 346,
     "githubStars": 1941,
     "githubWatchers": 99,
     "githubCreated_at": "2015-04-25T09:16:40Z",
-    "githubUpdated_at": "2017-04-29T15:34:44Z"
+    "githubUpdated_at": "2017-05-01T13:43:58Z"
   },
   {
     "githubUrl": "https://github.com/SimulatedGREG/electron-vue",
@@ -32,11 +32,11 @@
     "githubDescription": "An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.",
     "githubSize": 4762,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/8327811?v=3",
-    "githubForks": 136,
-    "githubStars": 1755,
+    "githubForks": 137,
+    "githubStars": 1770,
     "githubWatchers": 75,
     "githubCreated_at": "2016-05-12T07:08:12Z",
-    "githubUpdated_at": "2017-04-30T07:15:40Z"
+    "githubUpdated_at": "2017-05-02T09:26:52Z"
   },
   {
     "githubUrl": "https://github.com/bradstewart/electron-boilerplate-vue",
@@ -45,11 +45,11 @@
     "githubDescription": "Boilerplate application for Electron runtime",
     "githubSize": 1155,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/3613191?v=3",
-    "githubForks": 75,
-    "githubStars": 529,
+    "githubForks": 76,
+    "githubStars": 531,
     "githubWatchers": 40,
     "githubCreated_at": "2015-10-27T21:43:04Z",
-    "githubUpdated_at": "2017-04-28T06:40:40Z"
+    "githubUpdated_at": "2017-05-02T07:01:02Z"
   },
   {
     "githubUrl": "https://github.com/sindresorhus/generator-electron",
@@ -59,10 +59,10 @@
     "githubSize": 77,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/170270?v=3",
     "githubForks": 37,
-    "githubStars": 492,
+    "githubStars": 493,
     "githubWatchers": 17,
     "githubCreated_at": "2015-04-23T11:28:40Z",
-    "githubUpdated_at": "2017-04-28T21:39:26Z"
+    "githubUpdated_at": "2017-05-02T07:08:06Z"
   },
   {
     "githubUrl": "https://github.com/sindresorhus/electron-boilerplate",
