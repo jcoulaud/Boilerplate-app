@@ -4,13 +4,13 @@
     "githubOwner": "laravel",
     "githubName": "laravel",
     "githubDescription": "A PHP Framework For Web Artisans",
-    "githubSize": 8461,
+    "githubSize": 8463,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/958072?v=3",
-    "githubForks": 10449,
-    "githubStars": 31748,
-    "githubWatchers": 3857,
+    "githubForks": 10448,
+    "githubStars": 31759,
+    "githubWatchers": 3860,
     "githubCreated_at": "2011-06-08T03:06:08Z",
-    "githubUpdated_at": "2017-05-06T14:18:05Z"
+    "githubUpdated_at": "2017-05-07T10:04:25Z"
   },
   {
     "githubUrl": "https://github.com/symfony/symfony",
@@ -19,11 +19,11 @@
     "githubDescription": "The Symfony PHP framework",
     "githubSize": 94088,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/143937?v=3",
-    "githubForks": 5482,
-    "githubStars": 14421,
-    "githubWatchers": 1182,
+    "githubForks": 5483,
+    "githubStars": 14423,
+    "githubWatchers": 1181,
     "githubCreated_at": "2010-01-04T14:21:21Z",
-    "githubUpdated_at": "2017-05-06T14:59:39Z"
+    "githubUpdated_at": "2017-05-07T10:22:17Z"
   },
   {
     "githubUrl": "https://github.com/bcit-ci/CodeIgniter",
@@ -32,24 +32,24 @@
     "githubDescription": "Open Source PHP Framework (originally from EllisLab)",
     "githubSize": 47578,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/8863432?v=3",
-    "githubForks": 6829,
-    "githubStars": 14314,
-    "githubWatchers": 1685,
+    "githubForks": 6830,
+    "githubStars": 14321,
+    "githubWatchers": 1687,
     "githubCreated_at": "2011-08-19T13:34:00Z",
-    "githubUpdated_at": "2017-05-06T16:53:00Z"
+    "githubUpdated_at": "2017-05-07T11:09:06Z"
   },
   {
     "githubUrl": "https://github.com/cakephp/cakephp",
     "githubOwner": "cakephp",
     "githubName": "cakephp",
     "githubDescription": "CakePHP: The Rapid Development Framework for PHP - Official Repository",
-    "githubSize": 70512,
+    "githubSize": 70517,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/23666?v=3",
-    "githubForks": 3187,
-    "githubStars": 7073,
+    "githubForks": 3185,
+    "githubStars": 7074,
     "githubWatchers": 671,
     "githubCreated_at": "2010-05-08T14:38:22Z",
-    "githubUpdated_at": "2017-05-06T15:49:19Z"
+    "githubUpdated_at": "2017-05-06T22:50:50Z"
   },
   {
     "githubUrl": "https://github.com/zendframework/zendframework",
@@ -72,10 +72,10 @@
     "githubSize": 133188,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1221505?v=3",
     "githubForks": 1502,
-    "githubStars": 7958,
-    "githubWatchers": 726,
+    "githubStars": 7961,
+    "githubWatchers": 725,
     "githubCreated_at": "2011-11-26T05:52:50Z",
-    "githubUpdated_at": "2017-05-06T14:25:37Z"
+    "githubUpdated_at": "2017-05-07T05:20:57Z"
   },
   {
     "githubUrl": "https://github.com/slimphp/Slim",
@@ -84,11 +84,11 @@
     "githubDescription": "Slim Framework source code",
     "githubSize": 5266,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/11195762?v=3",
-    "githubForks": 1561,
-    "githubStars": 7942,
-    "githubWatchers": 576,
+    "githubForks": 1562,
+    "githubStars": 7945,
+    "githubWatchers": 575,
     "githubCreated_at": "2010-09-21T01:17:06Z",
-    "githubUpdated_at": "2017-05-06T15:46:21Z"
+    "githubUpdated_at": "2017-05-07T05:13:29Z"
   },
   {
     "githubUrl": "https://github.com/yiisoft/yii",
@@ -123,7 +123,7 @@
     "githubDescription": "Basic application with official modules included",
     "githubSize": 1244,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/39584?v=3",
-    "githubForks": 476,
+    "githubForks": 477,
     "githubStars": 1638,
     "githubWatchers": 174,
     "githubCreated_at": "2009-07-28T16:09:23Z",
@@ -149,11 +149,11 @@
     "githubDescription": "An extensible micro-framework for PHP",
     "githubSize": 231,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/477975?v=3",
-    "githubForks": 298,
-    "githubStars": 1716,
+    "githubForks": 299,
+    "githubStars": 1717,
     "githubWatchers": 167,
     "githubCreated_at": "2011-03-31T07:48:42Z",
-    "githubUpdated_at": "2017-05-05T08:55:56Z"
+    "githubUpdated_at": "2017-05-07T05:12:42Z"
   },
   {
     "githubUrl": "https://github.com/panique/mini",

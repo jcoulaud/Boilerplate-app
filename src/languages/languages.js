@@ -46,7 +46,8 @@ const languages = [
 			'https://github.com/googlesamples/android-architecture',
 			'https://github.com/ribot/android-boilerplate',
 			'https://github.com/blocoio/android-template',
-			'https://github.com/qijitech/android-starter-kit'
+			'https://github.com/qijitech/android-starter-kit',
+			'https://github.com/smaugho/declex'
 		]
 	},
 	{

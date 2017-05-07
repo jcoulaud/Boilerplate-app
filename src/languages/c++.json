@@ -56,13 +56,13 @@
     "githubOwner": "boostorg",
     "githubName": "boost",
     "githubDescription": "Super-project for modularized Boost",
-    "githubSize": 59104,
+    "githubSize": 59029,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/3170529?v=3",
-    "githubForks": 467,
-    "githubStars": 1277,
+    "githubForks": 468,
+    "githubStars": 1280,
     "githubWatchers": 210,
     "githubCreated_at": "2013-01-13T15:59:31Z",
-    "githubUpdated_at": "2017-05-05T03:33:35Z"
+    "githubUpdated_at": "2017-05-07T02:58:41Z"
   },
   {
     "githubUrl": "https://github.com/davisking/dlib",
@@ -72,10 +72,10 @@
     "githubSize": 16189,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/6259399?v=3",
     "githubForks": 701,
-    "githubStars": 1965,
+    "githubStars": 1967,
     "githubWatchers": 190,
     "githubCreated_at": "2014-01-29T00:45:33Z",
-    "githubUpdated_at": "2017-05-05T23:23:26Z"
+    "githubUpdated_at": "2017-05-07T08:48:27Z"
   },
   {
     "githubUrl": "https://github.com/sumeetchhetri/ffead-cpp",
@@ -95,13 +95,13 @@
     "githubOwner": "facebook",
     "githubName": "folly",
     "githubDescription": "An open-source C++ library developed and used at Facebook.",
-    "githubSize": 12568,
+    "githubSize": 12580,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/69631?v=3",
-    "githubForks": 2087,
-    "githubStars": 8514,
-    "githubWatchers": 795,
+    "githubForks": 2086,
+    "githubStars": 8515,
+    "githubWatchers": 796,
     "githubCreated_at": "2012-06-01T20:49:04Z",
-    "githubUpdated_at": "2017-05-06T15:49:59Z"
+    "githubUpdated_at": "2017-05-06T21:25:24Z"
   },
   {
     "githubUrl": "https://github.com/WeAreROLI/JUCE",
@@ -110,11 +110,11 @@
     "githubDescription": "The JUCE cross-platform C++ framework.",
     "githubSize": 186788,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/3866938?v=3",
-    "githubForks": 416,
-    "githubStars": 733,
-    "githubWatchers": 126,
+    "githubForks": 415,
+    "githubStars": 735,
+    "githubWatchers": 127,
     "githubCreated_at": "2012-03-31T11:19:43Z",
-    "githubUpdated_at": "2017-05-06T13:46:02Z"
+    "githubUpdated_at": "2017-05-07T08:41:55Z"
   },
   {
     "githubUrl": "https://github.com/openframeworks/openFrameworks",
@@ -123,11 +123,11 @@
     "githubDescription": "openFrameworks is a community-developed cross platform toolkit for creative coding in C++.",
     "githubSize": 1999245,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/142866?v=3",
-    "githubForks": 1827,
-    "githubStars": 5145,
-    "githubWatchers": 465,
+    "githubForks": 1828,
+    "githubStars": 5146,
+    "githubWatchers": 463,
     "githubCreated_at": "2009-10-21T21:55:54Z",
-    "githubUpdated_at": "2017-05-06T14:21:52Z"
+    "githubUpdated_at": "2017-05-06T21:09:10Z"
   },
   {
     "githubUrl": "https://github.com/stxxl/stxxl",
@@ -150,17 +150,17 @@
     "githubSize": 96876,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1416818?v=3",
     "githubForks": 167,
-    "githubStars": 741,
+    "githubStars": 742,
     "githubWatchers": 148,
     "githubCreated_at": "2012-11-09T20:00:30Z",
-    "githubUpdated_at": "2017-05-06T14:06:31Z"
+    "githubUpdated_at": "2017-05-07T02:19:04Z"
   },
   {
     "githubUrl": "https://github.com/treefrogframework/treefrog-framework",
     "githubOwner": "treefrogframework",
     "githubName": "treefrog-framework",
     "githubDescription": "TreeFrog Framework : High-speed C++ MVC Framework for Web Application",
-    "githubSize": 16885,
+    "githubSize": 16898,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/2995876?v=3",
     "githubForks": 87,
     "githubStars": 387,

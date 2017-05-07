@@ -4,7 +4,7 @@
     "githubOwner": "roots",
     "githubName": "bedrock",
     "githubDescription": "WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure",
-    "githubSize": 290,
+    "githubSize": 292,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/4986074?v=3",
     "githubForks": 704,
     "githubStars": 3432,
@@ -33,10 +33,10 @@
     "githubSize": 1130,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/2940124?v=3",
     "githubForks": 1116,
-    "githubStars": 4286,
+    "githubStars": 4288,
     "githubWatchers": 342,
     "githubCreated_at": "2011-07-11T21:36:46Z",
-    "githubUpdated_at": "2017-05-05T18:32:11Z"
+    "githubUpdated_at": "2017-05-06T22:10:59Z"
   },
   {
     "githubUrl": "https://github.com/iandunn/WordPress-Plugin-Skeleton",
@@ -228,22 +228,22 @@
     "githubSize": 797,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/887802?v=3",
     "githubForks": 2454,
-    "githubStars": 7422,
+    "githubStars": 7423,
     "githubWatchers": 842,
     "githubCreated_at": "2012-02-01T17:59:49Z",
-    "githubUpdated_at": "2017-05-06T06:53:14Z"
+    "githubUpdated_at": "2017-05-06T21:59:46Z"
   },
   {
     "githubUrl": "https://github.com/wordplate/wordplate",
     "githubOwner": "wordplate",
     "githubName": "wordplate",
     "githubDescription": "A modern WordPress stack. Don't repeat yourself.",
-    "githubSize": 777,
+    "githubSize": 773,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/11923978?v=3",
     "githubForks": 45,
-    "githubStars": 553,
-    "githubWatchers": 32,
+    "githubStars": 554,
+    "githubWatchers": 33,
     "githubCreated_at": "2013-10-04T17:11:21Z",
-    "githubUpdated_at": "2017-05-05T22:11:45Z"
+    "githubUpdated_at": "2017-05-06T20:59:47Z"
   }
 ]

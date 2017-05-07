@@ -45,11 +45,11 @@
     "githubDescription": "A boilerplate for Node.js web applications",
     "githubSize": 9160,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/544954?v=3",
-    "githubForks": 3383,
-    "githubStars": 19720,
-    "githubWatchers": 704,
+    "githubForks": 3384,
+    "githubStars": 19726,
+    "githubWatchers": 703,
     "githubCreated_at": "2013-11-13T17:24:12Z",
-    "githubUpdated_at": "2017-05-06T17:15:46Z"
+    "githubUpdated_at": "2017-05-07T08:00:59Z"
   },
   {
     "githubUrl": "https://github.com/skaapgif/webapp-boilerplate",
@@ -123,7 +123,7 @@
     "githubDescription": ":star: Full stack JS web app boilerplate with NodeJS, Express, Mongo and VueJS",
     "githubSize": 11633,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/306521?v=3",
-    "githubForks": 76,
+    "githubForks": 77,
     "githubStars": 268,
     "githubWatchers": 25,
     "githubCreated_at": "2016-06-18T12:09:40Z",
@@ -149,11 +149,11 @@
     "githubDescription": "The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code.",
     "githubSize": 84,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/17815977?v=3",
-    "githubForks": 194,
-    "githubStars": 858,
+    "githubForks": 195,
+    "githubStars": 859,
     "githubWatchers": 96,
     "githubCreated_at": "2016-06-24T06:26:05Z",
-    "githubUpdated_at": "2017-05-06T15:56:36Z"
+    "githubUpdated_at": "2017-05-07T09:40:16Z"
   },
   {
     "githubUrl": "https://github.com/diegohaz/rest",
@@ -176,10 +176,10 @@
     "githubSize": 1813,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/7040162?v=3",
     "githubForks": 81,
-    "githubStars": 556,
+    "githubStars": 558,
     "githubWatchers": 42,
     "githubCreated_at": "2015-03-04T01:59:47Z",
-    "githubUpdated_at": "2017-05-06T09:54:26Z"
+    "githubUpdated_at": "2017-05-07T06:07:51Z"
   },
   {
     "githubUrl": "https://github.com/jbutko/ExpressJS-Socket.IO-AngularJS-Boilerplate",
