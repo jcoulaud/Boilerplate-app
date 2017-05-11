@@ -6,7 +6,7 @@
     "githubDescription": "Jump start your Rails development with Le Wagon best practices",
     "githubSize": 46,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/5470001?v=3",
-    "githubForks": 58,
+    "githubForks": 59,
     "githubStars": 70,
     "githubWatchers": 10,
     "githubCreated_at": "2015-08-23T19:48:19Z",
@@ -17,13 +17,13 @@
     "githubOwner": "mattbrictson",
     "githubName": "rails-template",
     "githubDescription": "Application template for Rails 5 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.",
-    "githubSize": 125,
+    "githubSize": 128,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/189693?v=3",
     "githubForks": 61,
-    "githubStars": 287,
+    "githubStars": 291,
     "githubWatchers": 18,
     "githubCreated_at": "2015-01-30T22:17:11Z",
-    "githubUpdated_at": "2017-05-05T16:44:13Z"
+    "githubUpdated_at": "2017-05-09T14:37:55Z"
   },
   {
     "githubUrl": "https://github.com/sporkd/html5-rails",
@@ -59,10 +59,10 @@
     "githubSize": 774,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/788200?v=3",
     "githubForks": 457,
-    "githubStars": 3106,
+    "githubStars": 3109,
     "githubWatchers": 169,
     "githubCreated_at": "2012-07-24T18:43:01Z",
-    "githubUpdated_at": "2017-05-06T17:50:31Z"
+    "githubUpdated_at": "2017-05-10T07:13:04Z"
   },
   {
     "githubUrl": "https://github.com/RailsApps/rails-bootstrap",
@@ -72,9 +72,9 @@
     "githubSize": 453,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/788200?v=3",
     "githubForks": 204,
-    "githubStars": 431,
+    "githubStars": 433,
     "githubWatchers": 41,
     "githubCreated_at": "2013-07-10T03:35:06Z",
-    "githubUpdated_at": "2017-04-28T19:35:45Z"
+    "githubUpdated_at": "2017-05-10T01:11:19Z"
   }
 ]
