@@ -6,9 +6,9 @@
     "githubDescription": "Jump start your Rails development with Le Wagon best practices",
     "githubSize": 48,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/5470001?v=3",
-    "githubForks": 60,
+    "githubForks": 59,
     "githubStars": 70,
-    "githubWatchers": 10,
+    "githubWatchers": 9,
     "githubCreated_at": "2015-08-23T19:48:19Z",
     "githubUpdated_at": "2017-05-14T13:35:53Z"
   },
@@ -19,7 +19,7 @@
     "githubDescription": "Application template for Rails 5 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.",
     "githubSize": 128,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/189693?v=3",
-    "githubForks": 62,
+    "githubForks": 63,
     "githubStars": 291,
     "githubWatchers": 18,
     "githubCreated_at": "2015-01-30T22:17:11Z",
@@ -47,7 +47,7 @@
     "githubAvatar": "https://avatars1.githubusercontent.com/u/3744876?v=3",
     "githubForks": 15,
     "githubStars": 66,
-    "githubWatchers": 8,
+    "githubWatchers": 7,
     "githubCreated_at": "2015-01-26T15:43:29Z",
     "githubUpdated_at": "2017-05-01T03:52:01Z"
   },
@@ -56,25 +56,25 @@
     "githubOwner": "RailsApps",
     "githubName": "rails-composer",
     "githubDescription": "Rails Composer. The Rails generator on steroids for starter apps.",
-    "githubSize": 798,
+    "githubSize": 751,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/788200?v=3",
-    "githubForks": 458,
-    "githubStars": 3110,
+    "githubForks": 460,
+    "githubStars": 3109,
     "githubWatchers": 169,
     "githubCreated_at": "2012-07-24T18:43:01Z",
-    "githubUpdated_at": "2017-05-15T06:51:37Z"
+    "githubUpdated_at": "2017-05-16T22:59:27Z"
   },
   {
     "githubUrl": "https://github.com/RailsApps/rails-bootstrap",
     "githubOwner": "RailsApps",
     "githubName": "rails-bootstrap",
-    "githubDescription": "Rails 5.0 starter app with the Bootstrap 4 front-end framework.",
-    "githubSize": 453,
+    "githubDescription": "Rails 5.1 starter app with the Bootstrap 4 front-end framework.",
+    "githubSize": 426,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/788200?v=3",
-    "githubForks": 204,
+    "githubForks": 205,
     "githubStars": 433,
     "githubWatchers": 41,
     "githubCreated_at": "2013-07-10T03:35:06Z",
-    "githubUpdated_at": "2017-05-10T01:11:19Z"
+    "githubUpdated_at": "2017-05-17T13:22:03Z"
   }
 ]

@@ -6,11 +6,11 @@
     "githubDescription": "An AngularJS Starter repo for Angular + ES6 + (Webpack or JSPM) by @AngularClass",
     "githubSize": 204,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/11602678?v=3",
-    "githubForks": 1370,
-    "githubStars": 1752,
-    "githubWatchers": 93,
+    "githubForks": 1374,
+    "githubStars": 1756,
+    "githubWatchers": 94,
     "githubCreated_at": "2015-05-16T05:43:03Z",
-    "githubUpdated_at": "2017-05-15T02:32:31Z"
+    "githubUpdated_at": "2017-05-16T11:24:15Z"
   },
   {
     "githubUrl": "https://github.com/tomastrajan/angular-js-es6-testing-example",
@@ -23,20 +23,20 @@
     "githubStars": 128,
     "githubWatchers": 9,
     "githubCreated_at": "2015-08-16T12:59:25Z",
-    "githubUpdated_at": "2017-05-04T17:08:19Z"
+    "githubUpdated_at": "2017-05-16T11:15:30Z"
   },
   {
     "githubUrl": "https://github.com/ngParty/Angular1-scaffold",
     "githubOwner": "ngParty",
     "githubName": "Angular1-scaffold",
     "githubDescription": "An Angular 1 Scaffold featuring Angular (Tests, Dev/Prod), Karma, Jasmine, Istanbul, TypeScript, NgMetadata, TsLint, Codelyzer, Typings, and Webpack by @ngParty Team",
-    "githubSize": 801,
+    "githubSize": 802,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/11406162?v=3",
     "githubForks": 22,
-    "githubStars": 58,
-    "githubWatchers": 6,
+    "githubStars": 59,
+    "githubWatchers": 7,
     "githubCreated_at": "2015-11-05T09:57:14Z",
-    "githubUpdated_at": "2017-05-13T12:14:52Z"
+    "githubUpdated_at": "2017-05-16T13:56:29Z"
   },
   {
     "githubUrl": "https://github.com/flatlogic/angular-material-dashboard",
@@ -49,7 +49,7 @@
     "githubStars": 1058,
     "githubWatchers": 93,
     "githubCreated_at": "2015-03-12T12:07:23Z",
-    "githubUpdated_at": "2017-05-12T07:48:11Z"
+    "githubUpdated_at": "2017-05-17T06:54:16Z"
   },
   {
     "githubUrl": "https://github.com/ngbp/ngbp",
@@ -59,10 +59,10 @@
     "githubSize": 2763,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/5474351?v=3",
     "githubForks": 1222,
-    "githubStars": 4155,
+    "githubStars": 4156,
     "githubWatchers": 208,
     "githubCreated_at": "2013-02-14T19:07:06Z",
-    "githubUpdated_at": "2017-05-11T06:40:59Z"
+    "githubUpdated_at": "2017-05-17T07:20:27Z"
   },
   {
     "githubUrl": "https://github.com/vesparny/angular-kickstart",
@@ -98,10 +98,10 @@
     "githubSize": 57714,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/139426?v=3",
     "githubForks": 7402,
-    "githubStars": 12856,
-    "githubWatchers": 798,
+    "githubStars": 12868,
+    "githubWatchers": 797,
     "githubCreated_at": "2010-12-24T06:07:50Z",
-    "githubUpdated_at": "2017-05-15T06:42:25Z"
+    "githubUpdated_at": "2017-05-17T14:06:20Z"
   },
   {
     "githubUrl": "https://github.com/vesparny/angularjs-playground",
@@ -136,11 +136,11 @@
     "githubDescription": null,
     "githubSize": 1093,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/214628?v=3",
-    "githubForks": 351,
-    "githubStars": 1106,
+    "githubForks": 354,
+    "githubStars": 1107,
     "githubWatchers": 86,
     "githubCreated_at": "2013-02-24T17:38:00Z",
-    "githubUpdated_at": "2017-05-14T20:07:57Z"
+    "githubUpdated_at": "2017-05-16T06:12:42Z"
   },
   {
     "githubUrl": "https://github.com/btford/angular-express-blog",
@@ -149,11 +149,11 @@
     "githubDescription": "Example AngularJS app using an Express + Node.js backend.",
     "githubSize": 1210,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/474988?v=3",
-    "githubForks": 275,
-    "githubStars": 593,
+    "githubForks": 276,
+    "githubStars": 594,
     "githubWatchers": 46,
     "githubCreated_at": "2012-06-19T22:45:26Z",
-    "githubUpdated_at": "2017-05-10T06:40:45Z"
+    "githubUpdated_at": "2017-05-17T16:29:38Z"
   },
   {
     "githubUrl": "https://github.com/btford/angular-socket-io-seed",
@@ -163,10 +163,10 @@
     "githubSize": 4420,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/474988?v=3",
     "githubForks": 201,
-    "githubStars": 779,
+    "githubStars": 780,
     "githubWatchers": 56,
     "githubCreated_at": "2012-06-27T23:37:18Z",
-    "githubUpdated_at": "2017-05-08T17:51:54Z"
+    "githubUpdated_at": "2017-05-17T16:30:26Z"
   },
   {
     "githubUrl": "https://github.com/ziyasal/ratchet-angular-seed",
@@ -189,10 +189,10 @@
     "githubSize": 2278,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/6569918?v=3",
     "githubForks": 98,
-    "githubStars": 262,
-    "githubWatchers": 37,
+    "githubStars": 263,
+    "githubWatchers": 36,
     "githubCreated_at": "2013-04-18T22:34:30Z",
-    "githubUpdated_at": "2017-04-13T14:10:02Z"
+    "githubUpdated_at": "2017-05-15T08:44:27Z"
   },
   {
     "githubUrl": "https://github.com/meanjs/mean",
@@ -201,24 +201,24 @@
     "githubDescription": "MEAN.JS - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js - ",
     "githubSize": 3191,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/6232122?v=3",
-    "githubForks": 1638,
-    "githubStars": 4166,
-    "githubWatchers": 348,
+    "githubForks": 1641,
+    "githubStars": 4172,
+    "githubWatchers": 349,
     "githubCreated_at": "2013-12-29T13:01:15Z",
-    "githubUpdated_at": "2017-05-15T08:29:17Z"
+    "githubUpdated_at": "2017-05-17T18:15:47Z"
   },
   {
     "githubUrl": "https://github.com/linnovate/mean",
     "githubOwner": "linnovate",
     "githubName": "mean",
     "githubDescription": "MEAN (Mongo, Express, Angular, Node) - A Simple, Scalable and Easy starting point for full stack javascript web development - utilizing many of the best practices we've found on the way",
-    "githubSize": 6685,
+    "githubSize": 6686,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/307487?v=3",
-    "githubForks": 3002,
-    "githubStars": 10040,
-    "githubWatchers": 651,
+    "githubForks": 3005,
+    "githubStars": 10044,
+    "githubWatchers": 649,
     "githubCreated_at": "2013-05-22T12:15:47Z",
-    "githubUpdated_at": "2017-05-14T14:18:35Z"
+    "githubUpdated_at": "2017-05-17T07:30:57Z"
   },
   {
     "githubUrl": "https://github.com/akveo/blur-admin",
@@ -227,11 +227,11 @@
     "githubDescription": "Angular Bootstrap Admin Panel Framework",
     "githubSize": 87339,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/11921694?v=3",
-    "githubForks": 1612,
-    "githubStars": 6749,
-    "githubWatchers": 371,
+    "githubForks": 1629,
+    "githubStars": 6765,
+    "githubWatchers": 370,
     "githubCreated_at": "2016-04-08T08:30:20Z",
-    "githubUpdated_at": "2017-05-15T08:25:57Z"
+    "githubUpdated_at": "2017-05-17T15:47:32Z"
   },
   {
     "githubUrl": "https://github.com/gusgard/angular-seed-es6",
@@ -251,12 +251,12 @@
     "githubOwner": "ericmdantas",
     "githubName": "generator-ng-fullstack",
     "githubDescription": "Client, server or fullstack - it's up to you. ng-fullstack gives you the best of the latest: Node, Go, HTTP/2, Angular 1, Angular 2, Vue, Aurelia, Express, Koa, Echo, Gin, MongoDB, Gulp, Babel, Typescript and much more.",
-    "githubSize": 1805,
+    "githubSize": 1816,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/7040162?v=3",
     "githubForks": 82,
-    "githubStars": 568,
-    "githubWatchers": 43,
+    "githubStars": 570,
+    "githubWatchers": 42,
     "githubCreated_at": "2015-03-04T01:59:47Z",
-    "githubUpdated_at": "2017-05-15T04:48:50Z"
+    "githubUpdated_at": "2017-05-17T06:47:35Z"
   }
 ]
