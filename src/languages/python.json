@@ -6,11 +6,11 @@
     "githubDescription": "A boilerplate for Django web applications",
     "githubSize": 4821,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1226900?v=3",
-    "githubForks": 186,
-    "githubStars": 1010,
-    "githubWatchers": 68,
+    "githubForks": 187,
+    "githubStars": 1020,
+    "githubWatchers": 67,
     "githubCreated_at": "2015-05-08T02:26:16Z",
-    "githubUpdated_at": "2017-05-16T13:44:42Z"
+    "githubUpdated_at": "2017-05-23T10:32:57Z"
   },
   {
     "githubUrl": "https://github.com/kirang89/bootstrapy",
@@ -21,7 +21,7 @@
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1074304?v=3",
     "githubForks": 29,
     "githubStars": 272,
-    "githubWatchers": 15,
+    "githubWatchers": 13,
     "githubCreated_at": "2013-09-09T09:37:44Z",
     "githubUpdated_at": "2017-04-28T14:23:27Z"
   },
@@ -32,11 +32,11 @@
     "githubDescription": "Fbone (Flask bone) is a Flask (Python microframework) template/bootstrap/boilerplate application.",
     "githubSize": 704,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/368066?v=3",
-    "githubForks": 244,
-    "githubStars": 1379,
+    "githubForks": 245,
+    "githubStars": 1380,
     "githubWatchers": 77,
     "githubCreated_at": "2012-10-17T04:23:32Z",
-    "githubUpdated_at": "2017-05-16T14:43:26Z"
+    "githubUpdated_at": "2017-05-18T03:11:19Z"
   },
   {
     "githubUrl": "https://github.com/esbullington/flask-bootstrap",
@@ -45,9 +45,9 @@
     "githubDescription": "A Flask app template with integrated SQLAlchemy, authentication, and Bootstrap frontend ",
     "githubSize": 931,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1138625?v=3",
-    "githubForks": 43,
+    "githubForks": 42,
     "githubStars": 158,
-    "githubWatchers": 13,
+    "githubWatchers": 12,
     "githubCreated_at": "2012-03-06T17:53:29Z",
     "githubUpdated_at": "2017-04-13T14:48:20Z"
   },
@@ -56,13 +56,13 @@
     "githubOwner": "audreyr",
     "githubName": "cookiecutter",
     "githubDescription": "A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.",
-    "githubSize": 2026,
+    "githubSize": 1983,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/74739?v=3",
-    "githubForks": 582,
-    "githubStars": 5018,
-    "githubWatchers": 150,
+    "githubForks": 584,
+    "githubStars": 5087,
+    "githubWatchers": 145,
     "githubCreated_at": "2013-07-14T18:31:22Z",
-    "githubUpdated_at": "2017-05-17T17:59:54Z"
+    "githubUpdated_at": "2017-05-23T12:25:27Z"
   },
   {
     "githubUrl": "https://github.com/JackStouffer/Flask-Foundation",
@@ -71,11 +71,11 @@
     "githubDescription": "A solid foundation for your flask app",
     "githubSize": 1436,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/680068?v=3",
-    "githubForks": 108,
+    "githubForks": 109,
     "githubStars": 1019,
-    "githubWatchers": 43,
+    "githubWatchers": 42,
     "githubCreated_at": "2013-09-15T06:34:48Z",
-    "githubUpdated_at": "2017-05-13T18:35:56Z"
+    "githubUpdated_at": "2017-05-20T15:38:58Z"
   },
   {
     "githubUrl": "https://github.com/coto/gae-boilerplate",
@@ -86,7 +86,7 @@
     "githubAvatar": "https://avatars1.githubusercontent.com/u/25914?v=3",
     "githubForks": 224,
     "githubStars": 709,
-    "githubWatchers": 102,
+    "githubWatchers": 101,
     "githubCreated_at": "2012-02-12T16:17:18Z",
     "githubUpdated_at": "2017-05-16T05:47:10Z"
   },
@@ -98,10 +98,10 @@
     "githubSize": 3279,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/133923?v=3",
     "githubForks": 210,
-    "githubStars": 993,
+    "githubStars": 995,
     "githubWatchers": 73,
     "githubCreated_at": "2010-09-19T17:42:15Z",
-    "githubUpdated_at": "2017-05-15T06:00:04Z"
+    "githubUpdated_at": "2017-05-22T02:32:23Z"
   },
   {
     "githubUrl": "https://github.com/fasouto/django-starter-template",
@@ -150,9 +150,9 @@
     "githubSize": 276,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/187098?v=3",
     "githubForks": 77,
-    "githubStars": 332,
+    "githubStars": 333,
     "githubWatchers": 23,
     "githubCreated_at": "2010-11-13T22:19:42Z",
-    "githubUpdated_at": "2017-05-04T02:17:26Z"
+    "githubUpdated_at": "2017-05-19T09:50:09Z"
   }
 ]
