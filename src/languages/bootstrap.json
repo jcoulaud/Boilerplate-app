@@ -4,13 +4,13 @@
     "githubOwner": "modularcode",
     "githubName": "modular-admin-html",
     "githubDescription": "Modular Admin - Free Dashboard Theme Built On Bootstrap 4 | HTML Version",
-    "githubSize": 4138,
+    "githubSize": 4139,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/12553500?v=3",
     "githubForks": 250,
-    "githubStars": 849,
-    "githubWatchers": 89,
+    "githubStars": 860,
+    "githubWatchers": 88,
     "githubCreated_at": "2015-07-25T13:35:26Z",
-    "githubUpdated_at": "2017-05-23T12:28:57Z"
+    "githubUpdated_at": "2017-05-28T21:02:27Z"
   },
   {
     "githubUrl": "https://github.com/lewagon/bootstrap-boilerplate",
@@ -20,23 +20,23 @@
     "githubSize": 4,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/5470001?v=3",
     "githubForks": 57,
-    "githubStars": 40,
+    "githubStars": 41,
     "githubWatchers": 7,
     "githubCreated_at": "2014-07-02T16:45:20Z",
-    "githubUpdated_at": "2017-05-18T11:04:43Z"
+    "githubUpdated_at": "2017-05-28T20:05:15Z"
   },
   {
     "githubUrl": "https://github.com/micromata/bootstrap-kickstart",
     "githubOwner": "micromata",
     "githubName": "bootstrap-kickstart",
-    "githubDescription": "This is a boilerplate for scaffolding Bootstrap themes and websites as well as single page applications.",
-    "githubSize": 1377,
+    "githubDescription": "The aim of this project is to help you to build your things. From Bootstrap themes over static websites to single page applications.",
+    "githubSize": 1589,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1773167?v=3",
-    "githubForks": 27,
+    "githubForks": 26,
     "githubStars": 64,
-    "githubWatchers": 15,
+    "githubWatchers": 14,
     "githubCreated_at": "2014-07-10T13:31:37Z",
-    "githubUpdated_at": "2017-05-17T06:42:35Z"
+    "githubUpdated_at": "2017-05-24T20:51:16Z"
   },
   {
     "githubUrl": "https://github.com/mneuhaus/Bootstrap-Boilerplate",
@@ -71,10 +71,10 @@
     "githubDescription": "Initializr's generated page",
     "githubSize": 118,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/522007?v=3",
-    "githubForks": 387,
-    "githubStars": 1119,
+    "githubForks": 388,
+    "githubStars": 1122,
     "githubWatchers": 122,
     "githubCreated_at": "2011-12-09T00:32:32Z",
-    "githubUpdated_at": "2017-05-22T21:10:43Z"
+    "githubUpdated_at": "2017-05-27T22:33:10Z"
   }
 ]

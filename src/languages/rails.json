@@ -6,7 +6,7 @@
     "githubDescription": "Jump start your Rails development with Le Wagon best practices",
     "githubSize": 49,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/5470001?v=3",
-    "githubForks": 59,
+    "githubForks": 60,
     "githubStars": 70,
     "githubWatchers": 9,
     "githubCreated_at": "2015-08-23T19:48:19Z",
@@ -17,13 +17,13 @@
     "githubOwner": "mattbrictson",
     "githubName": "rails-template",
     "githubDescription": "Application template for Rails 5 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.",
-    "githubSize": 128,
+    "githubSize": 130,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/189693?v=3",
-    "githubForks": 63,
-    "githubStars": 292,
-    "githubWatchers": 16,
+    "githubForks": 64,
+    "githubStars": 293,
+    "githubWatchers": 15,
     "githubCreated_at": "2015-01-30T22:17:11Z",
-    "githubUpdated_at": "2017-05-18T12:32:43Z"
+    "githubUpdated_at": "2017-05-25T18:06:10Z"
   },
   {
     "githubUrl": "https://github.com/sporkd/html5-rails",
@@ -47,7 +47,7 @@
     "githubAvatar": "https://avatars1.githubusercontent.com/u/3744876?v=3",
     "githubForks": 15,
     "githubStars": 66,
-    "githubWatchers": 7,
+    "githubWatchers": 6,
     "githubCreated_at": "2015-01-26T15:43:29Z",
     "githubUpdated_at": "2017-05-01T03:52:01Z"
   },
@@ -59,10 +59,10 @@
     "githubSize": 751,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/788200?v=3",
     "githubForks": 457,
-    "githubStars": 3109,
-    "githubWatchers": 166,
+    "githubStars": 3110,
+    "githubWatchers": 163,
     "githubCreated_at": "2012-07-24T18:43:01Z",
-    "githubUpdated_at": "2017-05-23T10:12:11Z"
+    "githubUpdated_at": "2017-05-24T16:01:55Z"
   },
   {
     "githubUrl": "https://github.com/RailsApps/rails-bootstrap",
@@ -72,9 +72,9 @@
     "githubSize": 426,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/788200?v=3",
     "githubForks": 204,
-    "githubStars": 433,
+    "githubStars": 436,
     "githubWatchers": 39,
     "githubCreated_at": "2013-07-10T03:35:06Z",
-    "githubUpdated_at": "2017-05-17T13:22:03Z"
+    "githubUpdated_at": "2017-05-28T01:51:40Z"
   }
 ]

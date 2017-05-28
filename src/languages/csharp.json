@@ -8,7 +8,7 @@
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1174718?v=3",
     "githubForks": 0,
     "githubStars": 2,
-    "githubWatchers": 1,
+    "githubWatchers": 0,
     "githubCreated_at": "2015-06-29T11:16:02Z",
     "githubUpdated_at": "2016-10-08T21:42:57Z"
   },
@@ -17,13 +17,13 @@
     "githubOwner": "aspnetboilerplate",
     "githubName": "aspnetboilerplate",
     "githubDescription": "ASP.NET Boilerplate - Application Framework",
-    "githubSize": 23529,
+    "githubSize": 23805,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/5957277?v=3",
-    "githubForks": 1434,
-    "githubStars": 2727,
-    "githubWatchers": 524,
+    "githubForks": 1450,
+    "githubStars": 2745,
+    "githubWatchers": 525,
     "githubCreated_at": "2013-08-18T20:45:08Z",
-    "githubUpdated_at": "2017-05-23T01:41:41Z"
+    "githubUpdated_at": "2017-05-28T14:48:37Z"
   },
   {
     "githubUrl": "https://github.com/ASP-NET-MVC-Boilerplate/Templates",
@@ -32,24 +32,24 @@
     "githubDescription": "Professional ASP.NET Core project templates for building secure, fast, robust and adaptable web applications or sites. It provides the minimum amount of code required on top of the default ASP.NET Core project template provided by Microsoft.",
     "githubSize": 41508,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/22211766?v=3",
-    "githubForks": 219,
-    "githubStars": 889,
-    "githubWatchers": 135,
+    "githubForks": 226,
+    "githubStars": 910,
+    "githubWatchers": 136,
     "githubCreated_at": "2014-10-27T08:57:45Z",
-    "githubUpdated_at": "2017-05-23T12:27:23Z"
+    "githubUpdated_at": "2017-05-28T19:02:25Z"
   },
   {
     "githubUrl": "https://github.com/aspnetboilerplate/module-zero",
     "githubOwner": "aspnetboilerplate",
     "githubName": "module-zero",
     "githubDescription": "ASP.NET Boilerplate - Module Zero",
-    "githubSize": 19296,
+    "githubSize": 19317,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/5957277?v=3",
-    "githubForks": 388,
-    "githubStars": 454,
-    "githubWatchers": 130,
+    "githubForks": 389,
+    "githubStars": 453,
+    "githubWatchers": 127,
     "githubCreated_at": "2014-08-22T17:57:19Z",
-    "githubUpdated_at": "2017-05-22T03:44:31Z"
+    "githubUpdated_at": "2017-05-27T19:43:37Z"
   },
   {
     "githubUrl": "https://github.com/kriasoft/aspnet-starter-kit",
@@ -59,10 +59,10 @@
     "githubSize": 1400,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/773036?v=3",
     "githubForks": 134,
-    "githubStars": 694,
-    "githubWatchers": 78,
+    "githubStars": 698,
+    "githubWatchers": 79,
     "githubCreated_at": "2014-08-21T09:51:46Z",
-    "githubUpdated_at": "2017-05-23T00:49:03Z"
+    "githubUpdated_at": "2017-05-28T07:25:11Z"
   },
   {
     "githubUrl": "https://github.com/restsharp/RestSharp",
@@ -71,10 +71,10 @@
     "githubDescription": "Simple REST and HTTP API Client for .NET",
     "githubSize": 37966,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1057779?v=3",
-    "githubForks": 1433,
-    "githubStars": 4284,
-    "githubWatchers": 387,
+    "githubForks": 1435,
+    "githubStars": 4291,
+    "githubWatchers": 388,
     "githubCreated_at": "2009-11-16T02:01:45Z",
-    "githubUpdated_at": "2017-05-23T09:56:22Z"
+    "githubUpdated_at": "2017-05-28T03:58:02Z"
   }
 ]

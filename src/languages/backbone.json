@@ -7,10 +7,10 @@
     "githubSize": 6389,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/181635?v=3",
     "githubForks": 547,
-    "githubStars": 4669,
-    "githubWatchers": 149,
+    "githubStars": 4667,
+    "githubWatchers": 148,
     "githubCreated_at": "2011-12-01T18:35:51Z",
-    "githubUpdated_at": "2017-05-23T09:34:06Z"
+    "githubUpdated_at": "2017-05-24T18:27:08Z"
   },
   {
     "githubUrl": "https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate",
@@ -20,10 +20,10 @@
     "githubSize": 5592,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/4105161?v=3",
     "githubForks": 141,
-    "githubStars": 638,
-    "githubWatchers": 54,
+    "githubStars": 637,
+    "githubWatchers": 53,
     "githubCreated_at": "2012-05-24T17:01:43Z",
-    "githubUpdated_at": "2017-04-21T18:22:07Z"
+    "githubUpdated_at": "2017-05-27T15:40:06Z"
   },
   {
     "githubUrl": "https://github.com/addyosmani/backbone-boilerplates",
@@ -33,10 +33,10 @@
     "githubSize": 455,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/110953?v=3",
     "githubForks": 192,
-    "githubStars": 504,
+    "githubStars": 505,
     "githubWatchers": 41,
     "githubCreated_at": "2011-12-25T00:34:11Z",
-    "githubUpdated_at": "2017-05-05T08:37:55Z"
+    "githubUpdated_at": "2017-05-27T22:12:22Z"
   },
   {
     "githubUrl": "https://github.com/alexbeletsky/backbone-express-spa",
@@ -86,7 +86,7 @@
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1191206?v=3",
     "githubForks": 45,
     "githubStars": 168,
-    "githubWatchers": 10,
+    "githubWatchers": 9,
     "githubCreated_at": "2015-03-11T13:50:14Z",
     "githubUpdated_at": "2017-05-22T17:20:47Z"
   },
@@ -124,9 +124,9 @@
     "githubSize": 1466,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/6189375?v=3",
     "githubForks": 11,
-    "githubStars": 80,
-    "githubWatchers": 11,
+    "githubStars": 79,
+    "githubWatchers": 10,
     "githubCreated_at": "2015-04-12T20:49:46Z",
-    "githubUpdated_at": "2017-02-05T21:42:37Z"
+    "githubUpdated_at": "2017-05-26T20:08:55Z"
   }
 ]
