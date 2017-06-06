@@ -6,11 +6,11 @@
     "githubDescription": "A boilerplate for Django web applications",
     "githubSize": 4821,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1226900?v=3",
-    "githubForks": 187,
-    "githubStars": 1025,
-    "githubWatchers": 66,
+    "githubForks": 191,
+    "githubStars": 1027,
+    "githubWatchers": 64,
     "githubCreated_at": "2015-05-08T02:26:16Z",
-    "githubUpdated_at": "2017-05-28T17:16:06Z"
+    "githubUpdated_at": "2017-06-06T02:54:30Z"
   },
   {
     "githubUrl": "https://github.com/kirang89/bootstrapy",
@@ -19,11 +19,11 @@
     "githubDescription": "A bootstrap Python application, so that you can focus on writing code",
     "githubSize": 112,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1074304?v=3",
-    "githubForks": 29,
-    "githubStars": 272,
-    "githubWatchers": 13,
+    "githubForks": 28,
+    "githubStars": 271,
+    "githubWatchers": 12,
     "githubCreated_at": "2013-09-09T09:37:44Z",
-    "githubUpdated_at": "2017-04-28T14:23:27Z"
+    "githubUpdated_at": "2017-06-02T05:36:45Z"
   },
   {
     "githubUrl": "https://github.com/imwilsonxu/fbone",
@@ -33,10 +33,10 @@
     "githubSize": 704,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/368066?v=3",
     "githubForks": 245,
-    "githubStars": 1385,
-    "githubWatchers": 77,
+    "githubStars": 1390,
+    "githubWatchers": 76,
     "githubCreated_at": "2012-10-17T04:23:32Z",
-    "githubUpdated_at": "2017-05-28T19:55:08Z"
+    "githubUpdated_at": "2017-06-05T10:08:49Z"
   },
   {
     "githubUrl": "https://github.com/esbullington/flask-bootstrap",
@@ -47,7 +47,7 @@
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1138625?v=3",
     "githubForks": 42,
     "githubStars": 158,
-    "githubWatchers": 11,
+    "githubWatchers": 10,
     "githubCreated_at": "2012-03-06T17:53:29Z",
     "githubUpdated_at": "2017-04-13T14:48:20Z"
   },
@@ -56,13 +56,13 @@
     "githubOwner": "audreyr",
     "githubName": "cookiecutter",
     "githubDescription": "A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.",
-    "githubSize": 2030,
+    "githubSize": 2002,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/74739?v=3",
-    "githubForks": 590,
-    "githubStars": 5127,
-    "githubWatchers": 145,
+    "githubForks": 600,
+    "githubStars": 5172,
+    "githubWatchers": 138,
     "githubCreated_at": "2013-07-14T18:31:22Z",
-    "githubUpdated_at": "2017-05-28T12:54:08Z"
+    "githubUpdated_at": "2017-06-06T18:50:23Z"
   },
   {
     "githubUrl": "https://github.com/JackStouffer/Flask-Foundation",
@@ -71,11 +71,11 @@
     "githubDescription": "A solid foundation for your flask app",
     "githubSize": 1436,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/680068?v=3",
-    "githubForks": 109,
-    "githubStars": 1023,
-    "githubWatchers": 41,
+    "githubForks": 111,
+    "githubStars": 1026,
+    "githubWatchers": 40,
     "githubCreated_at": "2013-09-15T06:34:48Z",
-    "githubUpdated_at": "2017-05-28T09:24:40Z"
+    "githubUpdated_at": "2017-06-06T07:08:16Z"
   },
   {
     "githubUrl": "https://github.com/coto/gae-boilerplate",
@@ -85,10 +85,10 @@
     "githubSize": 7326,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/25914?v=3",
     "githubForks": 224,
-    "githubStars": 709,
+    "githubStars": 708,
     "githubWatchers": 101,
     "githubCreated_at": "2012-02-12T16:17:18Z",
-    "githubUpdated_at": "2017-05-16T05:47:10Z"
+    "githubUpdated_at": "2017-06-05T06:20:25Z"
   },
   {
     "githubUrl": "https://github.com/kamalgill/flask-appengine-template",
@@ -99,9 +99,9 @@
     "githubAvatar": "https://avatars0.githubusercontent.com/u/133923?v=3",
     "githubForks": 210,
     "githubStars": 998,
-    "githubWatchers": 72,
+    "githubWatchers": 70,
     "githubCreated_at": "2010-09-19T17:42:15Z",
-    "githubUpdated_at": "2017-05-26T17:51:42Z"
+    "githubUpdated_at": "2017-06-05T03:03:43Z"
   },
   {
     "githubUrl": "https://github.com/fasouto/django-starter-template",
@@ -110,7 +110,7 @@
     "githubDescription": "A project template for Django 1.10 that follows best practices.",
     "githubSize": 681,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/194200?v=3",
-    "githubForks": 25,
+    "githubForks": 24,
     "githubStars": 69,
     "githubWatchers": 9,
     "githubCreated_at": "2014-07-20T16:52:39Z",
@@ -149,10 +149,10 @@
     "githubDescription": "A standard layout for Tornado apps ",
     "githubSize": 276,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/187098?v=3",
-    "githubForks": 77,
+    "githubForks": 76,
     "githubStars": 332,
     "githubWatchers": 23,
     "githubCreated_at": "2010-11-13T22:19:42Z",
-    "githubUpdated_at": "2017-05-26T06:34:29Z"
+    "githubUpdated_at": "2017-06-05T04:14:48Z"
   }
 ]

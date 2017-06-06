@@ -6,11 +6,11 @@
     "githubDescription": ":ng::six: An AngularJS Starter repo for Angular + ES6 + (Webpack or JSPM) by @AngularClass",
     "githubSize": 204,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/11602678?v=3",
-    "githubForks": 1383,
-    "githubStars": 1768,
+    "githubForks": 1393,
+    "githubStars": 1782,
     "githubWatchers": 93,
     "githubCreated_at": "2015-05-16T05:43:03Z",
-    "githubUpdated_at": "2017-05-28T10:29:04Z"
+    "githubUpdated_at": "2017-06-06T17:38:13Z"
   },
   {
     "githubUrl": "https://github.com/tomastrajan/angular-js-es6-testing-example",
@@ -20,19 +20,19 @@
     "githubSize": 1968,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/3764868?v=3",
     "githubForks": 31,
-    "githubStars": 131,
+    "githubStars": 132,
     "githubWatchers": 9,
     "githubCreated_at": "2015-08-16T12:59:25Z",
-    "githubUpdated_at": "2017-05-25T03:18:32Z"
+    "githubUpdated_at": "2017-06-03T08:19:14Z"
   },
   {
     "githubUrl": "https://github.com/ngParty/Angular1-scaffold",
     "githubOwner": "ngParty",
     "githubName": "Angular1-scaffold",
     "githubDescription": "An Angular 1 Scaffold featuring Angular (Tests, Dev/Prod), Karma, Jasmine, Istanbul, TypeScript, NgMetadata, TsLint, Codelyzer, Typings, and Webpack by @ngParty Team",
-    "githubSize": 805,
+    "githubSize": 803,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/11406162?v=3",
-    "githubForks": 22,
+    "githubForks": 23,
     "githubStars": 58,
     "githubWatchers": 7,
     "githubCreated_at": "2015-11-05T09:57:14Z",
@@ -46,10 +46,10 @@
     "githubSize": 1266,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/8533408?v=3",
     "githubForks": 365,
-    "githubStars": 1067,
-    "githubWatchers": 94,
+    "githubStars": 1072,
+    "githubWatchers": 93,
     "githubCreated_at": "2015-03-12T12:07:23Z",
-    "githubUpdated_at": "2017-05-28T09:12:00Z"
+    "githubUpdated_at": "2017-06-06T11:51:57Z"
   },
   {
     "githubUrl": "https://github.com/ngbp/ngbp",
@@ -59,10 +59,10 @@
     "githubSize": 2763,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/5474351?v=3",
     "githubForks": 1221,
-    "githubStars": 4157,
-    "githubWatchers": 205,
+    "githubStars": 4159,
+    "githubWatchers": 202,
     "githubCreated_at": "2013-02-14T19:07:06Z",
-    "githubUpdated_at": "2017-05-25T15:59:50Z"
+    "githubUpdated_at": "2017-06-06T09:29:56Z"
   },
   {
     "githubUrl": "https://github.com/vesparny/angular-kickstart",
@@ -72,10 +72,10 @@
     "githubSize": 4401,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/82070?v=3",
     "githubForks": 97,
-    "githubStars": 593,
+    "githubStars": 592,
     "githubWatchers": 33,
     "githubCreated_at": "2013-11-11T08:11:07Z",
-    "githubUpdated_at": "2017-05-15T07:27:30Z"
+    "githubUpdated_at": "2017-05-30T21:40:17Z"
   },
   {
     "githubUrl": "https://github.com/okigan/angular-sensible-seed",
@@ -97,11 +97,11 @@
     "githubDescription": "Seed project for angular apps. ",
     "githubSize": 57714,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/139426?v=3",
-    "githubForks": 7403,
-    "githubStars": 12909,
-    "githubWatchers": 777,
+    "githubForks": 7410,
+    "githubStars": 12926,
+    "githubWatchers": 771,
     "githubCreated_at": "2010-12-24T06:07:50Z",
-    "githubUpdated_at": "2017-05-28T19:25:19Z"
+    "githubUpdated_at": "2017-06-06T17:34:29Z"
   },
   {
     "githubUrl": "https://github.com/vesparny/angularjs-playground",
@@ -110,7 +110,7 @@
     "githubDescription": "A starting point for being up and running in minutes with angularJS.",
     "githubSize": 236,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/82070?v=3",
-    "githubForks": 4,
+    "githubForks": 3,
     "githubStars": 14,
     "githubWatchers": 3,
     "githubCreated_at": "2014-10-22T15:41:04Z",
@@ -121,7 +121,7 @@
     "githubOwner": "kmaida",
     "githubName": "reStart-angular",
     "githubDescription": "Responsive (mobile first) boilerplate single-page app in Angular (v2+)",
-    "githubSize": 149,
+    "githubSize": 150,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1884525?v=3",
     "githubForks": 0,
     "githubStars": 1,
@@ -137,10 +137,10 @@
     "githubSize": 1093,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/214628?v=3",
     "githubForks": 353,
-    "githubStars": 1105,
-    "githubWatchers": 83,
+    "githubStars": 1104,
+    "githubWatchers": 81,
     "githubCreated_at": "2013-02-24T17:38:00Z",
-    "githubUpdated_at": "2017-05-26T14:36:15Z"
+    "githubUpdated_at": "2017-05-29T18:25:50Z"
   },
   {
     "githubUrl": "https://github.com/btford/angular-express-blog",
@@ -149,7 +149,7 @@
     "githubDescription": "Example AngularJS app using an Express + Node.js backend.",
     "githubSize": 1210,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/474988?v=3",
-    "githubForks": 275,
+    "githubForks": 276,
     "githubStars": 596,
     "githubWatchers": 44,
     "githubCreated_at": "2012-06-19T22:45:26Z",
@@ -163,10 +163,10 @@
     "githubSize": 4420,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/474988?v=3",
     "githubForks": 200,
-    "githubStars": 780,
+    "githubStars": 781,
     "githubWatchers": 54,
     "githubCreated_at": "2012-06-27T23:37:18Z",
-    "githubUpdated_at": "2017-05-19T01:58:21Z"
+    "githubUpdated_at": "2017-05-29T14:57:29Z"
   },
   {
     "githubUrl": "https://github.com/ziyasal/ratchet-angular-seed",
@@ -190,7 +190,7 @@
     "githubAvatar": "https://avatars1.githubusercontent.com/u/6569918?v=3",
     "githubForks": 98,
     "githubStars": 263,
-    "githubWatchers": 32,
+    "githubWatchers": 31,
     "githubCreated_at": "2013-04-18T22:34:30Z",
     "githubUpdated_at": "2017-05-15T08:44:27Z"
   },
@@ -201,24 +201,24 @@
     "githubDescription": "MEAN.JS - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js - ",
     "githubSize": 3195,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/6232122?v=3",
-    "githubForks": 1647,
-    "githubStars": 4186,
-    "githubWatchers": 346,
+    "githubForks": 1649,
+    "githubStars": 4195,
+    "githubWatchers": 344,
     "githubCreated_at": "2013-12-29T13:01:15Z",
-    "githubUpdated_at": "2017-05-28T19:52:05Z"
+    "githubUpdated_at": "2017-06-06T17:02:29Z"
   },
   {
     "githubUrl": "https://github.com/linnovate/mean",
     "githubOwner": "linnovate",
     "githubName": "mean",
     "githubDescription": "MEAN (Mongo, Express, Angular, Node) - A Simple, Scalable and Easy starting point for full stack javascript web development - utilizing many of the best practices we've found on the way",
-    "githubSize": 6691,
+    "githubSize": 6692,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/307487?v=3",
-    "githubForks": 3004,
-    "githubStars": 10066,
-    "githubWatchers": 639,
+    "githubForks": 3022,
+    "githubStars": 10080,
+    "githubWatchers": 635,
     "githubCreated_at": "2013-05-22T12:15:47Z",
-    "githubUpdated_at": "2017-05-28T15:48:56Z"
+    "githubUpdated_at": "2017-06-06T19:04:29Z"
   },
   {
     "githubUrl": "https://github.com/akveo/blur-admin",
@@ -227,11 +227,11 @@
     "githubDescription": "Angular Bootstrap Admin Panel Framework",
     "githubSize": 87339,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/11921694?v=3",
-    "githubForks": 1655,
-    "githubStars": 6845,
-    "githubWatchers": 378,
+    "githubForks": 1675,
+    "githubStars": 6903,
+    "githubWatchers": 372,
     "githubCreated_at": "2016-04-08T08:30:20Z",
-    "githubUpdated_at": "2017-05-28T16:07:44Z"
+    "githubUpdated_at": "2017-06-06T20:25:31Z"
   },
   {
     "githubUrl": "https://github.com/gusgard/angular-seed-es6",
@@ -254,9 +254,9 @@
     "githubSize": 1816,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/7040162?v=3",
     "githubForks": 82,
-    "githubStars": 577,
+    "githubStars": 580,
     "githubWatchers": 41,
     "githubCreated_at": "2015-03-04T01:59:47Z",
-    "githubUpdated_at": "2017-05-25T09:11:36Z"
+    "githubUpdated_at": "2017-05-31T05:04:47Z"
   }
 ]

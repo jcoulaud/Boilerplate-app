@@ -4,13 +4,13 @@
     "githubOwner": "modularcode",
     "githubName": "modular-admin-html",
     "githubDescription": "Modular Admin - Free Dashboard Theme Built On Bootstrap 4 | HTML Version",
-    "githubSize": 4139,
+    "githubSize": 4179,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/12553500?v=3",
-    "githubForks": 250,
-    "githubStars": 860,
-    "githubWatchers": 88,
+    "githubForks": 256,
+    "githubStars": 891,
+    "githubWatchers": 85,
     "githubCreated_at": "2015-07-25T13:35:26Z",
-    "githubUpdated_at": "2017-05-28T21:02:27Z"
+    "githubUpdated_at": "2017-06-06T21:29:53Z"
   },
   {
     "githubUrl": "https://github.com/lewagon/bootstrap-boilerplate",
@@ -19,24 +19,24 @@
     "githubDescription": "A nice Bootstrap HTML boilerplate using official Bootstrap CDN to start coding right away!",
     "githubSize": 4,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/5470001?v=3",
-    "githubForks": 57,
-    "githubStars": 41,
+    "githubForks": 56,
+    "githubStars": 42,
     "githubWatchers": 7,
     "githubCreated_at": "2014-07-02T16:45:20Z",
-    "githubUpdated_at": "2017-05-28T20:05:15Z"
+    "githubUpdated_at": "2017-05-30T13:39:10Z"
   },
   {
     "githubUrl": "https://github.com/micromata/bootstrap-kickstart",
     "githubOwner": "micromata",
     "githubName": "bootstrap-kickstart",
     "githubDescription": "The aim of this project is to help you to build your things. From Bootstrap themes over static websites to single page applications.",
-    "githubSize": 1589,
+    "githubSize": 1791,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1773167?v=3",
     "githubForks": 26,
-    "githubStars": 64,
-    "githubWatchers": 14,
+    "githubStars": 67,
+    "githubWatchers": 13,
     "githubCreated_at": "2014-07-10T13:31:37Z",
-    "githubUpdated_at": "2017-05-24T20:51:16Z"
+    "githubUpdated_at": "2017-06-06T12:47:56Z"
   },
   {
     "githubUrl": "https://github.com/mneuhaus/Bootstrap-Boilerplate",
@@ -71,10 +71,10 @@
     "githubDescription": "Initializr's generated page",
     "githubSize": 118,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/522007?v=3",
-    "githubForks": 388,
+    "githubForks": 392,
     "githubStars": 1122,
     "githubWatchers": 122,
     "githubCreated_at": "2011-12-09T00:32:32Z",
-    "githubUpdated_at": "2017-05-27T22:33:10Z"
+    "githubUpdated_at": "2017-06-04T13:03:14Z"
   }
 ]
