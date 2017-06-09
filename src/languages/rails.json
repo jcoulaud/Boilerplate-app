@@ -4,9 +4,9 @@
     "githubOwner": "lewagon",
     "githubName": "rails-templates",
     "githubDescription": "Jump start your Rails development with Le Wagon best practices",
-    "githubSize": 134,
+    "githubSize": 135,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/5470001?v=3",
-    "githubForks": 62,
+    "githubForks": 63,
     "githubStars": 73,
     "githubWatchers": 8,
     "githubCreated_at": "2015-08-23T19:48:19Z",
@@ -20,10 +20,10 @@
     "githubSize": 130,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/189693?v=3",
     "githubForks": 65,
-    "githubStars": 295,
+    "githubStars": 296,
     "githubWatchers": 15,
     "githubCreated_at": "2015-01-30T22:17:11Z",
-    "githubUpdated_at": "2017-05-31T05:22:52Z"
+    "githubUpdated_at": "2017-06-06T22:22:20Z"
   },
   {
     "githubUrl": "https://github.com/sporkd/html5-rails",
@@ -59,10 +59,10 @@
     "githubSize": 751,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/788200?v=3",
     "githubForks": 459,
-    "githubStars": 3119,
+    "githubStars": 3120,
     "githubWatchers": 158,
     "githubCreated_at": "2012-07-24T18:43:01Z",
-    "githubUpdated_at": "2017-06-06T18:05:10Z"
+    "githubUpdated_at": "2017-06-07T19:48:26Z"
   },
   {
     "githubUrl": "https://github.com/RailsApps/rails-bootstrap",
@@ -72,9 +72,9 @@
     "githubSize": 426,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/788200?v=3",
     "githubForks": 207,
-    "githubStars": 439,
+    "githubStars": 440,
     "githubWatchers": 37,
     "githubCreated_at": "2013-07-10T03:35:06Z",
-    "githubUpdated_at": "2017-06-06T18:06:48Z"
+    "githubUpdated_at": "2017-06-08T15:25:35Z"
   }
 ]
