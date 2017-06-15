@@ -7,10 +7,10 @@
     "githubSize": 442,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1714870?v=3",
     "githubForks": 133,
-    "githubStars": 417,
-    "githubWatchers": 22,
+    "githubStars": 419,
+    "githubWatchers": 25,
     "githubCreated_at": "2013-05-15T15:15:10Z",
-    "githubUpdated_at": "2017-06-05T23:08:16Z"
+    "githubUpdated_at": "2017-06-14T08:03:38Z"
   },
   {
     "githubUrl": "https://github.com/sindresorhus/node-module-boilerplate",
@@ -20,10 +20,10 @@
     "githubSize": 20,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/170270?v=3",
     "githubForks": 26,
-    "githubStars": 361,
-    "githubWatchers": 10,
+    "githubStars": 362,
+    "githubWatchers": 12,
     "githubCreated_at": "2015-03-14T05:47:45Z",
-    "githubUpdated_at": "2017-06-05T21:19:08Z"
+    "githubUpdated_at": "2017-06-13T13:06:14Z"
   },
   {
     "githubUrl": "https://github.com/expressjs/generator",
@@ -32,11 +32,11 @@
     "githubDescription": "Express' application generator",
     "githubSize": 172,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/5658226?v=3",
-    "githubForks": 262,
-    "githubStars": 691,
-    "githubWatchers": 38,
+    "githubForks": 263,
+    "githubStars": 695,
+    "githubWatchers": 39,
     "githubCreated_at": "2013-11-20T22:24:21Z",
-    "githubUpdated_at": "2017-06-08T12:37:56Z"
+    "githubUpdated_at": "2017-06-14T19:00:28Z"
   },
   {
     "githubUrl": "https://github.com/sahat/hackathon-starter",
@@ -45,11 +45,11 @@
     "githubDescription": "A boilerplate for Node.js web applications",
     "githubSize": 9160,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/544954?v=3",
-    "githubForks": 3469,
-    "githubStars": 20011,
-    "githubWatchers": 690,
+    "githubForks": 3498,
+    "githubStars": 20070,
+    "githubWatchers": 716,
     "githubCreated_at": "2013-11-13T17:24:12Z",
-    "githubUpdated_at": "2017-06-09T09:28:33Z"
+    "githubUpdated_at": "2017-06-15T11:43:05Z"
   },
   {
     "githubUrl": "https://github.com/skaapgif/webapp-boilerplate",
@@ -72,23 +72,23 @@
     "githubSize": 1275,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/30158?v=3",
     "githubForks": 89,
-    "githubStars": 582,
-    "githubWatchers": 39,
+    "githubStars": 585,
+    "githubWatchers": 42,
     "githubCreated_at": "2012-02-25T16:22:06Z",
-    "githubUpdated_at": "2017-06-09T04:53:45Z"
+    "githubUpdated_at": "2017-06-13T19:50:31Z"
   },
   {
     "githubUrl": "https://github.com/kriasoft/nodejs-api-starter",
     "githubOwner": "kriasoft",
     "githubName": "nodejs-api-starter",
     "githubDescription": "Boilerplate and tooling for authoring data API backends with Node.js and GraphQL",
-    "githubSize": 409,
+    "githubSize": 382,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/773036?v=3",
-    "githubForks": 85,
-    "githubStars": 498,
-    "githubWatchers": 21,
+    "githubForks": 92,
+    "githubStars": 517,
+    "githubWatchers": 23,
     "githubCreated_at": "2016-09-30T13:14:17Z",
-    "githubUpdated_at": "2017-06-09T05:52:00Z"
+    "githubUpdated_at": "2017-06-15T10:06:35Z"
   },
   {
     "githubUrl": "https://github.com/neogeek/nodejs-starter-kit",
@@ -99,7 +99,7 @@
     "githubAvatar": "https://avatars0.githubusercontent.com/u/6753?v=3",
     "githubForks": 2,
     "githubStars": 6,
-    "githubWatchers": 2,
+    "githubWatchers": 3,
     "githubCreated_at": "2014-07-28T03:28:53Z",
     "githubUpdated_at": "2017-05-16T15:19:18Z"
   },
@@ -111,23 +111,23 @@
     "githubSize": 1567,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/7906835?v=3",
     "githubForks": 13,
-    "githubStars": 85,
+    "githubStars": 86,
     "githubWatchers": 6,
     "githubCreated_at": "2016-07-26T03:27:12Z",
-    "githubUpdated_at": "2017-05-27T10:11:13Z"
+    "githubUpdated_at": "2017-06-14T07:43:14Z"
   },
   {
     "githubUrl": "https://github.com/icebob/vue-express-mongo-boilerplate",
     "githubOwner": "icebob",
     "githubName": "vue-express-mongo-boilerplate",
     "githubDescription": ":star: Full stack JS web app boilerplate with NodeJS, Express, Mongo and VueJS",
-    "githubSize": 11977,
+    "githubSize": 11988,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/306521?v=3",
-    "githubForks": 96,
-    "githubStars": 332,
-    "githubWatchers": 28,
+    "githubForks": 103,
+    "githubStars": 341,
+    "githubWatchers": 30,
     "githubCreated_at": "2016-06-18T12:09:40Z",
-    "githubUpdated_at": "2017-06-08T19:29:29Z"
+    "githubUpdated_at": "2017-06-15T10:23:40Z"
   },
   {
     "githubUrl": "https://github.com/diki/nodejs-passport-boilerplate",
@@ -149,11 +149,11 @@
     "githubDescription": "The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code.",
     "githubSize": 108,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/17815977?v=3",
-    "githubForks": 220,
-    "githubStars": 957,
-    "githubWatchers": 101,
+    "githubForks": 225,
+    "githubStars": 979,
+    "githubWatchers": 107,
     "githubCreated_at": "2016-06-24T06:26:05Z",
-    "githubUpdated_at": "2017-06-09T07:03:38Z"
+    "githubUpdated_at": "2017-06-15T10:48:34Z"
   },
   {
     "githubUrl": "https://github.com/diegohaz/rest",
@@ -162,11 +162,11 @@
     "githubDescription": "RESTful API generator using NodeJS, Express and Mongoose",
     "githubSize": 244,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/3068563?v=3",
-    "githubForks": 51,
-    "githubStars": 284,
+    "githubForks": 53,
+    "githubStars": 292,
     "githubWatchers": 22,
     "githubCreated_at": "2016-09-06T23:05:11Z",
-    "githubUpdated_at": "2017-06-09T07:47:55Z"
+    "githubUpdated_at": "2017-06-15T10:18:40Z"
   },
   {
     "githubUrl": "https://github.com/ericmdantas/generator-ng-fullstack",
@@ -175,11 +175,11 @@
     "githubDescription": "Client, server or fullstack - it's up to you. ng-fullstack gives you the best of the latest: Node, Go, HTTP/2, Angular 1, Angular 2, Vue, Aurelia, Express, Koa, Echo, Gin, MongoDB, Gulp, Babel, Typescript and much more.",
     "githubSize": 1816,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/7040162?v=3",
-    "githubForks": 82,
-    "githubStars": 583,
-    "githubWatchers": 40,
+    "githubForks": 83,
+    "githubStars": 592,
+    "githubWatchers": 45,
     "githubCreated_at": "2015-03-04T01:59:47Z",
-    "githubUpdated_at": "2017-06-08T20:58:11Z"
+    "githubUpdated_at": "2017-06-15T08:53:45Z"
   },
   {
     "githubUrl": "https://github.com/jbutko/ExpressJS-Socket.IO-AngularJS-Boilerplate",
@@ -189,17 +189,17 @@
     "githubSize": 60,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/4448836?v=3",
     "githubForks": 6,
-    "githubStars": 29,
+    "githubStars": 30,
     "githubWatchers": 3,
     "githubCreated_at": "2016-12-29T12:44:19Z",
-    "githubUpdated_at": "2017-04-12T10:23:04Z"
+    "githubUpdated_at": "2017-06-13T12:52:55Z"
   },
   {
     "githubUrl": "https://github.com/diegohaz/nod",
     "githubOwner": "diegohaz",
     "githubName": "nod",
     "githubDescription": "NodeJS module generator/boilerplate with Babel, Jest, Flow, Documentation and more",
-    "githubSize": 167,
+    "githubSize": 168,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/3068563?v=3",
     "githubForks": 5,
     "githubStars": 34,
@@ -215,10 +215,10 @@
     "githubSize": 117,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/4325587?v=3",
     "githubForks": 11,
-    "githubStars": 93,
+    "githubStars": 94,
     "githubWatchers": 6,
     "githubCreated_at": "2017-03-13T21:16:09Z",
-    "githubUpdated_at": "2017-06-07T00:21:29Z"
+    "githubUpdated_at": "2017-06-13T18:05:58Z"
   },
   {
     "githubUrl": "https://github.com/FredericHeem/starhackit",
@@ -227,10 +227,10 @@
     "githubDescription": "StarHackIt: React/Redux + Node full-stack starter kit with authentication and authorization, data backed by SQL.",
     "githubSize": 2035,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/4118089?v=3",
-    "githubForks": 142,
-    "githubStars": 931,
-    "githubWatchers": 49,
+    "githubForks": 143,
+    "githubStars": 938,
+    "githubWatchers": 55,
     "githubCreated_at": "2015-10-13T12:43:22Z",
-    "githubUpdated_at": "2017-06-09T07:40:28Z"
+    "githubUpdated_at": "2017-06-15T08:43:21Z"
   }
 ]

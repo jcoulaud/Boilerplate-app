@@ -8,7 +8,7 @@
     "githubAvatar": "https://avatars1.githubusercontent.com/u/5470001?v=3",
     "githubForks": 63,
     "githubStars": 73,
-    "githubWatchers": 8,
+    "githubWatchers": 9,
     "githubCreated_at": "2015-08-23T19:48:19Z",
     "githubUpdated_at": "2017-06-05T12:21:36Z"
   },
@@ -20,10 +20,10 @@
     "githubSize": 130,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/189693?v=3",
     "githubForks": 65,
-    "githubStars": 296,
-    "githubWatchers": 15,
+    "githubStars": 298,
+    "githubWatchers": 18,
     "githubCreated_at": "2015-01-30T22:17:11Z",
-    "githubUpdated_at": "2017-06-06T22:22:20Z"
+    "githubUpdated_at": "2017-06-12T09:46:21Z"
   },
   {
     "githubUrl": "https://github.com/sporkd/html5-rails",
@@ -33,10 +33,10 @@
     "githubSize": 453,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/11115?v=3",
     "githubForks": 38,
-    "githubStars": 249,
-    "githubWatchers": 13,
+    "githubStars": 248,
+    "githubWatchers": 14,
     "githubCreated_at": "2011-06-20T21:35:09Z",
-    "githubUpdated_at": "2017-05-15T03:30:53Z"
+    "githubUpdated_at": "2017-06-11T11:56:45Z"
   },
   {
     "githubUrl": "https://github.com/TristanToye/rails-4-boilerplate",
@@ -47,7 +47,7 @@
     "githubAvatar": "https://avatars1.githubusercontent.com/u/3744876?v=3",
     "githubForks": 15,
     "githubStars": 66,
-    "githubWatchers": 5,
+    "githubWatchers": 8,
     "githubCreated_at": "2015-01-26T15:43:29Z",
     "githubUpdated_at": "2017-05-01T03:52:01Z"
   },
@@ -58,11 +58,11 @@
     "githubDescription": "Rails Composer. The Rails generator on steroids for starter apps.",
     "githubSize": 751,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/788200?v=3",
-    "githubForks": 459,
-    "githubStars": 3120,
-    "githubWatchers": 158,
+    "githubForks": 457,
+    "githubStars": 3123,
+    "githubWatchers": 168,
     "githubCreated_at": "2012-07-24T18:43:01Z",
-    "githubUpdated_at": "2017-06-07T19:48:26Z"
+    "githubUpdated_at": "2017-06-13T17:56:55Z"
   },
   {
     "githubUrl": "https://github.com/RailsApps/rails-bootstrap",
@@ -71,10 +71,10 @@
     "githubDescription": "Rails 5.1 starter app with the Bootstrap 4 front-end framework.",
     "githubSize": 426,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/788200?v=3",
-    "githubForks": 207,
-    "githubStars": 440,
-    "githubWatchers": 37,
+    "githubForks": 209,
+    "githubStars": 443,
+    "githubWatchers": 42,
     "githubCreated_at": "2013-07-10T03:35:06Z",
-    "githubUpdated_at": "2017-06-08T15:25:35Z"
+    "githubUpdated_at": "2017-06-14T06:09:10Z"
   }
 ]

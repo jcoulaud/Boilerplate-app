@@ -4,13 +4,13 @@
     "githubOwner": "modularcode",
     "githubName": "modular-admin-html",
     "githubDescription": "Modular Admin - Free Dashboard Theme Built On Bootstrap 4 | HTML Version",
-    "githubSize": 4228,
+    "githubSize": 4339,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/12553500?v=3",
-    "githubForks": 256,
-    "githubStars": 899,
-    "githubWatchers": 88,
+    "githubForks": 265,
+    "githubStars": 920,
+    "githubWatchers": 96,
     "githubCreated_at": "2015-07-25T13:35:26Z",
-    "githubUpdated_at": "2017-06-09T03:02:54Z"
+    "githubUpdated_at": "2017-06-15T12:58:27Z"
   },
   {
     "githubUrl": "https://github.com/lewagon/bootstrap-boilerplate",
@@ -19,22 +19,22 @@
     "githubDescription": "A nice Bootstrap HTML boilerplate using official Bootstrap CDN to start coding right away!",
     "githubSize": 4,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/5470001?v=3",
-    "githubForks": 56,
-    "githubStars": 42,
+    "githubForks": 58,
+    "githubStars": 43,
     "githubWatchers": 7,
     "githubCreated_at": "2014-07-02T16:45:20Z",
-    "githubUpdated_at": "2017-05-30T13:39:10Z"
+    "githubUpdated_at": "2017-06-13T15:29:40Z"
   },
   {
     "githubUrl": "https://github.com/micromata/bootstrap-kickstart",
     "githubOwner": "micromata",
     "githubName": "bootstrap-kickstart",
     "githubDescription": "The aim of this project is to help you to build your things. From Bootstrap themes over static websites to single page applications.",
-    "githubSize": 1791,
+    "githubSize": 1529,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1773167?v=3",
     "githubForks": 26,
     "githubStars": 67,
-    "githubWatchers": 13,
+    "githubWatchers": 14,
     "githubCreated_at": "2014-07-10T13:31:37Z",
     "githubUpdated_at": "2017-06-06T12:47:56Z"
   },
@@ -71,10 +71,10 @@
     "githubDescription": "Initializr's generated page",
     "githubSize": 118,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/522007?v=3",
-    "githubForks": 392,
+    "githubForks": 393,
     "githubStars": 1121,
-    "githubWatchers": 122,
+    "githubWatchers": 123,
     "githubCreated_at": "2011-12-09T00:32:32Z",
-    "githubUpdated_at": "2017-06-07T14:44:19Z"
+    "githubUpdated_at": "2017-06-12T16:38:23Z"
   }
 ]
