@@ -4,9 +4,9 @@
     "githubOwner": "lewagon",
     "githubName": "rails-templates",
     "githubDescription": "Jump start your Rails development with Le Wagon best practices",
-    "githubSize": 135,
+    "githubSize": 134,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/5470001?v=3",
-    "githubForks": 63,
+    "githubForks": 64,
     "githubStars": 73,
     "githubWatchers": 9,
     "githubCreated_at": "2015-08-23T19:48:19Z",
@@ -59,10 +59,10 @@
     "githubSize": 751,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/788200?v=3",
     "githubForks": 457,
-    "githubStars": 3123,
+    "githubStars": 3124,
     "githubWatchers": 168,
     "githubCreated_at": "2012-07-24T18:43:01Z",
-    "githubUpdated_at": "2017-06-13T17:56:55Z"
+    "githubUpdated_at": "2017-06-16T07:06:01Z"
   },
   {
     "githubUrl": "https://github.com/RailsApps/rails-bootstrap",
@@ -71,10 +71,10 @@
     "githubDescription": "Rails 5.1 starter app with the Bootstrap 4 front-end framework.",
     "githubSize": 426,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/788200?v=3",
-    "githubForks": 209,
-    "githubStars": 443,
+    "githubForks": 210,
+    "githubStars": 445,
     "githubWatchers": 42,
     "githubCreated_at": "2013-07-10T03:35:06Z",
-    "githubUpdated_at": "2017-06-14T06:09:10Z"
+    "githubUpdated_at": "2017-06-17T04:09:48Z"
   }
 ]

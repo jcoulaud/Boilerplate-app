@@ -7,10 +7,10 @@
     "githubSize": 4821,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1226900?v=3",
     "githubForks": 195,
-    "githubStars": 1035,
+    "githubStars": 1038,
     "githubWatchers": 68,
     "githubCreated_at": "2015-05-08T02:26:16Z",
-    "githubUpdated_at": "2017-06-15T03:48:27Z"
+    "githubUpdated_at": "2017-06-16T03:38:59Z"
   },
   {
     "githubUrl": "https://github.com/zapier/django-knowledge",
@@ -32,11 +32,11 @@
     "githubDescription": "An example how you can use ReactJS with your Django project.",
     "githubSize": 794,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/166590?v=3",
-    "githubForks": 82,
-    "githubStars": 319,
+    "githubForks": 83,
+    "githubStars": 320,
     "githubWatchers": 35,
     "githubCreated_at": "2016-03-05T09:52:38Z",
-    "githubUpdated_at": "2017-06-15T03:19:54Z"
+    "githubUpdated_at": "2017-06-16T19:48:02Z"
   },
   {
     "githubUrl": "https://github.com/lincolnloop/django-startproject",
@@ -59,10 +59,10 @@
     "githubSize": 4490,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/3332051?v=3",
     "githubForks": 38,
-    "githubStars": 209,
+    "githubStars": 211,
     "githubWatchers": 9,
     "githubCreated_at": "2015-06-04T16:46:49Z",
-    "githubUpdated_at": "2017-06-12T19:40:27Z"
+    "githubUpdated_at": "2017-06-16T04:54:40Z"
   },
   {
     "githubUrl": "https://github.com/brwr/thinkster-django-angular-boilerplate",
@@ -71,11 +71,11 @@
     "githubDescription": "Boilerplate for the Thinkster.io Django and AngularJS tutorial.",
     "githubSize": 417,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/4095660?v=3",
-    "githubForks": 1418,
-    "githubStars": 195,
+    "githubForks": 1419,
+    "githubStars": 194,
     "githubWatchers": 15,
     "githubCreated_at": "2014-11-03T21:04:43Z",
-    "githubUpdated_at": "2017-06-07T21:21:11Z"
+    "githubUpdated_at": "2017-06-15T14:46:27Z"
   },
   {
     "githubUrl": "https://github.com/mike360/django-html5-boilerplate",
@@ -97,7 +97,7 @@
     "githubDescription": "Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate",
     "githubSize": 95,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/5529080?v=3",
-    "githubForks": 14,
+    "githubForks": 15,
     "githubStars": 89,
     "githubWatchers": 18,
     "githubCreated_at": "2016-07-19T20:37:29Z",

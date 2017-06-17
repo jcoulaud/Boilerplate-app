@@ -10,7 +10,7 @@
     "githubStars": 310,
     "githubWatchers": 23,
     "githubCreated_at": "2014-05-08T20:19:43Z",
-    "githubUpdated_at": "2017-06-13T16:49:05Z"
+    "githubUpdated_at": "2017-06-17T12:23:20Z"
   },
   {
     "githubUrl": "https://github.com/senbon/gloom",
@@ -56,13 +56,13 @@
     "githubOwner": "boostorg",
     "githubName": "boost",
     "githubDescription": "Super-project for modularized Boost",
-    "githubSize": 59228,
+    "githubSize": 59267,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/3170529?v=3",
-    "githubForks": 486,
-    "githubStars": 1355,
+    "githubForks": 490,
+    "githubStars": 1356,
     "githubWatchers": 216,
     "githubCreated_at": "2013-01-13T15:59:31Z",
-    "githubUpdated_at": "2017-06-15T00:58:10Z"
+    "githubUpdated_at": "2017-06-16T23:06:22Z"
   },
   {
     "githubUrl": "https://github.com/davisking/dlib",
@@ -71,11 +71,11 @@
     "githubDescription": "A toolkit for making real world machine learning and data analysis applications in C++",
     "githubSize": 16357,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/6259399?v=3",
-    "githubForks": 773,
-    "githubStars": 2193,
-    "githubWatchers": 207,
+    "githubForks": 778,
+    "githubStars": 2206,
+    "githubWatchers": 210,
     "githubCreated_at": "2014-01-29T00:45:33Z",
-    "githubUpdated_at": "2017-06-15T05:17:45Z"
+    "githubUpdated_at": "2017-06-17T08:34:18Z"
   },
   {
     "githubUrl": "https://github.com/sumeetchhetri/ffead-cpp",
@@ -95,26 +95,26 @@
     "githubOwner": "facebook",
     "githubName": "folly",
     "githubDescription": "An open-source C++ library developed and used at Facebook.",
-    "githubSize": 13131,
+    "githubSize": 13295,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/69631?v=3",
-    "githubForks": 2132,
-    "githubStars": 8709,
-    "githubWatchers": 810,
+    "githubForks": 2133,
+    "githubStars": 8716,
+    "githubWatchers": 812,
     "githubCreated_at": "2012-06-01T20:49:04Z",
-    "githubUpdated_at": "2017-06-15T11:34:21Z"
+    "githubUpdated_at": "2017-06-17T03:21:18Z"
   },
   {
     "githubUrl": "https://github.com/WeAreROLI/JUCE",
     "githubOwner": "WeAreROLI",
     "githubName": "JUCE",
     "githubDescription": "The JUCE cross-platform C++ framework.",
-    "githubSize": 187947,
+    "githubSize": 187956,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/3866938?v=3",
     "githubForks": 430,
-    "githubStars": 779,
+    "githubStars": 782,
     "githubWatchers": 134,
     "githubCreated_at": "2012-03-31T11:19:43Z",
-    "githubUpdated_at": "2017-06-15T03:27:32Z"
+    "githubUpdated_at": "2017-06-17T05:52:37Z"
   },
   {
     "githubUrl": "https://github.com/openframeworks/openFrameworks",
@@ -123,11 +123,11 @@
     "githubDescription": "openFrameworks is a community-developed cross platform toolkit for creative coding in C++.",
     "githubSize": 2001240,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/142866?v=3",
-    "githubForks": 1842,
-    "githubStars": 5258,
-    "githubWatchers": 468,
+    "githubForks": 1844,
+    "githubStars": 5262,
+    "githubWatchers": 469,
     "githubCreated_at": "2009-10-21T21:55:54Z",
-    "githubUpdated_at": "2017-06-15T07:47:35Z"
+    "githubUpdated_at": "2017-06-17T07:03:06Z"
   },
   {
     "githubUrl": "https://github.com/stxxl/stxxl",
@@ -149,20 +149,20 @@
     "githubDescription": "Basic Development Environment - a set of foundational C++ libraries used at Bloomberg.",
     "githubSize": 98173,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1416818?v=3",
-    "githubForks": 177,
-    "githubStars": 765,
+    "githubForks": 178,
+    "githubStars": 767,
     "githubWatchers": 152,
     "githubCreated_at": "2012-11-09T20:00:30Z",
-    "githubUpdated_at": "2017-06-12T20:03:41Z"
+    "githubUpdated_at": "2017-06-16T12:56:02Z"
   },
   {
     "githubUrl": "https://github.com/treefrogframework/treefrog-framework",
     "githubOwner": "treefrogframework",
     "githubName": "treefrog-framework",
     "githubDescription": "TreeFrog Framework : High-speed C++ MVC Framework for Web Application",
-    "githubSize": 16996,
+    "githubSize": 17517,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/2995876?v=3",
-    "githubForks": 93,
+    "githubForks": 94,
     "githubStars": 401,
     "githubWatchers": 50,
     "githubCreated_at": "2012-12-08T13:17:01Z",

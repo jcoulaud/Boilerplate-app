@@ -7,10 +7,10 @@
     "githubSize": 4339,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/12553500?v=3",
     "githubForks": 265,
-    "githubStars": 920,
+    "githubStars": 924,
     "githubWatchers": 96,
     "githubCreated_at": "2015-07-25T13:35:26Z",
-    "githubUpdated_at": "2017-06-15T12:58:27Z"
+    "githubUpdated_at": "2017-06-17T10:35:33Z"
   },
   {
     "githubUrl": "https://github.com/lewagon/bootstrap-boilerplate",
@@ -19,7 +19,7 @@
     "githubDescription": "A nice Bootstrap HTML boilerplate using official Bootstrap CDN to start coding right away!",
     "githubSize": 4,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/5470001?v=3",
-    "githubForks": 58,
+    "githubForks": 59,
     "githubStars": 43,
     "githubWatchers": 7,
     "githubCreated_at": "2014-07-02T16:45:20Z",
@@ -29,14 +29,14 @@
     "githubUrl": "https://github.com/micromata/bootstrap-kickstart",
     "githubOwner": "micromata",
     "githubName": "bootstrap-kickstart",
-    "githubDescription": "The aim of this project is to help you to build your things. From Bootstrap themes over static websites to single page applications.",
-    "githubSize": 1529,
+    "githubDescription": "[deprecated] Check the successor Baumeister instead.",
+    "githubSize": 1716,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1773167?v=3",
-    "githubForks": 26,
-    "githubStars": 67,
-    "githubWatchers": 14,
-    "githubCreated_at": "2014-07-10T13:31:37Z",
-    "githubUpdated_at": "2017-06-06T12:47:56Z"
+    "githubForks": 0,
+    "githubStars": 1,
+    "githubWatchers": 9,
+    "githubCreated_at": "2017-06-16T20:13:18Z",
+    "githubUpdated_at": "2017-06-16T22:51:06Z"
   },
   {
     "githubUrl": "https://github.com/mneuhaus/Bootstrap-Boilerplate",

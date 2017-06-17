@@ -30,22 +30,22 @@
     "githubOwner": "astaxie",
     "githubName": "beego",
     "githubDescription": "beego is an open-source, high-performance web framework for the Go programming language.",
-    "githubSize": 4233,
+    "githubSize": 4247,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/233907?v=3",
-    "githubForks": 2622,
-    "githubStars": 11245,
-    "githubWatchers": 889,
+    "githubForks": 2626,
+    "githubStars": 11262,
+    "githubWatchers": 888,
     "githubCreated_at": "2012-02-29T02:32:08Z",
-    "githubUpdated_at": "2017-06-15T13:03:36Z"
+    "githubUpdated_at": "2017-06-17T14:14:05Z"
   },
   {
     "githubUrl": "https://github.com/go-zoo/bone",
     "githubOwner": "go-zoo",
     "githubName": "bone",
     "githubDescription": "Lightning Fast HTTP Multiplexer",
-    "githubSize": 2507,
+    "githubSize": 2500,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/10365993?v=3",
-    "githubForks": 70,
+    "githubForks": 69,
     "githubStars": 1032,
     "githubWatchers": 37,
     "githubCreated_at": "2014-11-19T02:16:36Z",
@@ -69,26 +69,26 @@
     "githubOwner": "pressly",
     "githubName": "chi",
     "githubDescription": "lightweight, idiomatic and composable router for building Go 1.7+ HTTP services",
-    "githubSize": 3263,
+    "githubSize": 3275,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/18835?v=3",
     "githubForks": 127,
-    "githubStars": 2019,
-    "githubWatchers": 96,
+    "githubStars": 2024,
+    "githubWatchers": 95,
     "githubCreated_at": "2015-10-15T20:46:29Z",
-    "githubUpdated_at": "2017-06-15T09:28:55Z"
+    "githubUpdated_at": "2017-06-16T17:47:26Z"
   },
   {
     "githubUrl": "https://github.com/labstack/echo",
     "githubOwner": "labstack",
     "githubName": "echo",
     "githubDescription": "High performance, minimalist Go web framework",
-    "githubSize": 4917,
+    "githubSize": 4920,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/2624634?v=3",
-    "githubForks": 652,
-    "githubStars": 7605,
-    "githubWatchers": 373,
+    "githubForks": 653,
+    "githubStars": 7617,
+    "githubWatchers": 372,
     "githubCreated_at": "2015-03-01T17:43:01Z",
-    "githubUpdated_at": "2017-06-15T13:09:31Z"
+    "githubUpdated_at": "2017-06-17T10:56:24Z"
   },
   {
     "githubUrl": "https://github.com/buaazp/fasthttprouter",
@@ -98,10 +98,10 @@
     "githubSize": 173,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1470377?v=3",
     "githubForks": 42,
-    "githubStars": 316,
-    "githubWatchers": 24,
+    "githubStars": 318,
+    "githubWatchers": 25,
     "githubCreated_at": "2015-12-13T09:32:30Z",
-    "githubUpdated_at": "2017-06-11T15:56:02Z"
+    "githubUpdated_at": "2017-06-16T17:13:01Z"
   },
   {
     "githubUrl": "https://github.com/jabong/florest-core",
@@ -137,10 +137,10 @@
     "githubSize": 976,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/40227?v=3",
     "githubForks": 302,
-    "githubStars": 2805,
+    "githubStars": 2807,
     "githubWatchers": 149,
     "githubCreated_at": "2013-02-19T03:15:45Z",
-    "githubUpdated_at": "2017-06-15T10:53:53Z"
+    "githubUpdated_at": "2017-06-17T08:40:04Z"
   },
   {
     "githubUrl": "https://github.com/go-kit/kit",
@@ -149,11 +149,11 @@
     "githubDescription": "A standard library for microservices.",
     "githubSize": 5353,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/10981023?v=3",
-    "githubForks": 678,
-    "githubStars": 6984,
-    "githubWatchers": 409,
+    "githubForks": 681,
+    "githubStars": 7019,
+    "githubWatchers": 410,
     "githubCreated_at": "2015-02-03T00:01:19Z",
-    "githubUpdated_at": "2017-06-15T13:00:47Z"
+    "githubUpdated_at": "2017-06-17T10:34:15Z"
   },
   {
     "githubUrl": "https://github.com/codehack/go-relax",
@@ -163,10 +163,10 @@
     "githubSize": 182,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/652951?v=3",
     "githubForks": 5,
-    "githubStars": 141,
+    "githubStars": 142,
     "githubWatchers": 9,
     "githubCreated_at": "2014-06-26T02:30:45Z",
-    "githubUpdated_at": "2017-05-14T04:51:18Z"
+    "githubUpdated_at": "2017-06-16T08:44:34Z"
   },
   {
     "githubUrl": "https://github.com/googollee/go-socket.io",
@@ -175,11 +175,11 @@
     "githubDescription": "socket.io library for golang, a realtime application framework.",
     "githubSize": 10427,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/496526?v=3",
-    "githubForks": 264,
-    "githubStars": 1722,
+    "githubForks": 265,
+    "githubStars": 1726,
     "githubWatchers": 92,
     "githubCreated_at": "2013-07-13T13:04:38Z",
-    "githubUpdated_at": "2017-06-14T16:38:05Z"
+    "githubUpdated_at": "2017-06-17T08:35:51Z"
   },
   {
     "githubUrl": "https://github.com/gocraft/web",
@@ -202,10 +202,10 @@
     "githubSize": 323,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/81045?v=3",
     "githubForks": 82,
-    "githubStars": 585,
+    "githubStars": 586,
     "githubWatchers": 70,
     "githubCreated_at": "2014-12-17T03:07:09Z",
-    "githubUpdated_at": "2017-06-15T12:21:39Z"
+    "githubUpdated_at": "2017-06-15T16:38:35Z"
   },
   {
     "githubUrl": "https://github.com/ericmdantas/generator-ng-fullstack",
@@ -214,10 +214,10 @@
     "githubDescription": "Client, server or fullstack - it's up to you. ng-fullstack gives you the best of the latest: Node, Go, HTTP/2, Angular 1, Angular 2, Vue, Aurelia, Express, Koa, Echo, Gin, MongoDB, Gulp, Babel, Typescript and much more.",
     "githubSize": 1816,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/7040162?v=3",
-    "githubForks": 83,
-    "githubStars": 592,
+    "githubForks": 84,
+    "githubStars": 595,
     "githubWatchers": 45,
     "githubCreated_at": "2015-03-04T01:59:47Z",
-    "githubUpdated_at": "2017-06-15T08:53:45Z"
+    "githubUpdated_at": "2017-06-16T12:31:45Z"
   }
 ]
