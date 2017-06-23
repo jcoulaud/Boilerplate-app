@@ -6,11 +6,11 @@
     "githubDescription": "A boilerplate for Django web applications",
     "githubSize": 4821,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1226900?v=3",
-    "githubForks": 195,
-    "githubStars": 1038,
+    "githubForks": 198,
+    "githubStars": 1050,
     "githubWatchers": 68,
     "githubCreated_at": "2015-05-08T02:26:16Z",
-    "githubUpdated_at": "2017-06-16T03:38:59Z"
+    "githubUpdated_at": "2017-06-23T09:52:02Z"
   },
   {
     "githubUrl": "https://github.com/kirang89/bootstrapy",
@@ -20,10 +20,10 @@
     "githubSize": 112,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1074304?v=3",
     "githubForks": 28,
-    "githubStars": 271,
-    "githubWatchers": 15,
+    "githubStars": 272,
+    "githubWatchers": 16,
     "githubCreated_at": "2013-09-09T09:37:44Z",
-    "githubUpdated_at": "2017-06-02T05:36:45Z"
+    "githubUpdated_at": "2017-06-18T14:55:58Z"
   },
   {
     "githubUrl": "https://github.com/imwilsonxu/fbone",
@@ -32,11 +32,11 @@
     "githubDescription": "Fbone (Flask bone) is a Flask (Python microframework) template/bootstrap/boilerplate application.",
     "githubSize": 704,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/368066?v=3",
-    "githubForks": 246,
-    "githubStars": 1389,
+    "githubForks": 248,
+    "githubStars": 1391,
     "githubWatchers": 77,
     "githubCreated_at": "2012-10-17T04:23:32Z",
-    "githubUpdated_at": "2017-06-13T03:42:08Z"
+    "githubUpdated_at": "2017-06-22T00:53:35Z"
   },
   {
     "githubUrl": "https://github.com/esbullington/flask-bootstrap",
@@ -56,13 +56,13 @@
     "githubOwner": "audreyr",
     "githubName": "cookiecutter",
     "githubDescription": "A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.",
-    "githubSize": 2006,
+    "githubSize": 2020,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/74739?v=3",
-    "githubForks": 601,
-    "githubStars": 5216,
-    "githubWatchers": 159,
+    "githubForks": 603,
+    "githubStars": 5237,
+    "githubWatchers": 160,
     "githubCreated_at": "2013-07-14T18:31:22Z",
-    "githubUpdated_at": "2017-06-17T14:46:15Z"
+    "githubUpdated_at": "2017-06-23T04:22:24Z"
   },
   {
     "githubUrl": "https://github.com/JackStouffer/Flask-Foundation",
@@ -72,10 +72,10 @@
     "githubSize": 1436,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/680068?v=3",
     "githubForks": 110,
-    "githubStars": 1031,
+    "githubStars": 1035,
     "githubWatchers": 42,
     "githubCreated_at": "2013-09-15T06:34:48Z",
-    "githubUpdated_at": "2017-06-16T11:23:26Z"
+    "githubUpdated_at": "2017-06-21T20:42:38Z"
   },
   {
     "githubUrl": "https://github.com/coto/gae-boilerplate",
@@ -84,11 +84,11 @@
     "githubDescription": "Google App Engine Boilerplate",
     "githubSize": 7326,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/25914?v=3",
-    "githubForks": 224,
-    "githubStars": 708,
+    "githubForks": 223,
+    "githubStars": 707,
     "githubWatchers": 102,
     "githubCreated_at": "2012-02-12T16:17:18Z",
-    "githubUpdated_at": "2017-06-13T14:22:10Z"
+    "githubUpdated_at": "2017-06-23T04:35:23Z"
   },
   {
     "githubUrl": "https://github.com/kamalgill/flask-appengine-template",
@@ -97,11 +97,11 @@
     "githubDescription": "Boilerplate project template for running Flask on Google App Engine",
     "githubSize": 3279,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/133923?v=3",
-    "githubForks": 211,
-    "githubStars": 1002,
+    "githubForks": 209,
+    "githubStars": 1001,
     "githubWatchers": 74,
     "githubCreated_at": "2010-09-19T17:42:15Z",
-    "githubUpdated_at": "2017-06-17T10:34:35Z"
+    "githubUpdated_at": "2017-06-19T20:43:34Z"
   },
   {
     "githubUrl": "https://github.com/fasouto/django-starter-template",
@@ -110,11 +110,11 @@
     "githubDescription": "A project template for Django 1.10 that follows best practices.",
     "githubSize": 681,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/194200?v=3",
-    "githubForks": 24,
-    "githubStars": 69,
-    "githubWatchers": 9,
+    "githubForks": 25,
+    "githubStars": 70,
+    "githubWatchers": 10,
     "githubCreated_at": "2014-07-20T16:52:39Z",
-    "githubUpdated_at": "2017-05-23T18:58:47Z"
+    "githubUpdated_at": "2017-06-23T02:21:54Z"
   },
   {
     "githubUrl": "https://github.com/kdeldycke/cherrypy_mako_formish_ooop_boilerplate",
@@ -149,10 +149,10 @@
     "githubDescription": "A standard layout for Tornado apps ",
     "githubSize": 276,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/187098?v=3",
-    "githubForks": 76,
-    "githubStars": 334,
+    "githubForks": 77,
+    "githubStars": 335,
     "githubWatchers": 24,
     "githubCreated_at": "2010-11-13T22:19:42Z",
-    "githubUpdated_at": "2017-06-12T05:48:38Z"
+    "githubUpdated_at": "2017-06-20T07:49:43Z"
   }
 ]

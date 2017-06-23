@@ -17,52 +17,52 @@
     "githubOwner": "aspnetboilerplate",
     "githubName": "aspnetboilerplate",
     "githubDescription": "ASP.NET Boilerplate - Application Framework",
-    "githubSize": 24753,
+    "githubSize": 24762,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/5957277?v=3",
-    "githubForks": 1492,
-    "githubStars": 2836,
-    "githubWatchers": 539,
+    "githubForks": 1506,
+    "githubStars": 2859,
+    "githubWatchers": 541,
     "githubCreated_at": "2013-08-18T20:45:08Z",
-    "githubUpdated_at": "2017-06-17T14:32:07Z"
+    "githubUpdated_at": "2017-06-23T08:35:14Z"
   },
   {
     "githubUrl": "https://github.com/ASP-NET-MVC-Boilerplate/Templates",
     "githubOwner": "ASP-NET-MVC-Boilerplate",
     "githubName": "Templates",
     "githubDescription": "Professional ASP.NET Core project templates for building secure, fast, robust and adaptable web applications or sites. It provides the minimum amount of code required on top of the default ASP.NET Core project template provided by Microsoft.",
-    "githubSize": 42421,
+    "githubSize": 42433,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/22211766?v=3",
     "githubForks": 231,
-    "githubStars": 933,
+    "githubStars": 935,
     "githubWatchers": 140,
     "githubCreated_at": "2014-10-27T08:57:45Z",
-    "githubUpdated_at": "2017-06-16T21:47:52Z"
+    "githubUpdated_at": "2017-06-21T08:15:41Z"
   },
   {
     "githubUrl": "https://github.com/aspnetboilerplate/module-zero",
     "githubOwner": "aspnetboilerplate",
     "githubName": "module-zero",
     "githubDescription": "ASP.NET Boilerplate - ASP.NET Identity Integration Module",
-    "githubSize": 19437,
+    "githubSize": 19438,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/5957277?v=3",
-    "githubForks": 395,
-    "githubStars": 463,
+    "githubForks": 397,
+    "githubStars": 466,
     "githubWatchers": 131,
     "githubCreated_at": "2014-08-22T17:57:19Z",
-    "githubUpdated_at": "2017-06-17T01:15:20Z"
+    "githubUpdated_at": "2017-06-22T20:21:44Z"
   },
   {
     "githubUrl": "https://github.com/kriasoft/aspnet-starter-kit",
     "githubOwner": "kriasoft",
     "githubName": "aspnet-starter-kit",
     "githubDescription": "Cross-platform web development with Visual Studio Code, C#, F#, JavaScript, ASP.NET Core, EF Core, React (ReactJS), Redux, Babel. Single-page application boilerplate.",
-    "githubSize": 1400,
+    "githubSize": 1401,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/773036?v=3",
     "githubForks": 141,
-    "githubStars": 716,
+    "githubStars": 720,
     "githubWatchers": 79,
     "githubCreated_at": "2014-08-21T09:51:46Z",
-    "githubUpdated_at": "2017-06-17T11:22:20Z"
+    "githubUpdated_at": "2017-06-23T04:49:34Z"
   },
   {
     "githubUrl": "https://github.com/restsharp/RestSharp",
@@ -71,10 +71,10 @@
     "githubDescription": "Simple REST and HTTP API Client for .NET",
     "githubSize": 37966,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1057779?v=3",
-    "githubForks": 1442,
-    "githubStars": 4359,
+    "githubForks": 1451,
+    "githubStars": 4377,
     "githubWatchers": 398,
     "githubCreated_at": "2009-11-16T02:01:45Z",
-    "githubUpdated_at": "2017-06-17T14:34:42Z"
+    "githubUpdated_at": "2017-06-23T09:20:45Z"
   }
 ]
