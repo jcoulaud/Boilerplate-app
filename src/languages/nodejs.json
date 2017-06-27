@@ -4,9 +4,9 @@
     "githubOwner": "yeoman",
     "githubName": "generator-node",
     "githubDescription": "Create a Node.js module",
-    "githubSize": 442,
+    "githubSize": 414,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1714870?v=3",
-    "githubForks": 134,
+    "githubForks": 135,
     "githubStars": 422,
     "githubWatchers": 25,
     "githubCreated_at": "2013-05-15T15:15:10Z",
@@ -20,10 +20,10 @@
     "githubSize": 20,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/170270?v=3",
     "githubForks": 27,
-    "githubStars": 363,
+    "githubStars": 362,
     "githubWatchers": 12,
     "githubCreated_at": "2015-03-14T05:47:45Z",
-    "githubUpdated_at": "2017-06-21T14:18:50Z"
+    "githubUpdated_at": "2017-06-24T04:39:25Z"
   },
   {
     "githubUrl": "https://github.com/expressjs/generator",
@@ -33,10 +33,10 @@
     "githubSize": 172,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/5658226?v=3",
     "githubForks": 265,
-    "githubStars": 699,
+    "githubStars": 701,
     "githubWatchers": 39,
     "githubCreated_at": "2013-11-20T22:24:21Z",
-    "githubUpdated_at": "2017-06-21T16:46:03Z"
+    "githubUpdated_at": "2017-06-26T12:32:40Z"
   },
   {
     "githubUrl": "https://github.com/sahat/hackathon-starter",
@@ -45,11 +45,11 @@
     "githubDescription": "A boilerplate for Node.js web applications",
     "githubSize": 9270,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/544954?v=3",
-    "githubForks": 3513,
-    "githubStars": 20135,
-    "githubWatchers": 719,
+    "githubForks": 3518,
+    "githubStars": 20173,
+    "githubWatchers": 721,
     "githubCreated_at": "2013-11-13T17:24:12Z",
-    "githubUpdated_at": "2017-06-23T08:49:05Z"
+    "githubUpdated_at": "2017-06-27T06:28:00Z"
   },
   {
     "githubUrl": "https://github.com/skaapgif/webapp-boilerplate",
@@ -85,10 +85,10 @@
     "githubSize": 393,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/773036?v=3",
     "githubForks": 96,
-    "githubStars": 547,
+    "githubStars": 556,
     "githubWatchers": 23,
     "githubCreated_at": "2016-09-30T13:14:17Z",
-    "githubUpdated_at": "2017-06-23T09:23:56Z"
+    "githubUpdated_at": "2017-06-26T15:44:48Z"
   },
   {
     "githubUrl": "https://github.com/neogeek/nodejs-starter-kit",
@@ -110,7 +110,7 @@
     "githubDescription": "A Node.js website boilerplate that satisfies some common website requirements.",
     "githubSize": 1567,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/7906835?v=3",
-    "githubForks": 14,
+    "githubForks": 13,
     "githubStars": 86,
     "githubWatchers": 6,
     "githubCreated_at": "2016-07-26T03:27:12Z",
@@ -121,13 +121,13 @@
     "githubOwner": "icebob",
     "githubName": "vue-express-mongo-boilerplate",
     "githubDescription": ":star: Full stack JS web app boilerplate with NodeJS, Express, Mongo and VueJS",
-    "githubSize": 12273,
+    "githubSize": 11988,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/306521?v=3",
-    "githubForks": 106,
-    "githubStars": 358,
-    "githubWatchers": 31,
+    "githubForks": 109,
+    "githubStars": 365,
+    "githubWatchers": 32,
     "githubCreated_at": "2016-06-18T12:09:40Z",
-    "githubUpdated_at": "2017-06-23T09:25:00Z"
+    "githubUpdated_at": "2017-06-27T09:03:27Z"
   },
   {
     "githubUrl": "https://github.com/diki/nodejs-passport-boilerplate",
@@ -150,10 +150,10 @@
     "githubSize": 108,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/17815977?v=3",
     "githubForks": 229,
-    "githubStars": 1007,
+    "githubStars": 1018,
     "githubWatchers": 108,
     "githubCreated_at": "2016-06-24T06:26:05Z",
-    "githubUpdated_at": "2017-06-23T07:34:36Z"
+    "githubUpdated_at": "2017-06-27T07:35:51Z"
   },
   {
     "githubUrl": "https://github.com/diegohaz/rest",
@@ -162,11 +162,11 @@
     "githubDescription": "RESTful API generator using NodeJS, Express and Mongoose",
     "githubSize": 247,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/3068563?v=3",
-    "githubForks": 55,
-    "githubStars": 298,
-    "githubWatchers": 22,
+    "githubForks": 56,
+    "githubStars": 303,
+    "githubWatchers": 23,
     "githubCreated_at": "2016-09-06T23:05:11Z",
-    "githubUpdated_at": "2017-06-23T08:39:20Z"
+    "githubUpdated_at": "2017-06-26T17:48:31Z"
   },
   {
     "githubUrl": "https://github.com/ericmdantas/generator-ng-fullstack",
@@ -176,10 +176,10 @@
     "githubSize": 1816,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/7040162?v=3",
     "githubForks": 84,
-    "githubStars": 602,
+    "githubStars": 604,
     "githubWatchers": 45,
     "githubCreated_at": "2015-03-04T01:59:47Z",
-    "githubUpdated_at": "2017-06-23T07:41:44Z"
+    "githubUpdated_at": "2017-06-27T07:50:44Z"
   },
   {
     "githubUrl": "https://github.com/jbutko/ExpressJS-Socket.IO-AngularJS-Boilerplate",
@@ -199,13 +199,13 @@
     "githubOwner": "diegohaz",
     "githubName": "nod",
     "githubDescription": "NodeJS module generator/boilerplate with Babel, Jest, Flow, Documentation and more",
-    "githubSize": 168,
+    "githubSize": 170,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/3068563?v=3",
     "githubForks": 4,
-    "githubStars": 35,
+    "githubStars": 38,
     "githubWatchers": 2,
     "githubCreated_at": "2017-01-13T01:29:48Z",
-    "githubUpdated_at": "2017-06-19T19:03:53Z"
+    "githubUpdated_at": "2017-06-27T02:21:31Z"
   },
   {
     "githubUrl": "https://github.com/talyssonoc/node-api-boilerplate/",
@@ -214,11 +214,11 @@
     "githubDescription": "DDD/Clean Architecture inspired boilerplate for Node web APIs",
     "githubSize": 117,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/4325587?v=3",
-    "githubForks": 11,
-    "githubStars": 95,
+    "githubForks": 12,
+    "githubStars": 96,
     "githubWatchers": 6,
     "githubCreated_at": "2017-03-13T21:16:09Z",
-    "githubUpdated_at": "2017-06-19T21:45:14Z"
+    "githubUpdated_at": "2017-06-26T07:37:47Z"
   },
   {
     "githubUrl": "https://github.com/FredericHeem/starhackit",
@@ -228,10 +228,10 @@
     "githubSize": 2035,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/4118089?v=3",
     "githubForks": 144,
-    "githubStars": 945,
+    "githubStars": 948,
     "githubWatchers": 56,
     "githubCreated_at": "2015-10-13T12:43:22Z",
-    "githubUpdated_at": "2017-06-23T02:01:38Z"
+    "githubUpdated_at": "2017-06-26T19:18:13Z"
   },
   {
     "githubUrl": "https://github.com/jamg44/NodeTyped",

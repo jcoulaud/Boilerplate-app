@@ -6,11 +6,11 @@
     "githubDescription": "A boilerplate for Django web applications",
     "githubSize": 4821,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1226900?v=3",
-    "githubForks": 198,
+    "githubForks": 199,
     "githubStars": 1050,
-    "githubWatchers": 68,
+    "githubWatchers": 67,
     "githubCreated_at": "2015-05-08T02:26:16Z",
-    "githubUpdated_at": "2017-06-23T09:52:02Z"
+    "githubUpdated_at": "2017-06-26T16:37:32Z"
   },
   {
     "githubUrl": "https://github.com/kirang89/bootstrapy",
@@ -23,20 +23,20 @@
     "githubStars": 272,
     "githubWatchers": 16,
     "githubCreated_at": "2013-09-09T09:37:44Z",
-    "githubUpdated_at": "2017-06-18T14:55:58Z"
+    "githubUpdated_at": "2017-06-24T23:18:50Z"
   },
   {
     "githubUrl": "https://github.com/imwilsonxu/fbone",
     "githubOwner": "imwilsonxu",
     "githubName": "fbone",
-    "githubDescription": "Fbone (Flask bone) is a Flask (Python microframework) template/bootstrap/boilerplate application.",
+    "githubDescription": "Fbone (Flask bone) is a Flask (Python microframework) starter/template/bootstrap/boilerplate application.",
     "githubSize": 704,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/368066?v=3",
     "githubForks": 248,
-    "githubStars": 1391,
+    "githubStars": 1394,
     "githubWatchers": 77,
     "githubCreated_at": "2012-10-17T04:23:32Z",
-    "githubUpdated_at": "2017-06-22T00:53:35Z"
+    "githubUpdated_at": "2017-06-27T05:01:57Z"
   },
   {
     "githubUrl": "https://github.com/esbullington/flask-bootstrap",
@@ -46,23 +46,23 @@
     "githubSize": 931,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1138625?v=3",
     "githubForks": 42,
-    "githubStars": 158,
+    "githubStars": 160,
     "githubWatchers": 13,
     "githubCreated_at": "2012-03-06T17:53:29Z",
-    "githubUpdated_at": "2017-04-13T14:48:20Z"
+    "githubUpdated_at": "2017-06-25T01:22:09Z"
   },
   {
     "githubUrl": "https://github.com/audreyr/cookiecutter",
     "githubOwner": "audreyr",
     "githubName": "cookiecutter",
     "githubDescription": "A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.",
-    "githubSize": 2020,
+    "githubSize": 2039,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/74739?v=3",
-    "githubForks": 603,
-    "githubStars": 5237,
-    "githubWatchers": 160,
+    "githubForks": 604,
+    "githubStars": 5258,
+    "githubWatchers": 159,
     "githubCreated_at": "2013-07-14T18:31:22Z",
-    "githubUpdated_at": "2017-06-23T04:22:24Z"
+    "githubUpdated_at": "2017-06-27T08:40:06Z"
   },
   {
     "githubUrl": "https://github.com/JackStouffer/Flask-Foundation",
@@ -72,10 +72,10 @@
     "githubSize": 1436,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/680068?v=3",
     "githubForks": 110,
-    "githubStars": 1035,
+    "githubStars": 1036,
     "githubWatchers": 42,
     "githubCreated_at": "2013-09-15T06:34:48Z",
-    "githubUpdated_at": "2017-06-21T20:42:38Z"
+    "githubUpdated_at": "2017-06-24T10:09:42Z"
   },
   {
     "githubUrl": "https://github.com/coto/gae-boilerplate",
@@ -86,7 +86,7 @@
     "githubAvatar": "https://avatars1.githubusercontent.com/u/25914?v=3",
     "githubForks": 223,
     "githubStars": 707,
-    "githubWatchers": 102,
+    "githubWatchers": 101,
     "githubCreated_at": "2012-02-12T16:17:18Z",
     "githubUpdated_at": "2017-06-23T04:35:23Z"
   },

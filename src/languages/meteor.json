@@ -16,14 +16,14 @@
     "githubUrl": "https://github.com/matteodem/meteor-boilerplate",
     "githubOwner": "matteodem",
     "githubName": "meteor-boilerplate",
-    "githubDescription": "A boilerplate for meteorjs projects",
-    "githubSize": 2628,
+    "githubDescription": "A lightweight boilerplate for meteor projects",
+    "githubSize": 3068,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1301147?v=3",
     "githubForks": 144,
     "githubStars": 844,
-    "githubWatchers": 56,
+    "githubWatchers": 55,
     "githubCreated_at": "2013-09-09T19:42:09Z",
-    "githubUpdated_at": "2017-06-20T22:31:40Z"
+    "githubUpdated_at": "2017-06-24T10:41:30Z"
   },
   {
     "githubUrl": "https://github.com/themeteorchef/base",
@@ -32,9 +32,9 @@
     "githubDescription": "A starting point for Meteor apps.",
     "githubSize": 3367,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/8183166?v=3",
-    "githubForks": 266,
+    "githubForks": 267,
     "githubStars": 649,
-    "githubWatchers": 56,
+    "githubWatchers": 55,
     "githubCreated_at": "2014-07-21T20:44:21Z",
     "githubUpdated_at": "2017-06-22T18:57:05Z"
   },
@@ -59,10 +59,10 @@
     "githubSize": 29,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1445367?v=3",
     "githubForks": 72,
-    "githubStars": 152,
-    "githubWatchers": 17,
+    "githubStars": 151,
+    "githubWatchers": 16,
     "githubCreated_at": "2015-07-26T22:12:48Z",
-    "githubUpdated_at": "2017-06-19T23:04:35Z"
+    "githubUpdated_at": "2017-06-24T23:29:54Z"
   },
   {
     "githubUrl": "https://github.com/ffxsam/ffx-meteor-react-boilerplate",
@@ -71,11 +71,11 @@
     "githubDescription": "Meteor 1.4 + React boilerplate (DEPRECATED/ABANDONED) 👋",
     "githubSize": 132,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/12532733?v=3",
-    "githubForks": 26,
+    "githubForks": 27,
     "githubStars": 144,
-    "githubWatchers": 20,
+    "githubWatchers": 19,
     "githubCreated_at": "2016-01-28T21:20:25Z",
-    "githubUpdated_at": "2017-06-11T17:07:16Z"
+    "githubUpdated_at": "2017-06-24T04:39:28Z"
   },
   {
     "githubUrl": "https://github.com/meteor-useraccounts/boilerplates",
