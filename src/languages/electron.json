@@ -4,13 +4,13 @@
     "githubOwner": "chentsulin",
     "githubName": "electron-react-boilerplate",
     "githubDescription": "Live editing development on desktop app",
-    "githubSize": 5275,
+    "githubSize": 5339,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/3382565?v=3",
-    "githubForks": 936,
-    "githubStars": 6201,
-    "githubWatchers": 175,
+    "githubForks": 950,
+    "githubStars": 6245,
+    "githubWatchers": 177,
     "githubCreated_at": "2015-05-18T09:54:57Z",
-    "githubUpdated_at": "2017-06-27T09:55:55Z"
+    "githubUpdated_at": "2017-07-03T01:05:43Z"
   },
   {
     "githubUrl": "https://github.com/szwacz/electron-boilerplate",
@@ -19,24 +19,24 @@
     "githubDescription": "Boilerplate application for Electron runtime",
     "githubSize": 751,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/4573903?v=3",
-    "githubForks": 352,
-    "githubStars": 2046,
-    "githubWatchers": 103,
+    "githubForks": 354,
+    "githubStars": 2055,
+    "githubWatchers": 102,
     "githubCreated_at": "2015-04-25T09:16:40Z",
-    "githubUpdated_at": "2017-06-27T03:12:59Z"
+    "githubUpdated_at": "2017-07-03T03:38:58Z"
   },
   {
     "githubUrl": "https://github.com/SimulatedGREG/electron-vue",
     "githubOwner": "SimulatedGREG",
     "githubName": "electron-vue",
     "githubDescription": "An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.",
-    "githubSize": 5537,
+    "githubSize": 5538,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/8327811?v=3",
-    "githubForks": 183,
-    "githubStars": 2204,
-    "githubWatchers": 85,
+    "githubForks": 191,
+    "githubStars": 2259,
+    "githubWatchers": 93,
     "githubCreated_at": "2016-05-12T07:08:12Z",
-    "githubUpdated_at": "2017-06-27T08:27:40Z"
+    "githubUpdated_at": "2017-07-03T06:06:13Z"
   },
   {
     "githubUrl": "https://github.com/bradstewart/electron-boilerplate-vue",
@@ -45,11 +45,11 @@
     "githubDescription": "Boilerplate application for Electron runtime",
     "githubSize": 1155,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/3613191?v=3",
-    "githubForks": 81,
-    "githubStars": 566,
+    "githubForks": 84,
+    "githubStars": 571,
     "githubWatchers": 41,
     "githubCreated_at": "2015-10-27T21:43:04Z",
-    "githubUpdated_at": "2017-06-26T19:33:20Z"
+    "githubUpdated_at": "2017-07-03T07:50:13Z"
   },
   {
     "githubUrl": "https://github.com/sindresorhus/generator-electron",
@@ -59,10 +59,10 @@
     "githubSize": 69,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/170270?v=3",
     "githubForks": 41,
-    "githubStars": 517,
+    "githubStars": 520,
     "githubWatchers": 17,
     "githubCreated_at": "2015-04-23T11:28:40Z",
-    "githubUpdated_at": "2017-06-27T03:12:23Z"
+    "githubUpdated_at": "2017-06-30T17:52:48Z"
   },
   {
     "githubUrl": "https://github.com/sindresorhus/electron-boilerplate",
@@ -71,11 +71,11 @@
     "githubDescription": "Boilerplate to kickstart creating an app with Electron",
     "githubSize": 23,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/170270?v=3",
-    "githubForks": 69,
-    "githubStars": 483,
+    "githubForks": 73,
+    "githubStars": 485,
     "githubWatchers": 29,
     "githubCreated_at": "2015-04-23T11:38:29Z",
-    "githubUpdated_at": "2017-06-23T18:49:34Z"
+    "githubUpdated_at": "2017-06-29T20:28:09Z"
   },
   {
     "githubUrl": "https://github.com/Equanox/gotron",
@@ -85,10 +85,10 @@
     "githubSize": 123,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/3776893?v=3",
     "githubForks": 15,
-    "githubStars": 375,
+    "githubStars": 381,
     "githubWatchers": 41,
     "githubCreated_at": "2017-03-31T12:05:44Z",
-    "githubUpdated_at": "2017-06-26T16:53:49Z"
+    "githubUpdated_at": "2017-07-03T02:37:23Z"
   },
   {
     "githubUrl": "https://github.com/Stephn-R/electron-angular-boilerplate",
@@ -110,11 +110,11 @@
     "githubDescription": "A minimal boilerplate to get started with Electron, React and Redux.",
     "githubSize": 36,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1163252?v=3",
-    "githubForks": 39,
-    "githubStars": 158,
+    "githubForks": 40,
+    "githubStars": 163,
     "githubWatchers": 8,
     "githubCreated_at": "2015-09-14T16:44:57Z",
-    "githubUpdated_at": "2017-06-26T08:07:03Z"
+    "githubUpdated_at": "2017-07-02T08:47:54Z"
   },
   {
     "githubUrl": "https://github.com/Quramy/electron-jsx-babel-boilerplate",
@@ -150,22 +150,22 @@
     "githubSize": 238,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/15132822?v=3",
     "githubForks": 25,
-    "githubStars": 96,
+    "githubStars": 98,
     "githubWatchers": 5,
     "githubCreated_at": "2015-10-26T14:21:24Z",
-    "githubUpdated_at": "2017-06-15T05:11:07Z"
+    "githubUpdated_at": "2017-06-29T17:45:23Z"
   },
   {
     "githubUrl": "https://github.com/taichi/js-boilerplate",
     "githubOwner": "taichi",
     "githubName": "js-boilerplate",
     "githubDescription": "Modern JavaScript Application Boilerplate",
-    "githubSize": 478,
+    "githubSize": 522,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/66100?v=3",
     "githubForks": 2,
-    "githubStars": 48,
+    "githubStars": 49,
     "githubWatchers": 1,
     "githubCreated_at": "2017-01-04T12:08:07Z",
-    "githubUpdated_at": "2017-05-16T19:43:40Z"
+    "githubUpdated_at": "2017-06-28T21:59:57Z"
   }
 ]
