@@ -26,7 +26,8 @@ const languages = [
 			'https://github.com/zeit/next.js/',
 			'https://github.com/codefoundries/UniversalRelayBoilerplate',
 			'https://github.com/insin/nwb',
-			'https://github.com/jquintozamora/react-typescript-webpack2-cssModules-postCSS'
+			'https://github.com/jquintozamora/react-typescript-webpack2-cssModules-postCSS',
+			'https://github.com/akveo/kittenTricks'
 		]
 	},
 	{

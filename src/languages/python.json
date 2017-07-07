@@ -6,11 +6,11 @@
     "githubDescription": "A boilerplate for Django web applications",
     "githubSize": 4821,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1226900?v=3",
-    "githubForks": 199,
-    "githubStars": 1054,
-    "githubWatchers": 67,
+    "githubForks": 204,
+    "githubStars": 1058,
+    "githubWatchers": 68,
     "githubCreated_at": "2015-05-08T02:26:16Z",
-    "githubUpdated_at": "2017-07-01T09:11:08Z"
+    "githubUpdated_at": "2017-07-06T02:17:05Z"
   },
   {
     "githubUrl": "https://github.com/kirang89/bootstrapy",
@@ -33,10 +33,10 @@
     "githubSize": 704,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/368066?v=3",
     "githubForks": 247,
-    "githubStars": 1394,
+    "githubStars": 1398,
     "githubWatchers": 77,
     "githubCreated_at": "2012-10-17T04:23:32Z",
-    "githubUpdated_at": "2017-06-29T15:04:32Z"
+    "githubUpdated_at": "2017-07-05T17:26:26Z"
   },
   {
     "githubUrl": "https://github.com/esbullington/flask-bootstrap",
@@ -47,7 +47,7 @@
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1138625?v=3",
     "githubForks": 42,
     "githubStars": 160,
-    "githubWatchers": 13,
+    "githubWatchers": 12,
     "githubCreated_at": "2012-03-06T17:53:29Z",
     "githubUpdated_at": "2017-06-25T01:22:09Z"
   },
@@ -56,13 +56,13 @@
     "githubOwner": "audreyr",
     "githubName": "cookiecutter",
     "githubDescription": "A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.",
-    "githubSize": 2039,
+    "githubSize": 2026,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/74739?v=3",
     "githubForks": 603,
-    "githubStars": 5296,
-    "githubWatchers": 160,
+    "githubStars": 5325,
+    "githubWatchers": 161,
     "githubCreated_at": "2013-07-14T18:31:22Z",
-    "githubUpdated_at": "2017-07-03T06:30:07Z"
+    "githubUpdated_at": "2017-07-07T15:56:23Z"
   },
   {
     "githubUrl": "https://github.com/JackStouffer/Flask-Foundation",
@@ -72,10 +72,10 @@
     "githubSize": 1436,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/680068?v=3",
     "githubForks": 110,
-    "githubStars": 1036,
-    "githubWatchers": 42,
+    "githubStars": 1040,
+    "githubWatchers": 43,
     "githubCreated_at": "2013-09-15T06:34:48Z",
-    "githubUpdated_at": "2017-07-01T09:05:08Z"
+    "githubUpdated_at": "2017-07-07T14:53:17Z"
   },
   {
     "githubUrl": "https://github.com/coto/gae-boilerplate",
@@ -98,10 +98,10 @@
     "githubSize": 3279,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/133923?v=3",
     "githubForks": 209,
-    "githubStars": 1001,
+    "githubStars": 1002,
     "githubWatchers": 74,
     "githubCreated_at": "2010-09-19T17:42:15Z",
-    "githubUpdated_at": "2017-06-29T20:04:31Z"
+    "githubUpdated_at": "2017-07-07T15:32:45Z"
   },
   {
     "githubUrl": "https://github.com/fasouto/django-starter-template",
@@ -111,10 +111,10 @@
     "githubSize": 681,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/194200?v=3",
     "githubForks": 25,
-    "githubStars": 70,
+    "githubStars": 71,
     "githubWatchers": 10,
     "githubCreated_at": "2014-07-20T16:52:39Z",
-    "githubUpdated_at": "2017-06-23T02:21:54Z"
+    "githubUpdated_at": "2017-07-03T10:21:00Z"
   },
   {
     "githubUrl": "https://github.com/kdeldycke/cherrypy_mako_formish_ooop_boilerplate",
@@ -149,7 +149,7 @@
     "githubDescription": "A standard layout for Tornado apps ",
     "githubSize": 276,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/187098?v=3",
-    "githubForks": 78,
+    "githubForks": 79,
     "githubStars": 336,
     "githubWatchers": 24,
     "githubCreated_at": "2010-11-13T22:19:42Z",
