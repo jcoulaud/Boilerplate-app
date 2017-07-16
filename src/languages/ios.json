@@ -5,12 +5,12 @@
     "githubName": "iOS-boilerplate",
     "githubDescription": "iOS-app template with lots of common tasks solved",
     "githubSize": 2587,
-    "githubAvatar": "https://avatars0.githubusercontent.com/u/50486?v=3",
+    "githubAvatar": "https://avatars7.githubusercontent.com/u/50486?v=4",
     "githubForks": 517,
-    "githubStars": 2903,
+    "githubStars": 2904,
     "githubWatchers": 210,
     "githubCreated_at": "2011-08-22T22:16:17Z",
-    "githubUpdated_at": "2017-07-04T09:02:11Z"
+    "githubUpdated_at": "2017-07-11T12:19:37Z"
   },
   {
     "githubUrl": "https://github.com/crushlovely/Amaro",
@@ -18,12 +18,12 @@
     "githubName": "Amaro",
     "githubDescription": "Featureful iOS Boilerplate",
     "githubSize": 450,
-    "githubAvatar": "https://avatars0.githubusercontent.com/u/7337?v=3",
+    "githubAvatar": "https://avatars7.githubusercontent.com/u/7337?v=4",
     "githubForks": 38,
-    "githubStars": 370,
+    "githubStars": 372,
     "githubWatchers": 43,
     "githubCreated_at": "2014-03-02T22:28:45Z",
-    "githubUpdated_at": "2017-07-04T19:49:17Z"
+    "githubUpdated_at": "2017-07-14T13:14:44Z"
   },
   {
     "githubUrl": "https://github.com/openaphid/Boilerplate-iOS",
@@ -31,7 +31,7 @@
     "githubName": "Boilerplate-iOS",
     "githubDescription": "A template project for developing iOS games with OpenAphid-Engine",
     "githubSize": 7893,
-    "githubAvatar": "https://avatars0.githubusercontent.com/u/1283326?v=3",
+    "githubAvatar": "https://avatars7.githubusercontent.com/u/1283326?v=4",
     "githubForks": 2,
     "githubStars": 7,
     "githubWatchers": 1,
@@ -44,12 +44,12 @@
     "githubName": "ios-universal-webview-boilerplate",
     "githubDescription": "Universal Swift-based boilerplate for a web app.",
     "githubSize": 19,
-    "githubAvatar": "https://avatars2.githubusercontent.com/u/2470659?v=3",
-    "githubForks": 60,
-    "githubStars": 793,
+    "githubAvatar": "https://avatars5.githubusercontent.com/u/2470659?v=4",
+    "githubForks": 61,
+    "githubStars": 796,
     "githubWatchers": 30,
     "githubCreated_at": "2015-06-19T14:08:01Z",
-    "githubUpdated_at": "2017-07-04T07:59:25Z"
+    "githubUpdated_at": "2017-07-16T08:23:15Z"
   },
   {
     "githubUrl": "https://github.com/JohnSundell/SwiftPlate",
@@ -57,12 +57,12 @@
     "githubName": "SwiftPlate",
     "githubDescription": "Easily generate cross platform Swift framework projects from the command line",
     "githubSize": 447,
-    "githubAvatar": "https://avatars0.githubusercontent.com/u/2466701?v=3",
+    "githubAvatar": "https://avatars7.githubusercontent.com/u/2466701?v=4",
     "githubForks": 53,
-    "githubStars": 1111,
+    "githubStars": 1114,
     "githubWatchers": 26,
     "githubCreated_at": "2015-06-10T23:48:16Z",
-    "githubUpdated_at": "2017-07-07T12:28:33Z"
+    "githubUpdated_at": "2017-07-14T13:00:22Z"
   },
   {
     "githubUrl": "https://github.com/thoughtbot/liftoff",
@@ -70,11 +70,11 @@
     "githubName": "liftoff",
     "githubDescription": "CLI for creating and configuring new Xcode projects",
     "githubSize": 17616,
-    "githubAvatar": "https://avatars0.githubusercontent.com/u/20134199?v=3",
+    "githubAvatar": "https://avatars7.githubusercontent.com/u/20134199?v=4",
     "githubForks": 108,
-    "githubStars": 1539,
+    "githubStars": 1540,
     "githubWatchers": 67,
     "githubCreated_at": "2012-10-19T00:58:18Z",
-    "githubUpdated_at": "2017-07-05T20:59:34Z"
+    "githubUpdated_at": "2017-07-14T09:12:31Z"
   }
 ]

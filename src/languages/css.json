@@ -4,13 +4,13 @@
     "githubOwner": "inuitcss",
     "githubName": "inuitcss",
     "githubDescription": "Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.",
-    "githubSize": 251,
-    "githubAvatar": "https://avatars1.githubusercontent.com/u/5980429?v=3",
-    "githubForks": 94,
-    "githubStars": 853,
+    "githubSize": 252,
+    "githubAvatar": "https://avatars6.githubusercontent.com/u/5980429?v=4",
+    "githubForks": 97,
+    "githubStars": 866,
     "githubWatchers": 94,
     "githubCreated_at": "2016-06-22T07:14:33Z",
-    "githubUpdated_at": "2017-07-07T06:54:30Z"
+    "githubUpdated_at": "2017-07-15T21:42:23Z"
   },
   {
     "githubUrl": "https://github.com/suitcss/suit",
@@ -18,25 +18,25 @@
     "githubName": "suit",
     "githubDescription": "Style tools for UI components",
     "githubSize": 264,
-    "githubAvatar": "https://avatars1.githubusercontent.com/u/4564613?v=3",
+    "githubAvatar": "https://avatars6.githubusercontent.com/u/4564613?v=4",
     "githubForks": 180,
-    "githubStars": 3203,
+    "githubStars": 3204,
     "githubWatchers": 139,
     "githubCreated_at": "2011-10-19T21:38:00Z",
-    "githubUpdated_at": "2017-07-06T10:06:38Z"
+    "githubUpdated_at": "2017-07-15T11:19:37Z"
   },
   {
     "githubUrl": "https://github.com/Chalarangelo/mini.css",
     "githubOwner": "Chalarangelo",
     "githubName": "mini.css",
     "githubDescription": "A minimal, responsive, style-agnostic CSS framework!",
-    "githubSize": 4869,
-    "githubAvatar": "https://avatars1.githubusercontent.com/u/8281875?v=3",
-    "githubForks": 59,
-    "githubStars": 1717,
+    "githubSize": 4908,
+    "githubAvatar": "https://avatars6.githubusercontent.com/u/8281875?v=4",
+    "githubForks": 61,
+    "githubStars": 1767,
     "githubWatchers": 49,
     "githubCreated_at": "2016-08-22T06:31:31Z",
-    "githubUpdated_at": "2017-07-06T14:01:24Z"
+    "githubUpdated_at": "2017-07-16T08:30:38Z"
   },
   {
     "githubUrl": "https://github.com/WhatsNewSaes/Skeleton-Sass",
@@ -44,12 +44,12 @@
     "githubName": "Skeleton-Sass",
     "githubDescription": "The (un)official Sass Version of Skeleton (2.0.4): A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development",
     "githubSize": 53,
-    "githubAvatar": "https://avatars1.githubusercontent.com/u/2118456?v=3",
+    "githubAvatar": "https://avatars6.githubusercontent.com/u/2118456?v=4",
     "githubForks": 108,
-    "githubStars": 510,
+    "githubStars": 516,
     "githubWatchers": 23,
     "githubCreated_at": "2014-12-12T03:11:06Z",
-    "githubUpdated_at": "2017-07-07T11:47:08Z"
+    "githubUpdated_at": "2017-07-14T13:35:12Z"
   },
   {
     "githubUrl": "https://github.com/grahammiller/ResponsiveGridSystem",
@@ -57,12 +57,12 @@
     "githubName": "ResponsiveGridSystem",
     "githubDescription": "Spectacularly Easy Responsive Web Design",
     "githubSize": 231,
-    "githubAvatar": "https://avatars1.githubusercontent.com/u/2726208?v=3",
+    "githubAvatar": "https://avatars6.githubusercontent.com/u/2726208?v=4",
     "githubForks": 107,
     "githubStars": 313,
     "githubWatchers": 36,
     "githubCreated_at": "2012-11-05T11:48:30Z",
-    "githubUpdated_at": "2017-07-05T16:01:34Z"
+    "githubUpdated_at": "2017-07-12T05:44:13Z"
   },
   {
     "githubUrl": "https://github.com/jonikorpi/Less-Framework",
@@ -70,8 +70,8 @@
     "githubName": "Less-Framework",
     "githubDescription": "An adaptive CSS grid system.",
     "githubSize": 154,
-    "githubAvatar": "https://avatars1.githubusercontent.com/u/621255?v=3",
-    "githubForks": 207,
+    "githubAvatar": "https://avatars6.githubusercontent.com/u/621255?v=4",
+    "githubForks": 206,
     "githubStars": 728,
     "githubWatchers": 61,
     "githubCreated_at": "2011-06-22T18:47:57Z",
@@ -82,12 +82,12 @@
     "githubOwner": "growdigital",
     "githubName": "groundwork",
     "githubDescription": "Modular CSS Starter Kit. It rocks.",
-    "githubSize": 2211,
-    "githubAvatar": "https://avatars3.githubusercontent.com/u/1061992?v=3",
+    "githubSize": 2417,
+    "githubAvatar": "https://avatars4.githubusercontent.com/u/1061992?v=4",
     "githubForks": 0,
     "githubStars": 3,
     "githubWatchers": 0,
     "githubCreated_at": "2017-03-21T18:43:36Z",
-    "githubUpdated_at": "2017-06-21T01:29:26Z"
+    "githubUpdated_at": "2017-07-13T14:01:47Z"
   }
 ]

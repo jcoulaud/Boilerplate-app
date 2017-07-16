@@ -5,7 +5,7 @@
     "githubName": "csharp-boilerplate",
     "githubDescription": "Cross-platform DNX-based C# boilerplate configured with xUnit",
     "githubSize": 18,
-    "githubAvatar": "https://avatars3.githubusercontent.com/u/1174718?v=3",
+    "githubAvatar": "https://avatars4.githubusercontent.com/u/1174718?v=4",
     "githubForks": 0,
     "githubStars": 2,
     "githubWatchers": 1,
@@ -17,26 +17,26 @@
     "githubOwner": "aspnetboilerplate",
     "githubName": "aspnetboilerplate",
     "githubDescription": "ASP.NET Boilerplate - Application Framework",
-    "githubSize": 24860,
-    "githubAvatar": "https://avatars3.githubusercontent.com/u/5957277?v=3",
-    "githubForks": 1523,
-    "githubStars": 2927,
-    "githubWatchers": 556,
+    "githubSize": 24872,
+    "githubAvatar": "https://avatars4.githubusercontent.com/u/5957277?v=4",
+    "githubForks": 1536,
+    "githubStars": 2960,
+    "githubWatchers": 560,
     "githubCreated_at": "2013-08-18T20:45:08Z",
-    "githubUpdated_at": "2017-07-07T12:22:36Z"
+    "githubUpdated_at": "2017-07-16T06:40:09Z"
   },
   {
     "githubUrl": "https://github.com/ASP-NET-MVC-Boilerplate/Templates",
     "githubOwner": "ASP-NET-MVC-Boilerplate",
     "githubName": "Templates",
     "githubDescription": "Professional ASP.NET Core project templates for building secure, fast, robust and adaptable web applications or sites. It provides the minimum amount of code required on top of the default ASP.NET Core project template provided by Microsoft.",
-    "githubSize": 42402,
-    "githubAvatar": "https://avatars2.githubusercontent.com/u/22211766?v=3",
-    "githubForks": 234,
-    "githubStars": 941,
+    "githubSize": 42404,
+    "githubAvatar": "https://avatars5.githubusercontent.com/u/22211766?v=4",
+    "githubForks": 233,
+    "githubStars": 947,
     "githubWatchers": 140,
     "githubCreated_at": "2014-10-27T08:57:45Z",
-    "githubUpdated_at": "2017-07-07T11:15:24Z"
+    "githubUpdated_at": "2017-07-16T05:14:04Z"
   },
   {
     "githubUrl": "https://github.com/aspnetboilerplate/module-zero",
@@ -44,25 +44,25 @@
     "githubName": "module-zero",
     "githubDescription": "ASP.NET Boilerplate - ASP.NET Identity Integration Module",
     "githubSize": 19431,
-    "githubAvatar": "https://avatars3.githubusercontent.com/u/5957277?v=3",
-    "githubForks": 400,
-    "githubStars": 471,
-    "githubWatchers": 134,
+    "githubAvatar": "https://avatars4.githubusercontent.com/u/5957277?v=4",
+    "githubForks": 403,
+    "githubStars": 474,
+    "githubWatchers": 135,
     "githubCreated_at": "2014-08-22T17:57:19Z",
-    "githubUpdated_at": "2017-07-07T04:45:54Z"
+    "githubUpdated_at": "2017-07-12T07:23:01Z"
   },
   {
     "githubUrl": "https://github.com/kriasoft/aspnet-starter-kit",
     "githubOwner": "kriasoft",
     "githubName": "aspnet-starter-kit",
     "githubDescription": "Cross-platform web development with Visual Studio Code, C#, F#, JavaScript, ASP.NET Core, EF Core, React (ReactJS), Redux, Babel. Single-page application boilerplate.",
-    "githubSize": 1401,
-    "githubAvatar": "https://avatars1.githubusercontent.com/u/773036?v=3",
-    "githubForks": 146,
-    "githubStars": 730,
-    "githubWatchers": 78,
+    "githubSize": 1408,
+    "githubAvatar": "https://avatars6.githubusercontent.com/u/773036?v=4",
+    "githubForks": 148,
+    "githubStars": 736,
+    "githubWatchers": 77,
     "githubCreated_at": "2014-08-21T09:51:46Z",
-    "githubUpdated_at": "2017-07-07T11:39:50Z"
+    "githubUpdated_at": "2017-07-15T20:59:42Z"
   },
   {
     "githubUrl": "https://github.com/restsharp/RestSharp",
@@ -70,11 +70,11 @@
     "githubName": "RestSharp",
     "githubDescription": "Simple REST and HTTP API Client for .NET",
     "githubSize": 37966,
-    "githubAvatar": "https://avatars1.githubusercontent.com/u/1057779?v=3",
-    "githubForks": 1461,
-    "githubStars": 4406,
-    "githubWatchers": 398,
+    "githubAvatar": "https://avatars6.githubusercontent.com/u/1057779?v=4",
+    "githubForks": 1468,
+    "githubStars": 4424,
+    "githubWatchers": 397,
     "githubCreated_at": "2009-11-16T02:01:45Z",
-    "githubUpdated_at": "2017-07-07T13:54:30Z"
+    "githubUpdated_at": "2017-07-15T23:17:32Z"
   }
 ]
