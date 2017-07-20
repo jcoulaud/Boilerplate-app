@@ -4,24 +4,24 @@
     "githubOwner": "roots",
     "githubName": "bedrock",
     "githubDescription": "WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure",
-    "githubSize": 298,
-    "githubAvatar": "https://avatars4.githubusercontent.com/u/4986074?v=4",
-    "githubForks": 717,
-    "githubStars": 3533,
+    "githubSize": 302,
+    "githubAvatar": "https://avatars0.githubusercontent.com/u/4986074?v=4",
+    "githubForks": 720,
+    "githubStars": 3538,
     "githubWatchers": 234,
     "githubCreated_at": "2013-11-02T21:10:54Z",
-    "githubUpdated_at": "2017-07-15T21:09:10Z"
+    "githubUpdated_at": "2017-07-19T19:17:40Z"
   },
   {
     "githubUrl": "https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered",
     "githubOwner": "WPBP",
     "githubName": "WordPress-Plugin-Boilerplate-Powered",
     "githubDescription": "Wordpress Plugin Boilerplate with steroids!",
-    "githubSize": 3860,
-    "githubAvatar": "https://avatars5.githubusercontent.com/u/19568091?v=4",
+    "githubSize": 3977,
+    "githubAvatar": "https://avatars1.githubusercontent.com/u/19568091?v=4",
     "githubForks": 17,
     "githubStars": 134,
-    "githubWatchers": 17,
+    "githubWatchers": 15,
     "githubCreated_at": "2014-06-26T17:29:18Z",
     "githubUpdated_at": "2017-07-12T05:32:46Z"
   },
@@ -31,12 +31,12 @@
     "githubName": "WordPress-Plugin-Boilerplate",
     "githubDescription": "[WordPress] A foundation for WordPress Plugin Development that aims to provide a clear and consistent guide for building your plugins.",
     "githubSize": 1130,
-    "githubAvatar": "https://avatars7.githubusercontent.com/u/2940124?v=4",
-    "githubForks": 1135,
+    "githubAvatar": "https://avatars3.githubusercontent.com/u/2940124?v=4",
+    "githubForks": 1142,
     "githubStars": 4385,
-    "githubWatchers": 334,
+    "githubWatchers": 332,
     "githubCreated_at": "2011-07-11T21:36:46Z",
-    "githubUpdated_at": "2017-07-15T14:11:35Z"
+    "githubUpdated_at": "2017-07-20T05:15:58Z"
   },
   {
     "githubUrl": "https://github.com/iandunn/WordPress-Plugin-Skeleton",
@@ -44,7 +44,7 @@
     "githubName": "WordPress-Plugin-Skeleton",
     "githubDescription": "A WordPress plugin skeleton built using object-oriented principles and the MVC pattern.",
     "githubSize": 167,
-    "githubAvatar": "https://avatars7.githubusercontent.com/u/484068?v=4",
+    "githubAvatar": "https://avatars3.githubusercontent.com/u/484068?v=4",
     "githubForks": 88,
     "githubStars": 321,
     "githubWatchers": 49,
@@ -57,12 +57,12 @@
     "githubName": "WordPress-Widget-Boilerplate",
     "githubDescription": "[WordPress] The WordPress Widget Boilerplate is an organized, maintainable boilerplate for building widgets using WordPress best practices.",
     "githubSize": 46,
-    "githubAvatar": "https://avatars4.githubusercontent.com/u/132166?v=4",
+    "githubAvatar": "https://avatars0.githubusercontent.com/u/132166?v=4",
     "githubForks": 194,
-    "githubStars": 942,
+    "githubStars": 943,
     "githubWatchers": 75,
     "githubCreated_at": "2011-07-08T17:08:51Z",
-    "githubUpdated_at": "2017-06-22T17:51:40Z"
+    "githubUpdated_at": "2017-07-17T15:47:11Z"
   },
   {
     "githubUrl": "https://github.com/maxkostinevich/WP-Plugin-Starter-Kit",
@@ -70,7 +70,7 @@
     "githubName": "WP-Plugin-Starter-Kit",
     "githubDescription": "[LOOKING FOR MAINTAINERS!] Super-easy WordPress plugin boilerplate",
     "githubSize": 82,
-    "githubAvatar": "https://avatars7.githubusercontent.com/u/10295466?v=4",
+    "githubAvatar": "https://avatars3.githubusercontent.com/u/10295466?v=4",
     "githubForks": 12,
     "githubStars": 41,
     "githubWatchers": 6,
@@ -83,12 +83,12 @@
     "githubName": "html5-boilerplate-for-wordpress",
     "githubDescription": "The HTML5 Boilerplate adapted into a WordPress template, including Bruce Lawson's HTML5 blog markup. ",
     "githubSize": 1766,
-    "githubAvatar": "https://avatars5.githubusercontent.com/u/23879?v=4",
+    "githubAvatar": "https://avatars1.githubusercontent.com/u/23879?v=4",
     "githubForks": 136,
-    "githubStars": 618,
-    "githubWatchers": 44,
+    "githubStars": 619,
+    "githubWatchers": 43,
     "githubCreated_at": "2010-08-18T03:45:06Z",
-    "githubUpdated_at": "2017-07-09T11:23:32Z"
+    "githubUpdated_at": "2017-07-17T18:40:23Z"
   },
   {
     "githubUrl": "https://github.com/Darep/wordpress-boilerplate",
@@ -96,12 +96,12 @@
     "githubName": "wordpress-boilerplate",
     "githubDescription": "WordPress Boilerplate is a simple starting point which includes WordPress as a submodule, the required configurations and a dummy plugin & theme structure.",
     "githubSize": 737,
-    "githubAvatar": "https://avatars6.githubusercontent.com/u/218910?v=4",
+    "githubAvatar": "https://avatars2.githubusercontent.com/u/218910?v=4",
     "githubForks": 24,
-    "githubStars": 95,
+    "githubStars": 94,
     "githubWatchers": 11,
     "githubCreated_at": "2013-03-18T22:13:50Z",
-    "githubUpdated_at": "2017-06-20T08:01:08Z"
+    "githubUpdated_at": "2017-07-19T04:53:48Z"
   },
   {
     "githubUrl": "https://github.com/theantichris/WordPress-Plugin-Boilerplate",
@@ -109,8 +109,8 @@
     "githubName": "WordPress-Plugin-Boilerplate",
     "githubDescription": "An OOP boilerplate for WordPress plugins.",
     "githubSize": 488,
-    "githubAvatar": "https://avatars5.githubusercontent.com/u/1486502?v=4",
-    "githubForks": 19,
+    "githubAvatar": "https://avatars1.githubusercontent.com/u/1486502?v=4",
+    "githubForks": 18,
     "githubStars": 78,
     "githubWatchers": 4,
     "githubCreated_at": "2013-08-28T20:19:41Z",
@@ -122,7 +122,7 @@
     "githubName": "wordpress-plugin-boilerplate",
     "githubDescription": "Bootstrap for create a WordPress plugin",
     "githubSize": 204,
-    "githubAvatar": "https://avatars7.githubusercontent.com/u/1264099?v=4",
+    "githubAvatar": "https://avatars3.githubusercontent.com/u/1264099?v=4",
     "githubForks": 18,
     "githubStars": 87,
     "githubWatchers": 10,
@@ -135,12 +135,12 @@
     "githubName": "wppb-gen-site",
     "githubDescription": "WordPress Plugin Boilerplate Generator ",
     "githubSize": 559,
-    "githubAvatar": "https://avatars7.githubusercontent.com/u/210349?v=4",
+    "githubAvatar": "https://avatars3.githubusercontent.com/u/210349?v=4",
     "githubForks": 35,
-    "githubStars": 91,
+    "githubStars": 92,
     "githubWatchers": 9,
     "githubCreated_at": "2014-11-15T03:21:00Z",
-    "githubUpdated_at": "2017-06-08T07:41:29Z"
+    "githubUpdated_at": "2017-07-16T18:56:08Z"
   },
   {
     "githubUrl": "https://github.com/ahmadawais/WP-Welcome-Page-Boilerplate",
@@ -148,12 +148,12 @@
     "githubName": "WP-Welcome-Page-Boilerplate",
     "githubDescription": "WordPress plugin welcome page boilerplate!",
     "githubSize": 27,
-    "githubAvatar": "https://avatars5.githubusercontent.com/u/960133?v=4",
+    "githubAvatar": "https://avatars1.githubusercontent.com/u/960133?v=4",
     "githubForks": 3,
-    "githubStars": 15,
+    "githubStars": 16,
     "githubWatchers": 2,
     "githubCreated_at": "2016-02-22T09:30:15Z",
-    "githubUpdated_at": "2016-12-19T12:43:41Z"
+    "githubUpdated_at": "2017-07-17T06:28:18Z"
   },
   {
     "githubUrl": "https://github.com/ahmadawais/_child",
@@ -161,12 +161,12 @@
     "githubName": "_child",
     "githubDescription": "_child is a WordPress Child Theme Boilerplate",
     "githubSize": 924,
-    "githubAvatar": "https://avatars5.githubusercontent.com/u/960133?v=4",
+    "githubAvatar": "https://avatars1.githubusercontent.com/u/960133?v=4",
     "githubForks": 9,
-    "githubStars": 47,
+    "githubStars": 48,
     "githubWatchers": 6,
     "githubCreated_at": "2015-08-06T14:51:05Z",
-    "githubUpdated_at": "2017-07-06T15:51:30Z"
+    "githubUpdated_at": "2017-07-17T10:36:52Z"
   },
   {
     "githubUrl": "https://github.com/ahmadawais/WPCustomize",
@@ -174,25 +174,25 @@
     "githubName": "WPCustomize",
     "githubDescription": "WP Customize component related boilerplate theme and features implementation.",
     "githubSize": 37,
-    "githubAvatar": "https://avatars5.githubusercontent.com/u/960133?v=4",
+    "githubAvatar": "https://avatars1.githubusercontent.com/u/960133?v=4",
     "githubForks": 2,
-    "githubStars": 31,
+    "githubStars": 32,
     "githubWatchers": 6,
     "githubCreated_at": "2016-05-26T18:20:34Z",
-    "githubUpdated_at": "2017-06-17T09:21:57Z"
+    "githubUpdated_at": "2017-07-18T13:56:29Z"
   },
   {
     "githubUrl": "https://github.com/ahmadawais/WPGulp",
     "githubOwner": "ahmadawais",
     "githubName": "WPGulp",
-    "githubDescription": "💯ⓦ → Use Gulp with WordPress. An advanced but portable Gulp front end to help you kickstart a build-workflow for your WordPress plugins and themes. Gulp WordPress!",
-    "githubSize": 60,
-    "githubAvatar": "https://avatars5.githubusercontent.com/u/960133?v=4",
-    "githubForks": 67,
-    "githubStars": 424,
+    "githubDescription": "💯ⓦ → Use Gulp with WordPress. An advanced & heavily documented Gulp WordPress boilerplate to help you kickstart a build-workflow for your WordPress plugins and themes. Gulp WordPress!",
+    "githubSize": 65,
+    "githubAvatar": "https://avatars1.githubusercontent.com/u/960133?v=4",
+    "githubForks": 71,
+    "githubStars": 435,
     "githubWatchers": 38,
     "githubCreated_at": "2015-12-02T12:35:38Z",
-    "githubUpdated_at": "2017-07-10T23:45:37Z"
+    "githubUpdated_at": "2017-07-20T10:02:04Z"
   },
   {
     "githubUrl": "https://github.com/ViLourenco/woocommerce-extension-plugin-boilerplate",
@@ -200,7 +200,7 @@
     "githubName": "woocommerce-extension-plugin-boilerplate",
     "githubDescription": "Plugin boilerplate to create extensions of WooCommerce",
     "githubSize": 3,
-    "githubAvatar": "https://avatars6.githubusercontent.com/u/1047262?v=4",
+    "githubAvatar": "https://avatars2.githubusercontent.com/u/1047262?v=4",
     "githubForks": 0,
     "githubStars": 4,
     "githubWatchers": 1,
@@ -213,7 +213,7 @@
     "githubName": "wordpress-plugin-boilerplate",
     "githubDescription": "Just a boilerplate for WordPress Plugins",
     "githubSize": 10,
-    "githubAvatar": "https://avatars5.githubusercontent.com/u/2676132?v=4",
+    "githubAvatar": "https://avatars1.githubusercontent.com/u/2676132?v=4",
     "githubForks": 0,
     "githubStars": 4,
     "githubWatchers": 12,
@@ -225,13 +225,13 @@
     "githubOwner": "automattic",
     "githubName": "_s",
     "githubDescription": "Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.",
-    "githubSize": 857,
-    "githubAvatar": "https://avatars5.githubusercontent.com/u/887802?v=4",
-    "githubForks": 2526,
-    "githubStars": 7632,
-    "githubWatchers": 814,
+    "githubSize": 856,
+    "githubAvatar": "https://avatars1.githubusercontent.com/u/887802?v=4",
+    "githubForks": 2521,
+    "githubStars": 7655,
+    "githubWatchers": 809,
     "githubCreated_at": "2012-02-01T17:59:49Z",
-    "githubUpdated_at": "2017-07-15T20:47:16Z"
+    "githubUpdated_at": "2017-07-20T04:08:19Z"
   },
   {
     "githubUrl": "https://github.com/wordplate/wordplate",
@@ -239,11 +239,11 @@
     "githubName": "wordplate",
     "githubDescription": "A modern WordPress stack built with Composer. It simplifies the fuzziness around WordPress development.",
     "githubSize": 865,
-    "githubAvatar": "https://avatars6.githubusercontent.com/u/11923978?v=4",
+    "githubAvatar": "https://avatars2.githubusercontent.com/u/11923978?v=4",
     "githubForks": 48,
-    "githubStars": 594,
+    "githubStars": 595,
     "githubWatchers": 33,
     "githubCreated_at": "2013-10-04T17:11:21Z",
-    "githubUpdated_at": "2017-07-16T05:12:49Z"
+    "githubUpdated_at": "2017-07-18T20:50:58Z"
   }
 ]
