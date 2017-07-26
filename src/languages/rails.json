@@ -7,23 +7,23 @@
     "githubSize": 136,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/5470001?v=4",
     "githubForks": 71,
-    "githubStars": 75,
-    "githubWatchers": 9,
+    "githubStars": 77,
+    "githubWatchers": 10,
     "githubCreated_at": "2015-08-23T19:48:19Z",
-    "githubUpdated_at": "2017-07-10T12:44:25Z"
+    "githubUpdated_at": "2017-07-23T03:36:09Z"
   },
   {
     "githubUrl": "https://github.com/mattbrictson/rails-template",
     "githubOwner": "mattbrictson",
     "githubName": "rails-template",
     "githubDescription": "Application template for Rails 5 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.",
-    "githubSize": 132,
+    "githubSize": 146,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/189693?v=4",
-    "githubForks": 68,
-    "githubStars": 308,
+    "githubForks": 70,
+    "githubStars": 311,
     "githubWatchers": 19,
     "githubCreated_at": "2015-01-30T22:17:11Z",
-    "githubUpdated_at": "2017-07-18T23:33:06Z"
+    "githubUpdated_at": "2017-07-25T18:37:11Z"
   },
   {
     "githubUrl": "https://github.com/sporkd/html5-rails",
@@ -59,10 +59,10 @@
     "githubSize": 751,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/788200?v=4",
     "githubForks": 457,
-    "githubStars": 3133,
+    "githubStars": 3132,
     "githubWatchers": 169,
     "githubCreated_at": "2012-07-24T18:43:01Z",
-    "githubUpdated_at": "2017-07-19T17:04:42Z"
+    "githubUpdated_at": "2017-07-20T18:59:22Z"
   },
   {
     "githubUrl": "https://github.com/RailsApps/rails-bootstrap",
@@ -71,10 +71,10 @@
     "githubDescription": "Rails 5.1 starter app with the Bootstrap 4 front-end framework.",
     "githubSize": 426,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/788200?v=4",
-    "githubForks": 213,
-    "githubStars": 452,
+    "githubForks": 214,
+    "githubStars": 453,
     "githubWatchers": 43,
     "githubCreated_at": "2013-07-10T03:35:06Z",
-    "githubUpdated_at": "2017-07-19T14:54:58Z"
+    "githubUpdated_at": "2017-07-22T01:45:30Z"
   }
 ]
