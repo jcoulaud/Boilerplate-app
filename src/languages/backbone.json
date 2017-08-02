@@ -7,10 +7,10 @@
     "githubSize": 6388,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/181635?v=4",
     "githubForks": 541,
-    "githubStars": 4657,
+    "githubStars": 4656,
     "githubWatchers": 151,
     "githubCreated_at": "2011-12-01T18:35:51Z",
-    "githubUpdated_at": "2017-07-24T19:26:53Z"
+    "githubUpdated_at": "2017-07-31T10:31:39Z"
   },
   {
     "githubUrl": "https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate",
@@ -58,7 +58,7 @@
     "githubDescription": "A boilerplate for Backbone projects that share code server/client, render server/client, and scale through modular architecture.",
     "githubSize": 2856,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/546231?v=4",
-    "githubForks": 31,
+    "githubForks": 32,
     "githubStars": 274,
     "githubWatchers": 49,
     "githubCreated_at": "2013-10-28T23:57:53Z",
@@ -71,7 +71,7 @@
     "githubDescription": "Boilerplate web app using Backbone.js, ExpressJS, node.js, MongoDB",
     "githubSize": 10559,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/3021049?v=4",
-    "githubForks": 101,
+    "githubForks": 100,
     "githubStars": 180,
     "githubWatchers": 18,
     "githubCreated_at": "2013-12-21T04:21:11Z",
@@ -85,10 +85,10 @@
     "githubSize": 233,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1191206?v=4",
     "githubForks": 46,
-    "githubStars": 171,
+    "githubStars": 172,
     "githubWatchers": 11,
     "githubCreated_at": "2015-03-11T13:50:14Z",
-    "githubUpdated_at": "2017-07-24T15:57:15Z"
+    "githubUpdated_at": "2017-07-27T14:32:30Z"
   },
   {
     "githubUrl": "https://github.com/phawk/Backbone-Stack",

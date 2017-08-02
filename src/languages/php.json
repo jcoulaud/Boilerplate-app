@@ -4,52 +4,52 @@
     "githubOwner": "laravel",
     "githubName": "laravel",
     "githubDescription": "A PHP Framework For Web Artisans",
-    "githubSize": 8590,
+    "githubSize": 8591,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/958072?v=4",
-    "githubForks": 11036,
-    "githubStars": 33614,
-    "githubWatchers": 4026,
+    "githubForks": 11111,
+    "githubStars": 33815,
+    "githubWatchers": 4044,
     "githubCreated_at": "2011-06-08T03:06:08Z",
-    "githubUpdated_at": "2017-07-26T09:57:28Z"
+    "githubUpdated_at": "2017-08-02T15:37:57Z"
   },
   {
     "githubUrl": "https://github.com/symfony/symfony",
     "githubOwner": "symfony",
     "githubName": "symfony",
     "githubDescription": "The Symfony PHP framework",
-    "githubSize": 99758,
+    "githubSize": 99964,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/143937?v=4",
-    "githubForks": 5612,
-    "githubStars": 14898,
-    "githubWatchers": 1214,
+    "githubForks": 5631,
+    "githubStars": 14938,
+    "githubWatchers": 1215,
     "githubCreated_at": "2010-01-04T14:21:21Z",
-    "githubUpdated_at": "2017-07-26T09:10:24Z"
+    "githubUpdated_at": "2017-08-02T13:28:10Z"
   },
   {
     "githubUrl": "https://github.com/bcit-ci/CodeIgniter",
     "githubOwner": "bcit-ci",
     "githubName": "CodeIgniter",
     "githubDescription": "Open Source PHP Framework (originally from EllisLab)",
-    "githubSize": 48301,
+    "githubSize": 48307,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/8863432?v=4",
-    "githubForks": 6981,
-    "githubStars": 14770,
-    "githubWatchers": 1707,
+    "githubForks": 6976,
+    "githubStars": 14809,
+    "githubWatchers": 1700,
     "githubCreated_at": "2011-08-19T13:34:00Z",
-    "githubUpdated_at": "2017-07-26T08:10:11Z"
+    "githubUpdated_at": "2017-08-02T13:43:26Z"
   },
   {
     "githubUrl": "https://github.com/cakephp/cakephp",
     "githubOwner": "cakephp",
     "githubName": "cakephp",
     "githubDescription": "CakePHP: The Rapid Development Framework for PHP - Official Repository",
-    "githubSize": 72589,
+    "githubSize": 72704,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/23666?v=4",
-    "githubForks": 3227,
-    "githubStars": 7191,
-    "githubWatchers": 676,
+    "githubForks": 3228,
+    "githubStars": 7200,
+    "githubWatchers": 677,
     "githubCreated_at": "2010-05-08T14:38:22Z",
-    "githubUpdated_at": "2017-07-26T01:19:43Z"
+    "githubUpdated_at": "2017-08-02T15:39:07Z"
   },
   {
     "githubUrl": "https://github.com/zendframework/zendframework",
@@ -58,11 +58,11 @@
     "githubDescription": "Official Zend Framework repository",
     "githubSize": 98635,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/296074?v=4",
-    "githubForks": 3062,
-    "githubStars": 5529,
-    "githubWatchers": 599,
+    "githubForks": 3064,
+    "githubStars": 5531,
+    "githubWatchers": 600,
     "githubCreated_at": "2010-06-04T02:42:05Z",
-    "githubUpdated_at": "2017-07-25T21:51:14Z"
+    "githubUpdated_at": "2017-08-01T19:00:27Z"
   },
   {
     "githubUrl": "https://github.com/phalcon/cphalcon",
@@ -71,24 +71,24 @@
     "githubDescription": "High performance, full-stack PHP framework delivered as a C extension.",
     "githubSize": 136688,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1221505?v=4",
-    "githubForks": 1549,
-    "githubStars": 8225,
-    "githubWatchers": 735,
+    "githubForks": 1554,
+    "githubStars": 8238,
+    "githubWatchers": 734,
     "githubCreated_at": "2011-11-26T05:52:50Z",
-    "githubUpdated_at": "2017-07-26T04:16:50Z"
+    "githubUpdated_at": "2017-08-02T09:49:05Z"
   },
   {
     "githubUrl": "https://github.com/slimphp/Slim",
     "githubOwner": "slimphp",
     "githubName": "Slim",
     "githubDescription": "Slim Framework source code",
-    "githubSize": 5301,
+    "githubSize": 5308,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/11195762?v=4",
-    "githubForks": 1617,
-    "githubStars": 8164,
-    "githubWatchers": 585,
+    "githubForks": 1623,
+    "githubStars": 8179,
+    "githubWatchers": 586,
     "githubCreated_at": "2010-09-21T01:17:06Z",
-    "githubUpdated_at": "2017-07-26T04:13:09Z"
+    "githubUpdated_at": "2017-08-02T13:28:11Z"
   },
   {
     "githubUrl": "https://github.com/yiisoft/yii",
@@ -97,11 +97,11 @@
     "githubDescription": "Yii PHP Framework 1.1.x",
     "githubSize": 29090,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/993323?v=4",
-    "githubForks": 2108,
-    "githubStars": 4786,
+    "githubForks": 2106,
+    "githubStars": 4790,
     "githubWatchers": 498,
     "githubCreated_at": "2012-02-15T16:26:22Z",
-    "githubUpdated_at": "2017-07-24T09:17:56Z"
+    "githubUpdated_at": "2017-08-01T04:24:46Z"
   },
   {
     "githubUrl": "https://github.com/bcosca/fatfree",
@@ -110,11 +110,11 @@
     "githubDescription": "A powerful yet easy-to-use PHP micro-framework designed to help you build dynamic and robust Web applications - fast!",
     "githubSize": 17723,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/199570?v=4",
-    "githubForks": 421,
-    "githubStars": 2071,
+    "githubForks": 420,
+    "githubStars": 2075,
     "githubWatchers": 237,
     "githubCreated_at": "2012-02-28T00:35:21Z",
-    "githubUpdated_at": "2017-07-26T03:24:30Z"
+    "githubUpdated_at": "2017-08-02T07:43:34Z"
   },
   {
     "githubUrl": "https://github.com/kohana/kohana",
@@ -123,11 +123,11 @@
     "githubDescription": "Basic application with official modules included",
     "githubSize": 1244,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/39584?v=4",
-    "githubForks": 486,
-    "githubStars": 1644,
+    "githubForks": 487,
+    "githubStars": 1647,
     "githubWatchers": 167,
     "githubCreated_at": "2009-07-28T16:09:23Z",
-    "githubUpdated_at": "2017-07-19T08:59:26Z"
+    "githubUpdated_at": "2017-08-01T06:56:30Z"
   },
   {
     "githubUrl": "https://github.com/fuel/fuel",
@@ -136,11 +136,11 @@
     "githubDescription": "FuelPHP v1.x is a simple, flexible, community driven PHP 5.3+ framework, based on the best ideas of other frameworks, with a fresh start! FuelPHP is fully PHP 7 compatible.",
     "githubSize": 4972,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/452101?v=4",
-    "githubForks": 278,
-    "githubStars": 1417,
+    "githubForks": 276,
+    "githubStars": 1415,
     "githubWatchers": 125,
     "githubCreated_at": "2010-10-24T18:55:12Z",
-    "githubUpdated_at": "2017-07-24T16:06:07Z"
+    "githubUpdated_at": "2017-07-31T10:25:34Z"
   },
   {
     "githubUrl": "https://github.com/mikecao/flight",
@@ -150,10 +150,10 @@
     "githubSize": 237,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/477975?v=4",
     "githubForks": 307,
-    "githubStars": 1760,
-    "githubWatchers": 169,
+    "githubStars": 1759,
+    "githubWatchers": 170,
     "githubCreated_at": "2011-03-31T07:48:42Z",
-    "githubUpdated_at": "2017-07-25T13:14:11Z"
+    "githubUpdated_at": "2017-08-02T13:04:04Z"
   },
   {
     "githubUrl": "https://github.com/panique/mini",
@@ -163,23 +163,23 @@
     "githubSize": 2976,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/156321?v=4",
     "githubForks": 453,
-    "githubStars": 1105,
+    "githubStars": 1107,
     "githubWatchers": 118,
     "githubCreated_at": "2013-11-06T22:13:20Z",
-    "githubUpdated_at": "2017-07-24T19:53:11Z"
+    "githubUpdated_at": "2017-08-02T12:16:21Z"
   },
   {
     "githubUrl": "https://github.com/zikula/core",
     "githubOwner": "zikula",
     "githubName": "core",
     "githubDescription": "Zikula Core Framework",
-    "githubSize": 65886,
+    "githubSize": 66026,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/251211?v=4",
-    "githubForks": 73,
-    "githubStars": 190,
-    "githubWatchers": 34,
+    "githubForks": 71,
+    "githubStars": 191,
+    "githubWatchers": 35,
     "githubCreated_at": "2010-07-18T10:35:53Z",
-    "githubUpdated_at": "2017-07-26T04:16:03Z"
+    "githubUpdated_at": "2017-07-28T19:57:07Z"
   },
   {
     "githubUrl": "https://github.com/tylerhall/simple-php-framework/",

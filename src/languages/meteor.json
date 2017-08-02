@@ -19,11 +19,11 @@
     "githubDescription": "A lightweight boilerplate for meteor projects",
     "githubSize": 3068,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1301147?v=4",
-    "githubForks": 145,
+    "githubForks": 148,
     "githubStars": 845,
     "githubWatchers": 56,
     "githubCreated_at": "2013-09-09T19:42:09Z",
-    "githubUpdated_at": "2017-07-26T03:09:30Z"
+    "githubUpdated_at": "2017-08-02T13:59:16Z"
   },
   {
     "githubUrl": "https://github.com/themeteorchef/base",
@@ -32,11 +32,11 @@
     "githubDescription": "A starting point for Meteor apps.",
     "githubSize": 3367,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/8183166?v=4",
-    "githubForks": 266,
-    "githubStars": 654,
+    "githubForks": 263,
+    "githubStars": 656,
     "githubWatchers": 55,
     "githubCreated_at": "2014-07-21T20:44:21Z",
-    "githubUpdated_at": "2017-07-24T08:51:20Z"
+    "githubUpdated_at": "2017-07-29T19:35:03Z"
   },
   {
     "githubUrl": "https://github.com/radiegtya/meteoris2",
@@ -59,10 +59,10 @@
     "githubSize": 29,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1445367?v=4",
     "githubForks": 71,
-    "githubStars": 149,
+    "githubStars": 151,
     "githubWatchers": 16,
     "githubCreated_at": "2015-07-26T22:12:48Z",
-    "githubUpdated_at": "2017-07-24T15:28:04Z"
+    "githubUpdated_at": "2017-08-01T09:47:08Z"
   },
   {
     "githubUrl": "https://github.com/ffxsam/ffx-meteor-react-boilerplate",
@@ -111,9 +111,9 @@
     "githubSize": 2904,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/9806174?v=4",
     "githubForks": 34,
-    "githubStars": 107,
+    "githubStars": 109,
     "githubWatchers": 11,
     "githubCreated_at": "2015-03-09T20:02:44Z",
-    "githubUpdated_at": "2017-07-24T20:50:15Z"
+    "githubUpdated_at": "2017-07-31T01:27:19Z"
   }
 ]

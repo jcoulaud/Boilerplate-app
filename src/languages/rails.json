@@ -19,11 +19,11 @@
     "githubDescription": "Application template for Rails 5 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.",
     "githubSize": 146,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/189693?v=4",
-    "githubForks": 70,
-    "githubStars": 311,
+    "githubForks": 71,
+    "githubStars": 314,
     "githubWatchers": 19,
     "githubCreated_at": "2015-01-30T22:17:11Z",
-    "githubUpdated_at": "2017-07-25T18:37:11Z"
+    "githubUpdated_at": "2017-08-02T07:49:18Z"
   },
   {
     "githubUrl": "https://github.com/sporkd/html5-rails",
@@ -58,11 +58,11 @@
     "githubDescription": "Rails Composer. The Rails generator on steroids for starter apps.",
     "githubSize": 751,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/788200?v=4",
-    "githubForks": 457,
-    "githubStars": 3132,
+    "githubForks": 458,
+    "githubStars": 3133,
     "githubWatchers": 169,
     "githubCreated_at": "2012-07-24T18:43:01Z",
-    "githubUpdated_at": "2017-07-20T18:59:22Z"
+    "githubUpdated_at": "2017-07-29T16:44:10Z"
   },
   {
     "githubUrl": "https://github.com/RailsApps/rails-bootstrap",
@@ -71,10 +71,10 @@
     "githubDescription": "Rails 5.1 starter app with the Bootstrap 4 front-end framework.",
     "githubSize": 426,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/788200?v=4",
-    "githubForks": 214,
-    "githubStars": 453,
+    "githubForks": 219,
+    "githubStars": 454,
     "githubWatchers": 43,
     "githubCreated_at": "2013-07-10T03:35:06Z",
-    "githubUpdated_at": "2017-07-22T01:45:30Z"
+    "githubUpdated_at": "2017-07-31T03:45:51Z"
   }
 ]

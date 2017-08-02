@@ -6,11 +6,11 @@
     "githubDescription": "A boilerplate for Django web applications",
     "githubSize": 4821,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1226900?v=4",
-    "githubForks": 208,
-    "githubStars": 1074,
+    "githubForks": 210,
+    "githubStars": 1076,
     "githubWatchers": 68,
     "githubCreated_at": "2015-05-08T02:26:16Z",
-    "githubUpdated_at": "2017-07-25T07:59:00Z"
+    "githubUpdated_at": "2017-08-02T07:31:25Z"
   },
   {
     "githubUrl": "https://github.com/kirang89/bootstrapy",
@@ -33,10 +33,10 @@
     "githubSize": 612,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/368066?v=4",
     "githubForks": 247,
-    "githubStars": 1405,
+    "githubStars": 1410,
     "githubWatchers": 77,
     "githubCreated_at": "2012-10-17T04:23:32Z",
-    "githubUpdated_at": "2017-07-23T23:53:09Z"
+    "githubUpdated_at": "2017-08-01T13:11:39Z"
   },
   {
     "githubUrl": "https://github.com/esbullington/flask-bootstrap",
@@ -45,9 +45,9 @@
     "githubDescription": "A Flask app template with integrated SQLAlchemy, authentication, and Bootstrap frontend ",
     "githubSize": 931,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1138625?v=4",
-    "githubForks": 41,
+    "githubForks": 40,
     "githubStars": 161,
-    "githubWatchers": 12,
+    "githubWatchers": 11,
     "githubCreated_at": "2012-03-06T17:53:29Z",
     "githubUpdated_at": "2017-07-12T05:56:30Z"
   },
@@ -58,11 +58,11 @@
     "githubDescription": "A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.",
     "githubSize": 2078,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/74739?v=4",
-    "githubForks": 613,
-    "githubStars": 5435,
-    "githubWatchers": 163,
+    "githubForks": 614,
+    "githubStars": 5482,
+    "githubWatchers": 164,
     "githubCreated_at": "2013-07-14T18:31:22Z",
-    "githubUpdated_at": "2017-07-26T08:32:57Z"
+    "githubUpdated_at": "2017-08-02T08:08:22Z"
   },
   {
     "githubUrl": "https://github.com/JackStouffer/Flask-Foundation",
@@ -72,10 +72,10 @@
     "githubSize": 1437,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/680068?v=4",
     "githubForks": 111,
-    "githubStars": 1044,
-    "githubWatchers": 44,
+    "githubStars": 1045,
+    "githubWatchers": 43,
     "githubCreated_at": "2013-09-15T06:34:48Z",
-    "githubUpdated_at": "2017-07-20T01:19:57Z"
+    "githubUpdated_at": "2017-08-02T15:01:32Z"
   },
   {
     "githubUrl": "https://github.com/coto/gae-boilerplate",
@@ -84,7 +84,7 @@
     "githubDescription": "Google App Engine Boilerplate",
     "githubSize": 7326,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/25914?v=4",
-    "githubForks": 222,
+    "githubForks": 221,
     "githubStars": 709,
     "githubWatchers": 100,
     "githubCreated_at": "2012-02-12T16:17:18Z",
@@ -97,11 +97,11 @@
     "githubDescription": "Boilerplate project template for running Flask on Google App Engine",
     "githubSize": 3279,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/133923?v=4",
-    "githubForks": 210,
-    "githubStars": 1004,
-    "githubWatchers": 74,
+    "githubForks": 209,
+    "githubStars": 1005,
+    "githubWatchers": 73,
     "githubCreated_at": "2010-09-19T17:42:15Z",
-    "githubUpdated_at": "2017-07-25T04:21:06Z"
+    "githubUpdated_at": "2017-07-31T04:19:35Z"
   },
   {
     "githubUrl": "https://github.com/fasouto/django-starter-template",
@@ -111,10 +111,10 @@
     "githubSize": 681,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/194200?v=4",
     "githubForks": 27,
-    "githubStars": 72,
+    "githubStars": 73,
     "githubWatchers": 10,
     "githubCreated_at": "2014-07-20T16:52:39Z",
-    "githubUpdated_at": "2017-07-18T17:31:03Z"
+    "githubUpdated_at": "2017-08-02T14:17:10Z"
   },
   {
     "githubUrl": "https://github.com/kdeldycke/cherrypy_mako_formish_ooop_boilerplate",
@@ -137,10 +137,10 @@
     "githubSize": 15,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/44689?v=4",
     "githubForks": 11,
-    "githubStars": 43,
+    "githubStars": 44,
     "githubWatchers": 2,
     "githubCreated_at": "2013-04-01T16:51:18Z",
-    "githubUpdated_at": "2017-07-19T14:04:41Z"
+    "githubUpdated_at": "2017-07-29T11:15:11Z"
   },
   {
     "githubUrl": "https://github.com/bueda/tornado-boilerplate",
@@ -150,9 +150,9 @@
     "githubSize": 276,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/187098?v=4",
     "githubForks": 82,
-    "githubStars": 340,
+    "githubStars": 341,
     "githubWatchers": 24,
     "githubCreated_at": "2010-11-13T22:19:42Z",
-    "githubUpdated_at": "2017-07-24T09:13:11Z"
+    "githubUpdated_at": "2017-07-28T07:48:30Z"
   }
 ]
