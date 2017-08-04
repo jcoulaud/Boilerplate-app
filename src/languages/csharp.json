@@ -19,11 +19,11 @@
     "githubDescription": "ASP.NET Boilerplate - Application Framework",
     "githubSize": 24931,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/5957277?v=4",
-    "githubForks": 1565,
-    "githubStars": 3043,
-    "githubWatchers": 573,
+    "githubForks": 1569,
+    "githubStars": 3054,
+    "githubWatchers": 571,
     "githubCreated_at": "2013-08-18T20:45:08Z",
-    "githubUpdated_at": "2017-08-02T11:52:36Z"
+    "githubUpdated_at": "2017-08-04T21:49:00Z"
   },
   {
     "githubUrl": "https://github.com/ASP-NET-MVC-Boilerplate/Templates",
@@ -43,13 +43,13 @@
     "githubOwner": "aspnetboilerplate",
     "githubName": "module-zero",
     "githubDescription": "ASP.NET Boilerplate - ASP.NET Identity Integration Module",
-    "githubSize": 19437,
+    "githubSize": 19447,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/5957277?v=4",
     "githubForks": 408,
-    "githubStars": 480,
+    "githubStars": 482,
     "githubWatchers": 138,
     "githubCreated_at": "2014-08-22T17:57:19Z",
-    "githubUpdated_at": "2017-08-02T15:50:26Z"
+    "githubUpdated_at": "2017-08-04T01:44:51Z"
   },
   {
     "githubUrl": "https://github.com/kriasoft/aspnet-starter-kit",
@@ -59,10 +59,10 @@
     "githubSize": 1408,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/773036?v=4",
     "githubForks": 148,
-    "githubStars": 759,
+    "githubStars": 758,
     "githubWatchers": 80,
     "githubCreated_at": "2014-08-21T09:51:46Z",
-    "githubUpdated_at": "2017-08-01T22:48:04Z"
+    "githubUpdated_at": "2017-08-04T11:10:08Z"
   },
   {
     "githubUrl": "https://github.com/restsharp/RestSharp",
@@ -71,10 +71,10 @@
     "githubDescription": "Simple REST and HTTP API Client for .NET",
     "githubSize": 37966,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1057779?v=4",
-    "githubForks": 1479,
-    "githubStars": 4462,
-    "githubWatchers": 398,
+    "githubForks": 1481,
+    "githubStars": 4465,
+    "githubWatchers": 399,
     "githubCreated_at": "2009-11-16T02:01:45Z",
-    "githubUpdated_at": "2017-08-01T14:04:29Z"
+    "githubUpdated_at": "2017-08-03T08:03:37Z"
   }
 ]
