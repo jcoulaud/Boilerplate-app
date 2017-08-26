@@ -3,14 +3,14 @@
     "githubUrl": "https://github.com/modularcode/modular-admin-html",
     "githubOwner": "modularcode",
     "githubName": "modular-admin-html",
-    "githubDescription": "Modular Admin - Free Dashboard Theme Built On Bootstrap 4 | HTML Version",
-    "githubSize": 5095,
+    "githubDescription": "ModularAdmin - Free Dashboard Theme Built On Bootstrap 4 | HTML Version",
+    "githubSize": 5432,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/12553500?v=4",
-    "githubForks": 314,
-    "githubStars": 1062,
-    "githubWatchers": 100,
+    "githubForks": 328,
+    "githubStars": 1139,
+    "githubWatchers": 107,
     "githubCreated_at": "2015-07-25T13:35:26Z",
-    "githubUpdated_at": "2017-08-04T08:47:50Z"
+    "githubUpdated_at": "2017-08-26T08:52:41Z"
   },
   {
     "githubUrl": "https://github.com/lewagon/bootstrap-boilerplate",
@@ -19,7 +19,7 @@
     "githubDescription": "A nice Bootstrap HTML boilerplate using official Bootstrap CDN to start coding right away!",
     "githubSize": 4,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/5470001?v=4",
-    "githubForks": 62,
+    "githubForks": 64,
     "githubStars": 47,
     "githubWatchers": 7,
     "githubCreated_at": "2014-07-02T16:45:20Z",
@@ -71,10 +71,10 @@
     "githubDescription": "Initializr's generated page",
     "githubSize": 118,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/522007?v=4",
-    "githubForks": 392,
-    "githubStars": 1124,
+    "githubForks": 393,
+    "githubStars": 1125,
     "githubWatchers": 122,
     "githubCreated_at": "2011-12-09T00:32:32Z",
-    "githubUpdated_at": "2017-07-26T01:43:23Z"
+    "githubUpdated_at": "2017-08-21T11:53:32Z"
   }
 ]

@@ -6,7 +6,7 @@
     "githubDescription": ":boy: A very opinionated, lightweight version of HTML5 Boilerplate with conditionally-loaded polyfills and an opinionated CSS reset for firing up web projects in no time.",
     "githubSize": 432,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/224636?v=4",
-    "githubForks": 35,
+    "githubForks": 36,
     "githubStars": 546,
     "githubWatchers": 20,
     "githubCreated_at": "2013-11-10T23:01:30Z",
@@ -17,13 +17,13 @@
     "githubOwner": "h5bp",
     "githubName": "html5-boilerplate",
     "githubDescription": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
-    "githubSize": 13541,
+    "githubSize": 13546,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1136800?v=4",
-    "githubForks": 9295,
-    "githubStars": 37921,
-    "githubWatchers": 2621,
+    "githubForks": 9320,
+    "githubStars": 38106,
+    "githubWatchers": 2611,
     "githubCreated_at": "2010-01-24T18:03:24Z",
-    "githubUpdated_at": "2017-08-04T22:51:55Z"
+    "githubUpdated_at": "2017-08-26T08:36:54Z"
   },
   {
     "githubUrl": "https://github.com/IceCreamYou/HTML5-Canvas-Game-Boilerplate",
@@ -32,7 +32,7 @@
     "githubDescription": "Provides a set of default code that makes getting up and running with an HTML5 canvas game very easy.",
     "githubSize": 5349,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/203177?v=4",
-    "githubForks": 31,
+    "githubForks": 30,
     "githubStars": 100,
     "githubWatchers": 10,
     "githubCreated_at": "2012-01-28T00:34:56Z",
@@ -43,13 +43,13 @@
     "githubOwner": "imarc",
     "githubName": "boilerplate",
     "githubDescription": "Responsive CSS, HTML and JavaScript front-end starting point.",
-    "githubSize": 7846,
+    "githubSize": 7913,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/363482?v=4",
     "githubForks": 12,
-    "githubStars": 37,
+    "githubStars": 38,
     "githubWatchers": 22,
     "githubCreated_at": "2013-01-18T06:24:23Z",
-    "githubUpdated_at": "2017-06-08T21:22:37Z"
+    "githubUpdated_at": "2017-08-19T04:42:31Z"
   },
   {
     "githubUrl": "https://github.com/verekia/initializr-template",
@@ -58,11 +58,11 @@
     "githubDescription": "Initializr's generated page",
     "githubSize": 118,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/522007?v=4",
-    "githubForks": 392,
-    "githubStars": 1124,
+    "githubForks": 393,
+    "githubStars": 1125,
     "githubWatchers": 122,
     "githubCreated_at": "2011-12-09T00:32:32Z",
-    "githubUpdated_at": "2017-07-26T01:43:23Z"
+    "githubUpdated_at": "2017-08-21T11:53:32Z"
   },
   {
     "githubUrl": "https://github.com/sesh/base.html",
