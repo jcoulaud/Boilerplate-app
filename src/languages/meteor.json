@@ -7,10 +7,10 @@
     "githubSize": 2585,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/4521527?v=4",
     "githubForks": 213,
-    "githubStars": 921,
+    "githubStars": 919,
     "githubWatchers": 70,
     "githubCreated_at": "2013-09-26T15:02:38Z",
-    "githubUpdated_at": "2017-08-14T19:36:23Z"
+    "githubUpdated_at": "2017-09-03T12:21:44Z"
   },
   {
     "githubUrl": "https://github.com/matteodem/meteor-boilerplate",
@@ -19,11 +19,11 @@
     "githubDescription": "A lightweight boilerplate for meteor projects",
     "githubSize": 3068,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1301147?v=4",
-    "githubForks": 148,
+    "githubForks": 147,
     "githubStars": 846,
     "githubWatchers": 56,
     "githubCreated_at": "2013-09-09T19:42:09Z",
-    "githubUpdated_at": "2017-08-24T23:35:26Z"
+    "githubUpdated_at": "2017-09-03T12:21:50Z"
   },
   {
     "githubUrl": "https://github.com/themeteorchef/base",
@@ -32,11 +32,11 @@
     "githubDescription": "A starting point for Meteor apps.",
     "githubSize": 3367,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/8183166?v=4",
-    "githubForks": 263,
+    "githubForks": 264,
     "githubStars": 658,
     "githubWatchers": 54,
     "githubCreated_at": "2014-07-21T20:44:21Z",
-    "githubUpdated_at": "2017-08-14T00:59:55Z"
+    "githubUpdated_at": "2017-09-12T15:28:08Z"
   },
   {
     "githubUrl": "https://github.com/radiegtya/meteoris2",
@@ -59,10 +59,10 @@
     "githubSize": 29,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1445367?v=4",
     "githubForks": 74,
-    "githubStars": 152,
+    "githubStars": 153,
     "githubWatchers": 17,
     "githubCreated_at": "2015-07-26T22:12:48Z",
-    "githubUpdated_at": "2017-08-12T15:44:47Z"
+    "githubUpdated_at": "2017-08-28T06:04:59Z"
   },
   {
     "githubUrl": "https://github.com/ffxsam/ffx-meteor-react-boilerplate",
@@ -85,10 +85,10 @@
     "githubSize": 5097,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/8916931?v=4",
     "githubForks": 75,
-    "githubStars": 109,
-    "githubWatchers": 13,
+    "githubStars": 111,
+    "githubWatchers": 14,
     "githubCreated_at": "2014-08-23T06:03:28Z",
-    "githubUpdated_at": "2017-08-12T20:28:38Z"
+    "githubUpdated_at": "2017-09-04T20:18:33Z"
   },
   {
     "githubUrl": "https://github.com/patrickocoffeyo/meteor-boilerplate",
@@ -98,10 +98,10 @@
     "githubSize": 390,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1107871?v=4",
     "githubForks": 14,
-    "githubStars": 101,
+    "githubStars": 100,
     "githubWatchers": 7,
     "githubCreated_at": "2013-11-12T20:18:35Z",
-    "githubUpdated_at": "2017-07-22T18:27:09Z"
+    "githubUpdated_at": "2017-08-29T19:52:38Z"
   },
   {
     "githubUrl": "https://github.com/SilentCicero/meteor-dapp-boilerplate",
@@ -110,10 +110,10 @@
     "githubDescription": "Boilerplate meteor dapp - starting point for meteor dapps using bootstrap",
     "githubSize": 2904,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/9806174?v=4",
-    "githubForks": 34,
-    "githubStars": 113,
+    "githubForks": 36,
+    "githubStars": 116,
     "githubWatchers": 11,
     "githubCreated_at": "2015-03-09T20:02:44Z",
-    "githubUpdated_at": "2017-08-23T16:50:30Z"
+    "githubUpdated_at": "2017-09-09T11:27:22Z"
   }
 ]
