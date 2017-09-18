@@ -4,13 +4,13 @@
     "githubOwner": "inuitcss",
     "githubName": "inuitcss",
     "githubDescription": "Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.",
-    "githubSize": 278,
+    "githubSize": 283,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/5980429?v=4",
-    "githubForks": 103,
-    "githubStars": 936,
-    "githubWatchers": 96,
+    "githubForks": 105,
+    "githubStars": 942,
+    "githubWatchers": 95,
     "githubCreated_at": "2016-06-22T07:14:33Z",
-    "githubUpdated_at": "2017-09-12T13:05:53Z"
+    "githubUpdated_at": "2017-09-18T11:47:39Z"
   },
   {
     "githubUrl": "https://github.com/suitcss/suit",
@@ -19,11 +19,11 @@
     "githubDescription": "Style tools for UI components",
     "githubSize": 264,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/4564613?v=4",
-    "githubForks": 185,
-    "githubStars": 3252,
-    "githubWatchers": 138,
+    "githubForks": 186,
+    "githubStars": 3255,
+    "githubWatchers": 139,
     "githubCreated_at": "2011-10-19T21:38:00Z",
-    "githubUpdated_at": "2017-09-12T08:32:34Z"
+    "githubUpdated_at": "2017-09-15T14:13:56Z"
   },
   {
     "githubUrl": "https://github.com/Chalarangelo/mini.css",
@@ -33,10 +33,10 @@
     "githubSize": 4947,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/8281875?v=4",
     "githubForks": 66,
-    "githubStars": 1883,
+    "githubStars": 1887,
     "githubWatchers": 55,
     "githubCreated_at": "2016-08-22T06:31:31Z",
-    "githubUpdated_at": "2017-09-12T13:57:12Z"
+    "githubUpdated_at": "2017-09-18T06:43:46Z"
   },
   {
     "githubUrl": "https://github.com/WhatsNewSaes/Skeleton-Sass",
@@ -45,11 +45,11 @@
     "githubDescription": "The (un)official Sass Version of Skeleton (2.0.4): A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development",
     "githubSize": 54,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/2118456?v=4",
-    "githubForks": 110,
-    "githubStars": 529,
+    "githubForks": 109,
+    "githubStars": 528,
     "githubWatchers": 23,
     "githubCreated_at": "2014-12-12T03:11:06Z",
-    "githubUpdated_at": "2017-09-11T20:32:16Z"
+    "githubUpdated_at": "2017-09-17T13:46:10Z"
   },
   {
     "githubUrl": "https://github.com/grahammiller/ResponsiveGridSystem",

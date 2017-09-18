@@ -6,11 +6,11 @@
     "githubDescription": ":ng: An AngularJS Starter repo for AngularJS + ES6 + Webpack by @AngularClass a @OneSpeed-io company",
     "githubSize": 207,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/11602678?v=4",
-    "githubForks": 1484,
-    "githubStars": 1850,
-    "githubWatchers": 92,
+    "githubForks": 1482,
+    "githubStars": 1851,
+    "githubWatchers": 91,
     "githubCreated_at": "2015-05-16T05:43:03Z",
-    "githubUpdated_at": "2017-09-12T06:02:32Z"
+    "githubUpdated_at": "2017-09-15T08:21:22Z"
   },
   {
     "githubUrl": "https://github.com/tomastrajan/angular-js-es6-testing-example",
@@ -19,11 +19,11 @@
     "githubDescription": "Enhanced testing of Angular JS 1.X applications using ES6 modules",
     "githubSize": 1968,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/3764868?v=4",
-    "githubForks": 35,
-    "githubStars": 144,
+    "githubForks": 36,
+    "githubStars": 145,
     "githubWatchers": 10,
     "githubCreated_at": "2015-08-16T12:59:25Z",
-    "githubUpdated_at": "2017-09-11T20:04:16Z"
+    "githubUpdated_at": "2017-09-17T20:49:50Z"
   },
   {
     "githubUrl": "https://github.com/ngParty/Angular1-scaffold",
@@ -45,11 +45,11 @@
     "githubDescription": "Angular admin dashboard with material design",
     "githubSize": 1266,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/8533408?v=4",
-    "githubForks": 386,
-    "githubStars": 1108,
-    "githubWatchers": 102,
+    "githubForks": 387,
+    "githubStars": 1110,
+    "githubWatchers": 101,
     "githubCreated_at": "2015-03-12T12:07:23Z",
-    "githubUpdated_at": "2017-09-11T10:42:41Z"
+    "githubUpdated_at": "2017-09-16T02:55:02Z"
   },
   {
     "githubUrl": "https://github.com/ngbp/ngbp",
@@ -59,10 +59,10 @@
     "githubSize": 2763,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/5474351?v=4",
     "githubForks": 1209,
-    "githubStars": 4151,
-    "githubWatchers": 207,
+    "githubStars": 4149,
+    "githubWatchers": 206,
     "githubCreated_at": "2013-02-14T19:07:06Z",
-    "githubUpdated_at": "2017-09-12T19:47:48Z"
+    "githubUpdated_at": "2017-09-16T16:24:34Z"
   },
   {
     "githubUrl": "https://github.com/vesparny/angular-kickstart",
@@ -97,11 +97,11 @@
     "githubDescription": "Seed project for angular apps. ",
     "githubSize": 57714,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/139426?v=4",
-    "githubForks": 7474,
-    "githubStars": 13094,
-    "githubWatchers": 789,
+    "githubForks": 7476,
+    "githubStars": 13097,
+    "githubWatchers": 786,
     "githubCreated_at": "2010-12-24T06:07:50Z",
-    "githubUpdated_at": "2017-09-12T17:45:54Z"
+    "githubUpdated_at": "2017-09-17T20:22:40Z"
   },
   {
     "githubUrl": "https://github.com/vesparny/angularjs-playground",
@@ -136,7 +136,7 @@
     "githubDescription": null,
     "githubSize": 1093,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/214628?v=4",
-    "githubForks": 347,
+    "githubForks": 345,
     "githubStars": 1099,
     "githubWatchers": 88,
     "githubCreated_at": "2013-02-24T17:38:00Z",
@@ -163,10 +163,10 @@
     "githubSize": 4420,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/474988?v=4",
     "githubForks": 200,
-    "githubStars": 781,
+    "githubStars": 782,
     "githubWatchers": 54,
     "githubCreated_at": "2012-06-27T23:37:18Z",
-    "githubUpdated_at": "2017-09-11T20:04:17Z"
+    "githubUpdated_at": "2017-09-14T22:52:59Z"
   },
   {
     "githubUrl": "https://github.com/ziyasal/ratchet-angular-seed",
@@ -201,24 +201,24 @@
     "githubDescription": "MEAN.JS - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js - ",
     "githubSize": 3344,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/6232122?v=4",
-    "githubForks": 1722,
+    "githubForks": 1725,
     "githubStars": 4322,
-    "githubWatchers": 352,
+    "githubWatchers": 350,
     "githubCreated_at": "2013-12-29T13:01:15Z",
-    "githubUpdated_at": "2017-09-12T12:01:25Z"
+    "githubUpdated_at": "2017-09-18T13:26:56Z"
   },
   {
     "githubUrl": "https://github.com/linnovate/mean",
     "githubOwner": "linnovate",
     "githubName": "mean",
     "githubDescription": "The MEAN stack uses Mongo, Express, Angular(4) and Node for simple and scalable fullstack js applications",
-    "githubSize": 7185,
+    "githubSize": 7193,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/307487?v=4",
-    "githubForks": 3120,
-    "githubStars": 10311,
-    "githubWatchers": 657,
+    "githubForks": 3129,
+    "githubStars": 10326,
+    "githubWatchers": 656,
     "githubCreated_at": "2013-05-22T12:15:47Z",
-    "githubUpdated_at": "2017-09-12T17:38:24Z"
+    "githubUpdated_at": "2017-09-18T13:26:52Z"
   },
   {
     "githubUrl": "https://github.com/akveo/blur-admin",
@@ -227,11 +227,11 @@
     "githubDescription": "Angular Bootstrap Admin Panel Framework",
     "githubSize": 87339,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/11921694?v=4",
-    "githubForks": 1950,
-    "githubStars": 7534,
-    "githubWatchers": 415,
+    "githubForks": 1966,
+    "githubStars": 7559,
+    "githubWatchers": 419,
     "githubCreated_at": "2016-04-08T08:30:20Z",
-    "githubUpdated_at": "2017-09-12T18:16:10Z"
+    "githubUpdated_at": "2017-09-18T13:27:07Z"
   },
   {
     "githubUrl": "https://github.com/gusgard/angular-seed-es6",
@@ -241,10 +241,10 @@
     "githubSize": 40,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/2577356?v=4",
     "githubForks": 7,
-    "githubStars": 11,
+    "githubStars": 10,
     "githubWatchers": 1,
     "githubCreated_at": "2016-03-14T22:45:15Z",
-    "githubUpdated_at": "2017-08-21T13:15:02Z"
+    "githubUpdated_at": "2017-09-18T08:47:17Z"
   },
   {
     "githubUrl": "https://github.com/ericmdantas/generator-ng-fullstack",
@@ -253,9 +253,9 @@
     "githubDescription": "Client, server or fullstack - it's up to you. ng-fullstack gives you the best of the latest: Node, Go, HTTP/2, Angular 1, Angular 2, Vue, Aurelia, Express, Koa, Echo, Gin, MongoDB, Gulp, Babel, Typescript and much more.",
     "githubSize": 1817,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/7040162?v=4",
-    "githubForks": 93,
+    "githubForks": 95,
     "githubStars": 634,
-    "githubWatchers": 45,
+    "githubWatchers": 46,
     "githubCreated_at": "2015-03-04T01:59:47Z",
     "githubUpdated_at": "2017-09-12T07:37:25Z"
   }
