@@ -7,23 +7,23 @@
     "githubSize": 140,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/5470001?v=4",
     "githubForks": 76,
-    "githubStars": 89,
+    "githubStars": 91,
     "githubWatchers": 13,
     "githubCreated_at": "2015-08-23T19:48:19Z",
-    "githubUpdated_at": "2017-09-12T10:30:51Z"
+    "githubUpdated_at": "2017-09-18T20:41:43Z"
   },
   {
     "githubUrl": "https://github.com/mattbrictson/rails-template",
     "githubOwner": "mattbrictson",
     "githubName": "rails-template",
     "githubDescription": "Application template for Rails 5 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.",
-    "githubSize": 158,
+    "githubSize": 164,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/189693?v=4",
     "githubForks": 77,
-    "githubStars": 327,
-    "githubWatchers": 20,
+    "githubStars": 331,
+    "githubWatchers": 21,
     "githubCreated_at": "2015-01-30T22:17:11Z",
-    "githubUpdated_at": "2017-09-16T15:21:44Z"
+    "githubUpdated_at": "2017-09-25T02:11:56Z"
   },
   {
     "githubUrl": "https://github.com/sporkd/html5-rails",
@@ -58,11 +58,11 @@
     "githubDescription": "Rails Composer. The Rails generator on steroids for starter apps.",
     "githubSize": 751,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/788200?v=4",
-    "githubForks": 458,
+    "githubForks": 459,
     "githubStars": 3158,
     "githubWatchers": 170,
     "githubCreated_at": "2012-07-24T18:43:01Z",
-    "githubUpdated_at": "2017-09-16T08:52:21Z"
+    "githubUpdated_at": "2017-09-21T20:27:23Z"
   },
   {
     "githubUrl": "https://github.com/RailsApps/rails-bootstrap",
@@ -71,10 +71,10 @@
     "githubDescription": "Rails 5.1 starter app with the Bootstrap 4 front-end framework.",
     "githubSize": 426,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/788200?v=4",
-    "githubForks": 223,
+    "githubForks": 225,
     "githubStars": 466,
     "githubWatchers": 43,
     "githubCreated_at": "2013-07-10T03:35:06Z",
-    "githubUpdated_at": "2017-09-12T18:22:48Z"
+    "githubUpdated_at": "2017-09-24T20:07:10Z"
   }
 ]
