@@ -6,11 +6,11 @@
     "githubDescription": "A jump-start for jQuery plugins development",
     "githubSize": 2227,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/3077375?v=4",
-    "githubForks": 547,
-    "githubStars": 2530,
+    "githubForks": 548,
+    "githubStars": 2533,
     "githubWatchers": 111,
     "githubCreated_at": "2011-05-17T12:49:29Z",
-    "githubUpdated_at": "2017-09-23T19:16:21Z"
+    "githubUpdated_at": "2017-10-03T17:44:55Z"
   },
   {
     "githubUrl": "https://github.com/commadelimited/jQuery-Mobile-Boilerplate",
@@ -33,10 +33,10 @@
     "githubSize": 260,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1661925?v=4",
     "githubForks": 13,
-    "githubStars": 160,
+    "githubStars": 159,
     "githubWatchers": 8,
     "githubCreated_at": "2013-09-10T03:42:17Z",
-    "githubUpdated_at": "2017-08-25T04:03:22Z"
+    "githubUpdated_at": "2017-09-28T18:59:49Z"
   },
   {
     "githubUrl": "https://github.com/sebbie1o1/cordova-jquerymobile-boilerplate",
@@ -71,7 +71,7 @@
     "githubDescription": "Single page application boilerplate for Web or mobile using Twitter Bootstrap, jQuery and Javascript on Node.js. Create a responsive one page app for with a lightweight data store. Features long scrolling page sections, image slider, scroll to top button and dot navigation.",
     "githubSize": 830,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1154528?v=4",
-    "githubForks": 52,
+    "githubForks": 51,
     "githubStars": 121,
     "githubWatchers": 20,
     "githubCreated_at": "2012-10-02T13:16:28Z",
@@ -110,7 +110,7 @@
     "githubDescription": "CoffeeScript jQuery Plugin Boilerplate",
     "githubSize": 3385,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1456870?v=4",
-    "githubForks": 17,
+    "githubForks": 16,
     "githubStars": 80,
     "githubWatchers": 9,
     "githubCreated_at": "2011-06-05T07:56:29Z",

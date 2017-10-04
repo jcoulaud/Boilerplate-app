@@ -6,24 +6,24 @@
     "githubDescription": ":boy: A very opinionated, lightweight version of HTML5 Boilerplate with conditionally-loaded polyfills and an opinionated CSS reset for firing up web projects in no time.",
     "githubSize": 432,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/224636?v=4",
-    "githubForks": 35,
-    "githubStars": 544,
+    "githubForks": 37,
+    "githubStars": 546,
     "githubWatchers": 20,
     "githubCreated_at": "2013-11-10T23:01:30Z",
-    "githubUpdated_at": "2017-09-19T03:21:44Z"
+    "githubUpdated_at": "2017-09-30T06:55:47Z"
   },
   {
     "githubUrl": "https://github.com/h5bp/html5-boilerplate",
     "githubOwner": "h5bp",
     "githubName": "html5-boilerplate",
     "githubDescription": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
-    "githubSize": 13542,
+    "githubSize": 13545,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1136800?v=4",
-    "githubForks": 9370,
-    "githubStars": 38399,
-    "githubWatchers": 2615,
+    "githubForks": 9381,
+    "githubStars": 38504,
+    "githubWatchers": 2620,
     "githubCreated_at": "2010-01-24T18:03:24Z",
-    "githubUpdated_at": "2017-09-25T07:48:40Z"
+    "githubUpdated_at": "2017-10-04T07:54:03Z"
   },
   {
     "githubUrl": "https://github.com/IceCreamYou/HTML5-Canvas-Game-Boilerplate",
@@ -58,7 +58,7 @@
     "githubDescription": "Initializr's generated page",
     "githubSize": 118,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/522007?v=4",
-    "githubForks": 395,
+    "githubForks": 396,
     "githubStars": 1126,
     "githubWatchers": 122,
     "githubCreated_at": "2011-12-09T00:32:32Z",
@@ -72,9 +72,9 @@
     "githubSize": 4,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/59980?v=4",
     "githubForks": 0,
-    "githubStars": 8,
+    "githubStars": 9,
     "githubWatchers": 1,
     "githubCreated_at": "2016-11-07T01:44:04Z",
-    "githubUpdated_at": "2017-07-09T12:04:58Z"
+    "githubUpdated_at": "2017-09-27T11:08:17Z"
   }
 ]

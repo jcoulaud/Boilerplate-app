@@ -17,13 +17,13 @@
     "githubOwner": "aspnetboilerplate",
     "githubName": "aspnetboilerplate",
     "githubDescription": "ASP.NET Boilerplate - Application Framework",
-    "githubSize": 25585,
+    "githubSize": 25625,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/5957277?v=4",
-    "githubForks": 1647,
-    "githubStars": 3334,
-    "githubWatchers": 617,
+    "githubForks": 1656,
+    "githubStars": 3371,
+    "githubWatchers": 621,
     "githubCreated_at": "2013-08-18T20:45:08Z",
-    "githubUpdated_at": "2017-09-25T09:48:35Z"
+    "githubUpdated_at": "2017-10-04T07:10:24Z"
   },
   {
     "githubUrl": "https://github.com/ASP-NET-MVC-Boilerplate/Templates",
@@ -32,11 +32,11 @@
     "githubDescription": "Professional ASP.NET Core project templates for building secure, fast, robust and adaptable web applications or sites. It provides the minimum amount of code required on top of the default ASP.NET Core project template provided by Microsoft.",
     "githubSize": 42411,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/22211766?v=4",
-    "githubForks": 241,
-    "githubStars": 1003,
+    "githubForks": 244,
+    "githubStars": 1006,
     "githubWatchers": 144,
     "githubCreated_at": "2014-10-27T08:57:45Z",
-    "githubUpdated_at": "2017-09-25T05:44:49Z"
+    "githubUpdated_at": "2017-10-03T19:38:34Z"
   },
   {
     "githubUrl": "https://github.com/aspnetboilerplate/module-zero",
@@ -45,11 +45,11 @@
     "githubDescription": "ASP.NET Boilerplate - ASP.NET Identity Integration Module",
     "githubSize": 19443,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/5957277?v=4",
-    "githubForks": 410,
+    "githubForks": 409,
     "githubStars": 501,
     "githubWatchers": 144,
     "githubCreated_at": "2014-08-22T17:57:19Z",
-    "githubUpdated_at": "2017-09-25T05:05:16Z"
+    "githubUpdated_at": "2017-10-02T14:23:07Z"
   },
   {
     "githubUrl": "https://github.com/kriasoft/aspnet-starter-kit",
@@ -59,10 +59,10 @@
     "githubSize": 1408,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/773036?v=4",
     "githubForks": 160,
-    "githubStars": 795,
-    "githubWatchers": 82,
+    "githubStars": 803,
+    "githubWatchers": 83,
     "githubCreated_at": "2014-08-21T09:51:46Z",
-    "githubUpdated_at": "2017-09-22T03:21:14Z"
+    "githubUpdated_at": "2017-10-04T05:52:41Z"
   },
   {
     "githubUrl": "https://github.com/restsharp/RestSharp",
@@ -71,10 +71,10 @@
     "githubDescription": "Simple REST and HTTP API Client for .NET",
     "githubSize": 37589,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1057779?v=4",
-    "githubForks": 1525,
-    "githubStars": 4591,
-    "githubWatchers": 406,
+    "githubForks": 1530,
+    "githubStars": 4611,
+    "githubWatchers": 407,
     "githubCreated_at": "2009-11-16T02:01:45Z",
-    "githubUpdated_at": "2017-09-25T09:34:58Z"
+    "githubUpdated_at": "2017-10-03T20:01:23Z"
   }
 ]

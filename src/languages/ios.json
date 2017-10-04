@@ -6,11 +6,11 @@
     "githubDescription": "iOS-app template with lots of common tasks solved",
     "githubSize": 2587,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/50486?v=4",
-    "githubForks": 516,
-    "githubStars": 2907,
+    "githubForks": 515,
+    "githubStars": 2905,
     "githubWatchers": 211,
     "githubCreated_at": "2011-08-22T22:16:17Z",
-    "githubUpdated_at": "2017-09-07T02:39:00Z"
+    "githubUpdated_at": "2017-10-03T19:12:48Z"
   },
   {
     "githubUrl": "https://github.com/crushlovely/Amaro",
@@ -20,10 +20,10 @@
     "githubSize": 450,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/7337?v=4",
     "githubForks": 39,
-    "githubStars": 380,
+    "githubStars": 381,
     "githubWatchers": 46,
     "githubCreated_at": "2014-03-02T22:28:45Z",
-    "githubUpdated_at": "2017-09-19T16:00:08Z"
+    "githubUpdated_at": "2017-09-27T14:03:29Z"
   },
   {
     "githubUrl": "https://github.com/openaphid/Boilerplate-iOS",
@@ -45,7 +45,7 @@
     "githubDescription": "Universal Swift-based boilerplate for a web app.",
     "githubSize": 19,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/2470659?v=4",
-    "githubForks": 63,
+    "githubForks": 61,
     "githubStars": 796,
     "githubWatchers": 30,
     "githubCreated_at": "2015-06-19T14:08:01Z",
@@ -58,11 +58,11 @@
     "githubDescription": "Easily generate cross platform Swift framework projects from the command line",
     "githubSize": 448,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/2466701?v=4",
-    "githubForks": 50,
-    "githubStars": 1141,
+    "githubForks": 52,
+    "githubStars": 1189,
     "githubWatchers": 25,
     "githubCreated_at": "2015-06-10T23:48:16Z",
-    "githubUpdated_at": "2017-09-21T17:12:10Z"
+    "githubUpdated_at": "2017-10-04T07:23:29Z"
   },
   {
     "githubUrl": "https://github.com/thoughtbot/liftoff",
@@ -71,10 +71,10 @@
     "githubDescription": "CLI for creating and configuring new Xcode projects",
     "githubSize": 17616,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/20134199?v=4",
-    "githubForks": 107,
-    "githubStars": 1552,
+    "githubForks": 110,
+    "githubStars": 1551,
     "githubWatchers": 69,
     "githubCreated_at": "2012-10-19T00:58:18Z",
-    "githubUpdated_at": "2017-09-22T02:04:56Z"
+    "githubUpdated_at": "2017-10-02T13:49:27Z"
   }
 ]
