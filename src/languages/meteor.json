@@ -8,7 +8,7 @@
     "githubAvatar": "https://avatars1.githubusercontent.com/u/4521527?v=4",
     "githubForks": 214,
     "githubStars": 918,
-    "githubWatchers": 70,
+    "githubWatchers": 69,
     "githubCreated_at": "2013-09-26T15:02:38Z",
     "githubUpdated_at": "2017-09-17T00:11:51Z"
   },
@@ -19,11 +19,11 @@
     "githubDescription": "A lightweight boilerplate for meteor projects",
     "githubSize": 3068,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1301147?v=4",
-    "githubForks": 146,
-    "githubStars": 849,
-    "githubWatchers": 56,
+    "githubForks": 147,
+    "githubStars": 854,
+    "githubWatchers": 54,
     "githubCreated_at": "2013-09-09T19:42:09Z",
-    "githubUpdated_at": "2017-10-02T19:06:28Z"
+    "githubUpdated_at": "2017-10-26T02:33:41Z"
   },
   {
     "githubUrl": "https://github.com/themeteorchef/base",
@@ -32,11 +32,11 @@
     "githubDescription": "A starting point for Meteor apps.",
     "githubSize": 3367,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/8183166?v=4",
-    "githubForks": 265,
-    "githubStars": 661,
-    "githubWatchers": 54,
+    "githubForks": 263,
+    "githubStars": 664,
+    "githubWatchers": 55,
     "githubCreated_at": "2014-07-21T20:44:21Z",
-    "githubUpdated_at": "2017-09-29T04:59:45Z"
+    "githubUpdated_at": "2017-10-22T11:44:06Z"
   },
   {
     "githubUrl": "https://github.com/radiegtya/meteoris2",
@@ -58,11 +58,11 @@
     "githubDescription": "A starter project for React & Meteor",
     "githubSize": 29,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1445367?v=4",
-    "githubForks": 76,
-    "githubStars": 154,
+    "githubForks": 78,
+    "githubStars": 157,
     "githubWatchers": 18,
     "githubCreated_at": "2015-07-26T22:12:48Z",
-    "githubUpdated_at": "2017-09-27T17:01:36Z"
+    "githubUpdated_at": "2017-10-23T20:07:33Z"
   },
   {
     "githubUrl": "https://github.com/ffxsam/ffx-meteor-react-boilerplate",
@@ -84,7 +84,7 @@
     "githubDescription": "Boilerplates Application for Meteor.js using different flavors of AccountsTemplates packages",
     "githubSize": 5097,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/8916931?v=4",
-    "githubForks": 75,
+    "githubForks": 74,
     "githubStars": 111,
     "githubWatchers": 14,
     "githubCreated_at": "2014-08-23T06:03:28Z",
@@ -111,9 +111,9 @@
     "githubSize": 2904,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/9806174?v=4",
     "githubForks": 35,
-    "githubStars": 117,
-    "githubWatchers": 13,
+    "githubStars": 120,
+    "githubWatchers": 14,
     "githubCreated_at": "2015-03-09T20:02:44Z",
-    "githubUpdated_at": "2017-09-13T15:29:37Z"
+    "githubUpdated_at": "2017-10-25T01:54:50Z"
   }
 ]

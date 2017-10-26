@@ -6,11 +6,11 @@
     "githubDescription": "A jump-start for jQuery plugins development",
     "githubSize": 2227,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/3077375?v=4",
-    "githubForks": 548,
-    "githubStars": 2533,
-    "githubWatchers": 111,
+    "githubForks": 546,
+    "githubStars": 2538,
+    "githubWatchers": 110,
     "githubCreated_at": "2011-05-17T12:49:29Z",
-    "githubUpdated_at": "2017-10-03T17:44:55Z"
+    "githubUpdated_at": "2017-10-25T13:40:43Z"
   },
   {
     "githubUrl": "https://github.com/commadelimited/jQuery-Mobile-Boilerplate",
@@ -20,10 +20,10 @@
     "githubSize": 2764,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/563460?v=4",
     "githubForks": 76,
-    "githubStars": 269,
+    "githubStars": 268,
     "githubWatchers": 30,
     "githubCreated_at": "2012-02-02T17:43:21Z",
-    "githubUpdated_at": "2017-07-30T11:30:10Z"
+    "githubUpdated_at": "2017-10-13T08:34:22Z"
   },
   {
     "githubUrl": "https://github.com/elclanrs/advanced-jquery-boilerplate",
@@ -46,10 +46,10 @@
     "githubSize": 328,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/757364?v=4",
     "githubForks": 60,
-    "githubStars": 146,
+    "githubStars": 145,
     "githubWatchers": 16,
     "githubCreated_at": "2012-04-29T09:27:06Z",
-    "githubUpdated_at": "2017-09-07T14:42:02Z"
+    "githubUpdated_at": "2017-10-19T15:44:34Z"
   },
   {
     "githubUrl": "https://github.com/jquery-boilerplate/generator-jquery-boilerplate",
@@ -97,7 +97,7 @@
     "githubDescription": "A Boilerplate HTML page that incorporates JavaScript libraries, jQuery plugins, and Twitter Bootstrap to save developers time when creating an open-source project page.",
     "githubSize": 911,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/595663?v=4",
-    "githubForks": 29,
+    "githubForks": 28,
     "githubStars": 97,
     "githubWatchers": 8,
     "githubCreated_at": "2012-08-08T03:47:05Z",
