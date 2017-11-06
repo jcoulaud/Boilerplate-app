@@ -10,7 +10,7 @@
     "githubStars": 4656,
     "githubWatchers": 150,
     "githubCreated_at": "2011-12-01T18:35:51Z",
-    "githubUpdated_at": "2017-10-19T08:10:35Z"
+    "githubUpdated_at": "2017-11-02T14:49:32Z"
   },
   {
     "githubUrl": "https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate",
@@ -43,7 +43,7 @@
     "githubOwner": "alexbeletsky",
     "githubName": "backbone-express-spa",
     "githubDescription": "Backbone.js + Express.js single page application boilerplate",
-    "githubSize": 681,
+    "githubSize": 291,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/304929?v=4",
     "githubForks": 78,
     "githubStars": 437,
@@ -59,10 +59,10 @@
     "githubSize": 2856,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/546231?v=4",
     "githubForks": 31,
-    "githubStars": 273,
-    "githubWatchers": 48,
+    "githubStars": 274,
+    "githubWatchers": 49,
     "githubCreated_at": "2013-10-28T23:57:53Z",
-    "githubUpdated_at": "2017-10-06T02:46:56Z"
+    "githubUpdated_at": "2017-11-02T14:39:19Z"
   },
   {
     "githubUrl": "https://github.com/shorttompkins/benm",
@@ -72,10 +72,10 @@
     "githubSize": 10559,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/3021049?v=4",
     "githubForks": 99,
-    "githubStars": 180,
+    "githubStars": 179,
     "githubWatchers": 19,
     "githubCreated_at": "2013-12-21T04:21:11Z",
-    "githubUpdated_at": "2017-07-05T09:20:25Z"
+    "githubUpdated_at": "2017-10-28T04:00:36Z"
   },
   {
     "githubUrl": "https://github.com/sabarasaba/modern-backbone-starterkit",
@@ -85,10 +85,10 @@
     "githubSize": 233,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1191206?v=4",
     "githubForks": 47,
-    "githubStars": 180,
+    "githubStars": 181,
     "githubWatchers": 12,
     "githubCreated_at": "2015-03-11T13:50:14Z",
-    "githubUpdated_at": "2017-10-20T14:54:02Z"
+    "githubUpdated_at": "2017-10-28T01:34:08Z"
   },
   {
     "githubUrl": "https://github.com/phawk/Backbone-Stack",
