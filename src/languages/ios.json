@@ -46,10 +46,10 @@
     "githubSize": 19,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/2470659?v=4",
     "githubForks": 61,
-    "githubStars": 795,
-    "githubWatchers": 30,
+    "githubStars": 794,
+    "githubWatchers": 29,
     "githubCreated_at": "2015-06-19T14:08:01Z",
-    "githubUpdated_at": "2017-10-27T21:27:30Z"
+    "githubUpdated_at": "2017-11-07T11:39:14Z"
   },
   {
     "githubUrl": "https://github.com/JohnSundell/SwiftPlate",
@@ -59,10 +59,10 @@
     "githubSize": 455,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/2466701?v=4",
     "githubForks": 54,
-    "githubStars": 1254,
+    "githubStars": 1258,
     "githubWatchers": 26,
     "githubCreated_at": "2015-06-10T23:48:16Z",
-    "githubUpdated_at": "2017-11-04T19:10:52Z"
+    "githubUpdated_at": "2017-11-08T08:54:38Z"
   },
   {
     "githubUrl": "https://github.com/thoughtbot/liftoff",
@@ -71,10 +71,10 @@
     "githubDescription": "CLI for creating and configuring new Xcode projects",
     "githubSize": 17620,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/20134199?v=4",
-    "githubForks": 110,
+    "githubForks": 111,
     "githubStars": 1559,
     "githubWatchers": 69,
     "githubCreated_at": "2012-10-19T00:58:18Z",
-    "githubUpdated_at": "2017-11-01T02:40:19Z"
+    "githubUpdated_at": "2017-11-07T21:05:57Z"
   }
 ]

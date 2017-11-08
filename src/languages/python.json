@@ -6,11 +6,11 @@
     "githubDescription": "A boilerplate for Django web applications",
     "githubSize": 4821,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1226900?v=4",
-    "githubForks": 226,
-    "githubStars": 1130,
+    "githubForks": 228,
+    "githubStars": 1132,
     "githubWatchers": 70,
     "githubCreated_at": "2015-05-08T02:26:16Z",
-    "githubUpdated_at": "2017-11-05T19:24:47Z"
+    "githubUpdated_at": "2017-11-07T22:55:10Z"
   },
   {
     "githubUrl": "https://github.com/kirang89/bootstrapy",
@@ -33,10 +33,10 @@
     "githubSize": 612,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/368066?v=4",
     "githubForks": 255,
-    "githubStars": 1455,
+    "githubStars": 1456,
     "githubWatchers": 74,
     "githubCreated_at": "2012-10-17T04:23:32Z",
-    "githubUpdated_at": "2017-11-04T13:29:55Z"
+    "githubUpdated_at": "2017-11-06T14:52:16Z"
   },
   {
     "githubUrl": "https://github.com/esbullington/flask-bootstrap",
@@ -56,13 +56,13 @@
     "githubOwner": "audreyr",
     "githubName": "cookiecutter",
     "githubDescription": "A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.",
-    "githubSize": 2213,
+    "githubSize": 2201,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/74739?v=4",
-    "githubForks": 671,
-    "githubStars": 5900,
-    "githubWatchers": 179,
+    "githubForks": 670,
+    "githubStars": 5908,
+    "githubWatchers": 180,
     "githubCreated_at": "2013-07-14T18:31:22Z",
-    "githubUpdated_at": "2017-11-06T11:52:56Z"
+    "githubUpdated_at": "2017-11-08T07:17:31Z"
   },
   {
     "githubUrl": "https://github.com/JackStouffer/Flask-Foundation",
@@ -72,10 +72,10 @@
     "githubSize": 1437,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/680068?v=4",
     "githubForks": 117,
-    "githubStars": 1073,
+    "githubStars": 1076,
     "githubWatchers": 46,
     "githubCreated_at": "2013-09-15T06:34:48Z",
-    "githubUpdated_at": "2017-11-05T12:29:59Z"
+    "githubUpdated_at": "2017-11-08T04:40:24Z"
   },
   {
     "githubUrl": "https://github.com/coto/gae-boilerplate",
@@ -98,10 +98,10 @@
     "githubSize": 3609,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/133923?v=4",
     "githubForks": 209,
-    "githubStars": 1018,
-    "githubWatchers": 73,
+    "githubStars": 1019,
+    "githubWatchers": 74,
     "githubCreated_at": "2010-09-19T17:42:15Z",
-    "githubUpdated_at": "2017-11-06T06:00:02Z"
+    "githubUpdated_at": "2017-11-08T03:45:41Z"
   },
   {
     "githubUrl": "https://github.com/fasouto/django-starter-template",

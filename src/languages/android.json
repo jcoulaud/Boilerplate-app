@@ -58,11 +58,11 @@
     "githubDescription": "Fast Android Development. Easy maintainance.",
     "githubSize": 21795,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1315313?v=4",
-    "githubForks": 2453,
-    "githubStars": 9833,
+    "githubForks": 2455,
+    "githubStars": 9840,
     "githubWatchers": 710,
     "githubCreated_at": "2012-01-06T08:48:03Z",
-    "githubUpdated_at": "2017-11-06T08:22:58Z"
+    "githubUpdated_at": "2017-11-08T05:28:29Z"
   },
   {
     "githubUrl": "https://github.com/IanDarwin/Android-Cookbook-Examples",
@@ -108,7 +108,7 @@
     "githubOwner": "googledrive",
     "githubName": "android-quickstart",
     "githubDescription": "Quickstart application showing the Google Drive API for Android",
-    "githubSize": 582,
+    "githubSize": 579,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/3708359?v=4",
     "githubForks": 160,
     "githubStars": 207,
@@ -124,23 +124,23 @@
     "githubSize": 7836,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/7378196?v=4",
     "githubForks": 2786,
-    "githubStars": 8570,
+    "githubStars": 8576,
     "githubWatchers": 569,
     "githubCreated_at": "2015-03-10T00:04:35Z",
-    "githubUpdated_at": "2017-11-06T05:52:51Z"
+    "githubUpdated_at": "2017-11-08T02:03:44Z"
   },
   {
     "githubUrl": "https://github.com/googlesamples/android-architecture",
     "githubOwner": "googlesamples",
     "githubName": "android-architecture",
     "githubDescription": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
-    "githubSize": 8067,
+    "githubSize": 8053,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/7378196?v=4",
-    "githubForks": 6211,
-    "githubStars": 22694,
-    "githubWatchers": 1911,
+    "githubForks": 6233,
+    "githubStars": 22767,
+    "githubWatchers": 1916,
     "githubCreated_at": "2016-02-05T13:42:07Z",
-    "githubUpdated_at": "2017-11-06T14:15:57Z"
+    "githubUpdated_at": "2017-11-08T08:59:39Z"
   },
   {
     "githubUrl": "https://github.com/ribot/android-boilerplate",
@@ -149,11 +149,11 @@
     "githubDescription": "Android boilerplate app that showcases architecture and libraries used at ribot",
     "githubSize": 546,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/26924?v=4",
-    "githubForks": 846,
-    "githubStars": 3614,
+    "githubForks": 849,
+    "githubStars": 3619,
     "githubWatchers": 242,
     "githubCreated_at": "2015-04-21T11:45:16Z",
-    "githubUpdated_at": "2017-11-06T12:08:19Z"
+    "githubUpdated_at": "2017-11-08T08:58:39Z"
   },
   {
     "githubUrl": "https://github.com/blocoio/android-template",
