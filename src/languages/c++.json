@@ -32,7 +32,7 @@
     "githubDescription": "Boilerplate for your C++ projects",
     "githubSize": 84,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/2720369?v=4",
-    "githubForks": 8,
+    "githubForks": 9,
     "githubStars": 13,
     "githubWatchers": 1,
     "githubCreated_at": "2013-11-30T22:28:50Z",
@@ -56,26 +56,26 @@
     "githubOwner": "boostorg",
     "githubName": "boost",
     "githubDescription": "Super-project for modularized Boost",
-    "githubSize": 58820,
+    "githubSize": 58821,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/3170529?v=4",
     "githubForks": 559,
-    "githubStars": 1576,
-    "githubWatchers": 221,
+    "githubStars": 1582,
+    "githubWatchers": 224,
     "githubCreated_at": "2013-01-13T15:59:31Z",
-    "githubUpdated_at": "2017-11-08T07:53:02Z"
+    "githubUpdated_at": "2017-11-14T09:29:09Z"
   },
   {
     "githubUrl": "https://github.com/davisking/dlib",
     "githubOwner": "davisking",
     "githubName": "dlib",
     "githubDescription": "A toolkit for making real world machine learning and data analysis applications in C++",
-    "githubSize": 17320,
+    "githubSize": 17427,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/6259399?v=4",
-    "githubForks": 1055,
-    "githubStars": 3135,
-    "githubWatchers": 279,
+    "githubForks": 1068,
+    "githubStars": 3194,
+    "githubWatchers": 281,
     "githubCreated_at": "2014-01-29T00:45:33Z",
-    "githubUpdated_at": "2017-11-08T04:33:20Z"
+    "githubUpdated_at": "2017-11-14T13:11:24Z"
   },
   {
     "githubUrl": "https://github.com/sumeetchhetri/ffead-cpp",
@@ -85,49 +85,49 @@
     "githubSize": 62793,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1655705?v=4",
     "githubForks": 84,
-    "githubStars": 215,
+    "githubStars": 216,
     "githubWatchers": 53,
     "githubCreated_at": "2012-04-20T17:19:47Z",
-    "githubUpdated_at": "2017-11-04T15:45:28Z"
+    "githubUpdated_at": "2017-11-08T09:23:20Z"
   },
   {
     "githubUrl": "https://github.com/facebook/folly",
     "githubOwner": "facebook",
     "githubName": "folly",
     "githubDescription": "An open-source C++ library developed and used at Facebook.",
-    "githubSize": 15083,
+    "githubSize": 15007,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/69631?v=4",
-    "githubForks": 2338,
-    "githubStars": 9558,
-    "githubWatchers": 853,
+    "githubForks": 2350,
+    "githubStars": 9597,
+    "githubWatchers": 856,
     "githubCreated_at": "2012-06-01T20:49:04Z",
-    "githubUpdated_at": "2017-11-08T07:35:26Z"
+    "githubUpdated_at": "2017-11-14T13:18:25Z"
   },
   {
     "githubUrl": "https://github.com/WeAreROLI/JUCE",
     "githubOwner": "WeAreROLI",
     "githubName": "JUCE",
     "githubDescription": "The JUCE cross-platform C++ framework.",
-    "githubSize": 197602,
+    "githubSize": 197648,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/3866938?v=4",
-    "githubForks": 468,
-    "githubStars": 888,
-    "githubWatchers": 139,
+    "githubForks": 470,
+    "githubStars": 896,
+    "githubWatchers": 138,
     "githubCreated_at": "2012-03-31T11:19:43Z",
-    "githubUpdated_at": "2017-11-08T02:06:54Z"
+    "githubUpdated_at": "2017-11-14T11:57:43Z"
   },
   {
     "githubUrl": "https://github.com/openframeworks/openFrameworks",
     "githubOwner": "openframeworks",
     "githubName": "openFrameworks",
     "githubDescription": "openFrameworks is a community-developed cross platform toolkit for creative coding in C++.",
-    "githubSize": 1996279,
+    "githubSize": 1996284,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/142866?v=4",
-    "githubForks": 1940,
-    "githubStars": 5610,
-    "githubWatchers": 470,
+    "githubForks": 1946,
+    "githubStars": 5623,
+    "githubWatchers": 474,
     "githubCreated_at": "2009-10-21T21:55:54Z",
-    "githubUpdated_at": "2017-11-08T02:05:01Z"
+    "githubUpdated_at": "2017-11-14T08:03:56Z"
   },
   {
     "githubUrl": "https://github.com/stxxl/stxxl",
@@ -137,10 +137,10 @@
     "githubSize": 12924,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/5766331?v=4",
     "githubForks": 52,
-    "githubStars": 217,
+    "githubStars": 218,
     "githubWatchers": 30,
     "githubCreated_at": "2013-12-04T18:01:38Z",
-    "githubUpdated_at": "2017-11-01T08:36:54Z"
+    "githubUpdated_at": "2017-11-09T09:17:53Z"
   },
   {
     "githubUrl": "https://github.com/bloomberg/bde",
@@ -150,22 +150,22 @@
     "githubSize": 98173,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1416818?v=4",
     "githubForks": 196,
-    "githubStars": 809,
+    "githubStars": 814,
     "githubWatchers": 157,
     "githubCreated_at": "2012-11-09T20:00:30Z",
-    "githubUpdated_at": "2017-11-07T19:09:18Z"
+    "githubUpdated_at": "2017-11-14T07:35:15Z"
   },
   {
     "githubUrl": "https://github.com/treefrogframework/treefrog-framework",
     "githubOwner": "treefrogframework",
     "githubName": "treefrog-framework",
     "githubDescription": "TreeFrog Framework : High-speed C++ MVC Framework for Web Application",
-    "githubSize": 17498,
+    "githubSize": 17503,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/2995876?v=4",
-    "githubForks": 106,
-    "githubStars": 425,
+    "githubForks": 108,
+    "githubStars": 429,
     "githubWatchers": 57,
     "githubCreated_at": "2012-12-08T13:17:01Z",
-    "githubUpdated_at": "2017-10-20T13:17:08Z"
+    "githubUpdated_at": "2017-11-13T15:15:13Z"
   }
 ]

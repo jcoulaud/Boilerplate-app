@@ -7,10 +7,10 @@
     "githubSize": 6388,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/181635?v=4",
     "githubForks": 540,
-    "githubStars": 4655,
+    "githubStars": 4653,
     "githubWatchers": 150,
     "githubCreated_at": "2011-12-01T18:35:51Z",
-    "githubUpdated_at": "2017-11-07T04:37:18Z"
+    "githubUpdated_at": "2017-11-11T12:18:43Z"
   },
   {
     "githubUrl": "https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate",
@@ -45,7 +45,7 @@
     "githubDescription": "Backbone.js + Express.js single page application boilerplate",
     "githubSize": 291,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/304929?v=4",
-    "githubForks": 78,
+    "githubForks": 79,
     "githubStars": 437,
     "githubWatchers": 28,
     "githubCreated_at": "2013-04-22T16:56:15Z",
@@ -71,7 +71,7 @@
     "githubDescription": "Boilerplate web app using Backbone.js, ExpressJS, node.js, MongoDB",
     "githubSize": 10559,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/3021049?v=4",
-    "githubForks": 99,
+    "githubForks": 100,
     "githubStars": 179,
     "githubWatchers": 19,
     "githubCreated_at": "2013-12-21T04:21:11Z",
@@ -84,9 +84,9 @@
     "githubDescription": "Lightweight starting point for a modern backbone web app.",
     "githubSize": 233,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1191206?v=4",
-    "githubForks": 47,
+    "githubForks": 48,
     "githubStars": 181,
-    "githubWatchers": 12,
+    "githubWatchers": 11,
     "githubCreated_at": "2015-03-11T13:50:14Z",
     "githubUpdated_at": "2017-10-28T01:34:08Z"
   },

@@ -6,11 +6,11 @@
     "githubDescription": "A boilerplate for Django web applications",
     "githubSize": 4821,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1226900?v=4",
-    "githubForks": 228,
-    "githubStars": 1132,
+    "githubForks": 230,
+    "githubStars": 1135,
     "githubWatchers": 70,
     "githubCreated_at": "2015-05-08T02:26:16Z",
-    "githubUpdated_at": "2017-11-07T22:55:10Z"
+    "githubUpdated_at": "2017-11-13T02:29:28Z"
   },
   {
     "githubUrl": "https://github.com/zapier/django-knowledge",
@@ -19,11 +19,11 @@
     "githubDescription": "Add a help desk or knowledge base to your Django project with only a few lines of boilerplate code.",
     "githubSize": 1033,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1261889?v=4",
-    "githubForks": 83,
-    "githubStars": 419,
-    "githubWatchers": 64,
+    "githubForks": 84,
+    "githubStars": 420,
+    "githubWatchers": 65,
     "githubCreated_at": "2012-02-16T19:45:17Z",
-    "githubUpdated_at": "2017-11-02T23:36:46Z"
+    "githubUpdated_at": "2017-11-13T05:56:03Z"
   },
   {
     "githubUrl": "https://github.com/mbrochh/django-reactjs-boilerplate",
@@ -32,11 +32,11 @@
     "githubDescription": "An example how you can use ReactJS with your Django project.",
     "githubSize": 795,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/166590?v=4",
-    "githubForks": 103,
-    "githubStars": 422,
-    "githubWatchers": 40,
+    "githubForks": 106,
+    "githubStars": 432,
+    "githubWatchers": 41,
     "githubCreated_at": "2016-03-05T09:52:38Z",
-    "githubUpdated_at": "2017-11-07T03:48:44Z"
+    "githubUpdated_at": "2017-11-13T07:00:37Z"
   },
   {
     "githubUrl": "https://github.com/lincolnloop/django-startproject",
@@ -46,23 +46,23 @@
     "githubSize": 176,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1964?v=4",
     "githubForks": 43,
-    "githubStars": 241,
+    "githubStars": 240,
     "githubWatchers": 10,
     "githubCreated_at": "2009-08-19T05:34:50Z",
-    "githubUpdated_at": "2017-07-13T07:02:51Z"
+    "githubUpdated_at": "2017-11-12T13:02:21Z"
   },
   {
     "githubUrl": "https://github.com/agconti/cookiecutter-django-rest",
     "githubOwner": "agconti",
     "githubName": "cookiecutter-django-rest",
     "githubDescription": "For creating REST apis for mobile and web applications.",
-    "githubSize": 4538,
+    "githubSize": 4542,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/3332051?v=4",
-    "githubForks": 43,
-    "githubStars": 279,
+    "githubForks": 44,
+    "githubStars": 283,
     "githubWatchers": 14,
     "githubCreated_at": "2015-06-04T16:46:49Z",
-    "githubUpdated_at": "2017-11-08T02:35:46Z"
+    "githubUpdated_at": "2017-11-13T14:50:36Z"
   },
   {
     "githubUrl": "https://github.com/brwr/thinkster-django-angular-boilerplate",
@@ -95,13 +95,13 @@
     "githubOwner": "vintasoftware",
     "githubName": "django-react-boilerplate",
     "githubDescription": "Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate",
-    "githubSize": 143,
+    "githubSize": 137,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/5529080?v=4",
-    "githubForks": 40,
-    "githubStars": 181,
+    "githubForks": 42,
+    "githubStars": 187,
     "githubWatchers": 27,
     "githubCreated_at": "2016-07-19T20:37:29Z",
-    "githubUpdated_at": "2017-11-08T03:42:43Z"
+    "githubUpdated_at": "2017-11-13T20:07:40Z"
   },
   {
     "githubUrl": "https://github.com/bueda/django-boilerplate",
