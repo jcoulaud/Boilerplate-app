@@ -10,7 +10,7 @@
     "githubStars": 2901,
     "githubWatchers": 211,
     "githubCreated_at": "2011-08-22T22:16:17Z",
-    "githubUpdated_at": "2017-11-14T04:10:59Z"
+    "githubUpdated_at": "2017-11-25T19:48:40Z"
   },
   {
     "githubUrl": "https://github.com/crushlovely/Amaro",
@@ -45,11 +45,11 @@
     "githubDescription": "Universal Swift-based boilerplate for a web app.",
     "githubSize": 19,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/2470659?v=4",
-    "githubForks": 61,
+    "githubForks": 62,
     "githubStars": 794,
     "githubWatchers": 28,
     "githubCreated_at": "2015-06-19T14:08:01Z",
-    "githubUpdated_at": "2017-11-07T11:39:14Z"
+    "githubUpdated_at": "2017-11-24T08:16:27Z"
   },
   {
     "githubUrl": "https://github.com/JohnSundell/SwiftPlate",
@@ -58,23 +58,23 @@
     "githubDescription": "Easily generate cross platform Swift framework projects from the command line",
     "githubSize": 455,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/2466701?v=4",
-    "githubForks": 56,
-    "githubStars": 1299,
-    "githubWatchers": 25,
+    "githubForks": 60,
+    "githubStars": 1409,
+    "githubWatchers": 26,
     "githubCreated_at": "2015-06-10T23:48:16Z",
-    "githubUpdated_at": "2017-11-14T05:13:45Z"
+    "githubUpdated_at": "2017-11-24T18:37:03Z"
   },
   {
     "githubUrl": "https://github.com/thoughtbot/liftoff",
     "githubOwner": "thoughtbot",
     "githubName": "liftoff",
     "githubDescription": "CLI for creating and configuring new Xcode projects",
-    "githubSize": 17620,
+    "githubSize": 17982,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/20134199?v=4",
-    "githubForks": 111,
-    "githubStars": 1559,
-    "githubWatchers": 69,
+    "githubForks": 112,
+    "githubStars": 1561,
+    "githubWatchers": 70,
     "githubCreated_at": "2012-10-19T00:58:18Z",
-    "githubUpdated_at": "2017-11-07T21:05:57Z"
+    "githubUpdated_at": "2017-11-21T13:13:51Z"
   }
 ]

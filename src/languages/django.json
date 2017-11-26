@@ -6,11 +6,11 @@
     "githubDescription": "A boilerplate for Django web applications",
     "githubSize": 4821,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1226900?v=4",
-    "githubForks": 230,
-    "githubStars": 1135,
+    "githubForks": 233,
+    "githubStars": 1140,
     "githubWatchers": 70,
     "githubCreated_at": "2015-05-08T02:26:16Z",
-    "githubUpdated_at": "2017-11-13T02:29:28Z"
+    "githubUpdated_at": "2017-11-25T13:10:54Z"
   },
   {
     "githubUrl": "https://github.com/zapier/django-knowledge",
@@ -19,9 +19,9 @@
     "githubDescription": "Add a help desk or knowledge base to your Django project with only a few lines of boilerplate code.",
     "githubSize": 1033,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1261889?v=4",
-    "githubForks": 84,
+    "githubForks": 86,
     "githubStars": 420,
-    "githubWatchers": 65,
+    "githubWatchers": 66,
     "githubCreated_at": "2012-02-16T19:45:17Z",
     "githubUpdated_at": "2017-11-13T05:56:03Z"
   },
@@ -33,10 +33,10 @@
     "githubSize": 795,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/166590?v=4",
     "githubForks": 106,
-    "githubStars": 432,
-    "githubWatchers": 41,
+    "githubStars": 440,
+    "githubWatchers": 42,
     "githubCreated_at": "2016-03-05T09:52:38Z",
-    "githubUpdated_at": "2017-11-13T07:00:37Z"
+    "githubUpdated_at": "2017-11-23T02:30:56Z"
   },
   {
     "githubUrl": "https://github.com/lincolnloop/django-startproject",
@@ -46,23 +46,23 @@
     "githubSize": 176,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1964?v=4",
     "githubForks": 43,
-    "githubStars": 240,
+    "githubStars": 239,
     "githubWatchers": 10,
     "githubCreated_at": "2009-08-19T05:34:50Z",
-    "githubUpdated_at": "2017-11-12T13:02:21Z"
+    "githubUpdated_at": "2017-11-22T10:21:52Z"
   },
   {
     "githubUrl": "https://github.com/agconti/cookiecutter-django-rest",
     "githubOwner": "agconti",
     "githubName": "cookiecutter-django-rest",
     "githubDescription": "For creating REST apis for mobile and web applications.",
-    "githubSize": 4542,
+    "githubSize": 4529,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/3332051?v=4",
-    "githubForks": 44,
-    "githubStars": 283,
+    "githubForks": 47,
+    "githubStars": 291,
     "githubWatchers": 14,
     "githubCreated_at": "2015-06-04T16:46:49Z",
-    "githubUpdated_at": "2017-11-13T14:50:36Z"
+    "githubUpdated_at": "2017-11-23T08:43:20Z"
   },
   {
     "githubUrl": "https://github.com/brwr/thinkster-django-angular-boilerplate",
@@ -71,11 +71,11 @@
     "githubDescription": "Boilerplate for the Thinkster.io Django and AngularJS tutorial.",
     "githubSize": 417,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/4095660?v=4",
-    "githubForks": 1449,
+    "githubForks": 1455,
     "githubStars": 203,
     "githubWatchers": 16,
     "githubCreated_at": "2014-11-03T21:04:43Z",
-    "githubUpdated_at": "2017-11-02T12:27:53Z"
+    "githubUpdated_at": "2017-11-19T10:45:32Z"
   },
   {
     "githubUrl": "https://github.com/mike360/django-html5-boilerplate",
@@ -86,7 +86,7 @@
     "githubAvatar": "https://avatars1.githubusercontent.com/u/243422?v=4",
     "githubForks": 42,
     "githubStars": 182,
-    "githubWatchers": 15,
+    "githubWatchers": 14,
     "githubCreated_at": "2011-02-04T18:48:42Z",
     "githubUpdated_at": "2017-10-28T15:30:32Z"
   },
@@ -95,13 +95,13 @@
     "githubOwner": "vintasoftware",
     "githubName": "django-react-boilerplate",
     "githubDescription": "Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate",
-    "githubSize": 137,
+    "githubSize": 165,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/5529080?v=4",
     "githubForks": 42,
-    "githubStars": 187,
+    "githubStars": 194,
     "githubWatchers": 27,
     "githubCreated_at": "2016-07-19T20:37:29Z",
-    "githubUpdated_at": "2017-11-13T20:07:40Z"
+    "githubUpdated_at": "2017-11-25T20:17:35Z"
   },
   {
     "githubUrl": "https://github.com/bueda/django-boilerplate",

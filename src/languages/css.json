@@ -6,11 +6,11 @@
     "githubDescription": "Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.",
     "githubSize": 283,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/5980429?v=4",
-    "githubForks": 117,
-    "githubStars": 1033,
-    "githubWatchers": 100,
+    "githubForks": 118,
+    "githubStars": 1046,
+    "githubWatchers": 101,
     "githubCreated_at": "2016-06-22T07:14:33Z",
-    "githubUpdated_at": "2017-11-14T13:57:16Z"
+    "githubUpdated_at": "2017-11-22T15:07:35Z"
   },
   {
     "githubUrl": "https://github.com/suitcss/suit",
@@ -19,24 +19,24 @@
     "githubDescription": "Style tools for UI components",
     "githubSize": 266,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/4564613?v=4",
-    "githubForks": 189,
-    "githubStars": 3289,
+    "githubForks": 188,
+    "githubStars": 3301,
     "githubWatchers": 136,
     "githubCreated_at": "2011-10-19T21:38:00Z",
-    "githubUpdated_at": "2017-11-13T12:19:45Z"
+    "githubUpdated_at": "2017-11-26T15:31:40Z"
   },
   {
     "githubUrl": "https://github.com/Chalarangelo/mini.css",
     "githubOwner": "Chalarangelo",
     "githubName": "mini.css",
     "githubDescription": "A minimal, responsive, style-agnostic CSS framework!",
-    "githubSize": 8220,
+    "githubSize": 9050,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/8281875?v=4",
-    "githubForks": 77,
-    "githubStars": 1971,
-    "githubWatchers": 54,
+    "githubForks": 78,
+    "githubStars": 1987,
+    "githubWatchers": 55,
     "githubCreated_at": "2016-08-22T06:31:31Z",
-    "githubUpdated_at": "2017-11-14T09:56:43Z"
+    "githubUpdated_at": "2017-11-26T10:41:04Z"
   },
   {
     "githubUrl": "https://github.com/WhatsNewSaes/Skeleton-Sass",
@@ -45,11 +45,11 @@
     "githubDescription": "The (un)official Sass Version of Skeleton (2.0.4): A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development",
     "githubSize": 54,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/2118456?v=4",
-    "githubForks": 112,
-    "githubStars": 542,
+    "githubForks": 113,
+    "githubStars": 546,
     "githubWatchers": 23,
     "githubCreated_at": "2014-12-12T03:11:06Z",
-    "githubUpdated_at": "2017-11-12T14:45:42Z"
+    "githubUpdated_at": "2017-11-24T19:13:20Z"
   },
   {
     "githubUrl": "https://github.com/grahammiller/ResponsiveGridSystem",
@@ -71,23 +71,23 @@
     "githubDescription": "An adaptive CSS grid system.",
     "githubSize": 154,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/621255?v=4",
-    "githubForks": 205,
-    "githubStars": 729,
-    "githubWatchers": 61,
+    "githubForks": 206,
+    "githubStars": 730,
+    "githubWatchers": 62,
     "githubCreated_at": "2011-06-22T18:47:57Z",
-    "githubUpdated_at": "2017-11-08T20:10:28Z"
+    "githubUpdated_at": "2017-11-18T20:28:48Z"
   },
   {
     "githubUrl": "https://github.com/growdigital/groundwork",
     "githubOwner": "growdigital",
     "githubName": "groundwork",
-    "githubDescription": "Modular CSS & Metalsmith blog template. It rocks.",
-    "githubSize": 2617,
+    "githubDescription": "Metalsmith blog template. It rocks.",
+    "githubSize": 29,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1061992?v=4",
-    "githubForks": 2,
-    "githubStars": 4,
+    "githubForks": 0,
+    "githubStars": 0,
     "githubWatchers": 0,
-    "githubCreated_at": "2017-03-21T18:43:36Z",
-    "githubUpdated_at": "2017-10-12T11:28:54Z"
+    "githubCreated_at": "2017-11-21T16:00:07Z",
+    "githubUpdated_at": "2017-11-21T18:06:27Z"
   }
 ]
