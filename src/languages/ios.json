@@ -7,10 +7,10 @@
     "githubSize": 2587,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/50486?v=4",
     "githubForks": 514,
-    "githubStars": 2901,
+    "githubStars": 2899,
     "githubWatchers": 211,
     "githubCreated_at": "2011-08-22T22:16:17Z",
-    "githubUpdated_at": "2017-11-25T19:48:40Z"
+    "githubUpdated_at": "2017-11-29T07:30:58Z"
   },
   {
     "githubUrl": "https://github.com/crushlovely/Amaro",
@@ -45,11 +45,11 @@
     "githubDescription": "Universal Swift-based boilerplate for a web app.",
     "githubSize": 19,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/2470659?v=4",
-    "githubForks": 62,
-    "githubStars": 794,
+    "githubForks": 63,
+    "githubStars": 796,
     "githubWatchers": 28,
     "githubCreated_at": "2015-06-19T14:08:01Z",
-    "githubUpdated_at": "2017-11-24T08:16:27Z"
+    "githubUpdated_at": "2017-12-07T20:35:12Z"
   },
   {
     "githubUrl": "https://github.com/JohnSundell/SwiftPlate",
@@ -58,11 +58,11 @@
     "githubDescription": "Easily generate cross platform Swift framework projects from the command line",
     "githubSize": 455,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/2466701?v=4",
-    "githubForks": 60,
-    "githubStars": 1409,
+    "githubForks": 61,
+    "githubStars": 1429,
     "githubWatchers": 26,
     "githubCreated_at": "2015-06-10T23:48:16Z",
-    "githubUpdated_at": "2017-11-24T18:37:03Z"
+    "githubUpdated_at": "2017-12-12T16:26:21Z"
   },
   {
     "githubUrl": "https://github.com/thoughtbot/liftoff",
@@ -72,9 +72,9 @@
     "githubSize": 17982,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/20134199?v=4",
     "githubForks": 112,
-    "githubStars": 1561,
-    "githubWatchers": 70,
+    "githubStars": 1562,
+    "githubWatchers": 69,
     "githubCreated_at": "2012-10-19T00:58:18Z",
-    "githubUpdated_at": "2017-11-21T13:13:51Z"
+    "githubUpdated_at": "2017-12-06T02:02:16Z"
   }
 ]

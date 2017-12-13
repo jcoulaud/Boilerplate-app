@@ -7,10 +7,10 @@
     "githubSize": 4821,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1226900?v=4",
     "githubForks": 233,
-    "githubStars": 1140,
+    "githubStars": 1150,
     "githubWatchers": 70,
     "githubCreated_at": "2015-05-08T02:26:16Z",
-    "githubUpdated_at": "2017-11-25T13:10:54Z"
+    "githubUpdated_at": "2017-12-13T08:07:12Z"
   },
   {
     "githubUrl": "https://github.com/zapier/django-knowledge",
@@ -20,10 +20,10 @@
     "githubSize": 1033,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1261889?v=4",
     "githubForks": 86,
-    "githubStars": 420,
+    "githubStars": 422,
     "githubWatchers": 66,
     "githubCreated_at": "2012-02-16T19:45:17Z",
-    "githubUpdated_at": "2017-11-13T05:56:03Z"
+    "githubUpdated_at": "2017-12-03T17:32:53Z"
   },
   {
     "githubUrl": "https://github.com/mbrochh/django-reactjs-boilerplate",
@@ -32,11 +32,11 @@
     "githubDescription": "An example how you can use ReactJS with your Django project.",
     "githubSize": 795,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/166590?v=4",
-    "githubForks": 106,
-    "githubStars": 440,
-    "githubWatchers": 42,
+    "githubForks": 112,
+    "githubStars": 459,
+    "githubWatchers": 44,
     "githubCreated_at": "2016-03-05T09:52:38Z",
-    "githubUpdated_at": "2017-11-23T02:30:56Z"
+    "githubUpdated_at": "2017-12-12T20:42:52Z"
   },
   {
     "githubUrl": "https://github.com/lincolnloop/django-startproject",
@@ -56,13 +56,13 @@
     "githubOwner": "agconti",
     "githubName": "cookiecutter-django-rest",
     "githubDescription": "For creating REST apis for mobile and web applications.",
-    "githubSize": 4529,
+    "githubSize": 4540,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/3332051?v=4",
-    "githubForks": 47,
-    "githubStars": 291,
+    "githubForks": 49,
+    "githubStars": 295,
     "githubWatchers": 14,
     "githubCreated_at": "2015-06-04T16:46:49Z",
-    "githubUpdated_at": "2017-11-23T08:43:20Z"
+    "githubUpdated_at": "2017-12-07T08:51:47Z"
   },
   {
     "githubUrl": "https://github.com/brwr/thinkster-django-angular-boilerplate",
@@ -71,11 +71,11 @@
     "githubDescription": "Boilerplate for the Thinkster.io Django and AngularJS tutorial.",
     "githubSize": 417,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/4095660?v=4",
-    "githubForks": 1455,
-    "githubStars": 203,
+    "githubForks": 1456,
+    "githubStars": 205,
     "githubWatchers": 16,
     "githubCreated_at": "2014-11-03T21:04:43Z",
-    "githubUpdated_at": "2017-11-19T10:45:32Z"
+    "githubUpdated_at": "2017-12-09T09:57:36Z"
   },
   {
     "githubUrl": "https://github.com/mike360/django-html5-boilerplate",
@@ -84,7 +84,7 @@
     "githubDescription": "No Longer Maintained | A starting template for Django websites using HTML5 boilerplate.",
     "githubSize": 634,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/243422?v=4",
-    "githubForks": 42,
+    "githubForks": 41,
     "githubStars": 182,
     "githubWatchers": 14,
     "githubCreated_at": "2011-02-04T18:48:42Z",
@@ -95,13 +95,13 @@
     "githubOwner": "vintasoftware",
     "githubName": "django-react-boilerplate",
     "githubDescription": "Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate",
-    "githubSize": 165,
+    "githubSize": 166,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/5529080?v=4",
-    "githubForks": 42,
-    "githubStars": 194,
-    "githubWatchers": 27,
+    "githubForks": 44,
+    "githubStars": 206,
+    "githubWatchers": 28,
     "githubCreated_at": "2016-07-19T20:37:29Z",
-    "githubUpdated_at": "2017-11-25T20:17:35Z"
+    "githubUpdated_at": "2017-12-11T12:53:58Z"
   },
   {
     "githubUrl": "https://github.com/bueda/django-boilerplate",
@@ -110,7 +110,7 @@
     "githubDescription": " A standard layout for Django apps",
     "githubSize": 1048,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/187098?v=4",
-    "githubForks": 12,
+    "githubForks": 11,
     "githubStars": 58,
     "githubWatchers": 6,
     "githubCreated_at": "2010-11-13T05:21:41Z",
