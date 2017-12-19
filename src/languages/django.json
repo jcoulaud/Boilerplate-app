@@ -7,10 +7,10 @@
     "githubSize": 4821,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1226900?v=4",
     "githubForks": 233,
-    "githubStars": 1150,
+    "githubStars": 1149,
     "githubWatchers": 70,
     "githubCreated_at": "2015-05-08T02:26:16Z",
-    "githubUpdated_at": "2017-12-13T08:07:12Z"
+    "githubUpdated_at": "2017-12-17T19:18:04Z"
   },
   {
     "githubUrl": "https://github.com/zapier/django-knowledge",
@@ -33,10 +33,10 @@
     "githubSize": 795,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/166590?v=4",
     "githubForks": 112,
-    "githubStars": 459,
-    "githubWatchers": 44,
+    "githubStars": 464,
+    "githubWatchers": 46,
     "githubCreated_at": "2016-03-05T09:52:38Z",
-    "githubUpdated_at": "2017-12-12T20:42:52Z"
+    "githubUpdated_at": "2017-12-18T22:40:27Z"
   },
   {
     "githubUrl": "https://github.com/lincolnloop/django-startproject",
@@ -95,11 +95,11 @@
     "githubOwner": "vintasoftware",
     "githubName": "django-react-boilerplate",
     "githubDescription": "Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate",
-    "githubSize": 166,
+    "githubSize": 205,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/5529080?v=4",
-    "githubForks": 44,
+    "githubForks": 45,
     "githubStars": 206,
-    "githubWatchers": 28,
+    "githubWatchers": 27,
     "githubCreated_at": "2016-07-19T20:37:29Z",
     "githubUpdated_at": "2017-12-11T12:53:58Z"
   },

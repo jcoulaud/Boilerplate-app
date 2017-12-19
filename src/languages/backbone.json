@@ -6,11 +6,11 @@
     "githubDescription": "A workflow for building Backbone applications.",
     "githubSize": 6388,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/181635?v=4",
-    "githubForks": 540,
-    "githubStars": 4652,
+    "githubForks": 538,
+    "githubStars": 4650,
     "githubWatchers": 150,
     "githubCreated_at": "2011-12-01T18:35:51Z",
-    "githubUpdated_at": "2017-12-11T15:54:57Z"
+    "githubUpdated_at": "2017-12-19T15:56:26Z"
   },
   {
     "githubUrl": "https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate",
@@ -20,10 +20,10 @@
     "githubSize": 5592,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/4105161?v=4",
     "githubForks": 143,
-    "githubStars": 634,
-    "githubWatchers": 55,
+    "githubStars": 635,
+    "githubWatchers": 54,
     "githubCreated_at": "2012-05-24T17:01:43Z",
-    "githubUpdated_at": "2017-12-11T05:23:34Z"
+    "githubUpdated_at": "2017-12-16T13:46:22Z"
   },
   {
     "githubUrl": "https://github.com/addyosmani/backbone-boilerplates",
@@ -46,10 +46,10 @@
     "githubSize": 291,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/304929?v=4",
     "githubForks": 79,
-    "githubStars": 437,
+    "githubStars": 438,
     "githubWatchers": 28,
     "githubCreated_at": "2013-04-22T16:56:15Z",
-    "githubUpdated_at": "2017-12-11T05:00:29Z"
+    "githubUpdated_at": "2017-12-16T14:19:26Z"
   },
   {
     "githubUrl": "https://github.com/artsy/ezel",
@@ -97,7 +97,7 @@
     "githubDescription": "Removing the boilerplate from starting single page apps.",
     "githubSize": 2549,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/456019?v=4",
-    "githubForks": 18,
+    "githubForks": 17,
     "githubStars": 108,
     "githubWatchers": 7,
     "githubCreated_at": "2012-04-05T20:15:39Z",

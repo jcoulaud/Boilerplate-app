@@ -7,10 +7,10 @@
     "githubSize": 1917,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/5971424?v=4",
     "githubForks": 1297,
-    "githubStars": 4298,
+    "githubStars": 4297,
     "githubWatchers": 478,
     "githubCreated_at": "2012-09-05T15:19:13Z",
-    "githubUpdated_at": "2017-12-11T14:46:02Z"
+    "githubUpdated_at": "2017-12-18T16:14:23Z"
   },
   {
     "githubUrl": "https://github.com/kanytu/android-material-drawer-template",
@@ -32,11 +32,11 @@
     "githubDescription": "Android Studio / Eclipse ADT template for material-design-icons resources",
     "githubSize": 567,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1798519?v=4",
-    "githubForks": 75,
-    "githubStars": 434,
+    "githubForks": 74,
+    "githubStars": 435,
     "githubWatchers": 26,
     "githubCreated_at": "2014-11-03T10:32:54Z",
-    "githubUpdated_at": "2017-11-17T02:04:38Z"
+    "githubUpdated_at": "2017-12-15T12:42:46Z"
   },
   {
     "githubUrl": "https://github.com/e-biz/androidkickstartr",
@@ -58,11 +58,11 @@
     "githubDescription": "Fast Android Development. Easy maintainance.",
     "githubSize": 21799,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1315313?v=4",
-    "githubForks": 2459,
-    "githubStars": 9925,
-    "githubWatchers": 715,
+    "githubForks": 2458,
+    "githubStars": 9942,
+    "githubWatchers": 714,
     "githubCreated_at": "2012-01-06T08:48:03Z",
-    "githubUpdated_at": "2017-12-13T11:10:26Z"
+    "githubUpdated_at": "2017-12-19T14:36:37Z"
   },
   {
     "githubUrl": "https://github.com/IanDarwin/Android-Cookbook-Examples",
@@ -71,24 +71,24 @@
     "githubDescription": "Collected code examples from the O'Reilly Android Cookbook. See README below!",
     "githubSize": 55331,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/4762842?v=4",
-    "githubForks": 789,
-    "githubStars": 710,
+    "githubForks": 788,
+    "githubStars": 713,
     "githubWatchers": 168,
     "githubCreated_at": "2011-11-26T21:48:08Z",
-    "githubUpdated_at": "2017-12-12T13:59:12Z"
+    "githubUpdated_at": "2017-12-19T06:14:23Z"
   },
   {
     "githubUrl": "https://github.com/playgameservices/android-basic-samples",
     "githubOwner": "playgameservices",
     "githubName": "android-basic-samples",
     "githubDescription": "Google Play game services - Android samples",
-    "githubSize": 143846,
+    "githubSize": 143893,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/4439547?v=4",
-    "githubForks": 955,
-    "githubStars": 791,
+    "githubForks": 954,
+    "githubStars": 792,
     "githubWatchers": 139,
     "githubCreated_at": "2013-05-15T17:19:49Z",
-    "githubUpdated_at": "2017-12-12T15:38:31Z"
+    "githubUpdated_at": "2017-12-15T01:40:21Z"
   },
   {
     "githubUrl": "https://github.com/tscolari/android-webview-sample-app",
@@ -111,10 +111,10 @@
     "githubSize": 579,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/3708359?v=4",
     "githubForks": 168,
-    "githubStars": 214,
+    "githubStars": 215,
     "githubWatchers": 24,
     "githubCreated_at": "2013-12-03T23:25:28Z",
-    "githubUpdated_at": "2017-12-12T10:48:35Z"
+    "githubUpdated_at": "2017-12-15T20:34:04Z"
   },
   {
     "githubUrl": "https://github.com/googlesamples/android-UniversalMusicPlayer",
@@ -123,11 +123,11 @@
     "githubDescription": "This sample shows how to implement an audio media app that works across multiple form factors and provide a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices",
     "githubSize": 7836,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/7378196?v=4",
-    "githubForks": 2826,
-    "githubStars": 8741,
-    "githubWatchers": 570,
+    "githubForks": 2837,
+    "githubStars": 8768,
+    "githubWatchers": 573,
     "githubCreated_at": "2015-03-10T00:04:35Z",
-    "githubUpdated_at": "2017-12-13T08:32:36Z"
+    "githubUpdated_at": "2017-12-19T17:17:48Z"
   },
   {
     "githubUrl": "https://github.com/googlesamples/android-architecture",
@@ -136,11 +136,11 @@
     "githubDescription": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
     "githubSize": 8137,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/7378196?v=4",
-    "githubForks": 6569,
-    "githubStars": 23729,
-    "githubWatchers": 1964,
+    "githubForks": 6603,
+    "githubStars": 23827,
+    "githubWatchers": 1980,
     "githubCreated_at": "2016-02-05T13:42:07Z",
-    "githubUpdated_at": "2017-12-13T11:01:20Z"
+    "githubUpdated_at": "2017-12-19T18:36:29Z"
   },
   {
     "githubUrl": "https://github.com/ribot/android-boilerplate",
@@ -149,11 +149,11 @@
     "githubDescription": "Android boilerplate app that showcases architecture and libraries used at ribot",
     "githubSize": 546,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/26924?v=4",
-    "githubForks": 859,
-    "githubStars": 3677,
-    "githubWatchers": 246,
+    "githubForks": 862,
+    "githubStars": 3694,
+    "githubWatchers": 247,
     "githubCreated_at": "2015-04-21T11:45:16Z",
-    "githubUpdated_at": "2017-12-13T08:54:41Z"
+    "githubUpdated_at": "2017-12-19T15:24:05Z"
   },
   {
     "githubUrl": "https://github.com/blocoio/android-template",
@@ -189,9 +189,9 @@
     "githubSize": 31417,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/6622086?v=4",
     "githubForks": 24,
-    "githubStars": 170,
+    "githubStars": 171,
     "githubWatchers": 17,
     "githubCreated_at": "2016-02-13T12:37:33Z",
-    "githubUpdated_at": "2017-11-26T22:31:36Z"
+    "githubUpdated_at": "2017-12-14T15:56:09Z"
   }
 ]

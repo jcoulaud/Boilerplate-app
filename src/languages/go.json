@@ -7,10 +7,10 @@
     "githubSize": 468,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/5037285?v=4",
     "githubForks": 4,
-    "githubStars": 49,
+    "githubStars": 51,
     "githubWatchers": 7,
     "githubCreated_at": "2016-07-20T12:09:48Z",
-    "githubUpdated_at": "2017-11-18T18:09:18Z"
+    "githubUpdated_at": "2017-12-16T04:04:25Z"
   },
   {
     "githubUrl": "https://github.com/gernest/alien",
@@ -30,13 +30,13 @@
     "githubOwner": "astaxie",
     "githubName": "beego",
     "githubDescription": "beego is an open-source, high-performance web framework for the Go programming language.",
-    "githubSize": 4386,
+    "githubSize": 4392,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/233907?v=4",
-    "githubForks": 3002,
-    "githubStars": 13287,
-    "githubWatchers": 997,
+    "githubForks": 3023,
+    "githubStars": 13374,
+    "githubWatchers": 1000,
     "githubCreated_at": "2012-02-29T02:32:08Z",
-    "githubUpdated_at": "2017-12-13T11:18:30Z"
+    "githubUpdated_at": "2017-12-19T17:09:33Z"
   },
   {
     "githubUrl": "https://github.com/go-zoo/bone",
@@ -45,7 +45,7 @@
     "githubDescription": "Lightning Fast HTTP Multiplexer",
     "githubSize": 2501,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/10365993?v=4",
-    "githubForks": 76,
+    "githubForks": 77,
     "githubStars": 1080,
     "githubWatchers": 41,
     "githubCreated_at": "2014-11-19T02:16:36Z",
@@ -58,7 +58,7 @@
     "githubDescription": "Bxog is a simple and fast HTTP router for Go (HTTP request multiplexer).",
     "githubSize": 40,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/8122120?v=4",
-    "githubForks": 3,
+    "githubForks": 4,
     "githubStars": 79,
     "githubWatchers": 6,
     "githubCreated_at": "2016-05-19T12:20:08Z",
@@ -69,13 +69,13 @@
     "githubOwner": "pressly",
     "githubName": "chi",
     "githubDescription": "lightweight, idiomatic and composable router for building Go HTTP services",
-    "githubSize": 3376,
+    "githubSize": 3385,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/29575368?v=4",
     "githubForks": 198,
-    "githubStars": 2909,
+    "githubStars": 2934,
     "githubWatchers": 117,
     "githubCreated_at": "2015-10-15T20:46:29Z",
-    "githubUpdated_at": "2017-12-13T09:11:48Z"
+    "githubUpdated_at": "2017-12-19T15:22:17Z"
   },
   {
     "githubUrl": "https://github.com/labstack/echo",
@@ -85,10 +85,10 @@
     "githubSize": 4962,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/2624634?v=4",
     "githubForks": 771,
-    "githubStars": 8892,
-    "githubWatchers": 421,
+    "githubStars": 8931,
+    "githubWatchers": 423,
     "githubCreated_at": "2015-03-01T17:43:01Z",
-    "githubUpdated_at": "2017-12-13T09:38:44Z"
+    "githubUpdated_at": "2017-12-19T15:36:25Z"
   },
   {
     "githubUrl": "https://github.com/buaazp/fasthttprouter",
@@ -124,10 +124,10 @@
     "githubSize": 245,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/11889730?v=4",
     "githubForks": 15,
-    "githubStars": 249,
+    "githubStars": 250,
     "githubWatchers": 9,
     "githubCreated_at": "2015-06-07T10:21:15Z",
-    "githubUpdated_at": "2017-11-30T08:10:45Z"
+    "githubUpdated_at": "2017-12-19T12:40:32Z"
   },
   {
     "githubUrl": "https://github.com/ant0ine/go-json-rest",
@@ -136,24 +136,24 @@
     "githubDescription": "A quick and easy way to setup a RESTful JSON API",
     "githubSize": 982,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/40227?v=4",
-    "githubForks": 323,
+    "githubForks": 327,
     "githubStars": 2991,
     "githubWatchers": 154,
     "githubCreated_at": "2013-02-19T03:15:45Z",
-    "githubUpdated_at": "2017-12-12T13:07:38Z"
+    "githubUpdated_at": "2017-12-19T10:53:34Z"
   },
   {
     "githubUrl": "https://github.com/go-kit/kit",
     "githubOwner": "go-kit",
     "githubName": "kit",
     "githubDescription": "A standard library for microservices.",
-    "githubSize": 6625,
+    "githubSize": 6627,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/10981023?v=4",
-    "githubForks": 855,
-    "githubStars": 8575,
-    "githubWatchers": 493,
+    "githubForks": 860,
+    "githubStars": 8622,
+    "githubWatchers": 489,
     "githubCreated_at": "2015-02-03T00:01:19Z",
-    "githubUpdated_at": "2017-12-13T11:00:57Z"
+    "githubUpdated_at": "2017-12-19T19:33:50Z"
   },
   {
     "githubUrl": "https://github.com/codehack/go-relax",
@@ -175,11 +175,11 @@
     "githubDescription": "socket.io library for golang, a realtime application framework.",
     "githubSize": 10427,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/496526?v=4",
-    "githubForks": 305,
-    "githubStars": 1965,
+    "githubForks": 306,
+    "githubStars": 1976,
     "githubWatchers": 96,
     "githubCreated_at": "2013-07-13T13:04:38Z",
-    "githubUpdated_at": "2017-12-12T21:59:37Z"
+    "githubUpdated_at": "2017-12-19T13:35:30Z"
   },
   {
     "githubUrl": "https://github.com/gocraft/web",
@@ -189,10 +189,10 @@
     "githubSize": 192,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/6075192?v=4",
     "githubForks": 95,
-    "githubStars": 1267,
-    "githubWatchers": 54,
+    "githubStars": 1266,
+    "githubWatchers": 53,
     "githubCreated_at": "2013-11-16T20:48:20Z",
-    "githubUpdated_at": "2017-12-12T11:41:24Z"
+    "githubUpdated_at": "2017-12-17T09:55:20Z"
   },
   {
     "githubUrl": "https://github.com/lunny/tango",
@@ -201,11 +201,11 @@
     "githubDescription": "Micro & pluggable web framework for Go",
     "githubSize": 340,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/81045?v=4",
-    "githubForks": 96,
+    "githubForks": 97,
     "githubStars": 677,
     "githubWatchers": 75,
     "githubCreated_at": "2014-12-17T03:07:09Z",
-    "githubUpdated_at": "2017-12-10T12:01:48Z"
+    "githubUpdated_at": "2017-12-19T09:34:34Z"
   },
   {
     "githubUrl": "https://github.com/ericmdantas/generator-ng-fullstack",
@@ -215,9 +215,9 @@
     "githubSize": 1817,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/7040162?v=4",
     "githubForks": 101,
-    "githubStars": 664,
-    "githubWatchers": 44,
+    "githubStars": 667,
+    "githubWatchers": 43,
     "githubCreated_at": "2015-03-04T01:59:47Z",
-    "githubUpdated_at": "2017-12-09T14:38:57Z"
+    "githubUpdated_at": "2017-12-15T11:13:08Z"
   }
 ]
