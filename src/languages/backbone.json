@@ -6,11 +6,11 @@
     "githubDescription": "A workflow for building Backbone applications.",
     "githubSize": 6388,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/181635?v=4",
-    "githubForks": 538,
-    "githubStars": 4650,
+    "githubForks": 539,
+    "githubStars": 4648,
     "githubWatchers": 150,
     "githubCreated_at": "2011-12-01T18:35:51Z",
-    "githubUpdated_at": "2017-12-19T15:56:26Z"
+    "githubUpdated_at": "2017-12-24T18:25:57Z"
   },
   {
     "githubUrl": "https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate",
@@ -20,10 +20,10 @@
     "githubSize": 5592,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/4105161?v=4",
     "githubForks": 143,
-    "githubStars": 635,
+    "githubStars": 634,
     "githubWatchers": 54,
     "githubCreated_at": "2012-05-24T17:01:43Z",
-    "githubUpdated_at": "2017-12-16T13:46:22Z"
+    "githubUpdated_at": "2017-12-29T04:55:22Z"
   },
   {
     "githubUrl": "https://github.com/addyosmani/backbone-boilerplates",
@@ -56,13 +56,13 @@
     "githubOwner": "artsy",
     "githubName": "ezel",
     "githubDescription": "A boilerplate for Backbone projects that share code server/client, render server/client, and scale through modular architecture.",
-    "githubSize": 2856,
+    "githubSize": 2368,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/546231?v=4",
     "githubForks": 30,
-    "githubStars": 274,
-    "githubWatchers": 50,
+    "githubStars": 275,
+    "githubWatchers": 49,
     "githubCreated_at": "2013-10-28T23:57:53Z",
-    "githubUpdated_at": "2017-11-02T14:39:19Z"
+    "githubUpdated_at": "2018-01-02T20:19:07Z"
   },
   {
     "githubUrl": "https://github.com/shorttompkins/benm",
@@ -84,11 +84,11 @@
     "githubDescription": "Lightweight starting point for a modern backbone web app.",
     "githubSize": 233,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1191206?v=4",
-    "githubForks": 47,
-    "githubStars": 181,
+    "githubForks": 48,
+    "githubStars": 182,
     "githubWatchers": 11,
     "githubCreated_at": "2015-03-11T13:50:14Z",
-    "githubUpdated_at": "2017-10-28T01:34:08Z"
+    "githubUpdated_at": "2017-12-24T18:48:45Z"
   },
   {
     "githubUrl": "https://github.com/phawk/Backbone-Stack",
@@ -98,10 +98,10 @@
     "githubSize": 2549,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/456019?v=4",
     "githubForks": 17,
-    "githubStars": 108,
+    "githubStars": 107,
     "githubWatchers": 7,
     "githubCreated_at": "2012-04-05T20:15:39Z",
-    "githubUpdated_at": "2017-10-11T08:26:40Z"
+    "githubUpdated_at": "2017-12-26T09:36:49Z"
   },
   {
     "githubUrl": "https://github.com/david0178418/BackboneJS-AMD-Boilerplate",
