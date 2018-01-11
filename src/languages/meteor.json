@@ -19,11 +19,11 @@
     "githubDescription": "A lightweight boilerplate for meteor projects",
     "githubSize": 3068,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1301147?v=4",
-    "githubForks": 149,
-    "githubStars": 858,
+    "githubForks": 150,
+    "githubStars": 861,
     "githubWatchers": 54,
     "githubCreated_at": "2013-09-09T19:42:09Z",
-    "githubUpdated_at": "2017-12-29T10:26:29Z"
+    "githubUpdated_at": "2018-01-09T13:06:13Z"
   },
   {
     "githubUrl": "https://github.com/themeteorchef/base",
@@ -33,10 +33,10 @@
     "githubSize": 3367,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/8183166?v=4",
     "githubForks": 259,
-    "githubStars": 662,
+    "githubStars": 664,
     "githubWatchers": 50,
     "githubCreated_at": "2014-07-21T20:44:21Z",
-    "githubUpdated_at": "2017-12-26T20:02:33Z"
+    "githubUpdated_at": "2018-01-10T23:08:06Z"
   },
   {
     "githubUrl": "https://github.com/radiegtya/meteoris2",
@@ -59,10 +59,10 @@
     "githubSize": 29,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1445367?v=4",
     "githubForks": 83,
-    "githubStars": 161,
+    "githubStars": 163,
     "githubWatchers": 18,
     "githubCreated_at": "2015-07-26T22:12:48Z",
-    "githubUpdated_at": "2017-12-30T14:13:58Z"
+    "githubUpdated_at": "2018-01-10T14:04:00Z"
   },
   {
     "githubUrl": "https://github.com/ffxsam/ffx-meteor-react-boilerplate",
@@ -84,11 +84,11 @@
     "githubDescription": "Boilerplates Application for Meteor.js using different flavors of AccountsTemplates packages",
     "githubSize": 5097,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/8916931?v=4",
-    "githubForks": 72,
+    "githubForks": 71,
     "githubStars": 110,
     "githubWatchers": 14,
     "githubCreated_at": "2014-08-23T06:03:28Z",
-    "githubUpdated_at": "2017-11-16T20:21:57Z"
+    "githubUpdated_at": "2018-01-11T00:12:47Z"
   },
   {
     "githubUrl": "https://github.com/patrickocoffeyo/meteor-boilerplate",
@@ -98,10 +98,10 @@
     "githubSize": 390,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1107871?v=4",
     "githubForks": 14,
-    "githubStars": 98,
-    "githubWatchers": 7,
+    "githubStars": 97,
+    "githubWatchers": 6,
     "githubCreated_at": "2013-11-12T20:18:35Z",
-    "githubUpdated_at": "2017-12-08T22:11:56Z"
+    "githubUpdated_at": "2018-01-03T22:26:34Z"
   },
   {
     "githubUrl": "https://github.com/SilentCicero/meteor-dapp-boilerplate",
@@ -111,9 +111,9 @@
     "githubSize": 2904,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/9806174?v=4",
     "githubForks": 36,
-    "githubStars": 126,
+    "githubStars": 127,
     "githubWatchers": 13,
     "githubCreated_at": "2015-03-09T20:02:44Z",
-    "githubUpdated_at": "2017-12-20T00:15:28Z"
+    "githubUpdated_at": "2018-01-11T04:42:38Z"
   }
 ]
