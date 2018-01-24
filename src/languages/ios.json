@@ -6,11 +6,11 @@
     "githubDescription": "iOS-app template with lots of common tasks solved",
     "githubSize": 2587,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/50486?v=4",
-    "githubForks": 512,
+    "githubForks": 511,
     "githubStars": 2894,
     "githubWatchers": 210,
     "githubCreated_at": "2011-08-22T22:16:17Z",
-    "githubUpdated_at": "2017-12-27T20:43:36Z"
+    "githubUpdated_at": "2018-01-21T08:22:49Z"
   },
   {
     "githubUrl": "https://github.com/crushlovely/Amaro",
@@ -20,10 +20,10 @@
     "githubSize": 450,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/7337?v=4",
     "githubForks": 41,
-    "githubStars": 387,
+    "githubStars": 388,
     "githubWatchers": 45,
     "githubCreated_at": "2014-03-02T22:28:45Z",
-    "githubUpdated_at": "2018-01-03T15:31:05Z"
+    "githubUpdated_at": "2018-01-16T14:44:17Z"
   },
   {
     "githubUrl": "https://github.com/openaphid/Boilerplate-iOS",
@@ -33,10 +33,10 @@
     "githubSize": 7893,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1283326?v=4",
     "githubForks": 2,
-    "githubStars": 8,
+    "githubStars": 9,
     "githubWatchers": 2,
     "githubCreated_at": "2012-04-24T15:33:30Z",
-    "githubUpdated_at": "2017-08-09T09:27:45Z"
+    "githubUpdated_at": "2018-01-14T20:26:40Z"
   },
   {
     "githubUrl": "https://github.com/nabilfreeman/ios-universal-webview-boilerplate",
@@ -45,11 +45,11 @@
     "githubDescription": "Universal Swift-based boilerplate for a web app.",
     "githubSize": 19,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/2470659?v=4",
-    "githubForks": 63,
-    "githubStars": 795,
+    "githubForks": 62,
+    "githubStars": 797,
     "githubWatchers": 28,
     "githubCreated_at": "2015-06-19T14:08:01Z",
-    "githubUpdated_at": "2018-01-04T23:43:44Z"
+    "githubUpdated_at": "2018-01-20T14:04:31Z"
   },
   {
     "githubUrl": "https://github.com/JohnSundell/SwiftPlate",
@@ -58,11 +58,11 @@
     "githubDescription": "Easily generate cross platform Swift framework projects from the command line",
     "githubSize": 455,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/2466701?v=4",
-    "githubForks": 61,
-    "githubStars": 1442,
+    "githubForks": 62,
+    "githubStars": 1453,
     "githubWatchers": 26,
     "githubCreated_at": "2015-06-10T23:48:16Z",
-    "githubUpdated_at": "2018-01-08T13:32:42Z"
+    "githubUpdated_at": "2018-01-24T14:33:21Z"
   },
   {
     "githubUrl": "https://github.com/thoughtbot/liftoff",
@@ -71,10 +71,10 @@
     "githubDescription": "CLI for creating and configuring new Xcode projects",
     "githubSize": 17982,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/20134199?v=4",
-    "githubForks": 112,
-    "githubStars": 1568,
+    "githubForks": 114,
+    "githubStars": 1570,
     "githubWatchers": 68,
     "githubCreated_at": "2012-10-19T00:58:18Z",
-    "githubUpdated_at": "2018-01-10T04:35:05Z"
+    "githubUpdated_at": "2018-01-24T00:30:07Z"
   }
 ]

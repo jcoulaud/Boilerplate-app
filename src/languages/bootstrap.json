@@ -4,13 +4,13 @@
     "githubOwner": "modularcode",
     "githubName": "modular-admin-html",
     "githubDescription": "ModularAdmin - Free Dashboard Theme Built On Bootstrap 4 | HTML Version",
-    "githubSize": 5586,
+    "githubSize": 5591,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/12553500?v=4",
-    "githubForks": 452,
-    "githubStars": 1563,
-    "githubWatchers": 158,
+    "githubForks": 459,
+    "githubStars": 1602,
+    "githubWatchers": 161,
     "githubCreated_at": "2015-07-25T13:35:26Z",
-    "githubUpdated_at": "2018-01-11T13:57:29Z"
+    "githubUpdated_at": "2018-01-24T17:49:24Z"
   },
   {
     "githubUrl": "https://github.com/lewagon/bootstrap-boilerplate",
@@ -19,18 +19,18 @@
     "githubDescription": "A nice Bootstrap HTML boilerplate using official Bootstrap CDN to start coding right away!",
     "githubSize": 4,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/5470001?v=4",
-    "githubForks": 65,
-    "githubStars": 55,
+    "githubForks": 66,
+    "githubStars": 56,
     "githubWatchers": 7,
     "githubCreated_at": "2014-07-02T16:45:20Z",
-    "githubUpdated_at": "2018-01-11T07:30:28Z"
+    "githubUpdated_at": "2018-01-23T12:10:18Z"
   },
   {
     "githubUrl": "https://github.com/micromata/bootstrap-kickstart",
     "githubOwner": "micromata",
     "githubName": "bootstrap-kickstart",
     "githubDescription": "[deprecated] Check the successor Baumeister instead.",
-    "githubSize": 1716,
+    "githubSize": 1543,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1773167?v=4",
     "githubForks": 0,
     "githubStars": 1,
@@ -45,7 +45,7 @@
     "githubDescription": "A simple easily maintainable HTML Project based on Bootstrap",
     "githubSize": 211,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/316605?v=4",
-    "githubForks": 5,
+    "githubForks": 6,
     "githubStars": 16,
     "githubWatchers": 3,
     "githubCreated_at": "2012-01-24T08:33:31Z",
@@ -60,7 +60,7 @@
     "githubAvatar": "https://avatars1.githubusercontent.com/u/2080494?v=4",
     "githubForks": 6,
     "githubStars": 9,
-    "githubWatchers": 5,
+    "githubWatchers": 4,
     "githubCreated_at": "2013-10-20T20:35:19Z",
     "githubUpdated_at": "2017-04-19T10:05:28Z"
   },
@@ -72,9 +72,9 @@
     "githubSize": 118,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/522007?v=4",
     "githubForks": 400,
-    "githubStars": 1128,
+    "githubStars": 1129,
     "githubWatchers": 119,
     "githubCreated_at": "2011-12-09T00:32:32Z",
-    "githubUpdated_at": "2018-01-11T04:38:29Z"
+    "githubUpdated_at": "2018-01-20T17:16:50Z"
   }
 ]

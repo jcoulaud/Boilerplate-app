@@ -6,11 +6,11 @@
     "githubDescription": "A jump-start for jQuery plugins development",
     "githubSize": 2227,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/3077375?v=4",
-    "githubForks": 548,
-    "githubStars": 2550,
-    "githubWatchers": 111,
+    "githubForks": 546,
+    "githubStars": 2553,
+    "githubWatchers": 110,
     "githubCreated_at": "2011-05-17T12:49:29Z",
-    "githubUpdated_at": "2018-01-11T07:12:36Z"
+    "githubUpdated_at": "2018-01-24T13:53:39Z"
   },
   {
     "githubUrl": "https://github.com/commadelimited/jQuery-Mobile-Boilerplate",
@@ -19,7 +19,7 @@
     "githubDescription": "jQuery Mobile Boilerplate is meant to be a one stop shop for creating a new jQuery Mobile project.",
     "githubSize": 2764,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/563460?v=4",
-    "githubForks": 75,
+    "githubForks": 74,
     "githubStars": 263,
     "githubWatchers": 30,
     "githubCreated_at": "2012-02-02T17:43:21Z",
@@ -46,10 +46,10 @@
     "githubSize": 328,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/757364?v=4",
     "githubForks": 61,
-    "githubStars": 145,
+    "githubStars": 146,
     "githubWatchers": 16,
     "githubCreated_at": "2012-04-29T09:27:06Z",
-    "githubUpdated_at": "2017-10-19T15:44:34Z"
+    "githubUpdated_at": "2018-01-21T00:46:55Z"
   },
   {
     "githubUrl": "https://github.com/jquery-boilerplate/generator-jquery-boilerplate",
@@ -58,7 +58,7 @@
     "githubDescription": "Yeoman Generator for jQuery Boilerplate",
     "githubSize": 51,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/3077375?v=4",
-    "githubForks": 31,
+    "githubForks": 30,
     "githubStars": 152,
     "githubWatchers": 6,
     "githubCreated_at": "2013-05-10T22:38:49Z",
