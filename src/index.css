@@ -5,3 +5,8 @@ body {
   background: #F6F9FC;
   overflow-x: hidden !important;
 }
+.buymeacoffee {
+  position: fixed;
+  bottom: 0;
+  margin: 5px;
+}
