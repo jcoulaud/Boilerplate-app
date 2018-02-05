@@ -4,13 +4,13 @@
     "githubOwner": "modularcode",
     "githubName": "modular-admin-html",
     "githubDescription": "ModularAdmin - Free Dashboard Theme Built On Bootstrap 4 | HTML Version",
-    "githubSize": 5591,
+    "githubSize": 5597,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/12553500?v=4",
-    "githubForks": 459,
-    "githubStars": 1602,
-    "githubWatchers": 161,
+    "githubForks": 470,
+    "githubStars": 1631,
+    "githubWatchers": 158,
     "githubCreated_at": "2015-07-25T13:35:26Z",
-    "githubUpdated_at": "2018-01-24T17:49:24Z"
+    "githubUpdated_at": "2018-02-04T23:48:25Z"
   },
   {
     "githubUrl": "https://github.com/lewagon/bootstrap-boilerplate",
@@ -19,18 +19,18 @@
     "githubDescription": "A nice Bootstrap HTML boilerplate using official Bootstrap CDN to start coding right away!",
     "githubSize": 4,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/5470001?v=4",
-    "githubForks": 66,
-    "githubStars": 56,
+    "githubForks": 67,
+    "githubStars": 57,
     "githubWatchers": 7,
     "githubCreated_at": "2014-07-02T16:45:20Z",
-    "githubUpdated_at": "2018-01-23T12:10:18Z"
+    "githubUpdated_at": "2018-01-30T12:04:28Z"
   },
   {
     "githubUrl": "https://github.com/micromata/bootstrap-kickstart",
     "githubOwner": "micromata",
     "githubName": "bootstrap-kickstart",
     "githubDescription": "[deprecated] Check the successor Baumeister instead.",
-    "githubSize": 1543,
+    "githubSize": 1544,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1773167?v=4",
     "githubForks": 0,
     "githubStars": 1,
@@ -71,9 +71,9 @@
     "githubDescription": "Initializr's generated page",
     "githubSize": 118,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/522007?v=4",
-    "githubForks": 400,
+    "githubForks": 401,
     "githubStars": 1129,
-    "githubWatchers": 119,
+    "githubWatchers": 118,
     "githubCreated_at": "2011-12-09T00:32:32Z",
     "githubUpdated_at": "2018-01-20T17:16:50Z"
   }
