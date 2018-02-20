@@ -17,13 +17,13 @@
     "githubOwner": "h5bp",
     "githubName": "html5-boilerplate",
     "githubDescription": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
-    "githubSize": 13718,
+    "githubSize": 13668,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1136800?v=4",
-    "githubForks": 9561,
-    "githubStars": 39689,
-    "githubWatchers": 2662,
+    "githubForks": 9573,
+    "githubStars": 39795,
+    "githubWatchers": 2666,
     "githubCreated_at": "2010-01-24T18:03:24Z",
-    "githubUpdated_at": "2018-02-05T09:25:02Z"
+    "githubUpdated_at": "2018-02-20T10:01:26Z"
   },
   {
     "githubUrl": "https://github.com/IceCreamYou/HTML5-Canvas-Game-Boilerplate",
@@ -46,10 +46,10 @@
     "githubSize": 8336,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/363482?v=4",
     "githubForks": 12,
-    "githubStars": 42,
+    "githubStars": 43,
     "githubWatchers": 22,
     "githubCreated_at": "2013-01-18T06:24:23Z",
-    "githubUpdated_at": "2017-12-06T16:00:19Z"
+    "githubUpdated_at": "2018-02-08T18:28:20Z"
   },
   {
     "githubUrl": "https://github.com/verekia/initializr-template",
@@ -59,17 +59,17 @@
     "githubSize": 118,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/522007?v=4",
     "githubForks": 401,
-    "githubStars": 1129,
+    "githubStars": 1131,
     "githubWatchers": 118,
     "githubCreated_at": "2011-12-09T00:32:32Z",
-    "githubUpdated_at": "2018-01-20T17:16:50Z"
+    "githubUpdated_at": "2018-02-14T22:42:02Z"
   },
   {
     "githubUrl": "https://github.com/sesh/base.html",
     "githubOwner": "sesh",
     "githubName": "base.html",
     "githubDescription": "The absolute minimum base.html template to get your started",
-    "githubSize": 5,
+    "githubSize": 6,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/59980?v=4",
     "githubForks": 0,
     "githubStars": 9,
