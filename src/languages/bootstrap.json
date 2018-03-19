@@ -4,26 +4,26 @@
     "githubOwner": "modularcode",
     "githubName": "modular-admin-html",
     "githubDescription": "ModularAdmin - Free Dashboard Theme Built On Bootstrap 4 | HTML Version",
-    "githubSize": 6522,
+    "githubSize": 6441,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/12553500?v=4",
-    "githubForks": 477,
-    "githubStars": 1666,
-    "githubWatchers": 160,
+    "githubForks": 492,
+    "githubStars": 1758,
+    "githubWatchers": 168,
     "githubCreated_at": "2015-07-25T13:35:26Z",
-    "githubUpdated_at": "2018-02-19T18:50:50Z"
+    "githubUpdated_at": "2018-03-19T13:56:09Z"
   },
   {
     "githubUrl": "https://github.com/lewagon/bootstrap-boilerplate",
     "githubOwner": "lewagon",
     "githubName": "bootstrap-boilerplate",
     "githubDescription": "A nice Bootstrap HTML boilerplate using official Bootstrap CDN to start coding right away!",
-    "githubSize": 5,
+    "githubSize": 6,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/5470001?v=4",
     "githubForks": 69,
-    "githubStars": 60,
+    "githubStars": 61,
     "githubWatchers": 8,
     "githubCreated_at": "2014-07-02T16:45:20Z",
-    "githubUpdated_at": "2018-02-15T05:14:51Z"
+    "githubUpdated_at": "2018-03-04T16:46:32Z"
   },
   {
     "githubUrl": "https://github.com/micromata/bootstrap-kickstart",
@@ -34,7 +34,7 @@
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1773167?v=4",
     "githubForks": 0,
     "githubStars": 1,
-    "githubWatchers": 8,
+    "githubWatchers": 7,
     "githubCreated_at": "2017-06-16T20:13:18Z",
     "githubUpdated_at": "2018-02-14T09:28:38Z"
   },
@@ -71,10 +71,10 @@
     "githubDescription": "Initializr's generated page",
     "githubSize": 118,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/522007?v=4",
-    "githubForks": 401,
-    "githubStars": 1131,
+    "githubForks": 400,
+    "githubStars": 1132,
     "githubWatchers": 118,
     "githubCreated_at": "2011-12-09T00:32:32Z",
-    "githubUpdated_at": "2018-02-14T22:42:02Z"
+    "githubUpdated_at": "2018-03-07T05:00:11Z"
   }
 ]

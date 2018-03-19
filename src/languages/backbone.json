@@ -6,11 +6,11 @@
     "githubDescription": "A workflow for building Backbone applications.",
     "githubSize": 6388,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/181635?v=4",
-    "githubForks": 540,
-    "githubStars": 4642,
+    "githubForks": 537,
+    "githubStars": 4637,
     "githubWatchers": 150,
     "githubCreated_at": "2011-12-01T18:35:51Z",
-    "githubUpdated_at": "2018-02-19T19:28:41Z"
+    "githubUpdated_at": "2018-03-14T21:33:09Z"
   },
   {
     "githubUrl": "https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate",
@@ -20,10 +20,10 @@
     "githubSize": 5592,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/4105161?v=4",
     "githubForks": 142,
-    "githubStars": 634,
+    "githubStars": 632,
     "githubWatchers": 54,
     "githubCreated_at": "2012-05-24T17:01:43Z",
-    "githubUpdated_at": "2018-01-30T08:28:45Z"
+    "githubUpdated_at": "2018-03-14T13:41:57Z"
   },
   {
     "githubUrl": "https://github.com/addyosmani/backbone-boilerplates",
@@ -32,7 +32,7 @@
     "githubDescription": "Backbone.js stack boilerplates demonstrating integration with Express, Ruby, PHP, Grails and more.",
     "githubSize": 455,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/110953?v=4",
-    "githubForks": 191,
+    "githubForks": 190,
     "githubStars": 504,
     "githubWatchers": 41,
     "githubCreated_at": "2011-12-25T00:34:11Z",
@@ -47,9 +47,9 @@
     "githubAvatar": "https://avatars3.githubusercontent.com/u/304929?v=4",
     "githubForks": 79,
     "githubStars": 440,
-    "githubWatchers": 29,
+    "githubWatchers": 28,
     "githubCreated_at": "2013-04-22T16:56:15Z",
-    "githubUpdated_at": "2018-02-18T04:15:56Z"
+    "githubUpdated_at": "2018-03-16T14:38:57Z"
   },
   {
     "githubUrl": "https://github.com/artsy/ezel",
@@ -71,37 +71,37 @@
     "githubDescription": "Boilerplate web app using Backbone.js, ExpressJS, node.js, MongoDB",
     "githubSize": 10559,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/3021049?v=4",
-    "githubForks": 99,
+    "githubForks": 98,
     "githubStars": 179,
     "githubWatchers": 19,
     "githubCreated_at": "2013-12-21T04:21:11Z",
-    "githubUpdated_at": "2017-10-28T04:00:36Z"
+    "githubUpdated_at": "2018-03-14T05:56:00Z"
   },
   {
     "githubUrl": "https://github.com/sabarasaba/modern-backbone-starterkit",
     "githubOwner": "sabarasaba",
     "githubName": "modern-backbone-starterkit",
     "githubDescription": "Lightweight starting point for a modern backbone web app.",
-    "githubSize": 233,
+    "githubSize": 241,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1191206?v=4",
-    "githubForks": 48,
-    "githubStars": 182,
+    "githubForks": 50,
+    "githubStars": 183,
     "githubWatchers": 10,
     "githubCreated_at": "2015-03-11T13:50:14Z",
-    "githubUpdated_at": "2017-12-24T18:48:45Z"
+    "githubUpdated_at": "2018-03-18T18:57:01Z"
   },
   {
     "githubUrl": "https://github.com/phawk/Backbone-Stack",
     "githubOwner": "phawk",
     "githubName": "Backbone-Stack",
     "githubDescription": "Removing the boilerplate from starting single page apps.",
-    "githubSize": 2549,
+    "githubSize": 2439,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/456019?v=4",
     "githubForks": 17,
-    "githubStars": 107,
+    "githubStars": 108,
     "githubWatchers": 7,
     "githubCreated_at": "2012-04-05T20:15:39Z",
-    "githubUpdated_at": "2017-12-26T09:36:49Z"
+    "githubUpdated_at": "2018-03-19T11:40:37Z"
   },
   {
     "githubUrl": "https://github.com/david0178418/BackboneJS-AMD-Boilerplate",
@@ -123,10 +123,10 @@
     "githubDescription": "Boilerplate for React and Backbone",
     "githubSize": 1466,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/6189375?v=4",
-    "githubForks": 11,
-    "githubStars": 80,
+    "githubForks": 12,
+    "githubStars": 81,
     "githubWatchers": 11,
     "githubCreated_at": "2015-04-12T20:49:46Z",
-    "githubUpdated_at": "2017-10-04T10:42:01Z"
+    "githubUpdated_at": "2018-03-19T13:40:08Z"
   }
 ]
