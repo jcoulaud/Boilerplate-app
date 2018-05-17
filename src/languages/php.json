@@ -4,52 +4,52 @@
     "githubOwner": "laravel",
     "githubName": "laravel",
     "githubDescription": "A PHP framework for web artisans",
-    "githubSize": 9000,
+    "githubSize": 9068,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/958072?v=4",
-    "githubForks": 12867,
-    "githubStars": 41281,
-    "githubWatchers": 4429,
+    "githubForks": 13348,
+    "githubStars": 42990,
+    "githubWatchers": 4520,
     "githubCreated_at": "2011-06-08T03:06:08Z",
-    "githubUpdated_at": "2018-03-19T13:07:12Z"
+    "githubUpdated_at": "2018-05-17T22:10:31Z"
   },
   {
     "githubUrl": "https://github.com/symfony/symfony",
     "githubOwner": "symfony",
     "githubName": "symfony",
     "githubDescription": "The Symfony PHP framework",
-    "githubSize": 114690,
+    "githubSize": 117542,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/143937?v=4",
-    "githubForks": 6101,
-    "githubStars": 17011,
-    "githubWatchers": 1276,
+    "githubForks": 6208,
+    "githubStars": 17580,
+    "githubWatchers": 1284,
     "githubCreated_at": "2010-01-04T14:21:21Z",
-    "githubUpdated_at": "2018-03-19T12:54:28Z"
+    "githubUpdated_at": "2018-05-17T21:41:42Z"
   },
   {
     "githubUrl": "https://github.com/bcit-ci/CodeIgniter",
     "githubOwner": "bcit-ci",
     "githubName": "CodeIgniter",
     "githubDescription": "Open Source PHP Framework (originally from EllisLab)",
-    "githubSize": 50132,
+    "githubSize": 50508,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/8863432?v=4",
-    "githubForks": 7332,
-    "githubStars": 15844,
-    "githubWatchers": 1742,
+    "githubForks": 7380,
+    "githubStars": 16103,
+    "githubWatchers": 1757,
     "githubCreated_at": "2011-08-19T13:34:00Z",
-    "githubUpdated_at": "2018-03-19T13:59:28Z"
+    "githubUpdated_at": "2018-05-17T18:45:15Z"
   },
   {
     "githubUrl": "https://github.com/cakephp/cakephp",
     "githubOwner": "cakephp",
     "githubName": "cakephp",
     "githubDescription": "CakePHP: The Rapid Development Framework for PHP - Official Repository",
-    "githubSize": 76394,
+    "githubSize": 77517,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/23666?v=4",
-    "githubForks": 3310,
-    "githubStars": 7484,
-    "githubWatchers": 675,
+    "githubForks": 3321,
+    "githubStars": 7537,
+    "githubWatchers": 670,
     "githubCreated_at": "2010-05-08T14:38:22Z",
-    "githubUpdated_at": "2018-03-19T13:42:18Z"
+    "githubUpdated_at": "2018-05-16T18:05:40Z"
   },
   {
     "githubUrl": "https://github.com/zendframework/zendframework",
@@ -58,63 +58,63 @@
     "githubDescription": "Official Zend Framework repository",
     "githubSize": 98635,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/296074?v=4",
-    "githubForks": 2998,
-    "githubStars": 5616,
-    "githubWatchers": 583,
+    "githubForks": 2977,
+    "githubStars": 5644,
+    "githubWatchers": 582,
     "githubCreated_at": "2010-06-04T02:42:05Z",
-    "githubUpdated_at": "2018-03-17T20:30:58Z"
+    "githubUpdated_at": "2018-05-17T09:54:58Z"
   },
   {
     "githubUrl": "https://github.com/phalcon/cphalcon",
     "githubOwner": "phalcon",
     "githubName": "cphalcon",
     "githubDescription": "High performance, full-stack PHP framework delivered as a C extension.",
-    "githubSize": 145550,
+    "githubSize": 145835,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1221505?v=4",
-    "githubForks": 1667,
-    "githubStars": 8778,
-    "githubWatchers": 741,
+    "githubForks": 1677,
+    "githubStars": 8929,
+    "githubWatchers": 736,
     "githubCreated_at": "2011-11-26T05:52:50Z",
-    "githubUpdated_at": "2018-03-19T08:59:26Z"
+    "githubUpdated_at": "2018-05-17T16:03:12Z"
   },
   {
     "githubUrl": "https://github.com/slimphp/Slim",
     "githubOwner": "slimphp",
     "githubName": "Slim",
     "githubDescription": "Slim Framework source code",
-    "githubSize": 5510,
+    "githubSize": 5513,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/11195762?v=4",
-    "githubForks": 1736,
-    "githubStars": 8792,
-    "githubWatchers": 586,
+    "githubForks": 1769,
+    "githubStars": 8978,
+    "githubWatchers": 589,
     "githubCreated_at": "2010-09-21T01:17:06Z",
-    "githubUpdated_at": "2018-03-19T12:04:05Z"
+    "githubUpdated_at": "2018-05-17T13:25:34Z"
   },
   {
     "githubUrl": "https://github.com/yiisoft/yii",
     "githubOwner": "yiisoft",
     "githubName": "yii",
     "githubDescription": "Yii PHP Framework 1.1.x",
-    "githubSize": 28381,
+    "githubSize": 28459,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/993323?v=4",
-    "githubForks": 2128,
-    "githubStars": 4857,
-    "githubWatchers": 491,
+    "githubForks": 2141,
+    "githubStars": 4868,
+    "githubWatchers": 499,
     "githubCreated_at": "2012-02-15T16:26:22Z",
-    "githubUpdated_at": "2018-03-18T16:27:30Z"
+    "githubUpdated_at": "2018-05-17T11:42:13Z"
   },
   {
     "githubUrl": "https://github.com/bcosca/fatfree",
     "githubOwner": "bcosca",
     "githubName": "fatfree",
     "githubDescription": "A powerful yet easy-to-use PHP micro-framework designed to help you build dynamic and robust Web applications - fast!",
-    "githubSize": 17750,
+    "githubSize": 17758,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/199570?v=4",
-    "githubForks": 437,
-    "githubStars": 2158,
-    "githubWatchers": 248,
+    "githubForks": 438,
+    "githubStars": 2173,
+    "githubWatchers": 247,
     "githubCreated_at": "2012-02-28T00:35:21Z",
-    "githubUpdated_at": "2018-03-17T11:30:24Z"
+    "githubUpdated_at": "2018-05-16T12:36:37Z"
   },
   {
     "githubUrl": "https://github.com/kohana/kohana",
@@ -123,24 +123,24 @@
     "githubDescription": "Basic application with official modules included",
     "githubSize": 1244,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/39584?v=4",
-    "githubForks": 481,
-    "githubStars": 1636,
+    "githubForks": 479,
+    "githubStars": 1634,
     "githubWatchers": 163,
     "githubCreated_at": "2009-07-28T16:09:23Z",
-    "githubUpdated_at": "2018-03-14T12:19:05Z"
+    "githubUpdated_at": "2018-05-11T06:01:51Z"
   },
   {
     "githubUrl": "https://github.com/fuel/fuel",
     "githubOwner": "fuel",
     "githubName": "fuel",
     "githubDescription": "FuelPHP v1.x is a simple, flexible, community driven PHP 5.3+ framework, based on the best ideas of other frameworks, with a fresh start! FuelPHP is fully PHP 7 compatible.",
-    "githubSize": 4972,
+    "githubSize": 5062,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/452101?v=4",
-    "githubForks": 284,
-    "githubStars": 1430,
-    "githubWatchers": 123,
+    "githubForks": 286,
+    "githubStars": 1434,
+    "githubWatchers": 120,
     "githubCreated_at": "2010-10-24T18:55:12Z",
-    "githubUpdated_at": "2018-03-14T08:27:00Z"
+    "githubUpdated_at": "2018-05-12T00:59:04Z"
   },
   {
     "githubUrl": "https://github.com/mikecao/flight",
@@ -149,11 +149,11 @@
     "githubDescription": "An extensible micro-framework for PHP",
     "githubSize": 255,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/477975?v=4",
-    "githubForks": 328,
-    "githubStars": 1894,
-    "githubWatchers": 173,
+    "githubForks": 332,
+    "githubStars": 1922,
+    "githubWatchers": 174,
     "githubCreated_at": "2011-03-31T07:48:42Z",
-    "githubUpdated_at": "2018-03-16T02:17:54Z"
+    "githubUpdated_at": "2018-05-17T09:07:45Z"
   },
   {
     "githubUrl": "https://github.com/panique/mini",
@@ -162,24 +162,24 @@
     "githubDescription": "Just an extremely simple naked PHP application, useful for small projects and quick prototypes. Some might call it a micro framework :)",
     "githubSize": 2976,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/156321?v=4",
-    "githubForks": 480,
-    "githubStars": 1196,
-    "githubWatchers": 122,
+    "githubForks": 481,
+    "githubStars": 1211,
+    "githubWatchers": 125,
     "githubCreated_at": "2013-11-06T22:13:20Z",
-    "githubUpdated_at": "2018-03-14T17:51:13Z"
+    "githubUpdated_at": "2018-05-17T16:07:13Z"
   },
   {
     "githubUrl": "https://github.com/zikula/core",
     "githubOwner": "zikula",
     "githubName": "core",
     "githubDescription": "Zikula Core Framework",
-    "githubSize": 67078,
+    "githubSize": 67176,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/251211?v=4",
-    "githubForks": 75,
-    "githubStars": 201,
-    "githubWatchers": 39,
+    "githubForks": 77,
+    "githubStars": 203,
+    "githubWatchers": 40,
     "githubCreated_at": "2010-07-18T10:35:53Z",
-    "githubUpdated_at": "2018-03-16T06:02:27Z"
+    "githubUpdated_at": "2018-05-15T06:24:16Z"
   },
   {
     "githubUrl": "https://github.com/tylerhall/simple-php-framework/",
@@ -189,9 +189,9 @@
     "githubSize": 195,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/57670?v=4",
     "githubForks": 99,
-    "githubStars": 437,
-    "githubWatchers": 38,
+    "githubStars": 435,
+    "githubWatchers": 39,
     "githubCreated_at": "2009-02-25T05:10:23Z",
-    "githubUpdated_at": "2018-03-08T10:15:41Z"
+    "githubUpdated_at": "2018-05-01T04:51:48Z"
   }
 ]

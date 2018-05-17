@@ -6,11 +6,11 @@
     "githubDescription": "iOS-app template with lots of common tasks solved",
     "githubSize": 2587,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/50486?v=4",
-    "githubForks": 508,
+    "githubForks": 506,
     "githubStars": 2885,
     "githubWatchers": 210,
     "githubCreated_at": "2011-08-22T22:16:17Z",
-    "githubUpdated_at": "2018-03-15T15:31:21Z"
+    "githubUpdated_at": "2018-05-10T18:15:43Z"
   },
   {
     "githubUrl": "https://github.com/crushlovely/Amaro",
@@ -19,11 +19,11 @@
     "githubDescription": "Featureful iOS Boilerplate",
     "githubSize": 450,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/7337?v=4",
-    "githubForks": 41,
-    "githubStars": 389,
+    "githubForks": 42,
+    "githubStars": 390,
     "githubWatchers": 45,
     "githubCreated_at": "2014-03-02T22:28:45Z",
-    "githubUpdated_at": "2018-03-08T02:53:45Z"
+    "githubUpdated_at": "2018-05-16T14:57:44Z"
   },
   {
     "githubUrl": "https://github.com/openaphid/Boilerplate-iOS",
@@ -46,10 +46,10 @@
     "githubSize": 19,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/2470659?v=4",
     "githubForks": 63,
-    "githubStars": 799,
+    "githubStars": 797,
     "githubWatchers": 28,
     "githubCreated_at": "2015-06-19T14:08:01Z",
-    "githubUpdated_at": "2018-03-17T21:53:42Z"
+    "githubUpdated_at": "2018-05-16T15:07:45Z"
   },
   {
     "githubUrl": "https://github.com/JohnSundell/SwiftPlate",
@@ -58,11 +58,11 @@
     "githubDescription": "Easily generate cross platform Swift framework projects from the command line",
     "githubSize": 455,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/2466701?v=4",
-    "githubForks": 64,
-    "githubStars": 1478,
-    "githubWatchers": 27,
+    "githubForks": 66,
+    "githubStars": 1507,
+    "githubWatchers": 29,
     "githubCreated_at": "2015-06-10T23:48:16Z",
-    "githubUpdated_at": "2018-03-17T16:30:20Z"
+    "githubUpdated_at": "2018-05-13T07:10:01Z"
   },
   {
     "githubUrl": "https://github.com/thoughtbot/liftoff",
@@ -72,9 +72,9 @@
     "githubSize": 17982,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/20134199?v=4",
     "githubForks": 114,
-    "githubStars": 1581,
-    "githubWatchers": 67,
+    "githubStars": 1591,
+    "githubWatchers": 68,
     "githubCreated_at": "2012-10-19T00:58:18Z",
-    "githubUpdated_at": "2018-03-17T23:07:38Z"
+    "githubUpdated_at": "2018-05-11T22:12:24Z"
   }
 ]

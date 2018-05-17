@@ -6,11 +6,11 @@
     "githubDescription": "A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks. ",
     "githubSize": 1917,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/5971424?v=4",
-    "githubForks": 1297,
-    "githubStars": 4299,
-    "githubWatchers": 477,
+    "githubForks": 1293,
+    "githubStars": 4305,
+    "githubWatchers": 475,
     "githubCreated_at": "2012-09-05T15:19:13Z",
-    "githubUpdated_at": "2018-03-18T13:50:16Z"
+    "githubUpdated_at": "2018-05-15T01:58:04Z"
   },
   {
     "githubUrl": "https://github.com/kanytu/android-material-drawer-template",
@@ -19,11 +19,11 @@
     "githubDescription": "An Android template with navigation drawer for material design",
     "githubSize": 7548,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/560921?v=4",
-    "githubForks": 240,
-    "githubStars": 698,
+    "githubForks": 238,
+    "githubStars": 696,
     "githubWatchers": 71,
     "githubCreated_at": "2014-10-24T09:50:02Z",
-    "githubUpdated_at": "2018-03-14T16:13:37Z"
+    "githubUpdated_at": "2018-04-18T08:29:29Z"
   },
   {
     "githubUrl": "https://github.com/intrications/material-design-icons-adt-template",
@@ -36,7 +36,7 @@
     "githubStars": 446,
     "githubWatchers": 27,
     "githubCreated_at": "2014-11-03T10:32:54Z",
-    "githubUpdated_at": "2018-03-18T10:31:40Z"
+    "githubUpdated_at": "2018-04-16T02:58:26Z"
   },
   {
     "githubUrl": "https://github.com/e-biz/androidkickstartr",
@@ -45,11 +45,11 @@
     "githubDescription": "AndroidKickstartR helps you to quickly create a well configured Android application using the most popular libraries. It creates and configures your project for you. Just focus on code!",
     "githubSize": 396,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/3532637?v=4",
-    "githubForks": 125,
-    "githubStars": 621,
+    "githubForks": 124,
+    "githubStars": 622,
     "githubWatchers": 80,
     "githubCreated_at": "2012-09-24T21:05:38Z",
-    "githubUpdated_at": "2018-03-12T20:05:09Z"
+    "githubUpdated_at": "2018-04-06T03:21:52Z"
   },
   {
     "githubUrl": "https://github.com/androidannotations/androidannotations",
@@ -59,10 +59,10 @@
     "githubSize": 21799,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1315313?v=4",
     "githubForks": 2472,
-    "githubStars": 10136,
-    "githubWatchers": 715,
+    "githubStars": 10278,
+    "githubWatchers": 717,
     "githubCreated_at": "2012-01-06T08:48:03Z",
-    "githubUpdated_at": "2018-03-19T11:28:45Z"
+    "githubUpdated_at": "2018-05-17T06:05:19Z"
   },
   {
     "githubUrl": "https://github.com/IanDarwin/Android-Cookbook-Examples",
@@ -71,11 +71,11 @@
     "githubDescription": "Collected code examples from the O'Reilly Android Cookbook. See README below!",
     "githubSize": 55331,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/4762842?v=4",
-    "githubForks": 784,
-    "githubStars": 732,
-    "githubWatchers": 169,
+    "githubForks": 790,
+    "githubStars": 743,
+    "githubWatchers": 168,
     "githubCreated_at": "2011-11-26T21:48:08Z",
-    "githubUpdated_at": "2018-03-15T11:01:02Z"
+    "githubUpdated_at": "2018-05-14T08:14:05Z"
   },
   {
     "githubUrl": "https://github.com/playgameservices/android-basic-samples",
@@ -84,11 +84,11 @@
     "githubDescription": "Google Play game services - Android samples",
     "githubSize": 143896,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/4439547?v=4",
-    "githubForks": 971,
-    "githubStars": 814,
-    "githubWatchers": 137,
+    "githubForks": 978,
+    "githubStars": 829,
+    "githubWatchers": 141,
     "githubCreated_at": "2013-05-15T17:19:49Z",
-    "githubUpdated_at": "2018-03-15T01:18:42Z"
+    "githubUpdated_at": "2018-05-08T08:32:08Z"
   },
   {
     "githubUrl": "https://github.com/tscolari/android-webview-sample-app",
@@ -107,27 +107,27 @@
     "githubUrl": "https://github.com/googledrive/android-quickstart",
     "githubOwner": "googledrive",
     "githubName": "android-quickstart",
-    "githubDescription": "Quickstart application showing the Google Drive API for Android",
-    "githubSize": 580,
-    "githubAvatar": "https://avatars1.githubusercontent.com/u/3708359?v=4",
+    "githubDescription": "[MOVED] Quickstart application showing the Google Drive API for Android",
+    "githubSize": 582,
+    "githubAvatar": "https://avatars2.githubusercontent.com/u/12502296?v=4",
     "githubForks": 168,
-    "githubStars": 224,
+    "githubStars": 228,
     "githubWatchers": 25,
     "githubCreated_at": "2013-12-03T23:25:28Z",
-    "githubUpdated_at": "2018-03-13T15:40:51Z"
+    "githubUpdated_at": "2018-04-19T19:42:07Z"
   },
   {
     "githubUrl": "https://github.com/googlesamples/android-UniversalMusicPlayer",
     "githubOwner": "googlesamples",
     "githubName": "android-UniversalMusicPlayer",
     "githubDescription": "This sample shows how to implement an audio media app that works across multiple form factors and provide a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices",
-    "githubSize": 7836,
+    "githubSize": 8121,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/7378196?v=4",
-    "githubForks": 2925,
-    "githubStars": 9131,
-    "githubWatchers": 569,
+    "githubForks": 3025,
+    "githubStars": 9404,
+    "githubWatchers": 595,
     "githubCreated_at": "2015-03-10T00:04:35Z",
-    "githubUpdated_at": "2018-03-19T12:47:50Z"
+    "githubUpdated_at": "2018-05-17T21:14:22Z"
   },
   {
     "githubUrl": "https://github.com/googlesamples/android-architecture",
@@ -136,11 +136,11 @@
     "githubDescription": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
     "githubSize": 8192,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/7378196?v=4",
-    "githubForks": 7185,
-    "githubStars": 25889,
-    "githubWatchers": 2114,
+    "githubForks": 7618,
+    "githubStars": 27228,
+    "githubWatchers": 2224,
     "githubCreated_at": "2016-02-05T13:42:07Z",
-    "githubUpdated_at": "2018-03-19T13:02:23Z"
+    "githubUpdated_at": "2018-05-17T21:14:24Z"
   },
   {
     "githubUrl": "https://github.com/ribot/android-boilerplate",
@@ -149,11 +149,11 @@
     "githubDescription": "Android boilerplate app that showcases architecture and libraries used at ribot",
     "githubSize": 548,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/26924?v=4",
-    "githubForks": 912,
-    "githubStars": 3803,
-    "githubWatchers": 247,
+    "githubForks": 928,
+    "githubStars": 3871,
+    "githubWatchers": 254,
     "githubCreated_at": "2015-04-21T11:45:16Z",
-    "githubUpdated_at": "2018-03-19T03:37:12Z"
+    "githubUpdated_at": "2018-05-17T06:18:35Z"
   },
   {
     "githubUrl": "https://github.com/blocoio/android-template",
@@ -162,36 +162,36 @@
     "githubDescription": "Android app starter template",
     "githubSize": 125,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/11773718?v=4",
-    "githubForks": 15,
+    "githubForks": 18,
     "githubStars": 50,
-    "githubWatchers": 10,
+    "githubWatchers": 11,
     "githubCreated_at": "2016-02-12T18:27:46Z",
-    "githubUpdated_at": "2018-03-10T16:55:32Z"
+    "githubUpdated_at": "2018-04-19T20:04:08Z"
   },
   {
     "githubUrl": "https://github.com/qijitech/android-starter-kit",
     "githubOwner": "qijitech",
     "githubName": "android-starter-kit",
     "githubDescription": "android-starter-kit is a fast development kit.",
-    "githubSize": 68849,
+    "githubSize": 68856,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/16185080?v=4",
-    "githubForks": 39,
+    "githubForks": 38,
     "githubStars": 204,
     "githubWatchers": 19,
     "githubCreated_at": "2015-12-24T03:16:35Z",
-    "githubUpdated_at": "2018-03-19T07:28:08Z"
+    "githubUpdated_at": "2018-04-18T01:22:33Z"
   },
   {
     "githubUrl": "https://github.com/smaugho/declex",
     "githubOwner": "smaugho",
     "githubName": "declex",
     "githubDescription": "DecleX - Declarative Framework for Android, easier and faster coding. ",
-    "githubSize": 31569,
+    "githubSize": 31680,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/6622086?v=4",
     "githubForks": 25,
     "githubStars": 173,
     "githubWatchers": 18,
     "githubCreated_at": "2016-02-13T12:37:33Z",
-    "githubUpdated_at": "2018-02-16T12:31:34Z"
+    "githubUpdated_at": "2018-05-17T15:07:21Z"
   }
 ]

@@ -6,11 +6,11 @@
     "githubDescription": "A jump-start for jQuery plugins development",
     "githubSize": 2227,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/3077375?v=4",
-    "githubForks": 544,
-    "githubStars": 2559,
-    "githubWatchers": 111,
+    "githubForks": 546,
+    "githubStars": 2558,
+    "githubWatchers": 109,
     "githubCreated_at": "2011-05-17T12:49:29Z",
-    "githubUpdated_at": "2018-03-18T14:05:29Z"
+    "githubUpdated_at": "2018-05-17T16:18:21Z"
   },
   {
     "githubUrl": "https://github.com/commadelimited/jQuery-Mobile-Boilerplate",
@@ -20,10 +20,10 @@
     "githubSize": 2764,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/563460?v=4",
     "githubForks": 74,
-    "githubStars": 263,
+    "githubStars": 264,
     "githubWatchers": 29,
     "githubCreated_at": "2012-02-02T17:43:21Z",
-    "githubUpdated_at": "2018-03-18T23:12:32Z"
+    "githubUpdated_at": "2018-05-17T04:05:13Z"
   },
   {
     "githubUrl": "https://github.com/elclanrs/advanced-jquery-boilerplate",
@@ -46,10 +46,10 @@
     "githubSize": 328,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/757364?v=4",
     "githubForks": 62,
-    "githubStars": 146,
-    "githubWatchers": 16,
+    "githubStars": 145,
+    "githubWatchers": 15,
     "githubCreated_at": "2012-04-29T09:27:06Z",
-    "githubUpdated_at": "2018-01-21T00:46:55Z"
+    "githubUpdated_at": "2018-05-13T03:56:48Z"
   },
   {
     "githubUrl": "https://github.com/jquery-boilerplate/generator-jquery-boilerplate",
@@ -71,11 +71,11 @@
     "githubDescription": "Single page application boilerplate for Web or mobile using Twitter Bootstrap, jQuery and Javascript on Node.js. Create a responsive one page app for with a lightweight data store. Features long scrolling page sections, image slider, scroll to top button and dot navigation.",
     "githubSize": 830,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1154528?v=4",
-    "githubForks": 51,
-    "githubStars": 122,
+    "githubForks": 52,
+    "githubStars": 123,
     "githubWatchers": 20,
     "githubCreated_at": "2012-10-02T13:16:28Z",
-    "githubUpdated_at": "2017-12-08T13:15:36Z"
+    "githubUpdated_at": "2018-04-27T04:16:01Z"
   },
   {
     "githubUrl": "https://github.com/jonathan-fielding/AppBoilerplate",
@@ -84,11 +84,11 @@
     "githubDescription": "A jquery mobile app boilerplate",
     "githubSize": 489,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/630034?v=4",
-    "githubForks": 28,
-    "githubStars": 98,
+    "githubForks": 27,
+    "githubStars": 97,
     "githubWatchers": 7,
     "githubCreated_at": "2012-02-22T18:01:58Z",
-    "githubUpdated_at": "2017-04-17T18:46:51Z"
+    "githubUpdated_at": "2018-05-10T18:15:19Z"
   },
   {
     "githubUrl": "https://github.com/gfranko/Document-Bootstrap",
@@ -98,10 +98,10 @@
     "githubSize": 911,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/595663?v=4",
     "githubForks": 29,
-    "githubStars": 95,
+    "githubStars": 97,
     "githubWatchers": 8,
     "githubCreated_at": "2012-08-08T03:47:05Z",
-    "githubUpdated_at": "2018-03-06T13:55:12Z"
+    "githubUpdated_at": "2018-04-27T16:53:40Z"
   },
   {
     "githubUrl": "https://github.com/miniJs/miniBoilerplate",
@@ -114,7 +114,7 @@
     "githubStars": 81,
     "githubWatchers": 9,
     "githubCreated_at": "2011-06-05T07:56:29Z",
-    "githubUpdated_at": "2018-02-06T06:40:25Z"
+    "githubUpdated_at": "2018-03-20T16:29:59Z"
   },
   {
     "githubUrl": "https://github.com/rziehl/sinatra-boilerplate",
@@ -124,9 +124,9 @@
     "githubSize": 166,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1030168?v=4",
     "githubForks": 15,
-    "githubStars": 64,
+    "githubStars": 63,
     "githubWatchers": 7,
     "githubCreated_at": "2012-01-31T22:38:36Z",
-    "githubUpdated_at": "2018-03-02T22:27:46Z"
+    "githubUpdated_at": "2018-04-16T09:00:00Z"
   }
 ]

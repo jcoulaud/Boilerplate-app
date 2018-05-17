@@ -105,7 +105,8 @@ const languages = [
 			'https://github.com/talyssonoc/node-api-boilerplate/',
 			'https://github.com/FredericHeem/starhackit',
 			'https://github.com/jamg44/NodeTyped',
-			'https://github.com/dbalas/koalerplate'
+			'https://github.com/dbalas/koalerplate',
+			'https://github.com/ridhamtarpara/express-es8-rest-boilerplate'
 		]
 	},
 	{

@@ -6,24 +6,24 @@
     "githubDescription": "WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure",
     "githubSize": 333,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/4986074?v=4",
-    "githubForks": 795,
-    "githubStars": 3891,
-    "githubWatchers": 252,
+    "githubForks": 810,
+    "githubStars": 3966,
+    "githubWatchers": 260,
     "githubCreated_at": "2013-11-02T21:10:54Z",
-    "githubUpdated_at": "2018-03-18T20:26:19Z"
+    "githubUpdated_at": "2018-05-17T19:45:23Z"
   },
   {
     "githubUrl": "https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered",
     "githubOwner": "WPBP",
     "githubName": "WordPress-Plugin-Boilerplate-Powered",
     "githubDescription": "Wordpress Plugin Boilerplate with steroids!",
-    "githubSize": 1555,
+    "githubSize": 1538,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/19568091?v=4",
-    "githubForks": 28,
-    "githubStars": 192,
+    "githubForks": 29,
+    "githubStars": 200,
     "githubWatchers": 19,
     "githubCreated_at": "2014-06-26T17:29:18Z",
-    "githubUpdated_at": "2018-03-12T19:39:33Z"
+    "githubUpdated_at": "2018-05-17T20:29:46Z"
   },
   {
     "githubUrl": "https://github.com/DevinVinson/WordPress-Plugin-Boilerplate",
@@ -32,11 +32,11 @@
     "githubDescription": "[WordPress] A foundation for WordPress Plugin Development that aims to provide a clear and consistent guide for building your plugins.",
     "githubSize": 961,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/2940124?v=4",
-    "githubForks": 1317,
-    "githubStars": 4817,
-    "githubWatchers": 349,
+    "githubForks": 1341,
+    "githubStars": 4922,
+    "githubWatchers": 355,
     "githubCreated_at": "2011-07-11T21:36:46Z",
-    "githubUpdated_at": "2018-03-19T00:09:17Z"
+    "githubUpdated_at": "2018-05-17T08:20:33Z"
   },
   {
     "githubUrl": "https://github.com/iandunn/WordPress-Plugin-Skeleton",
@@ -45,11 +45,11 @@
     "githubDescription": "A WordPress plugin skeleton built using object-oriented principles and the MVC pattern.",
     "githubSize": 167,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/484068?v=4",
-    "githubForks": 99,
-    "githubStars": 357,
-    "githubWatchers": 53,
+    "githubForks": 103,
+    "githubStars": 364,
+    "githubWatchers": 55,
     "githubCreated_at": "2012-08-24T00:43:01Z",
-    "githubUpdated_at": "2018-03-18T09:06:43Z"
+    "githubUpdated_at": "2018-05-17T08:40:55Z"
   },
   {
     "githubUrl": "https://github.com/tommcfarlin/WordPress-Widget-Boilerplate",
@@ -59,10 +59,10 @@
     "githubSize": 54,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/132166?v=4",
     "githubForks": 199,
-    "githubStars": 958,
-    "githubWatchers": 75,
+    "githubStars": 960,
+    "githubWatchers": 74,
     "githubCreated_at": "2011-07-08T17:08:51Z",
-    "githubUpdated_at": "2018-03-09T08:18:52Z"
+    "githubUpdated_at": "2018-05-11T14:39:04Z"
   },
   null
 ]

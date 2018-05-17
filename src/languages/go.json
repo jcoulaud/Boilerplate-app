@@ -4,13 +4,13 @@
     "githubOwner": "sheng",
     "githubName": "air",
     "githubDescription": "An ideal RESTful web framework for Go.",
-    "githubSize": 490,
+    "githubSize": 523,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/5037285?v=4",
-    "githubForks": 5,
-    "githubStars": 62,
-    "githubWatchers": 7,
+    "githubForks": 6,
+    "githubStars": 68,
+    "githubWatchers": 6,
     "githubCreated_at": "2016-07-20T12:09:48Z",
-    "githubUpdated_at": "2018-03-17T13:28:06Z"
+    "githubUpdated_at": "2018-05-17T06:30:24Z"
   },
   {
     "githubUrl": "https://github.com/gernest/alien",
@@ -23,20 +23,20 @@
     "githubStars": 88,
     "githubWatchers": 3,
     "githubCreated_at": "2016-01-30T23:23:10Z",
-    "githubUpdated_at": "2018-03-18T23:25:41Z"
+    "githubUpdated_at": "2018-05-02T08:50:47Z"
   },
   {
     "githubUrl": "https://github.com/astaxie/beego",
     "githubOwner": "astaxie",
     "githubName": "beego",
     "githubDescription": "beego is an open-source, high-performance web framework for the Go programming language.",
-    "githubSize": 4411,
+    "githubSize": 4440,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/233907?v=4",
-    "githubForks": 3184,
-    "githubStars": 14503,
-    "githubWatchers": 1047,
+    "githubForks": 3334,
+    "githubStars": 15312,
+    "githubWatchers": 1098,
     "githubCreated_at": "2012-02-29T02:32:08Z",
-    "githubUpdated_at": "2018-03-19T13:26:20Z"
+    "githubUpdated_at": "2018-05-17T21:21:41Z"
   },
   {
     "githubUrl": "https://github.com/go-zoo/bone",
@@ -45,11 +45,11 @@
     "githubDescription": "Lightning Fast HTTP Multiplexer",
     "githubSize": 2503,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/10365993?v=4",
-    "githubForks": 80,
-    "githubStars": 1105,
-    "githubWatchers": 40,
+    "githubForks": 78,
+    "githubStars": 1126,
+    "githubWatchers": 38,
     "githubCreated_at": "2014-11-19T02:16:36Z",
-    "githubUpdated_at": "2018-03-18T23:09:37Z"
+    "githubUpdated_at": "2018-05-17T10:06:52Z"
   },
   {
     "githubUrl": "https://github.com/claygod/Bxog",
@@ -59,36 +59,36 @@
     "githubSize": 55,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/8122120?v=4",
     "githubForks": 4,
-    "githubStars": 83,
+    "githubStars": 86,
     "githubWatchers": 7,
     "githubCreated_at": "2016-05-19T12:20:08Z",
-    "githubUpdated_at": "2018-03-17T09:06:32Z"
+    "githubUpdated_at": "2018-05-13T05:10:17Z"
   },
   {
     "githubUrl": "https://github.com/pressly/chi",
     "githubOwner": "pressly",
     "githubName": "chi",
     "githubDescription": "lightweight, idiomatic and composable router for building Go HTTP services",
-    "githubSize": 3390,
+    "githubSize": 3402,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/29575368?v=4",
-    "githubForks": 230,
-    "githubStars": 3283,
-    "githubWatchers": 133,
+    "githubForks": 246,
+    "githubStars": 3478,
+    "githubWatchers": 136,
     "githubCreated_at": "2015-10-15T20:46:29Z",
-    "githubUpdated_at": "2018-03-19T04:51:34Z"
+    "githubUpdated_at": "2018-05-17T15:53:50Z"
   },
   {
     "githubUrl": "https://github.com/labstack/echo",
     "githubOwner": "labstack",
     "githubName": "echo",
     "githubDescription": "High performance, minimalist Go web framework",
-    "githubSize": 5085,
+    "githubSize": 5069,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/2624634?v=4",
-    "githubForks": 825,
-    "githubStars": 9753,
-    "githubWatchers": 448,
+    "githubForks": 906,
+    "githubStars": 10360,
+    "githubWatchers": 472,
     "githubCreated_at": "2015-03-01T17:43:01Z",
-    "githubUpdated_at": "2018-03-19T06:36:55Z"
+    "githubUpdated_at": "2018-05-17T20:23:52Z"
   },
   {
     "githubUrl": "https://github.com/buaazp/fasthttprouter",
@@ -97,11 +97,11 @@
     "githubDescription": "A high performance fasthttp request router that scales well",
     "githubSize": 183,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1470377?v=4",
-    "githubForks": 63,
-    "githubStars": 453,
-    "githubWatchers": 27,
+    "githubForks": 68,
+    "githubStars": 481,
+    "githubWatchers": 28,
     "githubCreated_at": "2015-12-13T09:32:30Z",
-    "githubUpdated_at": "2018-03-17T16:45:27Z"
+    "githubUpdated_at": "2018-05-16T07:24:48Z"
   },
   {
     "githubUrl": "https://github.com/jabong/florest-core",
@@ -111,10 +111,10 @@
     "githubSize": 2705,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/5778679?v=4",
     "githubForks": 11,
-    "githubStars": 36,
-    "githubWatchers": 11,
+    "githubStars": 38,
+    "githubWatchers": 12,
     "githubCreated_at": "2016-09-05T06:07:44Z",
-    "githubUpdated_at": "2018-03-09T06:08:36Z"
+    "githubUpdated_at": "2018-04-10T05:16:27Z"
   },
   {
     "githubUrl": "https://github.com/desertbit/glue",
@@ -123,11 +123,11 @@
     "githubDescription": "Glue - Robust Go and Javascript Socket Library (Alternative to Socket.io)",
     "githubSize": 245,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/11889730?v=4",
-    "githubForks": 16,
-    "githubStars": 267,
-    "githubWatchers": 10,
+    "githubForks": 17,
+    "githubStars": 278,
+    "githubWatchers": 11,
     "githubCreated_at": "2015-06-07T10:21:15Z",
-    "githubUpdated_at": "2018-03-13T02:23:23Z"
+    "githubUpdated_at": "2018-05-02T08:49:54Z"
   },
   {
     "githubUrl": "https://github.com/ant0ine/go-json-rest",
@@ -136,24 +136,24 @@
     "githubDescription": "A quick and easy way to setup a RESTful JSON API",
     "githubSize": 982,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/40227?v=4",
-    "githubForks": 331,
-    "githubStars": 3058,
-    "githubWatchers": 157,
+    "githubForks": 334,
+    "githubStars": 3107,
+    "githubWatchers": 160,
     "githubCreated_at": "2013-02-19T03:15:45Z",
-    "githubUpdated_at": "2018-03-19T03:15:58Z"
+    "githubUpdated_at": "2018-05-17T20:48:59Z"
   },
   {
     "githubUrl": "https://github.com/go-kit/kit",
     "githubOwner": "go-kit",
     "githubName": "kit",
     "githubDescription": "A standard library for microservices.",
-    "githubSize": 6693,
+    "githubSize": 6742,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/10981023?v=4",
-    "githubForks": 945,
-    "githubStars": 9416,
-    "githubWatchers": 528,
+    "githubForks": 1025,
+    "githubStars": 9982,
+    "githubWatchers": 557,
     "githubCreated_at": "2015-02-03T00:01:19Z",
-    "githubUpdated_at": "2018-03-19T11:17:08Z"
+    "githubUpdated_at": "2018-05-17T21:53:58Z"
   },
   {
     "githubUrl": "https://github.com/codehack/go-relax",
@@ -162,24 +162,24 @@
     "githubDescription": "Framework for building RESTful API's in Go",
     "githubSize": 185,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/652951?v=4",
-    "githubForks": 7,
-    "githubStars": 148,
+    "githubForks": 8,
+    "githubStars": 146,
     "githubWatchers": 10,
     "githubCreated_at": "2014-06-26T02:30:45Z",
-    "githubUpdated_at": "2018-03-17T12:31:38Z"
+    "githubUpdated_at": "2018-05-16T13:47:56Z"
   },
   {
     "githubUrl": "https://github.com/googollee/go-socket.io",
     "githubOwner": "googollee",
     "githubName": "go-socket.io",
     "githubDescription": "socket.io library for golang, a realtime application framework.",
-    "githubSize": 10427,
+    "githubSize": 10433,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/496526?v=4",
-    "githubForks": 326,
-    "githubStars": 2101,
-    "githubWatchers": 103,
+    "githubForks": 343,
+    "githubStars": 2173,
+    "githubWatchers": 107,
     "githubCreated_at": "2013-07-13T13:04:38Z",
-    "githubUpdated_at": "2018-03-19T04:33:13Z"
+    "githubUpdated_at": "2018-05-17T11:17:38Z"
   },
   {
     "githubUrl": "https://github.com/gocraft/web",
@@ -188,36 +188,36 @@
     "githubDescription": "Go Router + Middleware. Your Contexts.",
     "githubSize": 192,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/6075192?v=4",
-    "githubForks": 100,
-    "githubStars": 1290,
+    "githubForks": 101,
+    "githubStars": 1315,
     "githubWatchers": 52,
     "githubCreated_at": "2013-11-16T20:48:20Z",
-    "githubUpdated_at": "2018-03-19T01:36:57Z"
+    "githubUpdated_at": "2018-05-17T11:08:28Z"
   },
   {
     "githubUrl": "https://github.com/lunny/tango",
     "githubOwner": "lunny",
     "githubName": "tango",
     "githubDescription": "Micro & pluggable web framework for Go",
-    "githubSize": 342,
+    "githubSize": 345,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/81045?v=4",
-    "githubForks": 103,
-    "githubStars": 698,
+    "githubForks": 105,
+    "githubStars": 717,
     "githubWatchers": 76,
     "githubCreated_at": "2014-12-17T03:07:09Z",
-    "githubUpdated_at": "2018-03-15T15:07:01Z"
+    "githubUpdated_at": "2018-05-12T18:48:12Z"
   },
   {
     "githubUrl": "https://github.com/ericmdantas/generator-ng-fullstack",
     "githubOwner": "ericmdantas",
     "githubName": "generator-ng-fullstack",
-    "githubDescription": "Client, server or fullstack - it's up to you. ng-fullstack gives you the best of the latest: Node, Go, HTTP/2, Angular 1, Angular 2, Vue, Aurelia, Express, Koa, Echo, Gin, MongoDB, Gulp, Babel, Typescript and much more.",
-    "githubSize": 1817,
+    "githubDescription": "Client, server or fullstack - it's up to you. ng-fullstack gives you the best of the latest.",
+    "githubSize": 1996,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/7040162?v=4",
-    "githubForks": 103,
-    "githubStars": 683,
-    "githubWatchers": 45,
+    "githubForks": 106,
+    "githubStars": 691,
+    "githubWatchers": 42,
     "githubCreated_at": "2015-03-04T01:59:47Z",
-    "githubUpdated_at": "2018-03-19T09:06:35Z"
+    "githubUpdated_at": "2018-05-16T20:04:11Z"
   }
 ]
