@@ -45,11 +45,11 @@
     "githubDescription": "A boilerplate for Node.js web applications",
     "githubSize": 11187,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/544954?v=4",
-    "githubForks": 4414,
-    "githubStars": 23538,
-    "githubWatchers": 790,
+    "githubForks": 4417,
+    "githubStars": 23545,
+    "githubWatchers": 791,
     "githubCreated_at": "2013-11-13T17:24:12Z",
-    "githubUpdated_at": "2018-05-17T20:03:52Z"
+    "githubUpdated_at": "2018-05-18T11:52:16Z"
   },
   {
     "githubUrl": "https://github.com/skaapgif/webapp-boilerplate",
@@ -85,10 +85,10 @@
     "githubSize": 789,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/773036?v=4",
     "githubForks": 253,
-    "githubStars": 1523,
+    "githubStars": 1524,
     "githubWatchers": 57,
     "githubCreated_at": "2016-09-30T13:14:17Z",
-    "githubUpdated_at": "2018-05-17T20:21:09Z"
+    "githubUpdated_at": "2018-05-18T01:17:03Z"
   },
   {
     "githubUrl": "https://github.com/neogeek/nodejs-starter-kit",
@@ -123,11 +123,11 @@
     "githubDescription": ":star: MEVN Full stack JS web app boilerplate with NodeJS, Express, Mongo and VueJS",
     "githubSize": 12385,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/306521?v=4",
-    "githubForks": 302,
-    "githubStars": 1124,
+    "githubForks": 303,
+    "githubStars": 1125,
     "githubWatchers": 75,
     "githubCreated_at": "2016-06-18T12:09:40Z",
-    "githubUpdated_at": "2018-05-17T06:09:31Z"
+    "githubUpdated_at": "2018-05-17T22:21:09Z"
   },
   {
     "githubUrl": "https://github.com/diki/nodejs-passport-boilerplate",
@@ -153,7 +153,7 @@
     "githubStars": 2058,
     "githubWatchers": 195,
     "githubCreated_at": "2016-06-24T06:26:05Z",
-    "githubUpdated_at": "2018-05-17T14:04:16Z"
+    "githubUpdated_at": "2018-05-18T02:54:48Z"
   },
   {
     "githubUrl": "https://github.com/diegohaz/rest",
@@ -202,10 +202,10 @@
     "githubSize": 362,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/3068563?v=4",
     "githubForks": 7,
-    "githubStars": 228,
+    "githubStars": 229,
     "githubWatchers": 6,
     "githubCreated_at": "2017-01-13T01:29:48Z",
-    "githubUpdated_at": "2018-05-15T02:41:38Z"
+    "githubUpdated_at": "2018-05-18T11:45:36Z"
   },
   {
     "githubUrl": "https://github.com/talyssonoc/node-api-boilerplate/",
@@ -215,10 +215,10 @@
     "githubSize": 186,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/4325587?v=4",
     "githubForks": 64,
-    "githubStars": 464,
+    "githubStars": 465,
     "githubWatchers": 30,
     "githubCreated_at": "2017-03-13T21:16:09Z",
-    "githubUpdated_at": "2018-05-17T12:25:29Z"
+    "githubUpdated_at": "2018-05-18T03:28:16Z"
   },
   {
     "githubUrl": "https://github.com/FredericHeem/starhackit",
@@ -271,5 +271,18 @@
     "githubWatchers": 1,
     "githubCreated_at": "2018-03-21T11:04:21Z",
     "githubUpdated_at": "2018-03-27T09:24:02Z"
+  },
+  {
+    "githubUrl": "https://github.com/sandoche/Jekyll-webpack-boilerplate",
+    "githubOwner": "sandoche",
+    "githubName": "Jekyll-webpack-boilerplate",
+    "githubDescription": "A boilerplate with Jekyll and Webpack to make the most performant static websites",
+    "githubSize": 767,
+    "githubAvatar": "https://avatars2.githubusercontent.com/u/3635348?v=4",
+    "githubForks": 7,
+    "githubStars": 26,
+    "githubWatchers": 4,
+    "githubCreated_at": "2017-07-25T12:01:04Z",
+    "githubUpdated_at": "2018-05-17T15:22:17Z"
   }
 ]

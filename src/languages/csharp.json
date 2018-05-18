@@ -17,26 +17,26 @@
     "githubOwner": "aspnetboilerplate",
     "githubName": "aspnetboilerplate",
     "githubDescription": "ASP.NET Boilerplate - Web Application Framework",
-    "githubSize": 54497,
+    "githubSize": 54494,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/5957277?v=4",
-    "githubForks": 2035,
-    "githubStars": 4620,
-    "githubWatchers": 728,
+    "githubForks": 2038,
+    "githubStars": 4626,
+    "githubWatchers": 729,
     "githubCreated_at": "2013-08-18T20:45:08Z",
-    "githubUpdated_at": "2018-05-17T21:18:17Z"
+    "githubUpdated_at": "2018-05-18T09:08:30Z"
   },
   {
     "githubUrl": "https://github.com/ASP-NET-MVC-Boilerplate/Templates",
     "githubOwner": "ASP-NET-MVC-Boilerplate",
     "githubName": "Templates",
     "githubDescription": ".NET project templates with batteries included, providing the minimum amount of code required to get you going faster.",
-    "githubSize": 44626,
+    "githubSize": 44636,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/22211766?v=4",
-    "githubForks": 271,
-    "githubStars": 1232,
-    "githubWatchers": 166,
+    "githubForks": 272,
+    "githubStars": 1236,
+    "githubWatchers": 169,
     "githubCreated_at": "2014-10-27T08:57:45Z",
-    "githubUpdated_at": "2018-05-17T18:50:49Z"
+    "githubUpdated_at": "2018-05-18T12:21:17Z"
   },
   {
     "githubUrl": "https://github.com/aspnetboilerplate/module-zero",
@@ -59,10 +59,10 @@
     "githubSize": 1408,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/773036?v=4",
     "githubForks": 180,
-    "githubStars": 914,
+    "githubStars": 915,
     "githubWatchers": 92,
     "githubCreated_at": "2014-08-21T09:51:46Z",
-    "githubUpdated_at": "2018-05-14T10:20:52Z"
+    "githubUpdated_at": "2018-05-18T05:36:05Z"
   },
   {
     "githubUrl": "https://github.com/restsharp/RestSharp",
@@ -71,10 +71,10 @@
     "githubDescription": "Simple REST and HTTP API Client for .NET",
     "githubSize": 37395,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1057779?v=4",
-    "githubForks": 1656,
-    "githubStars": 5336,
+    "githubForks": 1658,
+    "githubStars": 5338,
     "githubWatchers": 445,
     "githubCreated_at": "2009-11-16T02:01:45Z",
-    "githubUpdated_at": "2018-05-17T13:36:12Z"
+    "githubUpdated_at": "2018-05-18T02:48:09Z"
   }
 ]

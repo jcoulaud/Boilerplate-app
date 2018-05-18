@@ -6,24 +6,24 @@
     "githubDescription": "A PHP framework for web artisans",
     "githubSize": 9068,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/958072?v=4",
-    "githubForks": 13348,
-    "githubStars": 42990,
+    "githubForks": 13345,
+    "githubStars": 43005,
     "githubWatchers": 4520,
     "githubCreated_at": "2011-06-08T03:06:08Z",
-    "githubUpdated_at": "2018-05-17T22:10:31Z"
+    "githubUpdated_at": "2018-05-18T10:52:55Z"
   },
   {
     "githubUrl": "https://github.com/symfony/symfony",
     "githubOwner": "symfony",
     "githubName": "symfony",
     "githubDescription": "The Symfony PHP framework",
-    "githubSize": 117542,
+    "githubSize": 117564,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/143937?v=4",
-    "githubForks": 6208,
-    "githubStars": 17580,
-    "githubWatchers": 1284,
+    "githubForks": 6212,
+    "githubStars": 17585,
+    "githubWatchers": 1285,
     "githubCreated_at": "2010-01-04T14:21:21Z",
-    "githubUpdated_at": "2018-05-17T21:41:42Z"
+    "githubUpdated_at": "2018-05-18T12:38:33Z"
   },
   {
     "githubUrl": "https://github.com/bcit-ci/CodeIgniter",
@@ -32,24 +32,24 @@
     "githubDescription": "Open Source PHP Framework (originally from EllisLab)",
     "githubSize": 50508,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/8863432?v=4",
-    "githubForks": 7380,
-    "githubStars": 16103,
-    "githubWatchers": 1757,
+    "githubForks": 7385,
+    "githubStars": 16105,
+    "githubWatchers": 1756,
     "githubCreated_at": "2011-08-19T13:34:00Z",
-    "githubUpdated_at": "2018-05-17T18:45:15Z"
+    "githubUpdated_at": "2018-05-18T10:21:17Z"
   },
   {
     "githubUrl": "https://github.com/cakephp/cakephp",
     "githubOwner": "cakephp",
     "githubName": "cakephp",
     "githubDescription": "CakePHP: The Rapid Development Framework for PHP - Official Repository",
-    "githubSize": 77517,
+    "githubSize": 77615,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/23666?v=4",
     "githubForks": 3321,
-    "githubStars": 7537,
-    "githubWatchers": 670,
+    "githubStars": 7539,
+    "githubWatchers": 672,
     "githubCreated_at": "2010-05-08T14:38:22Z",
-    "githubUpdated_at": "2018-05-16T18:05:40Z"
+    "githubUpdated_at": "2018-05-18T10:50:15Z"
   },
   {
     "githubUrl": "https://github.com/zendframework/zendframework",
@@ -73,7 +73,7 @@
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1221505?v=4",
     "githubForks": 1677,
     "githubStars": 8929,
-    "githubWatchers": 736,
+    "githubWatchers": 737,
     "githubCreated_at": "2011-11-26T05:52:50Z",
     "githubUpdated_at": "2018-05-17T16:03:12Z"
   },
@@ -84,11 +84,11 @@
     "githubDescription": "Slim Framework source code",
     "githubSize": 5513,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/11195762?v=4",
-    "githubForks": 1769,
-    "githubStars": 8978,
+    "githubForks": 1770,
+    "githubStars": 8982,
     "githubWatchers": 589,
     "githubCreated_at": "2010-09-21T01:17:06Z",
-    "githubUpdated_at": "2018-05-17T13:25:34Z"
+    "githubUpdated_at": "2018-05-18T09:29:49Z"
   },
   {
     "githubUrl": "https://github.com/yiisoft/yii",
@@ -98,10 +98,10 @@
     "githubSize": 28459,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/993323?v=4",
     "githubForks": 2141,
-    "githubStars": 4868,
+    "githubStars": 4870,
     "githubWatchers": 499,
     "githubCreated_at": "2012-02-15T16:26:22Z",
-    "githubUpdated_at": "2018-05-17T11:42:13Z"
+    "githubUpdated_at": "2018-05-18T09:22:33Z"
   },
   {
     "githubUrl": "https://github.com/bcosca/fatfree",
@@ -150,10 +150,10 @@
     "githubSize": 255,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/477975?v=4",
     "githubForks": 332,
-    "githubStars": 1922,
-    "githubWatchers": 174,
+    "githubStars": 1924,
+    "githubWatchers": 175,
     "githubCreated_at": "2011-03-31T07:48:42Z",
-    "githubUpdated_at": "2018-05-17T09:07:45Z"
+    "githubUpdated_at": "2018-05-18T03:13:24Z"
   },
   {
     "githubUrl": "https://github.com/panique/mini",
