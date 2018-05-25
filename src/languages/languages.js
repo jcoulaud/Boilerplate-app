@@ -28,7 +28,8 @@ const languages = [
 			'https://github.com/insin/nwb',
 			'https://github.com/jquintozamora/react-typescript-webpack2-cssModules-postCSS',
 			'https://github.com/akveo/kittenTricks',
-			'https://github.com/MustansirZia/next-express-bootstrap-boilerplate'
+			'https://github.com/MustansirZia/next-express-bootstrap-boilerplate',
+			'https://github.com/Atyantik/react-pwa'
 		]
 	},
 	{

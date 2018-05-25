@@ -6,11 +6,11 @@
     "githubDescription": "A boilerplate for Django web applications",
     "githubSize": 4821,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1226900?v=4",
-    "githubForks": 237,
-    "githubStars": 1214,
-    "githubWatchers": 70,
+    "githubForks": 239,
+    "githubStars": 1218,
+    "githubWatchers": 71,
     "githubCreated_at": "2015-05-08T02:26:16Z",
-    "githubUpdated_at": "2018-05-18T06:12:58Z"
+    "githubUpdated_at": "2018-05-23T02:49:16Z"
   },
   {
     "githubUrl": "https://github.com/kirang89/bootstrapy",
@@ -32,11 +32,11 @@
     "githubDescription": "Fbone (Flask bone) is a Flask (Python microframework) starter/template/bootstrap/boilerplate application.",
     "githubSize": 612,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/368066?v=4",
-    "githubForks": 262,
-    "githubStars": 1499,
-    "githubWatchers": 77,
+    "githubForks": 261,
+    "githubStars": 1500,
+    "githubWatchers": 78,
     "githubCreated_at": "2012-10-17T04:23:32Z",
-    "githubUpdated_at": "2018-05-17T03:03:50Z"
+    "githubUpdated_at": "2018-05-24T13:41:42Z"
   },
   {
     "githubUrl": "https://github.com/esbullington/flask-bootstrap",
@@ -58,11 +58,11 @@
     "githubDescription": "A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.",
     "githubSize": 2263,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/74739?v=4",
-    "githubForks": 785,
-    "githubStars": 7071,
-    "githubWatchers": 211,
+    "githubForks": 786,
+    "githubStars": 7116,
+    "githubWatchers": 210,
     "githubCreated_at": "2013-07-14T18:31:22Z",
-    "githubUpdated_at": "2018-05-18T07:16:44Z"
+    "githubUpdated_at": "2018-05-24T22:58:09Z"
   },
   {
     "githubUrl": "https://github.com/JackStouffer/Flask-Foundation",
@@ -72,10 +72,10 @@
     "githubSize": 1437,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/680068?v=4",
     "githubForks": 125,
-    "githubStars": 1137,
+    "githubStars": 1138,
     "githubWatchers": 47,
     "githubCreated_at": "2013-09-15T06:34:48Z",
-    "githubUpdated_at": "2018-05-16T06:42:49Z"
+    "githubUpdated_at": "2018-05-20T12:20:18Z"
   },
   {
     "githubUrl": "https://github.com/coto/gae-boilerplate",
@@ -97,7 +97,7 @@
     "githubDescription": "Boilerplate project template for running Flask on Google App Engine",
     "githubSize": 3609,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/133923?v=4",
-    "githubForks": 209,
+    "githubForks": 208,
     "githubStars": 1052,
     "githubWatchers": 71,
     "githubCreated_at": "2010-09-19T17:42:15Z",
@@ -137,10 +137,10 @@
     "githubSize": 15,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/44689?v=4",
     "githubForks": 13,
-    "githubStars": 49,
+    "githubStars": 50,
     "githubWatchers": 2,
     "githubCreated_at": "2013-04-01T16:51:18Z",
-    "githubUpdated_at": "2018-05-17T04:01:38Z"
+    "githubUpdated_at": "2018-05-22T08:53:52Z"
   },
   {
     "githubUrl": "https://github.com/bueda/tornado-boilerplate",
@@ -150,9 +150,9 @@
     "githubSize": 276,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/187098?v=4",
     "githubForks": 87,
-    "githubStars": 371,
+    "githubStars": 370,
     "githubWatchers": 27,
     "githubCreated_at": "2010-11-13T22:19:42Z",
-    "githubUpdated_at": "2018-05-14T09:15:51Z"
+    "githubUpdated_at": "2018-05-19T03:14:38Z"
   }
 ]
