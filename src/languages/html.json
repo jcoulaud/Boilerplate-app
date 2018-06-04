@@ -17,13 +17,13 @@
     "githubOwner": "h5bp",
     "githubName": "html5-boilerplate",
     "githubDescription": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
-    "githubSize": 13754,
+    "githubSize": 13755,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1136800?v=4",
-    "githubForks": 9679,
-    "githubStars": 40585,
-    "githubWatchers": 2682,
+    "githubForks": 9693,
+    "githubStars": 40655,
+    "githubWatchers": 2679,
     "githubCreated_at": "2010-01-24T18:03:24Z",
-    "githubUpdated_at": "2018-05-25T06:32:26Z"
+    "githubUpdated_at": "2018-06-04T10:53:01Z"
   },
   {
     "githubUrl": "https://github.com/IceCreamYou/HTML5-Canvas-Game-Boilerplate",
@@ -59,10 +59,10 @@
     "githubSize": 118,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/522007?v=4",
     "githubForks": 397,
-    "githubStars": 1135,
+    "githubStars": 1136,
     "githubWatchers": 117,
     "githubCreated_at": "2011-12-09T00:32:32Z",
-    "githubUpdated_at": "2018-05-21T16:06:47Z"
+    "githubUpdated_at": "2018-06-02T05:07:09Z"
   },
   {
     "githubUrl": "https://github.com/sesh/base.html",
@@ -73,7 +73,7 @@
     "githubAvatar": "https://avatars0.githubusercontent.com/u/59980?v=4",
     "githubForks": 1,
     "githubStars": 12,
-    "githubWatchers": 1,
+    "githubWatchers": 0,
     "githubCreated_at": "2016-11-07T01:44:04Z",
     "githubUpdated_at": "2018-05-10T05:22:32Z"
   }
