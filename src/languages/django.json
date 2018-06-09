@@ -7,10 +7,10 @@
     "githubSize": 4821,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1226900?v=4",
     "githubForks": 240,
-    "githubStars": 1225,
+    "githubStars": 1226,
     "githubWatchers": 71,
     "githubCreated_at": "2015-05-08T02:26:16Z",
-    "githubUpdated_at": "2018-06-04T10:52:46Z"
+    "githubUpdated_at": "2018-06-04T12:44:31Z"
   },
   {
     "githubUrl": "https://github.com/zapier/django-knowledge",
@@ -32,11 +32,11 @@
     "githubDescription": "An example how you can use ReactJS with your Django project.",
     "githubSize": 795,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/166590?v=4",
-    "githubForks": 165,
-    "githubStars": 626,
+    "githubForks": 166,
+    "githubStars": 635,
     "githubWatchers": 64,
     "githubCreated_at": "2016-03-05T09:52:38Z",
-    "githubUpdated_at": "2018-06-04T05:14:04Z"
+    "githubUpdated_at": "2018-06-08T08:53:12Z"
   },
   {
     "githubUrl": "https://github.com/lincolnloop/django-startproject",
@@ -56,13 +56,13 @@
     "githubOwner": "agconti",
     "githubName": "cookiecutter-django-rest",
     "githubDescription": "Build best practiced apis fast with Python3",
-    "githubSize": 4688,
+    "githubSize": 4679,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/3332051?v=4",
     "githubForks": 73,
-    "githubStars": 478,
+    "githubStars": 482,
     "githubWatchers": 19,
     "githubCreated_at": "2015-06-04T16:46:49Z",
-    "githubUpdated_at": "2018-06-04T08:27:51Z"
+    "githubUpdated_at": "2018-06-08T14:36:46Z"
   },
   {
     "githubUrl": "https://github.com/brwr/thinkster-django-angular-boilerplate",
@@ -71,11 +71,11 @@
     "githubDescription": "Boilerplate for the Thinkster.io Django and AngularJS tutorial.",
     "githubSize": 417,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/4095660?v=4",
-    "githubForks": 1453,
-    "githubStars": 211,
+    "githubForks": 1452,
+    "githubStars": 209,
     "githubWatchers": 15,
     "githubCreated_at": "2014-11-03T21:04:43Z",
-    "githubUpdated_at": "2018-06-03T08:16:48Z"
+    "githubUpdated_at": "2018-06-09T04:20:36Z"
   },
   {
     "githubUrl": "https://github.com/mike360/django-html5-boilerplate",
@@ -95,13 +95,13 @@
     "githubOwner": "vintasoftware",
     "githubName": "django-react-boilerplate",
     "githubDescription": "Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate",
-    "githubSize": 216,
+    "githubSize": 236,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/5529080?v=4",
-    "githubForks": 75,
-    "githubStars": 299,
-    "githubWatchers": 35,
+    "githubForks": 76,
+    "githubStars": 300,
+    "githubWatchers": 33,
     "githubCreated_at": "2016-07-19T20:37:29Z",
-    "githubUpdated_at": "2018-06-03T21:18:16Z"
+    "githubUpdated_at": "2018-06-08T17:20:31Z"
   },
   {
     "githubUrl": "https://github.com/bueda/django-boilerplate",

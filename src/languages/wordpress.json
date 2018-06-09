@@ -6,11 +6,11 @@
     "githubDescription": "WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure",
     "githubSize": 335,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/4986074?v=4",
-    "githubForks": 812,
-    "githubStars": 3991,
-    "githubWatchers": 260,
+    "githubForks": 813,
+    "githubStars": 3997,
+    "githubWatchers": 261,
     "githubCreated_at": "2013-11-02T21:10:54Z",
-    "githubUpdated_at": "2018-06-03T00:58:07Z"
+    "githubUpdated_at": "2018-06-09T10:06:11Z"
   },
   {
     "githubUrl": "https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered",
@@ -32,11 +32,11 @@
     "githubDescription": "[WordPress] A foundation for WordPress Plugin Development that aims to provide a clear and consistent guide for building your plugins.",
     "githubSize": 961,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/2940124?v=4",
-    "githubForks": 1357,
-    "githubStars": 4946,
-    "githubWatchers": 361,
+    "githubForks": 1362,
+    "githubStars": 4953,
+    "githubWatchers": 359,
     "githubCreated_at": "2011-07-11T21:36:46Z",
-    "githubUpdated_at": "2018-06-04T10:50:49Z"
+    "githubUpdated_at": "2018-06-09T12:32:02Z"
   },
   {
     "githubUrl": "https://github.com/iandunn/WordPress-Plugin-Skeleton",
@@ -45,9 +45,9 @@
     "githubDescription": "A WordPress plugin skeleton built using object-oriented principles and the MVC pattern.",
     "githubSize": 167,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/484068?v=4",
-    "githubForks": 102,
+    "githubForks": 103,
     "githubStars": 365,
-    "githubWatchers": 56,
+    "githubWatchers": 55,
     "githubCreated_at": "2012-08-24T00:43:01Z",
     "githubUpdated_at": "2018-05-30T17:10:44Z"
   },
@@ -59,10 +59,10 @@
     "githubSize": 54,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/132166?v=4",
     "githubForks": 201,
-    "githubStars": 963,
+    "githubStars": 962,
     "githubWatchers": 74,
     "githubCreated_at": "2011-07-08T17:08:51Z",
-    "githubUpdated_at": "2018-05-28T06:23:23Z"
+    "githubUpdated_at": "2018-06-07T13:10:36Z"
   },
   null
 ]
