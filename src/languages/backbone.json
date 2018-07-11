@@ -7,10 +7,10 @@
     "githubSize": 6388,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/181635?v=4",
     "githubForks": 532,
-    "githubStars": 4629,
+    "githubStars": 4627,
     "githubWatchers": 150,
     "githubCreated_at": "2011-12-01T18:35:51Z",
-    "githubUpdated_at": "2018-06-07T13:10:37Z"
+    "githubUpdated_at": "2018-07-08T01:44:47Z"
   },
   {
     "githubUrl": "https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate",
@@ -23,7 +23,7 @@
     "githubStars": 633,
     "githubWatchers": 54,
     "githubCreated_at": "2012-05-24T17:01:43Z",
-    "githubUpdated_at": "2018-06-05T03:06:24Z"
+    "githubUpdated_at": "2018-06-20T16:19:27Z"
   },
   {
     "githubUrl": "https://github.com/addyosmani/backbone-boilerplates",
@@ -32,11 +32,11 @@
     "githubDescription": "Backbone.js stack boilerplates demonstrating integration with Express, Ruby, PHP, Grails and more.",
     "githubSize": 455,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/110953?v=4",
-    "githubForks": 187,
-    "githubStars": 502,
+    "githubForks": 188,
+    "githubStars": 501,
     "githubWatchers": 41,
     "githubCreated_at": "2011-12-25T00:34:11Z",
-    "githubUpdated_at": "2018-05-20T00:06:49Z"
+    "githubUpdated_at": "2018-06-20T16:22:34Z"
   },
   {
     "githubUrl": "https://github.com/alexbeletsky/backbone-express-spa",
@@ -45,11 +45,11 @@
     "githubDescription": "Backbone.js + Express.js single page application boilerplate",
     "githubSize": 291,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/304929?v=4",
-    "githubForks": 81,
-    "githubStars": 442,
-    "githubWatchers": 28,
+    "githubForks": 82,
+    "githubStars": 443,
+    "githubWatchers": 29,
     "githubCreated_at": "2013-04-22T16:56:15Z",
-    "githubUpdated_at": "2018-06-04T19:19:15Z"
+    "githubUpdated_at": "2018-07-08T04:26:52Z"
   },
   {
     "githubUrl": "https://github.com/artsy/ezel",
@@ -59,10 +59,10 @@
     "githubSize": 2368,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/546231?v=4",
     "githubForks": 29,
-    "githubStars": 278,
+    "githubStars": 277,
     "githubWatchers": 51,
     "githubCreated_at": "2013-10-28T23:57:53Z",
-    "githubUpdated_at": "2018-05-16T01:43:29Z"
+    "githubUpdated_at": "2018-07-07T09:31:35Z"
   },
   {
     "githubUrl": "https://github.com/shorttompkins/benm",
@@ -72,10 +72,10 @@
     "githubSize": 10559,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/3021049?v=4",
     "githubForks": 98,
-    "githubStars": 178,
-    "githubWatchers": 19,
+    "githubStars": 177,
+    "githubWatchers": 18,
     "githubCreated_at": "2013-12-21T04:21:11Z",
-    "githubUpdated_at": "2018-04-29T06:12:28Z"
+    "githubUpdated_at": "2018-06-20T16:14:02Z"
   },
   {
     "githubUrl": "https://github.com/sabarasaba/modern-backbone-starterkit",
@@ -84,11 +84,11 @@
     "githubDescription": "Lightweight starting point for a modern backbone web app.",
     "githubSize": 243,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1191206?v=4",
-    "githubForks": 49,
-    "githubStars": 186,
+    "githubForks": 48,
+    "githubStars": 185,
     "githubWatchers": 10,
     "githubCreated_at": "2015-03-11T13:50:14Z",
-    "githubUpdated_at": "2018-05-31T22:47:17Z"
+    "githubUpdated_at": "2018-06-18T07:47:37Z"
   },
   {
     "githubUrl": "https://github.com/phawk/Backbone-Stack",
