@@ -6,11 +6,11 @@
     "githubDescription": "A workflow for building Backbone applications.",
     "githubSize": 6388,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/181635?v=4",
-    "githubForks": 532,
-    "githubStars": 4627,
+    "githubForks": 534,
+    "githubStars": 4629,
     "githubWatchers": 150,
     "githubCreated_at": "2011-12-01T18:35:51Z",
-    "githubUpdated_at": "2018-07-08T01:44:47Z"
+    "githubUpdated_at": "2018-08-14T11:22:40Z"
   },
   {
     "githubUrl": "https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate",
@@ -20,10 +20,10 @@
     "githubSize": 5592,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/4105161?v=4",
     "githubForks": 142,
-    "githubStars": 633,
+    "githubStars": 632,
     "githubWatchers": 54,
     "githubCreated_at": "2012-05-24T17:01:43Z",
-    "githubUpdated_at": "2018-06-20T16:19:27Z"
+    "githubUpdated_at": "2018-07-23T07:03:26Z"
   },
   {
     "githubUrl": "https://github.com/addyosmani/backbone-boilerplates",
@@ -32,11 +32,11 @@
     "githubDescription": "Backbone.js stack boilerplates demonstrating integration with Express, Ruby, PHP, Grails and more.",
     "githubSize": 455,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/110953?v=4",
-    "githubForks": 188,
-    "githubStars": 501,
+    "githubForks": 187,
+    "githubStars": 500,
     "githubWatchers": 41,
     "githubCreated_at": "2011-12-25T00:34:11Z",
-    "githubUpdated_at": "2018-06-20T16:22:34Z"
+    "githubUpdated_at": "2018-08-21T12:56:43Z"
   },
   {
     "githubUrl": "https://github.com/alexbeletsky/backbone-express-spa",
@@ -71,11 +71,11 @@
     "githubDescription": "Boilerplate web app using Backbone.js, ExpressJS, node.js, MongoDB",
     "githubSize": 10559,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/3021049?v=4",
-    "githubForks": 98,
-    "githubStars": 177,
+    "githubForks": 97,
+    "githubStars": 179,
     "githubWatchers": 18,
     "githubCreated_at": "2013-12-21T04:21:11Z",
-    "githubUpdated_at": "2018-06-20T16:14:02Z"
+    "githubUpdated_at": "2018-08-22T11:32:09Z"
   },
   {
     "githubUrl": "https://github.com/sabarasaba/modern-backbone-starterkit",
@@ -84,11 +84,11 @@
     "githubDescription": "Lightweight starting point for a modern backbone web app.",
     "githubSize": 243,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1191206?v=4",
-    "githubForks": 48,
-    "githubStars": 185,
+    "githubForks": 49,
+    "githubStars": 186,
     "githubWatchers": 10,
     "githubCreated_at": "2015-03-11T13:50:14Z",
-    "githubUpdated_at": "2018-06-18T07:47:37Z"
+    "githubUpdated_at": "2018-08-02T14:36:31Z"
   },
   {
     "githubUrl": "https://github.com/phawk/Backbone-Stack",

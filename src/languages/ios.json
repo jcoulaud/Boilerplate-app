@@ -6,11 +6,11 @@
     "githubDescription": "iOS-app template with lots of common tasks solved",
     "githubSize": 2587,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/50486?v=4",
-    "githubForks": 505,
-    "githubStars": 2879,
+    "githubForks": 503,
+    "githubStars": 2878,
     "githubWatchers": 209,
     "githubCreated_at": "2011-08-22T22:16:17Z",
-    "githubUpdated_at": "2018-07-02T09:51:19Z"
+    "githubUpdated_at": "2018-07-31T09:17:47Z"
   },
   {
     "githubUrl": "https://github.com/crushlovely/Amaro",
@@ -19,11 +19,11 @@
     "githubDescription": "Featureful iOS Boilerplate",
     "githubSize": 450,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/7337?v=4",
-    "githubForks": 42,
-    "githubStars": 393,
-    "githubWatchers": 45,
+    "githubForks": 41,
+    "githubStars": 394,
+    "githubWatchers": 46,
     "githubCreated_at": "2014-03-02T22:28:45Z",
-    "githubUpdated_at": "2018-07-04T05:24:08Z"
+    "githubUpdated_at": "2018-07-28T00:36:38Z"
   },
   {
     "githubUrl": "https://github.com/openaphid/Boilerplate-iOS",
@@ -46,10 +46,10 @@
     "githubSize": 19,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/2470659?v=4",
     "githubForks": 62,
-    "githubStars": 796,
-    "githubWatchers": 27,
+    "githubStars": 798,
+    "githubWatchers": 26,
     "githubCreated_at": "2015-06-19T14:08:01Z",
-    "githubUpdated_at": "2018-06-24T06:59:12Z"
+    "githubUpdated_at": "2018-08-13T15:18:22Z"
   },
   {
     "githubUrl": "https://github.com/JohnSundell/SwiftPlate",
@@ -58,11 +58,11 @@
     "githubDescription": "Easily generate cross platform Swift framework projects from the command line",
     "githubSize": 455,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/2466701?v=4",
-    "githubForks": 69,
-    "githubStars": 1530,
-    "githubWatchers": 29,
+    "githubForks": 71,
+    "githubStars": 1538,
+    "githubWatchers": 30,
     "githubCreated_at": "2015-06-10T23:48:16Z",
-    "githubUpdated_at": "2018-07-10T14:12:06Z"
+    "githubUpdated_at": "2018-08-22T14:04:02Z"
   },
   {
     "githubUrl": "https://github.com/thoughtbot/liftoff",
@@ -71,10 +71,10 @@
     "githubDescription": "CLI for creating and configuring new Xcode projects",
     "githubSize": 17982,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/20134199?v=4",
-    "githubForks": 115,
-    "githubStars": 1602,
-    "githubWatchers": 68,
+    "githubForks": 114,
+    "githubStars": 1607,
+    "githubWatchers": 70,
     "githubCreated_at": "2012-10-19T00:58:18Z",
-    "githubUpdated_at": "2018-07-01T23:25:36Z"
+    "githubUpdated_at": "2018-08-15T15:02:36Z"
   }
 ]

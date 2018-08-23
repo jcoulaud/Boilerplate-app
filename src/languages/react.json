@@ -4,13 +4,13 @@
     "githubOwner": "facebookincubator",
     "githubName": "create-react-app",
     "githubDescription": "Create React apps with no build configuration.",
-    "githubSize": 5961,
+    "githubSize": 5893,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/69631?v=4",
-    "githubForks": 11042,
-    "githubStars": 52004,
-    "githubWatchers": 1556,
+    "githubForks": 11750,
+    "githubStars": 54185,
+    "githubWatchers": 1636,
     "githubCreated_at": "2016-07-17T14:55:11Z",
-    "githubUpdated_at": "2018-07-11T17:02:04Z"
+    "githubUpdated_at": "2018-08-23T09:07:21Z"
   },
   {
     "githubUrl": "https://github.com/kriasoft/react-starter-kit",
@@ -19,24 +19,24 @@
     "githubDescription": "React Starter Kit — isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Browsersync)",
     "githubSize": 3640,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/773036?v=4",
-    "githubForks": 3638,
-    "githubStars": 17929,
-    "githubWatchers": 602,
+    "githubForks": 3675,
+    "githubStars": 18152,
+    "githubWatchers": 608,
     "githubCreated_at": "2014-04-16T13:08:18Z",
-    "githubUpdated_at": "2018-07-11T16:49:01Z"
+    "githubUpdated_at": "2018-08-23T03:53:05Z"
   },
   {
     "githubUrl": "https://github.com/react-boilerplate/react-boilerplate",
     "githubOwner": "react-boilerplate",
     "githubName": "react-boilerplate",
     "githubDescription": ":fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.",
-    "githubSize": 5164,
+    "githubSize": 5251,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/25323389?v=4",
-    "githubForks": 3434,
-    "githubStars": 18870,
-    "githubWatchers": 502,
+    "githubForks": 3638,
+    "githubStars": 19517,
+    "githubWatchers": 519,
     "githubCreated_at": "2015-02-18T14:36:32Z",
-    "githubUpdated_at": "2018-07-11T17:46:22Z"
+    "githubUpdated_at": "2018-08-23T09:01:39Z"
   },
   {
     "githubUrl": "https://github.com/erikras/react-redux-universal-hot-example",
@@ -45,11 +45,11 @@
     "githubDescription": "A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform",
     "githubSize": 7031,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/4396759?v=4",
-    "githubForks": 2566,
-    "githubStars": 11299,
-    "githubWatchers": 389,
+    "githubForks": 2562,
+    "githubStars": 11384,
+    "githubWatchers": 393,
     "githubCreated_at": "2015-06-23T16:39:21Z",
-    "githubUpdated_at": "2018-07-11T14:53:24Z"
+    "githubUpdated_at": "2018-08-22T14:58:33Z"
   },
   {
     "githubUrl": "https://github.com/davezuko/react-redux-starter-kit",
@@ -58,37 +58,37 @@
     "githubDescription": "Get started with React, Redux, and React-Router.",
     "githubSize": 1190,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/6439050?v=4",
-    "githubForks": 2391,
-    "githubStars": 10288,
-    "githubWatchers": 334,
+    "githubForks": 2400,
+    "githubStars": 10346,
+    "githubWatchers": 335,
     "githubCreated_at": "2015-06-24T18:38:28Z",
-    "githubUpdated_at": "2018-07-11T13:33:20Z"
+    "githubUpdated_at": "2018-08-22T12:24:10Z"
   },
   {
     "githubUrl": "https://github.com/coryhouse/react-slingshot",
     "githubOwner": "coryhouse",
     "githubName": "react-slingshot",
     "githubDescription": "React + Redux starter kit / boilerplate with Babel, hot reloading, testing, linting and a working example app built in",
-    "githubSize": 1801,
+    "githubSize": 1908,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1688997?v=4",
-    "githubForks": 1503,
-    "githubStars": 8684,
-    "githubWatchers": 282,
+    "githubForks": 1523,
+    "githubStars": 8802,
+    "githubWatchers": 290,
     "githubCreated_at": "2015-12-31T22:04:53Z",
-    "githubUpdated_at": "2018-07-11T14:20:03Z"
+    "githubUpdated_at": "2018-08-23T06:05:24Z"
   },
   {
     "githubUrl": "https://github.com/este/este",
     "githubOwner": "este",
     "githubName": "este",
     "githubDescription": "Is What It Is",
-    "githubSize": 9730,
+    "githubSize": 11080,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/3302034?v=4",
     "githubForks": 579,
-    "githubStars": 5454,
-    "githubWatchers": 172,
+    "githubStars": 5473,
+    "githubWatchers": 170,
     "githubCreated_at": "2013-02-16T03:30:38Z",
-    "githubUpdated_at": "2018-07-11T17:22:33Z"
+    "githubUpdated_at": "2018-08-23T02:19:06Z"
   },
   {
     "githubUrl": "https://github.com/gaearon/react-hot-boilerplate",
@@ -97,37 +97,37 @@
     "githubDescription": "Minimal live-editing example for React",
     "githubSize": 127,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/810438?v=4",
-    "githubForks": 975,
-    "githubStars": 3892,
-    "githubWatchers": 121,
+    "githubForks": 979,
+    "githubStars": 3911,
+    "githubWatchers": 124,
     "githubCreated_at": "2014-08-23T16:38:09Z",
-    "githubUpdated_at": "2018-07-11T09:51:32Z"
+    "githubUpdated_at": "2018-08-23T01:00:39Z"
   },
   {
     "githubUrl": "https://github.com/dvajs/dva",
     "githubOwner": "dvajs",
     "githubName": "dva",
     "githubDescription": "🌱 React and redux based, lightweight and elm-style framework. (Inspired by elm and choo)",
-    "githubSize": 846,
+    "githubSize": 875,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/20552239?v=4",
-    "githubForks": 1710,
-    "githubStars": 10324,
-    "githubWatchers": 427,
+    "githubForks": 1822,
+    "githubStars": 10854,
+    "githubWatchers": 434,
     "githubCreated_at": "2016-06-24T09:06:16Z",
-    "githubUpdated_at": "2018-07-11T16:54:07Z"
+    "githubUpdated_at": "2018-08-23T08:59:45Z"
   },
   {
     "githubUrl": "https://github.com/kriasoft/react-static-boilerplate",
     "githubOwner": "kriasoft",
     "githubName": "react-static-boilerplate",
     "githubDescription": "Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay",
-    "githubSize": 1496,
+    "githubSize": 1408,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/773036?v=4",
-    "githubForks": 585,
-    "githubStars": 3399,
-    "githubWatchers": 95,
+    "githubForks": 592,
+    "githubStars": 3450,
+    "githubWatchers": 98,
     "githubCreated_at": "2015-06-17T19:33:23Z",
-    "githubUpdated_at": "2018-07-11T03:09:11Z"
+    "githubUpdated_at": "2018-08-23T08:41:41Z"
   },
   {
     "githubUrl": "https://github.com/RickWong/react-isomorphic-starterkit",
@@ -137,10 +137,10 @@
     "githubSize": 184,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/40102?v=4",
     "githubForks": 207,
-    "githubStars": 2348,
+    "githubStars": 2349,
     "githubWatchers": 79,
     "githubCreated_at": "2015-02-26T23:35:40Z",
-    "githubUpdated_at": "2018-07-04T09:49:42Z"
+    "githubUpdated_at": "2018-08-18T12:48:33Z"
   },
   {
     "githubUrl": "https://github.com/reactGo/reactGo",
@@ -149,24 +149,24 @@
     "githubDescription": "Your One-Stop solution for a full-stack universal Redux App!",
     "githubSize": 2351,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/20782186?v=4",
-    "githubForks": 572,
-    "githubStars": 2554,
-    "githubWatchers": 107,
+    "githubForks": 575,
+    "githubStars": 2572,
+    "githubWatchers": 104,
     "githubCreated_at": "2014-11-17T09:51:09Z",
-    "githubUpdated_at": "2018-07-11T02:01:50Z"
+    "githubUpdated_at": "2018-08-22T18:01:40Z"
   },
   {
     "githubUrl": "https://github.com/jaredpalmer/react-production-starter",
     "githubOwner": "jaredpalmer",
     "githubName": "react-production-starter",
     "githubDescription": "✨ Create server-rendered universal JavaScript applications with no configuration",
-    "githubSize": 2799,
+    "githubSize": 2955,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/4060187?v=4",
-    "githubForks": 381,
-    "githubStars": 4715,
-    "githubWatchers": 114,
+    "githubForks": 411,
+    "githubStars": 5027,
+    "githubWatchers": 119,
     "githubCreated_at": "2016-02-10T18:34:27Z",
-    "githubUpdated_at": "2018-07-11T15:48:00Z"
+    "githubUpdated_at": "2018-08-23T06:48:48Z"
   },
   {
     "githubUrl": "https://github.com/diegohaz/arc",
@@ -175,11 +175,11 @@
     "githubDescription": "React starter kit based on Atomic Design",
     "githubSize": 5575,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/3068563?v=4",
-    "githubForks": 174,
-    "githubStars": 1868,
-    "githubWatchers": 87,
+    "githubForks": 191,
+    "githubStars": 1957,
+    "githubWatchers": 90,
     "githubCreated_at": "2016-10-09T06:34:28Z",
-    "githubUpdated_at": "2018-07-11T12:17:49Z"
+    "githubUpdated_at": "2018-08-22T12:56:30Z"
   },
   {
     "githubUrl": "https://github.com/ctrlplusb/react-universally",
@@ -188,11 +188,11 @@
     "githubDescription": "A starter kit for universal react applications.",
     "githubSize": 2561,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/12164768?v=4",
-    "githubForks": 269,
-    "githubStars": 1625,
-    "githubWatchers": 84,
+    "githubForks": 275,
+    "githubStars": 1651,
+    "githubWatchers": 83,
     "githubCreated_at": "2016-06-14T21:05:38Z",
-    "githubUpdated_at": "2018-07-11T13:59:47Z"
+    "githubUpdated_at": "2018-08-22T12:26:23Z"
   },
   {
     "githubUrl": "https://github.com/guilherme90/react-webpack-starter",
@@ -212,13 +212,13 @@
     "githubOwner": "reactstrap",
     "githubName": "reactstrap",
     "githubDescription": "Simple React Bootstrap 4 components",
-    "githubSize": 2016,
+    "githubSize": 2049,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/17580417?v=4",
-    "githubForks": 566,
-    "githubStars": 5278,
-    "githubWatchers": 152,
+    "githubForks": 608,
+    "githubStars": 5682,
+    "githubWatchers": 156,
     "githubCreated_at": "2016-02-19T08:01:36Z",
-    "githubUpdated_at": "2018-07-11T17:35:19Z"
+    "githubUpdated_at": "2018-08-23T06:55:18Z"
   },
   {
     "githubUrl": "https://github.com/FredericHeem/starhackit",
@@ -227,11 +227,11 @@
     "githubDescription": "StarHackIt: Preact/React Native/Node fullstack starter kit with authentication and authorisation, data backed by SQL. ",
     "githubSize": 4376,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/4118089?v=4",
-    "githubForks": 169,
-    "githubStars": 1138,
-    "githubWatchers": 63,
+    "githubForks": 172,
+    "githubStars": 1147,
+    "githubWatchers": 64,
     "githubCreated_at": "2015-10-13T12:43:22Z",
-    "githubUpdated_at": "2018-07-11T13:36:32Z"
+    "githubUpdated_at": "2018-08-18T11:39:34Z"
   },
   {
     "githubUrl": "https://github.com/a-tarasyuk/rr-boilerplate",
@@ -254,23 +254,23 @@
     "githubSize": 46058,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1727939?v=4",
     "githubForks": 40,
-    "githubStars": 404,
+    "githubStars": 410,
     "githubWatchers": 19,
     "githubCreated_at": "2016-06-08T07:18:36Z",
-    "githubUpdated_at": "2018-07-07T04:59:28Z"
+    "githubUpdated_at": "2018-08-05T19:01:04Z"
   },
   {
     "githubUrl": "https://github.com/zeit/next.js/",
     "githubOwner": "zeit",
     "githubName": "next.js",
     "githubDescription": "Next.js is a lightweight framework for static and server‑rendered applications.",
-    "githubSize": 6232,
+    "githubSize": 7516,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/14985020?v=4",
-    "githubForks": 2683,
-    "githubStars": 27067,
-    "githubWatchers": 666,
+    "githubForks": 2866,
+    "githubStars": 28279,
+    "githubWatchers": 695,
     "githubCreated_at": "2016-10-05T23:32:51Z",
-    "githubUpdated_at": "2018-07-11T17:34:04Z"
+    "githubUpdated_at": "2018-08-23T08:29:21Z"
   },
   {
     "githubUrl": "https://github.com/codefoundries/UniversalRelayBoilerplate",
@@ -280,36 +280,36 @@
     "githubSize": 35157,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/16311004?v=4",
     "githubForks": 90,
-    "githubStars": 571,
-    "githubWatchers": 27,
+    "githubStars": 573,
+    "githubWatchers": 26,
     "githubCreated_at": "2016-04-20T07:33:28Z",
-    "githubUpdated_at": "2018-07-11T13:08:46Z"
+    "githubUpdated_at": "2018-08-05T15:50:53Z"
   },
   {
     "githubUrl": "https://github.com/insin/nwb",
     "githubOwner": "insin",
     "githubName": "nwb",
     "githubDescription": "A toolkit for React, Preact, Inferno & vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it)",
-    "githubSize": 2583,
+    "githubSize": 2562,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/226692?v=4",
-    "githubForks": 218,
-    "githubStars": 3575,
-    "githubWatchers": 65,
+    "githubForks": 226,
+    "githubStars": 3717,
+    "githubWatchers": 66,
     "githubCreated_at": "2015-11-10T23:32:58Z",
-    "githubUpdated_at": "2018-07-11T09:36:04Z"
+    "githubUpdated_at": "2018-08-22T18:22:42Z"
   },
   {
     "githubUrl": "https://github.com/jquintozamora/react-typescript-webpack2-cssModules-postCSS",
     "githubOwner": "jquintozamora",
     "githubName": "react-typescript-webpack2-cssModules-postCSS",
     "githubDescription": "Simple Starter Template for React, TypeScript, postCSS, ITCSS, CSS-Modules, Webpack and Live Reloading (React Hot Loader 3)",
-    "githubSize": 7087,
+    "githubSize": 7251,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/12530031?v=4",
-    "githubForks": 24,
-    "githubStars": 89,
-    "githubWatchers": 8,
+    "githubForks": 25,
+    "githubStars": 94,
+    "githubWatchers": 7,
     "githubCreated_at": "2017-02-02T18:25:20Z",
-    "githubUpdated_at": "2018-07-10T15:53:02Z"
+    "githubUpdated_at": "2018-08-23T06:27:50Z"
   },
   {
     "githubUrl": "https://github.com/akveo/kittenTricks",
@@ -318,11 +318,11 @@
     "githubDescription": "🐈  A react native mobile starter kit with over 40 screens and theme hot reload support",
     "githubSize": 47907,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/11921694?v=4",
-    "githubForks": 450,
-    "githubStars": 3883,
-    "githubWatchers": 114,
+    "githubForks": 487,
+    "githubStars": 4032,
+    "githubWatchers": 120,
     "githubCreated_at": "2017-06-28T09:29:12Z",
-    "githubUpdated_at": "2018-07-10T16:30:26Z"
+    "githubUpdated_at": "2018-08-23T05:22:12Z"
   },
   {
     "githubUrl": "https://github.com/MustansirZia/next-express-bootstrap-boilerplate",
@@ -331,23 +331,23 @@
     "githubDescription": ":zap: JavaScript boilerplate for a full stack app built using React.js, Next.js, Express.js, react-bootstrap, SCSS and full SSR with eslint.",
     "githubSize": 1150,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/14149485?v=4",
-    "githubForks": 1,
-    "githubStars": 30,
-    "githubWatchers": 3,
+    "githubForks": 3,
+    "githubStars": 34,
+    "githubWatchers": 2,
     "githubCreated_at": "2017-11-07T15:48:39Z",
-    "githubUpdated_at": "2018-06-02T17:45:24Z"
+    "githubUpdated_at": "2018-08-13T23:45:58Z"
   },
   {
     "githubUrl": "https://github.com/Atyantik/react-pwa",
     "githubOwner": "Atyantik",
     "githubName": "react-pwa",
     "githubDescription": "An upgradable boilerplate for Progressive web applications (PWA) with server side rendering, build with SEO in mind and achieving max page speed and optimized user experience.",
-    "githubSize": 3910,
+    "githubSize": 4233,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/3055502?v=4",
-    "githubForks": 145,
-    "githubStars": 1618,
-    "githubWatchers": 57,
+    "githubForks": 155,
+    "githubStars": 1694,
+    "githubWatchers": 59,
     "githubCreated_at": "2017-06-24T09:30:11Z",
-    "githubUpdated_at": "2018-07-10T06:28:49Z"
+    "githubUpdated_at": "2018-08-23T07:26:10Z"
   }
 ]
