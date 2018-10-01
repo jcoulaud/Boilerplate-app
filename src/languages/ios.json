@@ -6,11 +6,11 @@
     "githubDescription": "iOS-app template with lots of common tasks solved",
     "githubSize": 2587,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/50486?v=4",
-    "githubForks": 503,
-    "githubStars": 2878,
-    "githubWatchers": 209,
+    "githubForks": 502,
+    "githubStars": 2876,
+    "githubWatchers": 208,
     "githubCreated_at": "2011-08-22T22:16:17Z",
-    "githubUpdated_at": "2018-07-31T09:17:47Z"
+    "githubUpdated_at": "2018-09-23T18:34:55Z"
   },
   {
     "githubUrl": "https://github.com/crushlovely/Amaro",
@@ -23,7 +23,7 @@
     "githubStars": 394,
     "githubWatchers": 46,
     "githubCreated_at": "2014-03-02T22:28:45Z",
-    "githubUpdated_at": "2018-07-28T00:36:38Z"
+    "githubUpdated_at": "2018-09-08T13:37:10Z"
   },
   {
     "githubUrl": "https://github.com/openaphid/Boilerplate-iOS",
@@ -56,25 +56,25 @@
     "githubOwner": "JohnSundell",
     "githubName": "SwiftPlate",
     "githubDescription": "Easily generate cross platform Swift framework projects from the command line",
-    "githubSize": 455,
+    "githubSize": 456,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/2466701?v=4",
-    "githubForks": 71,
-    "githubStars": 1538,
-    "githubWatchers": 30,
+    "githubForks": 72,
+    "githubStars": 1561,
+    "githubWatchers": 31,
     "githubCreated_at": "2015-06-10T23:48:16Z",
-    "githubUpdated_at": "2018-08-22T14:04:02Z"
+    "githubUpdated_at": "2018-09-29T18:08:43Z"
   },
   {
     "githubUrl": "https://github.com/thoughtbot/liftoff",
     "githubOwner": "thoughtbot",
     "githubName": "liftoff",
     "githubDescription": "CLI for creating and configuring new Xcode projects",
-    "githubSize": 17982,
+    "githubSize": 18349,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/20134199?v=4",
-    "githubForks": 114,
-    "githubStars": 1607,
+    "githubForks": 113,
+    "githubStars": 1611,
     "githubWatchers": 70,
     "githubCreated_at": "2012-10-19T00:58:18Z",
-    "githubUpdated_at": "2018-08-15T15:02:36Z"
+    "githubUpdated_at": "2018-09-30T21:42:14Z"
   }
 ]

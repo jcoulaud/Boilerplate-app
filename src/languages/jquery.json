@@ -6,11 +6,11 @@
     "githubDescription": "A jump-start for jQuery plugins development",
     "githubSize": 2227,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/3077375?v=4",
-    "githubForks": 541,
-    "githubStars": 2571,
-    "githubWatchers": 109,
+    "githubForks": 542,
+    "githubStars": 2573,
+    "githubWatchers": 107,
     "githubCreated_at": "2011-05-17T12:49:29Z",
-    "githubUpdated_at": "2018-08-21T18:17:17Z"
+    "githubUpdated_at": "2018-09-28T15:43:59Z"
   },
   {
     "githubUrl": "https://github.com/commadelimited/jQuery-Mobile-Boilerplate",
@@ -19,11 +19,11 @@
     "githubDescription": "jQuery Mobile Boilerplate is meant to be a one stop shop for creating a new jQuery Mobile project.",
     "githubSize": 2764,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/563460?v=4",
-    "githubForks": 74,
-    "githubStars": 263,
-    "githubWatchers": 29,
+    "githubForks": 73,
+    "githubStars": 262,
+    "githubWatchers": 30,
     "githubCreated_at": "2012-02-02T17:43:21Z",
-    "githubUpdated_at": "2018-05-22T18:51:38Z"
+    "githubUpdated_at": "2018-09-28T13:25:22Z"
   },
   {
     "githubUrl": "https://github.com/elclanrs/advanced-jquery-boilerplate",
@@ -59,10 +59,10 @@
     "githubSize": 51,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/3077375?v=4",
     "githubForks": 30,
-    "githubStars": 154,
+    "githubStars": 152,
     "githubWatchers": 5,
     "githubCreated_at": "2013-05-10T22:38:49Z",
-    "githubUpdated_at": "2018-07-27T12:53:19Z"
+    "githubUpdated_at": "2018-09-07T15:12:29Z"
   },
   {
     "githubUrl": "https://github.com/iatek/one-page-app",
@@ -71,7 +71,7 @@
     "githubDescription": "Single page application boilerplate for Web or mobile using Twitter Bootstrap, jQuery and Javascript on Node.js. Create a responsive one page app for with a lightweight data store. Features long scrolling page sections, image slider, scroll to top button and dot navigation.",
     "githubSize": 830,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1154528?v=4",
-    "githubForks": 52,
+    "githubForks": 51,
     "githubStars": 125,
     "githubWatchers": 20,
     "githubCreated_at": "2012-10-02T13:16:28Z",
@@ -97,11 +97,11 @@
     "githubDescription": "A Boilerplate HTML page that incorporates JavaScript libraries, jQuery plugins, and Twitter Bootstrap to save developers time when creating an open-source project page.",
     "githubSize": 911,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/595663?v=4",
-    "githubForks": 30,
-    "githubStars": 99,
+    "githubForks": 31,
+    "githubStars": 100,
     "githubWatchers": 8,
     "githubCreated_at": "2012-08-08T03:47:05Z",
-    "githubUpdated_at": "2018-07-26T08:49:45Z"
+    "githubUpdated_at": "2018-09-27T20:34:14Z"
   },
   {
     "githubUrl": "https://github.com/miniJs/miniBoilerplate",
@@ -124,9 +124,9 @@
     "githubSize": 166,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1030168?v=4",
     "githubForks": 14,
-    "githubStars": 63,
+    "githubStars": 62,
     "githubWatchers": 7,
     "githubCreated_at": "2012-01-31T22:38:36Z",
-    "githubUpdated_at": "2018-04-16T09:00:00Z"
+    "githubUpdated_at": "2018-09-07T14:45:13Z"
   }
 ]

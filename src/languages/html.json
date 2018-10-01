@@ -6,24 +6,24 @@
     "githubDescription": ":boy: A very opinionated, lightweight version of HTML5 Boilerplate with conditionally-loaded polyfills and an opinionated CSS reset for firing up web projects in no time.",
     "githubSize": 402,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/224636?v=4",
-    "githubForks": 33,
-    "githubStars": 542,
+    "githubForks": 32,
+    "githubStars": 541,
     "githubWatchers": 16,
     "githubCreated_at": "2013-11-10T23:01:30Z",
-    "githubUpdated_at": "2018-08-17T09:36:10Z"
+    "githubUpdated_at": "2018-09-24T10:11:22Z"
   },
   {
     "githubUrl": "https://github.com/h5bp/html5-boilerplate",
     "githubOwner": "h5bp",
     "githubName": "html5-boilerplate",
     "githubDescription": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
-    "githubSize": 13759,
+    "githubSize": 13782,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1136800?v=4",
-    "githubForks": 9770,
-    "githubStars": 41181,
-    "githubWatchers": 2714,
+    "githubForks": 9843,
+    "githubStars": 41396,
+    "githubWatchers": 2719,
     "githubCreated_at": "2010-01-24T18:03:24Z",
-    "githubUpdated_at": "2018-08-23T07:53:38Z"
+    "githubUpdated_at": "2018-09-30T21:16:37Z"
   },
   {
     "githubUrl": "https://github.com/IceCreamYou/HTML5-Canvas-Game-Boilerplate",
@@ -32,22 +32,22 @@
     "githubDescription": "Provides a set of default code that makes getting up and running with an HTML5 canvas game very easy.",
     "githubSize": 4927,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/203177?v=4",
-    "githubForks": 35,
-    "githubStars": 117,
-    "githubWatchers": 10,
+    "githubForks": 36,
+    "githubStars": 122,
+    "githubWatchers": 11,
     "githubCreated_at": "2012-01-28T00:34:56Z",
-    "githubUpdated_at": "2018-08-21T19:50:25Z"
+    "githubUpdated_at": "2018-09-25T20:53:16Z"
   },
   {
     "githubUrl": "https://github.com/imarc/boilerplate",
     "githubOwner": "imarc",
     "githubName": "boilerplate",
     "githubDescription": "Responsive CSS, HTML and JavaScript front-end starting point.",
-    "githubSize": 9214,
+    "githubSize": 9007,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/363482?v=4",
     "githubForks": 14,
     "githubStars": 45,
-    "githubWatchers": 23,
+    "githubWatchers": 22,
     "githubCreated_at": "2013-01-18T06:24:23Z",
     "githubUpdated_at": "2018-05-13T06:28:26Z"
   },
@@ -58,11 +58,11 @@
     "githubDescription": "Initializr's generated page",
     "githubSize": 118,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/522007?v=4",
-    "githubForks": 394,
-    "githubStars": 1138,
+    "githubForks": 396,
+    "githubStars": 1139,
     "githubWatchers": 117,
     "githubCreated_at": "2011-12-09T00:32:32Z",
-    "githubUpdated_at": "2018-07-26T10:31:09Z"
+    "githubUpdated_at": "2018-09-12T05:22:05Z"
   },
   {
     "githubUrl": "https://github.com/sesh/base.html",
