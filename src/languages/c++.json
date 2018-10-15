@@ -6,11 +6,11 @@
     "githubDescription": "QuickCheck clone for C++ with the goal of being simple to use with as little boilerplate as possible.",
     "githubSize": 1591,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/5737870?v=4",
-    "githubForks": 68,
-    "githubStars": 451,
-    "githubWatchers": 25,
+    "githubForks": 71,
+    "githubStars": 456,
+    "githubWatchers": 26,
     "githubCreated_at": "2014-05-08T20:19:43Z",
-    "githubUpdated_at": "2018-09-27T17:59:35Z"
+    "githubUpdated_at": "2018-10-11T19:08:49Z"
   },
   {
     "githubUrl": "https://github.com/senbon/gloom",
@@ -19,11 +19,11 @@
     "githubDescription": "A minimalistic boilerplate for OpenGL with C++.",
     "githubSize": 17,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/3490366?v=4",
-    "githubForks": 11,
-    "githubStars": 34,
+    "githubForks": 12,
+    "githubStars": 35,
     "githubWatchers": 4,
     "githubCreated_at": "2016-01-29T13:26:55Z",
-    "githubUpdated_at": "2018-09-30T00:53:36Z"
+    "githubUpdated_at": "2018-10-08T12:30:06Z"
   },
   {
     "githubUrl": "https://github.com/Paspartout/BoilerplatePP",
@@ -56,13 +56,13 @@
     "githubOwner": "boostorg",
     "githubName": "boost",
     "githubDescription": "Super-project for modularized Boost",
-    "githubSize": 60117,
+    "githubSize": 60281,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/3170529?v=4",
-    "githubForks": 706,
-    "githubStars": 2209,
+    "githubForks": 712,
+    "githubStars": 2237,
     "githubWatchers": 278,
     "githubCreated_at": "2013-01-13T15:59:31Z",
-    "githubUpdated_at": "2018-09-30T01:30:23Z"
+    "githubUpdated_at": "2018-10-15T21:45:27Z"
   },
   {
     "githubUrl": "https://github.com/davisking/dlib",
@@ -71,11 +71,11 @@
     "githubDescription": "A toolkit for making real world machine learning and data analysis applications in C++",
     "githubSize": 22324,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/6259399?v=4",
-    "githubForks": 1715,
-    "githubStars": 5795,
-    "githubWatchers": 413,
+    "githubForks": 1751,
+    "githubStars": 5879,
+    "githubWatchers": 416,
     "githubCreated_at": "2014-01-29T00:45:33Z",
-    "githubUpdated_at": "2018-10-01T05:32:04Z"
+    "githubUpdated_at": "2018-10-15T19:27:48Z"
   },
   {
     "githubUrl": "https://github.com/sumeetchhetri/ffead-cpp",
@@ -85,49 +85,49 @@
     "githubSize": 62917,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1655705?v=4",
     "githubForks": 99,
-    "githubStars": 266,
+    "githubStars": 269,
     "githubWatchers": 58,
     "githubCreated_at": "2012-04-20T17:19:47Z",
-    "githubUpdated_at": "2018-09-14T02:14:25Z"
+    "githubUpdated_at": "2018-10-10T18:33:34Z"
   },
   {
     "githubUrl": "https://github.com/facebook/folly",
     "githubOwner": "facebook",
     "githubName": "folly",
     "githubDescription": "An open-source C++ library developed and used at Facebook.",
-    "githubSize": 19945,
+    "githubSize": 20056,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/69631?v=4",
-    "githubForks": 2788,
-    "githubStars": 11410,
-    "githubWatchers": 969,
+    "githubForks": 2808,
+    "githubStars": 11464,
+    "githubWatchers": 964,
     "githubCreated_at": "2012-06-01T20:49:04Z",
-    "githubUpdated_at": "2018-10-01T04:52:25Z"
+    "githubUpdated_at": "2018-10-15T16:52:16Z"
   },
   {
     "githubUrl": "https://github.com/WeAreROLI/JUCE",
     "githubOwner": "WeAreROLI",
     "githubName": "JUCE",
     "githubDescription": "The JUCE cross-platform C++ framework.",
-    "githubSize": 209763,
+    "githubSize": 209850,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/3866938?v=4",
-    "githubForks": 559,
-    "githubStars": 1187,
-    "githubWatchers": 160,
+    "githubForks": 562,
+    "githubStars": 1205,
+    "githubWatchers": 165,
     "githubCreated_at": "2012-03-31T11:19:43Z",
-    "githubUpdated_at": "2018-09-30T22:35:28Z"
+    "githubUpdated_at": "2018-10-15T02:07:49Z"
   },
   {
     "githubUrl": "https://github.com/openframeworks/openFrameworks",
     "githubOwner": "openframeworks",
     "githubName": "openFrameworks",
     "githubDescription": "openFrameworks is a community-developed cross platform toolkit for creative coding in C++.",
-    "githubSize": 1997620,
+    "githubSize": 1997625,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/142866?v=4",
-    "githubForks": 2130,
-    "githubStars": 6394,
-    "githubWatchers": 511,
+    "githubForks": 2138,
+    "githubStars": 6425,
+    "githubWatchers": 510,
     "githubCreated_at": "2009-10-21T21:55:54Z",
-    "githubUpdated_at": "2018-09-30T15:07:21Z"
+    "githubUpdated_at": "2018-10-15T08:02:32Z"
   },
   {
     "githubUrl": "https://github.com/stxxl/stxxl",
@@ -137,10 +137,10 @@
     "githubSize": 12926,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/5766331?v=4",
     "githubForks": 57,
-    "githubStars": 276,
+    "githubStars": 278,
     "githubWatchers": 35,
     "githubCreated_at": "2013-12-04T18:01:38Z",
-    "githubUpdated_at": "2018-09-27T20:49:00Z"
+    "githubUpdated_at": "2018-10-14T13:41:45Z"
   },
   {
     "githubUrl": "https://github.com/bloomberg/bde",
@@ -149,23 +149,23 @@
     "githubDescription": "Basic Development Environment - a set of foundational C++ libraries used at Bloomberg.",
     "githubSize": 100833,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1416818?v=4",
-    "githubForks": 208,
-    "githubStars": 927,
+    "githubForks": 207,
+    "githubStars": 933,
     "githubWatchers": 167,
     "githubCreated_at": "2012-11-09T20:00:30Z",
-    "githubUpdated_at": "2018-09-16T23:13:32Z"
+    "githubUpdated_at": "2018-10-13T09:06:58Z"
   },
   {
     "githubUrl": "https://github.com/treefrogframework/treefrog-framework",
     "githubOwner": "treefrogframework",
     "githubName": "treefrog-framework",
     "githubDescription": "TreeFrog Framework : High-speed C++ MVC Framework for Web Application",
-    "githubSize": 17715,
+    "githubSize": 17725,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/2995876?v=4",
-    "githubForks": 128,
-    "githubStars": 532,
-    "githubWatchers": 59,
+    "githubForks": 129,
+    "githubStars": 537,
+    "githubWatchers": 60,
     "githubCreated_at": "2012-12-08T13:17:01Z",
-    "githubUpdated_at": "2018-09-30T02:52:59Z"
+    "githubUpdated_at": "2018-10-14T10:45:02Z"
   }
 ]

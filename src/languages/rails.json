@@ -6,24 +6,24 @@
     "githubDescription": "Jump start your Rails development with Le Wagon best practices",
     "githubSize": 204,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/5470001?v=4",
-    "githubForks": 103,
-    "githubStars": 176,
-    "githubWatchers": 20,
+    "githubForks": 104,
+    "githubStars": 178,
+    "githubWatchers": 21,
     "githubCreated_at": "2015-08-23T19:48:19Z",
-    "githubUpdated_at": "2018-09-16T15:29:59Z"
+    "githubUpdated_at": "2018-10-03T11:44:49Z"
   },
   {
     "githubUrl": "https://github.com/mattbrictson/rails-template",
     "githubOwner": "mattbrictson",
     "githubName": "rails-template",
     "githubDescription": "Application template for Rails 5 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.",
-    "githubSize": 237,
+    "githubSize": 242,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/189693?v=4",
-    "githubForks": 121,
-    "githubStars": 484,
-    "githubWatchers": 27,
+    "githubForks": 124,
+    "githubStars": 488,
+    "githubWatchers": 26,
     "githubCreated_at": "2015-01-30T22:17:11Z",
-    "githubUpdated_at": "2018-09-30T13:59:34Z"
+    "githubUpdated_at": "2018-10-14T21:00:43Z"
   },
   {
     "githubUrl": "https://github.com/sporkd/html5-rails",
@@ -58,11 +58,11 @@
     "githubDescription": "Rails Composer. The Rails generator on steroids for starter apps.",
     "githubSize": 760,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/788200?v=4",
-    "githubForks": 483,
-    "githubStars": 3302,
-    "githubWatchers": 163,
+    "githubForks": 484,
+    "githubStars": 3309,
+    "githubWatchers": 161,
     "githubCreated_at": "2012-07-24T18:43:01Z",
-    "githubUpdated_at": "2018-09-28T21:22:01Z"
+    "githubUpdated_at": "2018-10-15T10:59:26Z"
   },
   {
     "githubUrl": "https://github.com/RailsApps/rails-bootstrap",
@@ -72,9 +72,9 @@
     "githubSize": 426,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/788200?v=4",
     "githubForks": 247,
-    "githubStars": 520,
+    "githubStars": 521,
     "githubWatchers": 47,
     "githubCreated_at": "2013-07-10T03:35:06Z",
-    "githubUpdated_at": "2018-09-30T16:38:31Z"
+    "githubUpdated_at": "2018-10-14T11:03:47Z"
   }
 ]

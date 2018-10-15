@@ -58,11 +58,11 @@
     "githubDescription": "Easily generate cross platform Swift framework projects from the command line",
     "githubSize": 456,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/2466701?v=4",
-    "githubForks": 72,
-    "githubStars": 1561,
+    "githubForks": 73,
+    "githubStars": 1566,
     "githubWatchers": 31,
     "githubCreated_at": "2015-06-10T23:48:16Z",
-    "githubUpdated_at": "2018-09-29T18:08:43Z"
+    "githubUpdated_at": "2018-10-14T19:01:06Z"
   },
   {
     "githubUrl": "https://github.com/thoughtbot/liftoff",
@@ -71,10 +71,10 @@
     "githubDescription": "CLI for creating and configuring new Xcode projects",
     "githubSize": 18349,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/20134199?v=4",
-    "githubForks": 113,
-    "githubStars": 1611,
-    "githubWatchers": 70,
+    "githubForks": 112,
+    "githubStars": 1612,
+    "githubWatchers": 69,
     "githubCreated_at": "2012-10-19T00:58:18Z",
-    "githubUpdated_at": "2018-09-30T21:42:14Z"
+    "githubUpdated_at": "2018-10-08T03:50:12Z"
   }
 ]
