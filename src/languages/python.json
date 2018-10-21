@@ -7,10 +7,10 @@
     "githubSize": 4821,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1226900?v=4",
     "githubForks": 246,
-    "githubStars": 1277,
+    "githubStars": 1282,
     "githubWatchers": 72,
     "githubCreated_at": "2015-05-08T02:26:16Z",
-    "githubUpdated_at": "2018-10-13T16:35:53Z"
+    "githubUpdated_at": "2018-10-21T17:28:31Z"
   },
   {
     "githubUrl": "https://github.com/kirang89/bootstrapy",
@@ -46,10 +46,10 @@
     "githubSize": 931,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1138625?v=4",
     "githubForks": 41,
-    "githubStars": 170,
+    "githubStars": 171,
     "githubWatchers": 10,
     "githubCreated_at": "2012-03-06T17:53:29Z",
-    "githubUpdated_at": "2018-08-29T03:02:55Z"
+    "githubUpdated_at": "2018-10-19T14:47:34Z"
   },
   {
     "githubUrl": "https://github.com/audreyr/cookiecutter",
@@ -58,11 +58,11 @@
     "githubDescription": "A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.",
     "githubSize": 2264,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/74739?v=4",
-    "githubForks": 878,
-    "githubStars": 8021,
-    "githubWatchers": 218,
+    "githubForks": 883,
+    "githubStars": 8070,
+    "githubWatchers": 222,
     "githubCreated_at": "2013-07-14T18:31:22Z",
-    "githubUpdated_at": "2018-10-15T19:29:16Z"
+    "githubUpdated_at": "2018-10-20T17:26:34Z"
   },
   {
     "githubUrl": "https://github.com/JackStouffer/Flask-Foundation",
@@ -72,10 +72,10 @@
     "githubSize": 1437,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/680068?v=4",
     "githubForks": 125,
-    "githubStars": 1164,
+    "githubStars": 1163,
     "githubWatchers": 48,
     "githubCreated_at": "2013-09-15T06:34:48Z",
-    "githubUpdated_at": "2018-10-12T10:49:40Z"
+    "githubUpdated_at": "2018-10-18T00:26:41Z"
   },
   {
     "githubUrl": "https://github.com/coto/gae-boilerplate",
@@ -84,7 +84,7 @@
     "githubDescription": "Google App Engine Boilerplate",
     "githubSize": 7326,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/25914?v=4",
-    "githubForks": 209,
+    "githubForks": 208,
     "githubStars": 701,
     "githubWatchers": 97,
     "githubCreated_at": "2012-02-12T16:17:18Z",
@@ -97,7 +97,7 @@
     "githubDescription": "Boilerplate project template for running Flask on Google App Engine",
     "githubSize": 3609,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/133923?v=4",
-    "githubForks": 207,
+    "githubForks": 206,
     "githubStars": 1060,
     "githubWatchers": 73,
     "githubCreated_at": "2010-09-19T17:42:15Z",
@@ -111,10 +111,10 @@
     "githubSize": 692,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/194200?v=4",
     "githubForks": 36,
-    "githubStars": 115,
+    "githubStars": 116,
     "githubWatchers": 13,
     "githubCreated_at": "2014-07-20T16:52:39Z",
-    "githubUpdated_at": "2018-10-01T09:10:45Z"
+    "githubUpdated_at": "2018-10-19T23:56:40Z"
   },
   {
     "githubUrl": "https://github.com/kdeldycke/cherrypy_mako_formish_ooop_boilerplate",
@@ -149,10 +149,10 @@
     "githubDescription": "A standard layout for Tornado apps ",
     "githubSize": 276,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/187098?v=4",
-    "githubForks": 90,
-    "githubStars": 388,
+    "githubForks": 91,
+    "githubStars": 390,
     "githubWatchers": 27,
     "githubCreated_at": "2010-11-13T22:19:42Z",
-    "githubUpdated_at": "2018-09-28T08:48:01Z"
+    "githubUpdated_at": "2018-10-16T22:47:32Z"
   }
 ]
