@@ -7,10 +7,10 @@
     "githubSize": 204,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/5470001?v=4",
     "githubForks": 104,
-    "githubStars": 178,
-    "githubWatchers": 21,
+    "githubStars": 179,
+    "githubWatchers": 22,
     "githubCreated_at": "2015-08-23T19:48:19Z",
-    "githubUpdated_at": "2018-10-03T11:44:49Z"
+    "githubUpdated_at": "2018-10-22T21:48:15Z"
   },
   {
     "githubUrl": "https://github.com/mattbrictson/rails-template",
@@ -19,11 +19,11 @@
     "githubDescription": "Application template for Rails 5 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.",
     "githubSize": 242,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/189693?v=4",
-    "githubForks": 126,
-    "githubStars": 490,
+    "githubForks": 127,
+    "githubStars": 491,
     "githubWatchers": 26,
     "githubCreated_at": "2015-01-30T22:17:11Z",
-    "githubUpdated_at": "2018-10-18T09:01:22Z"
+    "githubUpdated_at": "2018-10-24T19:41:15Z"
   },
   {
     "githubUrl": "https://github.com/sporkd/html5-rails",
@@ -58,7 +58,7 @@
     "githubDescription": "Rails Composer. The Rails generator on steroids for starter apps.",
     "githubSize": 760,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/788200?v=4",
-    "githubForks": 484,
+    "githubForks": 486,
     "githubStars": 3310,
     "githubWatchers": 161,
     "githubCreated_at": "2012-07-24T18:43:01Z",

@@ -6,11 +6,11 @@
     "githubDescription": "A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks. ",
     "githubSize": 1917,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/5971424?v=4",
-    "githubForks": 1273,
-    "githubStars": 4296,
-    "githubWatchers": 469,
+    "githubForks": 1272,
+    "githubStars": 4295,
+    "githubWatchers": 468,
     "githubCreated_at": "2012-09-05T15:19:13Z",
-    "githubUpdated_at": "2018-10-01T06:41:41Z"
+    "githubUpdated_at": "2018-10-27T15:11:06Z"
   },
   {
     "githubUrl": "https://github.com/kanytu/android-material-drawer-template",
@@ -20,10 +20,10 @@
     "githubSize": 7548,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/560921?v=4",
     "githubForks": 239,
-    "githubStars": 693,
+    "githubStars": 692,
     "githubWatchers": 68,
     "githubCreated_at": "2014-10-24T09:50:02Z",
-    "githubUpdated_at": "2018-09-27T00:04:45Z"
+    "githubUpdated_at": "2018-10-23T00:09:57Z"
   },
   {
     "githubUrl": "https://github.com/intrications/material-design-icons-adt-template",
@@ -56,13 +56,13 @@
     "githubOwner": "androidannotations",
     "githubName": "androidannotations",
     "githubDescription": "Fast Android Development. Easy maintainance.",
-    "githubSize": 21930,
+    "githubSize": 21925,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1315313?v=4",
-    "githubForks": 2469,
-    "githubStars": 10521,
+    "githubForks": 2470,
+    "githubStars": 10536,
     "githubWatchers": 705,
     "githubCreated_at": "2012-01-06T08:48:03Z",
-    "githubUpdated_at": "2018-10-21T15:02:19Z"
+    "githubUpdated_at": "2018-10-28T07:50:49Z"
   },
   {
     "githubUrl": "https://github.com/IanDarwin/Android-Cookbook-Examples",
@@ -75,7 +75,7 @@
     "githubStars": 786,
     "githubWatchers": 170,
     "githubCreated_at": "2011-11-26T21:48:08Z",
-    "githubUpdated_at": "2018-10-21T12:42:46Z"
+    "githubUpdated_at": "2018-10-26T16:29:29Z"
   },
   {
     "githubUrl": "https://github.com/playgameservices/android-basic-samples",
@@ -85,10 +85,10 @@
     "githubSize": 143896,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/4439547?v=4",
     "githubForks": 999,
-    "githubStars": 848,
-    "githubWatchers": 145,
+    "githubStars": 847,
+    "githubWatchers": 144,
     "githubCreated_at": "2013-05-15T17:19:49Z",
-    "githubUpdated_at": "2018-10-19T02:05:34Z"
+    "githubUpdated_at": "2018-10-22T07:44:24Z"
   },
   {
     "githubUrl": "https://github.com/tscolari/android-webview-sample-app",
@@ -123,11 +123,11 @@
     "githubDescription": "This sample shows how to implement an audio media app that works across multiple form factors and provide a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices",
     "githubSize": 8183,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/7378196?v=4",
-    "githubForks": 3221,
-    "githubStars": 10329,
-    "githubWatchers": 629,
+    "githubForks": 3222,
+    "githubStars": 10354,
+    "githubWatchers": 630,
     "githubCreated_at": "2015-03-10T00:04:35Z",
-    "githubUpdated_at": "2018-10-21T17:48:53Z"
+    "githubUpdated_at": "2018-10-28T12:57:34Z"
   },
   {
     "githubUrl": "https://github.com/googlesamples/android-architecture",
@@ -136,11 +136,11 @@
     "githubDescription": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
     "githubSize": 8199,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/7378196?v=4",
-    "githubForks": 8418,
-    "githubStars": 29855,
-    "githubWatchers": 2395,
+    "githubForks": 8447,
+    "githubStars": 29963,
+    "githubWatchers": 2409,
     "githubCreated_at": "2016-02-05T13:42:07Z",
-    "githubUpdated_at": "2018-10-21T19:44:12Z"
+    "githubUpdated_at": "2018-10-28T16:20:54Z"
   },
   {
     "githubUrl": "https://github.com/ribot/android-boilerplate",
@@ -149,11 +149,11 @@
     "githubDescription": "Android boilerplate app that showcases architecture and libraries used at ribot",
     "githubSize": 550,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/26924?v=4",
-    "githubForks": 952,
-    "githubStars": 4007,
+    "githubForks": 951,
+    "githubStars": 4006,
     "githubWatchers": 254,
     "githubCreated_at": "2015-04-21T11:45:16Z",
-    "githubUpdated_at": "2018-10-19T01:12:20Z"
+    "githubUpdated_at": "2018-10-27T02:28:40Z"
   },
   {
     "githubUrl": "https://github.com/blocoio/android-template",
@@ -176,10 +176,10 @@
     "githubSize": 68856,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/16185080?v=4",
     "githubForks": 39,
-    "githubStars": 205,
+    "githubStars": 206,
     "githubWatchers": 20,
     "githubCreated_at": "2015-12-24T03:16:35Z",
-    "githubUpdated_at": "2018-09-26T06:54:36Z"
+    "githubUpdated_at": "2018-10-22T01:38:30Z"
   },
   {
     "githubUrl": "https://github.com/smaugho/declex",
@@ -188,7 +188,7 @@
     "githubDescription": "DecleX - Declarative Framework for Android, easier and faster coding. ",
     "githubSize": 31685,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/6622086?v=4",
-    "githubForks": 25,
+    "githubForks": 24,
     "githubStars": 171,
     "githubWatchers": 18,
     "githubCreated_at": "2016-02-13T12:37:33Z",
