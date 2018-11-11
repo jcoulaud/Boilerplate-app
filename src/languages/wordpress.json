@@ -6,24 +6,24 @@
     "githubDescription": "WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure",
     "githubSize": 378,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/4986074?v=4",
-    "githubForks": 849,
-    "githubStars": 4155,
-    "githubWatchers": 256,
+    "githubForks": 853,
+    "githubStars": 4166,
+    "githubWatchers": 255,
     "githubCreated_at": "2013-11-02T21:10:54Z",
-    "githubUpdated_at": "2018-10-26T14:06:39Z"
+    "githubUpdated_at": "2018-11-11T13:24:28Z"
   },
   {
     "githubUrl": "https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered",
     "githubOwner": "WPBP",
     "githubName": "WordPress-Plugin-Boilerplate-Powered",
     "githubDescription": "Wordpress Plugin Boilerplate, only with more cool stuff!",
-    "githubSize": 1764,
+    "githubSize": 1763,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/19568091?v=4",
     "githubForks": 33,
-    "githubStars": 231,
+    "githubStars": 232,
     "githubWatchers": 18,
     "githubCreated_at": "2014-06-26T17:29:18Z",
-    "githubUpdated_at": "2018-10-23T14:25:05Z"
+    "githubUpdated_at": "2018-11-10T07:32:58Z"
   },
   {
     "githubUrl": "https://github.com/DevinVinson/WordPress-Plugin-Boilerplate",
@@ -32,11 +32,11 @@
     "githubDescription": "[WordPress] A foundation for WordPress Plugin Development that aims to provide a clear and consistent guide for building your plugins.",
     "githubSize": 961,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/2940124?v=4",
-    "githubForks": 1435,
-    "githubStars": 5190,
-    "githubWatchers": 365,
+    "githubForks": 1439,
+    "githubStars": 5215,
+    "githubWatchers": 368,
     "githubCreated_at": "2011-07-11T21:36:46Z",
-    "githubUpdated_at": "2018-10-28T11:22:21Z"
+    "githubUpdated_at": "2018-11-11T17:56:58Z"
   },
   {
     "githubUrl": "https://github.com/iandunn/WordPress-Plugin-Skeleton",
@@ -46,10 +46,10 @@
     "githubSize": 167,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/484068?v=4",
     "githubForks": 112,
-    "githubStars": 381,
+    "githubStars": 384,
     "githubWatchers": 57,
     "githubCreated_at": "2012-08-24T00:43:01Z",
-    "githubUpdated_at": "2018-10-22T06:11:54Z"
+    "githubUpdated_at": "2018-11-11T18:37:27Z"
   },
   {
     "githubUrl": "https://github.com/tommcfarlin/WordPress-Widget-Boilerplate",
@@ -59,10 +59,10 @@
     "githubSize": 54,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/132166?v=4",
     "githubForks": 208,
-    "githubStars": 971,
+    "githubStars": 972,
     "githubWatchers": 74,
     "githubCreated_at": "2011-07-08T17:08:51Z",
-    "githubUpdated_at": "2018-10-28T00:00:30Z"
+    "githubUpdated_at": "2018-11-07T23:39:56Z"
   },
   null
 ]

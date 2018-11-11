@@ -6,11 +6,11 @@
     "githubDescription": "A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks. ",
     "githubSize": 1917,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/5971424?v=4",
-    "githubForks": 1272,
-    "githubStars": 4295,
+    "githubForks": 1274,
+    "githubStars": 4296,
     "githubWatchers": 468,
     "githubCreated_at": "2012-09-05T15:19:13Z",
-    "githubUpdated_at": "2018-10-27T15:11:06Z"
+    "githubUpdated_at": "2018-11-10T17:30:52Z"
   },
   {
     "githubUrl": "https://github.com/kanytu/android-material-drawer-template",
@@ -34,9 +34,9 @@
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1798519?v=4",
     "githubForks": 78,
     "githubStars": 446,
-    "githubWatchers": 26,
+    "githubWatchers": 25,
     "githubCreated_at": "2014-11-03T10:32:54Z",
-    "githubUpdated_at": "2018-08-25T07:29:28Z"
+    "githubUpdated_at": "2018-11-06T08:57:13Z"
   },
   {
     "githubUrl": "https://github.com/e-biz/androidkickstartr",
@@ -58,24 +58,24 @@
     "githubDescription": "Fast Android Development. Easy maintainance.",
     "githubSize": 21925,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1315313?v=4",
-    "githubForks": 2470,
-    "githubStars": 10536,
-    "githubWatchers": 705,
+    "githubForks": 2466,
+    "githubStars": 10555,
+    "githubWatchers": 707,
     "githubCreated_at": "2012-01-06T08:48:03Z",
-    "githubUpdated_at": "2018-10-28T07:50:49Z"
+    "githubUpdated_at": "2018-11-11T17:08:45Z"
   },
   {
     "githubUrl": "https://github.com/IanDarwin/Android-Cookbook-Examples",
     "githubOwner": "IanDarwin",
     "githubName": "Android-Cookbook-Examples",
-    "githubDescription": "Collected code examples from the O'Reilly Android Cookbook. See README below!",
-    "githubSize": 55506,
+    "githubDescription": "Contributed code examples from O'Reilly Android Cookbook. See #user-content-table README below!",
+    "githubSize": 55482,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/4762842?v=4",
     "githubForks": 811,
-    "githubStars": 786,
+    "githubStars": 791,
     "githubWatchers": 170,
     "githubCreated_at": "2011-11-26T21:48:08Z",
-    "githubUpdated_at": "2018-10-26T16:29:29Z"
+    "githubUpdated_at": "2018-11-07T13:35:40Z"
   },
   {
     "githubUrl": "https://github.com/playgameservices/android-basic-samples",
@@ -84,11 +84,11 @@
     "githubDescription": "Google Play game services - Android samples",
     "githubSize": 143896,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/4439547?v=4",
-    "githubForks": 999,
-    "githubStars": 847,
-    "githubWatchers": 144,
+    "githubForks": 995,
+    "githubStars": 849,
+    "githubWatchers": 142,
     "githubCreated_at": "2013-05-15T17:19:49Z",
-    "githubUpdated_at": "2018-10-22T07:44:24Z"
+    "githubUpdated_at": "2018-11-05T01:06:34Z"
   },
   {
     "githubUrl": "https://github.com/tscolari/android-webview-sample-app",
@@ -114,7 +114,7 @@
     "githubStars": 230,
     "githubWatchers": 28,
     "githubCreated_at": "2013-12-03T23:25:28Z",
-    "githubUpdated_at": "2018-09-17T07:08:32Z"
+    "githubUpdated_at": "2018-11-08T07:46:56Z"
   },
   {
     "githubUrl": "https://github.com/googlesamples/android-UniversalMusicPlayer",
@@ -123,11 +123,11 @@
     "githubDescription": "This sample shows how to implement an audio media app that works across multiple form factors and provide a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices",
     "githubSize": 8183,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/7378196?v=4",
-    "githubForks": 3222,
-    "githubStars": 10354,
-    "githubWatchers": 630,
+    "githubForks": 3228,
+    "githubStars": 10386,
+    "githubWatchers": 632,
     "githubCreated_at": "2015-03-10T00:04:35Z",
-    "githubUpdated_at": "2018-10-28T12:57:34Z"
+    "githubUpdated_at": "2018-11-11T13:34:48Z"
   },
   {
     "githubUrl": "https://github.com/googlesamples/android-architecture",
@@ -136,11 +136,11 @@
     "githubDescription": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
     "githubSize": 8199,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/7378196?v=4",
-    "githubForks": 8447,
-    "githubStars": 29963,
-    "githubWatchers": 2409,
+    "githubForks": 8501,
+    "githubStars": 30147,
+    "githubWatchers": 2422,
     "githubCreated_at": "2016-02-05T13:42:07Z",
-    "githubUpdated_at": "2018-10-28T16:20:54Z"
+    "githubUpdated_at": "2018-11-11T16:41:30Z"
   },
   {
     "githubUrl": "https://github.com/ribot/android-boilerplate",
@@ -149,11 +149,11 @@
     "githubDescription": "Android boilerplate app that showcases architecture and libraries used at ribot",
     "githubSize": 550,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/26924?v=4",
-    "githubForks": 951,
-    "githubStars": 4006,
-    "githubWatchers": 254,
+    "githubForks": 952,
+    "githubStars": 4011,
+    "githubWatchers": 255,
     "githubCreated_at": "2015-04-21T11:45:16Z",
-    "githubUpdated_at": "2018-10-27T02:28:40Z"
+    "githubUpdated_at": "2018-11-11T14:56:54Z"
   },
   {
     "githubUrl": "https://github.com/blocoio/android-template",
@@ -177,7 +177,7 @@
     "githubAvatar": "https://avatars3.githubusercontent.com/u/16185080?v=4",
     "githubForks": 39,
     "githubStars": 206,
-    "githubWatchers": 20,
+    "githubWatchers": 19,
     "githubCreated_at": "2015-12-24T03:16:35Z",
     "githubUpdated_at": "2018-10-22T01:38:30Z"
   },
@@ -187,11 +187,11 @@
     "githubName": "declex",
     "githubDescription": "DecleX - Declarative Framework for Android, easier and faster coding. ",
     "githubSize": 31685,
-    "githubAvatar": "https://avatars1.githubusercontent.com/u/6622086?v=4",
+    "githubAvatar": "https://avatars3.githubusercontent.com/u/17218298?v=4",
     "githubForks": 24,
     "githubStars": 171,
     "githubWatchers": 18,
     "githubCreated_at": "2016-02-13T12:37:33Z",
-    "githubUpdated_at": "2018-10-02T23:05:43Z"
+    "githubUpdated_at": "2018-11-06T20:39:32Z"
   }
 ]

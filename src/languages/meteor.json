@@ -33,10 +33,10 @@
     "githubSize": 3367,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/8183166?v=4",
     "githubForks": 255,
-    "githubStars": 672,
-    "githubWatchers": 48,
+    "githubStars": 671,
+    "githubWatchers": 47,
     "githubCreated_at": "2014-07-21T20:44:21Z",
-    "githubUpdated_at": "2018-10-27T12:53:35Z"
+    "githubUpdated_at": "2018-11-07T23:13:35Z"
   },
   {
     "githubUrl": "https://github.com/radiegtya/meteoris2",
@@ -110,10 +110,23 @@
     "githubDescription": "Boilerplate meteor dapp - starting point for meteor dapps using bootstrap",
     "githubSize": 2904,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/9806174?v=4",
-    "githubForks": 39,
+    "githubForks": 37,
     "githubStars": 147,
     "githubWatchers": 13,
     "githubCreated_at": "2015-03-09T20:02:44Z",
     "githubUpdated_at": "2018-10-22T08:37:32Z"
+  },
+  {
+    "githubUrl": "https://github.com/timothyarmes/ta-meteor-apollo-starter-kit",
+    "githubOwner": "timothyarmes",
+    "githubName": "ta-meteor-apollo-starter-kit",
+    "githubDescription": "Meteor 1.8, Apollo 2, React 16, Multilingual ready, PWA, Styled-Components boilerplate",
+    "githubSize": 3315,
+    "githubAvatar": "https://avatars1.githubusercontent.com/u/1092550?v=4",
+    "githubForks": 4,
+    "githubStars": 29,
+    "githubWatchers": 5,
+    "githubCreated_at": "2018-10-04T15:30:30Z",
+    "githubUpdated_at": "2018-11-09T14:48:24Z"
   }
 ]

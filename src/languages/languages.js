@@ -300,7 +300,8 @@ const languages = [
 			'https://github.com/ffxsam/ffx-meteor-react-boilerplate',
 			'https://github.com/meteor-useraccounts/boilerplates',
 			'https://github.com/patrickocoffeyo/meteor-boilerplate',
-			'https://github.com/SilentCicero/meteor-dapp-boilerplate'
+			'https://github.com/SilentCicero/meteor-dapp-boilerplate',
+			'https://github.com/timothyarmes/ta-meteor-apollo-starter-kit'
 		]
 	},
 	{
