@@ -6,11 +6,11 @@
     "githubDescription": "Jump start your Rails development with Le Wagon best practices",
     "githubSize": 201,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/5470001?v=4",
-    "githubForks": 104,
-    "githubStars": 184,
+    "githubForks": 106,
+    "githubStars": 186,
     "githubWatchers": 22,
     "githubCreated_at": "2015-08-23T19:48:19Z",
-    "githubUpdated_at": "2018-11-08T22:03:58Z"
+    "githubUpdated_at": "2018-11-16T10:50:58Z"
   },
   {
     "githubUrl": "https://github.com/mattbrictson/rails-template",
@@ -19,11 +19,11 @@
     "githubDescription": "Application template for Rails 5 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.",
     "githubSize": 242,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/189693?v=4",
-    "githubForks": 131,
-    "githubStars": 496,
+    "githubForks": 132,
+    "githubStars": 498,
     "githubWatchers": 27,
     "githubCreated_at": "2015-01-30T22:17:11Z",
-    "githubUpdated_at": "2018-11-08T16:25:35Z"
+    "githubUpdated_at": "2018-11-17T13:42:15Z"
   },
   {
     "githubUrl": "https://github.com/sporkd/html5-rails",
@@ -58,11 +58,11 @@
     "githubDescription": "Rails Composer. The Rails generator on steroids for starter apps.",
     "githubSize": 760,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/788200?v=4",
-    "githubForks": 486,
-    "githubStars": 3310,
+    "githubForks": 488,
+    "githubStars": 3311,
     "githubWatchers": 161,
     "githubCreated_at": "2012-07-24T18:43:01Z",
-    "githubUpdated_at": "2018-11-10T18:01:16Z"
+    "githubUpdated_at": "2018-11-17T06:52:20Z"
   },
   {
     "githubUrl": "https://github.com/RailsApps/rails-bootstrap",

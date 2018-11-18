@@ -6,11 +6,11 @@
     "githubDescription": "QuickCheck clone for C++ with the goal of being simple to use with as little boilerplate as possible.",
     "githubSize": 1606,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/5737870?v=4",
-    "githubForks": 76,
-    "githubStars": 465,
+    "githubForks": 77,
+    "githubStars": 466,
     "githubWatchers": 29,
     "githubCreated_at": "2014-05-08T20:19:43Z",
-    "githubUpdated_at": "2018-11-11T09:22:25Z"
+    "githubUpdated_at": "2018-11-13T16:57:11Z"
   },
   {
     "githubUrl": "https://github.com/senbon/gloom",
@@ -56,91 +56,91 @@
     "githubOwner": "boostorg",
     "githubName": "boost",
     "githubDescription": "Super-project for modularized Boost",
-    "githubSize": 60487,
+    "githubSize": 60429,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/3170529?v=4",
-    "githubForks": 724,
-    "githubStars": 2283,
-    "githubWatchers": 279,
+    "githubForks": 728,
+    "githubStars": 2302,
+    "githubWatchers": 281,
     "githubCreated_at": "2013-01-13T15:59:31Z",
-    "githubUpdated_at": "2018-11-11T17:05:56Z"
+    "githubUpdated_at": "2018-11-18T10:59:33Z"
   },
   {
     "githubUrl": "https://github.com/davisking/dlib",
     "githubOwner": "davisking",
     "githubName": "dlib",
     "githubDescription": "A toolkit for making real world machine learning and data analysis applications in C++",
-    "githubSize": 22423,
+    "githubSize": 22433,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/6259399?v=4",
-    "githubForks": 1815,
-    "githubStars": 6027,
-    "githubWatchers": 425,
+    "githubForks": 1827,
+    "githubStars": 6071,
+    "githubWatchers": 427,
     "githubCreated_at": "2014-01-29T00:45:33Z",
-    "githubUpdated_at": "2018-11-11T17:25:28Z"
+    "githubUpdated_at": "2018-11-18T07:23:23Z"
   },
   {
     "githubUrl": "https://github.com/sumeetchhetri/ffead-cpp",
     "githubOwner": "sumeetchhetri",
     "githubName": "ffead-cpp",
     "githubDescription": "Framework for Enterprise Application Development, c++ framework, c++ web framework, c++ application framework, c++ rest framework, c++ soap framework, c++ web sites,c++ web applications, c++ driven web development - c++",
-    "githubSize": 62983,
+    "githubSize": 62990,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1655705?v=4",
-    "githubForks": 102,
-    "githubStars": 272,
+    "githubForks": 103,
+    "githubStars": 273,
     "githubWatchers": 58,
     "githubCreated_at": "2012-04-20T17:19:47Z",
-    "githubUpdated_at": "2018-11-09T06:20:42Z"
+    "githubUpdated_at": "2018-11-17T07:14:49Z"
   },
   {
     "githubUrl": "https://github.com/facebook/folly",
     "githubOwner": "facebook",
     "githubName": "folly",
     "githubDescription": "An open-source C++ library developed and used at Facebook.",
-    "githubSize": 21452,
+    "githubSize": 21525,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/69631?v=4",
-    "githubForks": 2838,
-    "githubStars": 11611,
-    "githubWatchers": 971,
+    "githubForks": 2846,
+    "githubStars": 11651,
+    "githubWatchers": 974,
     "githubCreated_at": "2012-06-01T20:49:04Z",
-    "githubUpdated_at": "2018-11-11T17:13:13Z"
+    "githubUpdated_at": "2018-11-18T11:48:01Z"
   },
   {
     "githubUrl": "https://github.com/WeAreROLI/JUCE",
     "githubOwner": "WeAreROLI",
     "githubName": "JUCE",
     "githubDescription": "The JUCE cross-platform C++ framework.",
-    "githubSize": 210708,
+    "githubSize": 211521,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/3866938?v=4",
-    "githubForks": 575,
-    "githubStars": 1236,
+    "githubForks": 577,
+    "githubStars": 1248,
     "githubWatchers": 167,
     "githubCreated_at": "2012-03-31T11:19:43Z",
-    "githubUpdated_at": "2018-11-10T02:16:50Z"
+    "githubUpdated_at": "2018-11-18T12:14:52Z"
   },
   {
     "githubUrl": "https://github.com/openframeworks/openFrameworks",
     "githubOwner": "openframeworks",
     "githubName": "openFrameworks",
     "githubDescription": "openFrameworks is a community-developed cross platform toolkit for creative coding in C++.",
-    "githubSize": 1997653,
+    "githubSize": 1997679,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/142866?v=4",
-    "githubForks": 2152,
-    "githubStars": 6510,
-    "githubWatchers": 517,
+    "githubForks": 2158,
+    "githubStars": 6523,
+    "githubWatchers": 518,
     "githubCreated_at": "2009-10-21T21:55:54Z",
-    "githubUpdated_at": "2018-11-11T17:57:00Z"
+    "githubUpdated_at": "2018-11-18T08:25:24Z"
   },
   {
     "githubUrl": "https://github.com/stxxl/stxxl",
     "githubOwner": "stxxl",
     "githubName": "stxxl",
     "githubDescription": "STXXL: Standard Template Library for Extra Large Data Sets",
-    "githubSize": 12926,
+    "githubSize": 12931,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/5766331?v=4",
-    "githubForks": 57,
-    "githubStars": 284,
-    "githubWatchers": 36,
+    "githubForks": 58,
+    "githubStars": 288,
+    "githubWatchers": 39,
     "githubCreated_at": "2013-12-04T18:01:38Z",
-    "githubUpdated_at": "2018-11-04T12:15:22Z"
+    "githubUpdated_at": "2018-11-16T09:23:34Z"
   },
   {
     "githubUrl": "https://github.com/bloomberg/bde",
@@ -150,10 +150,10 @@
     "githubSize": 100833,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1416818?v=4",
     "githubForks": 209,
-    "githubStars": 942,
+    "githubStars": 946,
     "githubWatchers": 167,
     "githubCreated_at": "2012-11-09T20:00:30Z",
-    "githubUpdated_at": "2018-11-04T19:57:26Z"
+    "githubUpdated_at": "2018-11-17T06:14:54Z"
   },
   {
     "githubUrl": "https://github.com/treefrogframework/treefrog-framework",
@@ -162,10 +162,10 @@
     "githubDescription": "TreeFrog Framework : High-speed C++ MVC Framework for Web Application",
     "githubSize": 17739,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/2995876?v=4",
-    "githubForks": 129,
+    "githubForks": 131,
     "githubStars": 542,
-    "githubWatchers": 61,
+    "githubWatchers": 62,
     "githubCreated_at": "2012-12-08T13:17:01Z",
-    "githubUpdated_at": "2018-11-11T13:16:48Z"
+    "githubUpdated_at": "2018-11-14T13:17:53Z"
   }
 ]

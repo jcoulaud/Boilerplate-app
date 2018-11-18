@@ -7,10 +7,10 @@
     "githubSize": 4821,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1226900?v=4",
     "githubForks": 249,
-    "githubStars": 1294,
+    "githubStars": 1293,
     "githubWatchers": 72,
     "githubCreated_at": "2015-05-08T02:26:16Z",
-    "githubUpdated_at": "2018-11-11T14:36:07Z"
+    "githubUpdated_at": "2018-11-14T06:41:47Z"
   },
   {
     "githubUrl": "https://github.com/kirang89/bootstrapy",
@@ -33,10 +33,10 @@
     "githubSize": 612,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/368066?v=4",
     "githubForks": 260,
-    "githubStars": 1518,
+    "githubStars": 1520,
     "githubWatchers": 78,
     "githubCreated_at": "2012-10-17T04:23:32Z",
-    "githubUpdated_at": "2018-11-01T05:13:59Z"
+    "githubUpdated_at": "2018-11-17T11:33:52Z"
   },
   {
     "githubUrl": "https://github.com/esbullington/flask-bootstrap",
@@ -46,10 +46,10 @@
     "githubSize": 931,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1138625?v=4",
     "githubForks": 41,
-    "githubStars": 172,
+    "githubStars": 173,
     "githubWatchers": 10,
     "githubCreated_at": "2012-03-06T17:53:29Z",
-    "githubUpdated_at": "2018-11-09T03:40:46Z"
+    "githubUpdated_at": "2018-11-16T10:39:47Z"
   },
   {
     "githubUrl": "https://github.com/audreyr/cookiecutter",
@@ -58,11 +58,11 @@
     "githubDescription": "A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.",
     "githubSize": 2264,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/74739?v=4",
-    "githubForks": 897,
-    "githubStars": 8205,
-    "githubWatchers": 226,
+    "githubForks": 906,
+    "githubStars": 8246,
+    "githubWatchers": 227,
     "githubCreated_at": "2013-07-14T18:31:22Z",
-    "githubUpdated_at": "2018-11-11T15:12:05Z"
+    "githubUpdated_at": "2018-11-18T10:38:24Z"
   },
   {
     "githubUrl": "https://github.com/JackStouffer/Flask-Foundation",
@@ -72,10 +72,10 @@
     "githubSize": 1437,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/680068?v=4",
     "githubForks": 125,
-    "githubStars": 1165,
+    "githubStars": 1171,
     "githubWatchers": 48,
     "githubCreated_at": "2013-09-15T06:34:48Z",
-    "githubUpdated_at": "2018-11-04T03:36:36Z"
+    "githubUpdated_at": "2018-11-18T06:28:36Z"
   },
   {
     "githubUrl": "https://github.com/coto/gae-boilerplate",
@@ -85,10 +85,10 @@
     "githubSize": 7326,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/25914?v=4",
     "githubForks": 208,
-    "githubStars": 701,
+    "githubStars": 700,
     "githubWatchers": 97,
     "githubCreated_at": "2012-02-12T16:17:18Z",
-    "githubUpdated_at": "2018-10-01T14:52:21Z"
+    "githubUpdated_at": "2018-11-16T09:44:25Z"
   },
   {
     "githubUrl": "https://github.com/kamalgill/flask-appengine-template",
@@ -98,10 +98,10 @@
     "githubSize": 3609,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/133923?v=4",
     "githubForks": 206,
-    "githubStars": 1063,
+    "githubStars": 1064,
     "githubWatchers": 73,
     "githubCreated_at": "2010-09-19T17:42:15Z",
-    "githubUpdated_at": "2018-11-08T18:23:23Z"
+    "githubUpdated_at": "2018-11-14T15:53:09Z"
   },
   {
     "githubUrl": "https://github.com/fasouto/django-starter-template",
@@ -110,7 +110,7 @@
     "githubDescription": "A project template for Django 2.0 that follows best practices.",
     "githubSize": 692,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/194200?v=4",
-    "githubForks": 37,
+    "githubForks": 36,
     "githubStars": 119,
     "githubWatchers": 13,
     "githubCreated_at": "2014-07-20T16:52:39Z",
@@ -149,10 +149,10 @@
     "githubDescription": "A standard layout for Tornado apps ",
     "githubSize": 276,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/187098?v=4",
-    "githubForks": 92,
-    "githubStars": 393,
+    "githubForks": 93,
+    "githubStars": 394,
     "githubWatchers": 27,
     "githubCreated_at": "2010-11-13T22:19:42Z",
-    "githubUpdated_at": "2018-11-11T17:07:26Z"
+    "githubUpdated_at": "2018-11-17T10:48:25Z"
   }
 ]
