@@ -6,11 +6,11 @@
     "githubDescription": "A workflow for building Backbone applications.",
     "githubSize": 6388,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/181635?v=4",
-    "githubForks": 537,
-    "githubStars": 4617,
+    "githubForks": 538,
+    "githubStars": 4616,
     "githubWatchers": 148,
     "githubCreated_at": "2011-12-01T18:35:51Z",
-    "githubUpdated_at": "2018-11-18T02:08:11Z"
+    "githubUpdated_at": "2018-11-27T00:33:50Z"
   },
   {
     "githubUrl": "https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate",
@@ -33,10 +33,10 @@
     "githubSize": 455,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/110953?v=4",
     "githubForks": 187,
-    "githubStars": 499,
+    "githubStars": 498,
     "githubWatchers": 40,
     "githubCreated_at": "2011-12-25T00:34:11Z",
-    "githubUpdated_at": "2018-11-17T09:17:39Z"
+    "githubUpdated_at": "2018-11-27T02:01:29Z"
   },
   {
     "githubUrl": "https://github.com/alexbeletsky/backbone-express-spa",
@@ -60,7 +60,7 @@
     "githubAvatar": "https://avatars3.githubusercontent.com/u/546231?v=4",
     "githubForks": 29,
     "githubStars": 278,
-    "githubWatchers": 53,
+    "githubWatchers": 54,
     "githubCreated_at": "2013-10-28T23:57:53Z",
     "githubUpdated_at": "2018-10-27T20:30:21Z"
   },
@@ -84,11 +84,11 @@
     "githubDescription": "Lightweight starting point for a modern backbone web app.",
     "githubSize": 243,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1191206?v=4",
-    "githubForks": 48,
-    "githubStars": 187,
+    "githubForks": 47,
+    "githubStars": 186,
     "githubWatchers": 11,
     "githubCreated_at": "2015-03-11T13:50:14Z",
-    "githubUpdated_at": "2018-10-29T02:10:15Z"
+    "githubUpdated_at": "2018-11-22T00:21:43Z"
   },
   {
     "githubUrl": "https://github.com/phawk/Backbone-Stack",
@@ -124,9 +124,9 @@
     "githubSize": 1466,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/6189375?v=4",
     "githubForks": 11,
-    "githubStars": 81,
+    "githubStars": 80,
     "githubWatchers": 11,
     "githubCreated_at": "2015-04-12T20:49:46Z",
-    "githubUpdated_at": "2018-03-19T13:40:08Z"
+    "githubUpdated_at": "2018-11-30T18:13:47Z"
   }
 ]

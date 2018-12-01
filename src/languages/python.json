@@ -6,11 +6,11 @@
     "githubDescription": "A boilerplate for Django web applications",
     "githubSize": 4821,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1226900?v=4",
-    "githubForks": 249,
-    "githubStars": 1293,
+    "githubForks": 248,
+    "githubStars": 1301,
     "githubWatchers": 72,
     "githubCreated_at": "2015-05-08T02:26:16Z",
-    "githubUpdated_at": "2018-11-14T06:41:47Z"
+    "githubUpdated_at": "2018-12-01T00:57:49Z"
   },
   {
     "githubUrl": "https://github.com/kirang89/bootstrapy",
@@ -19,7 +19,7 @@
     "githubDescription": "A bootstrap Python application, so that you can focus on writing code",
     "githubSize": 112,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1074304?v=4",
-    "githubForks": 31,
+    "githubForks": 30,
     "githubStars": 288,
     "githubWatchers": 18,
     "githubCreated_at": "2013-09-09T09:37:44Z",
@@ -33,10 +33,10 @@
     "githubSize": 612,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/368066?v=4",
     "githubForks": 260,
-    "githubStars": 1520,
-    "githubWatchers": 78,
+    "githubStars": 1523,
+    "githubWatchers": 77,
     "githubCreated_at": "2012-10-17T04:23:32Z",
-    "githubUpdated_at": "2018-11-17T11:33:52Z"
+    "githubUpdated_at": "2018-11-30T04:08:01Z"
   },
   {
     "githubUrl": "https://github.com/esbullington/flask-bootstrap",
@@ -46,10 +46,10 @@
     "githubSize": 931,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1138625?v=4",
     "githubForks": 41,
-    "githubStars": 173,
+    "githubStars": 171,
     "githubWatchers": 10,
     "githubCreated_at": "2012-03-06T17:53:29Z",
-    "githubUpdated_at": "2018-11-16T10:39:47Z"
+    "githubUpdated_at": "2018-12-01T04:52:11Z"
   },
   {
     "githubUrl": "https://github.com/audreyr/cookiecutter",
@@ -58,11 +58,11 @@
     "githubDescription": "A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.",
     "githubSize": 2264,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/74739?v=4",
-    "githubForks": 906,
-    "githubStars": 8246,
+    "githubForks": 916,
+    "githubStars": 8365,
     "githubWatchers": 227,
     "githubCreated_at": "2013-07-14T18:31:22Z",
-    "githubUpdated_at": "2018-11-18T10:38:24Z"
+    "githubUpdated_at": "2018-12-01T10:25:05Z"
   },
   {
     "githubUrl": "https://github.com/JackStouffer/Flask-Foundation",
@@ -72,10 +72,10 @@
     "githubSize": 1437,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/680068?v=4",
     "githubForks": 125,
-    "githubStars": 1171,
-    "githubWatchers": 48,
+    "githubStars": 1174,
+    "githubWatchers": 47,
     "githubCreated_at": "2013-09-15T06:34:48Z",
-    "githubUpdated_at": "2018-11-18T06:28:36Z"
+    "githubUpdated_at": "2018-11-30T13:07:29Z"
   },
   {
     "githubUrl": "https://github.com/coto/gae-boilerplate",
@@ -84,11 +84,11 @@
     "githubDescription": "Google App Engine Boilerplate",
     "githubSize": 7326,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/25914?v=4",
-    "githubForks": 208,
+    "githubForks": 207,
     "githubStars": 700,
     "githubWatchers": 97,
     "githubCreated_at": "2012-02-12T16:17:18Z",
-    "githubUpdated_at": "2018-11-16T09:44:25Z"
+    "githubUpdated_at": "2018-12-01T04:52:13Z"
   },
   {
     "githubUrl": "https://github.com/kamalgill/flask-appengine-template",
@@ -98,10 +98,10 @@
     "githubSize": 3609,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/133923?v=4",
     "githubForks": 206,
-    "githubStars": 1064,
+    "githubStars": 1063,
     "githubWatchers": 73,
     "githubCreated_at": "2010-09-19T17:42:15Z",
-    "githubUpdated_at": "2018-11-14T15:53:09Z"
+    "githubUpdated_at": "2018-12-01T04:53:08Z"
   },
   {
     "githubUrl": "https://github.com/fasouto/django-starter-template",
@@ -111,10 +111,10 @@
     "githubSize": 692,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/194200?v=4",
     "githubForks": 36,
-    "githubStars": 119,
+    "githubStars": 121,
     "githubWatchers": 13,
     "githubCreated_at": "2014-07-20T16:52:39Z",
-    "githubUpdated_at": "2018-11-10T17:58:12Z"
+    "githubUpdated_at": "2018-11-28T15:01:09Z"
   },
   {
     "githubUrl": "https://github.com/kdeldycke/cherrypy_mako_formish_ooop_boilerplate",
@@ -150,9 +150,9 @@
     "githubSize": 276,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/187098?v=4",
     "githubForks": 93,
-    "githubStars": 394,
+    "githubStars": 395,
     "githubWatchers": 27,
     "githubCreated_at": "2010-11-13T22:19:42Z",
-    "githubUpdated_at": "2018-11-17T10:48:25Z"
+    "githubUpdated_at": "2018-11-23T08:26:12Z"
   }
 ]

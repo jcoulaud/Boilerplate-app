@@ -109,7 +109,8 @@ const languages = [
 			'https://github.com/dbalas/koalerplate',
 			'https://github.com/ridhamtarpara/express-es8-rest-boilerplate',
 			'https://github.com/sandoche/Jekyll-webpack-boilerplate',
-			'https://github.com/ngduc/node-rem'
+			'https://github.com/ngduc/node-rem',
+			'https://github.com/agencyenterprise/aeboilerplate'
 		]
 	},
 	{
