@@ -6,11 +6,11 @@
     "githubDescription": "iOS-app template with lots of common tasks solved",
     "githubSize": 2587,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/50486?v=4",
-    "githubForks": 503,
-    "githubStars": 2871,
-    "githubWatchers": 208,
+    "githubForks": 502,
+    "githubStars": 2866,
+    "githubWatchers": 207,
     "githubCreated_at": "2011-08-22T22:16:17Z",
-    "githubUpdated_at": "2018-11-13T06:17:27Z"
+    "githubUpdated_at": "2018-12-23T15:21:15Z"
   },
   {
     "githubUrl": "https://github.com/crushlovely/Amaro",
@@ -20,10 +20,10 @@
     "githubSize": 450,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/7337?v=4",
     "githubForks": 40,
-    "githubStars": 395,
+    "githubStars": 396,
     "githubWatchers": 46,
     "githubCreated_at": "2014-03-02T22:28:45Z",
-    "githubUpdated_at": "2018-11-03T19:37:39Z"
+    "githubUpdated_at": "2018-12-05T12:14:10Z"
   },
   {
     "githubUrl": "https://github.com/openaphid/Boilerplate-iOS",
@@ -46,10 +46,10 @@
     "githubSize": 19,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/2470659?v=4",
     "githubForks": 62,
-    "githubStars": 800,
+    "githubStars": 799,
     "githubWatchers": 26,
     "githubCreated_at": "2015-06-19T14:08:01Z",
-    "githubUpdated_at": "2018-11-18T17:29:31Z"
+    "githubUpdated_at": "2018-12-06T15:35:40Z"
   },
   {
     "githubUrl": "https://github.com/JohnSundell/SwiftPlate",
@@ -58,11 +58,11 @@
     "githubDescription": "Easily generate cross platform Swift framework projects from the command line",
     "githubSize": 456,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/2466701?v=4",
-    "githubForks": 75,
-    "githubStars": 1577,
+    "githubForks": 76,
+    "githubStars": 1582,
     "githubWatchers": 31,
     "githubCreated_at": "2015-06-10T23:48:16Z",
-    "githubUpdated_at": "2018-12-01T14:10:52Z"
+    "githubUpdated_at": "2018-12-18T01:06:51Z"
   },
   {
     "githubUrl": "https://github.com/thoughtbot/liftoff",
@@ -71,10 +71,10 @@
     "githubDescription": "CLI for creating and configuring new Xcode projects",
     "githubSize": 18349,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/20134199?v=4",
-    "githubForks": 113,
-    "githubStars": 1614,
+    "githubForks": 112,
+    "githubStars": 1633,
     "githubWatchers": 69,
     "githubCreated_at": "2012-10-19T00:58:18Z",
-    "githubUpdated_at": "2018-11-27T03:52:06Z"
+    "githubUpdated_at": "2018-12-19T09:45:47Z"
   }
 ]
