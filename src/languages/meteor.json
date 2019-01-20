@@ -7,10 +7,10 @@
     "githubSize": 2585,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/4521527?v=4",
     "githubForks": 199,
-    "githubStars": 914,
+    "githubStars": 913,
     "githubWatchers": 67,
     "githubCreated_at": "2013-09-26T15:02:38Z",
-    "githubUpdated_at": "2018-12-13T04:51:12Z"
+    "githubUpdated_at": "2019-01-10T20:26:40Z"
   },
   {
     "githubUrl": "https://github.com/matteodem/meteor-boilerplate",
@@ -20,10 +20,10 @@
     "githubSize": 3070,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1301147?v=4",
     "githubForks": 151,
-    "githubStars": 859,
+    "githubStars": 860,
     "githubWatchers": 51,
     "githubCreated_at": "2013-09-09T19:42:09Z",
-    "githubUpdated_at": "2018-10-26T08:54:51Z"
+    "githubUpdated_at": "2019-01-12T00:20:16Z"
   },
   {
     "githubUrl": "https://github.com/themeteorchef/base",
@@ -32,11 +32,11 @@
     "githubDescription": "A starting point for Meteor apps.",
     "githubSize": 3367,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/8183166?v=4",
-    "githubForks": 252,
-    "githubStars": 671,
-    "githubWatchers": 47,
+    "githubForks": 251,
+    "githubStars": 669,
+    "githubWatchers": 46,
     "githubCreated_at": "2014-07-21T20:44:21Z",
-    "githubUpdated_at": "2018-12-21T00:44:06Z"
+    "githubUpdated_at": "2018-12-30T11:54:49Z"
   },
   {
     "githubUrl": "https://github.com/radiegtya/meteoris2",
@@ -58,11 +58,11 @@
     "githubDescription": "A starter project for React & Meteor",
     "githubSize": 29,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1445367?v=4",
-    "githubForks": 82,
+    "githubForks": 83,
     "githubStars": 168,
     "githubWatchers": 18,
     "githubCreated_at": "2015-07-26T22:12:48Z",
-    "githubUpdated_at": "2018-10-24T16:15:31Z"
+    "githubUpdated_at": "2019-01-09T15:57:16Z"
   },
   {
     "githubUrl": "https://github.com/ffxsam/ffx-meteor-react-boilerplate",
@@ -72,10 +72,10 @@
     "githubSize": 132,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/12532733?v=4",
     "githubForks": 23,
-    "githubStars": 136,
+    "githubStars": 137,
     "githubWatchers": 18,
     "githubCreated_at": "2016-01-28T21:20:25Z",
-    "githubUpdated_at": "2018-12-12T19:20:58Z"
+    "githubUpdated_at": "2019-01-19T23:13:04Z"
   },
   {
     "githubUrl": "https://github.com/meteor-useraccounts/boilerplates",
@@ -98,10 +98,10 @@
     "githubSize": 390,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1107871?v=4",
     "githubForks": 14,
-    "githubStars": 96,
+    "githubStars": 95,
     "githubWatchers": 7,
     "githubCreated_at": "2013-11-12T20:18:35Z",
-    "githubUpdated_at": "2018-05-15T18:42:11Z"
+    "githubUpdated_at": "2019-01-07T15:23:09Z"
   },
   {
     "githubUrl": "https://github.com/SilentCicero/meteor-dapp-boilerplate",
@@ -111,10 +111,10 @@
     "githubSize": 2904,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/9806174?v=4",
     "githubForks": 37,
-    "githubStars": 147,
+    "githubStars": 146,
     "githubWatchers": 13,
     "githubCreated_at": "2015-03-09T20:02:44Z",
-    "githubUpdated_at": "2018-10-22T08:37:32Z"
+    "githubUpdated_at": "2019-01-05T17:13:05Z"
   },
   {
     "githubUrl": "https://github.com/timothyarmes/ta-meteor-apollo-starter-kit",
@@ -123,10 +123,10 @@
     "githubDescription": "Meteor 1.8, Apollo 2, React 16, Multilingual ready, PWA, Styled-Components boilerplate",
     "githubSize": 3315,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1092550?v=4",
-    "githubForks": 7,
-    "githubStars": 36,
+    "githubForks": 8,
+    "githubStars": 39,
     "githubWatchers": 6,
     "githubCreated_at": "2018-10-04T15:30:30Z",
-    "githubUpdated_at": "2018-11-23T14:19:49Z"
+    "githubUpdated_at": "2019-01-06T12:29:58Z"
   }
 ]
