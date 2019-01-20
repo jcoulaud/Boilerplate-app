@@ -6,18 +6,33 @@ const jsonfile = require('jsonfile');
 const async = require('async');
 const path = require('path');
 const GithubApi = require('github');
+const fs = require('fs');
 
-const Languages = require ('./../src/languages/languages');
+const languagesDirectory = path.join(__dirname, '..', 'src', 'languages');
+const Languages = require('./../src/languages/languages');
+
+// Remove olf languages files
+fs.readdir(languagesDirectory, (err, files) => {
+  if (err) throw err;
+
+  for (const file of files) {
+    if (file !== 'languages.js') {
+      fs.unlinkSync(path.join(languagesDirectory, file), err => {
+        if (err) throw err;
+      });
+    }
+  }
+});
 
 // Init Github API
 const github = new GithubApi({
   headers: {
-    'user-agent': process.env.GITHUB_USER_AGENT,
+    'user-agent': process.env.GITHUB_USER_AGENT
   }
 });
 github.authenticate({
   type: 'token',
-  token: process.env.GITHUB_TOKEN,
+  token: process.env.GITHUB_TOKEN
 });
 
 // Get infos about Github URL
@@ -25,59 +40,72 @@ function getGithubPath(url) {
   return url.replace('https://github.com/', '');
 }
 function getGithubOwner(url) {
-	return getGithubPath(url).split('/')[0];
+  return getGithubPath(url).split('/')[0];
 }
 function getGithubName(url) {
-	return getGithubPath(url).split('/')[1];
+  return getGithubPath(url).split('/')[1];
 }
 
 function growRepo(repo, outerCallback) {
-	const repoInfo = {
-		githubUrl  : repo,
-		githubOwner: getGithubOwner(repo),
-		githubName : getGithubName(repo)
-	};
+  const repoInfo = {
+    githubUrl: repo,
+    githubOwner: getGithubOwner(repo),
+    githubName: getGithubName(repo)
+  };
 
-	function getRepo(callback) {
-		github.repos.get({
-		  owner: repoInfo.githubOwner,
-		  repo : repoInfo.githubName
-		}, callback);
-	}
+  function getRepo(callback) {
+    github.repos.get(
+      {
+        owner: repoInfo.githubOwner,
+        repo: repoInfo.githubName
+      },
+      callback
+    );
+  }
 
-	async.parallel([getRepo], (error, results) => {
-		if (error) {
+  async.parallel([getRepo], (error, results) => {
+    if (error) {
       outerCallback(error, null);
       return;
     }
-		var response = results[0];
-		const tree = {
-			githubUrl        : repo,
-			githubOwner      : repoInfo.githubOwner,
-			githubName       : repoInfo.githubName,
-			githubDescription: response.data.description,
-			githubSize       : response.data.size,
-			githubAvatar     : response.data.owner.avatar_url,
-			githubForks      : response.data.forks_count,
-			githubStars      : response.data.stargazers_count,
-			githubWatchers   : response.data.subscribers_count,
-			githubCreated_at : response.data.created_at,
-			githubUpdated_at : response.data.updated_at
-		};
-		 outerCallback(null, tree);
-	});
+    var response = results[0];
+    const tree = {
+      githubUrl: repo,
+      githubOwner: repoInfo.githubOwner,
+      githubName: repoInfo.githubName,
+      githubDescription: response.data.description,
+      githubSize: response.data.size,
+      githubAvatar: response.data.owner.avatar_url,
+      githubForks: response.data.forks_count,
+      githubStars: response.data.stargazers_count,
+      githubWatchers: response.data.subscribers_count,
+      githubCreated_at: response.data.created_at,
+      githubUpdated_at: response.data.updated_at
+    };
+    outerCallback(null, tree);
+  });
 }
 
 function growRepos(repoList, callback) {
-	async.mapSeries(repoList, (repo, cb) => {
-		growRepo(repo, cb);
-	}, callback);
+  async.mapSeries(
+    repoList,
+    (repo, cb) => {
+      growRepo(repo, cb);
+    },
+    callback
+  );
 }
 
-Languages.map((language) => {
-	return growRepos(language.repositories, (error, trees) => {
-		// Append response to file
-		const jsonOutputPath = path.join(__dirname, '..', 'src', 'languages', `${language.lang.toLowerCase()}.json`);
-		jsonfile.writeFileSync(jsonOutputPath, trees, {spaces: 2})
-	})
+Languages.map(language => {
+  return growRepos(language.repositories, (error, trees) => {
+    // Append response to file
+    const jsonOutputPath = path.join(
+      __dirname,
+      '..',
+      'src',
+      'languages',
+      `${language.lang.toLowerCase()}.json`
+    );
+    jsonfile.writeFileSync(jsonOutputPath, trees, { spaces: 2 });
+  });
 });
