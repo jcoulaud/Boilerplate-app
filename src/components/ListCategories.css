@@ -8,7 +8,7 @@
 }
 
 .ListLanguages-item {
-  margin-bottom: 30px;
+  margin-bottom: 30px !important;
   text-align: center;
 }
 
@@ -20,11 +20,11 @@
 }
 .ListLanguages-paper i {
   font-size: 7em;
-  color: #00BCD4;
+  color: #00bcd4;
 }
 .ListLanguages-paper span {
   font-size: 0.8em;
-  color: #00BCD4;
+  color: #00bcd4;
 }
 
 .loader {

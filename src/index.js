@@ -1,10 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
-import { BrowserRouter as Router, Route, Redirect, Switch, browserHistory } from 'react-router-dom';
 
-import injectTapEventPlugin from 'react-tap-event-plugin';
-injectTapEventPlugin();
+import {
+  BrowserRouter as Router,
+  Route,
+  Redirect,
+  Switch,
+} from 'react-router-dom';
+import { createBrowserHistory } from 'history';
 
 import ContactMe from './components/ContactMe';
 import Header from './components/Header';
@@ -20,31 +23,32 @@ import ReactGA from 'react-ga';
 ReactGA.initialize('UA-96986515-1');
 
 const fireTracking = () => {
-	ReactGA.pageview(window.location.pathname);
-	return null;
-}
+  ReactGA.pageview(window.location.pathname);
+  return null;
+};
 
 const ScrollToTop = () => {
   window.scrollTo(0, 0);
   return null;
 };
 
-ReactDOM.render((
-	<MuiThemeProvider>
-	  <Router history={browserHistory}>
-	  	<div>
-	  		<Route component={fireTracking}/>
-	  		<Route component={ScrollToTop}/>
-	  		<Header />
-	  		<ContactMe />
-	  		<Switch>
-		  		{routes.map((route, i) => (
-						<Route key={i} {...route}/>
-					))}
-					<Redirect to="/" />
-				</Switch>
-				<Footer />
-	    </div>
-	  </Router>
-	</MuiThemeProvider>
-), document.getElementById('root'));
+const customHistory = createBrowserHistory();
+
+ReactDOM.render(
+  <Router history={customHistory}>
+    <div>
+      <Route component={fireTracking} />
+      <Route component={ScrollToTop} />
+      <Header />
+      <ContactMe />
+      <Switch>
+        {routes.map((route, i) => (
+          <Route key={i} {...route} />
+        ))}
+        <Redirect to="/" />
+      </Switch>
+      <Footer />
+    </div>
+  </Router>,
+  document.getElementById('root'),
+);
