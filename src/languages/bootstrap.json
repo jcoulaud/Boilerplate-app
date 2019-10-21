@@ -4,13 +4,13 @@
     "githubOwner": "modularcode",
     "githubName": "modular-admin-html",
     "githubDescription": "ModularAdmin - Free Dashboard Theme Built On Bootstrap 4 | HTML Version",
-    "githubSize": 6441,
+    "githubSize": 7497,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/12553500?v=4",
-    "githubForks": 641,
-    "githubStars": 2369,
-    "githubWatchers": 206,
+    "githubForks": 744,
+    "githubStars": 2608,
+    "githubWatchers": 222,
     "githubCreated_at": "2015-07-25T13:35:26Z",
-    "githubUpdated_at": "2019-01-20T11:27:11Z"
+    "githubUpdated_at": "2019-10-20T20:35:23Z"
   },
   {
     "githubUrl": "https://github.com/lewagon/bootstrap-boilerplate",
@@ -19,11 +19,11 @@
     "githubDescription": "A nice Bootstrap HTML boilerplate using official Bootstrap CDN to start coding right away!",
     "githubSize": 8,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/5470001?v=4",
-    "githubForks": 69,
-    "githubStars": 81,
+    "githubForks": 72,
+    "githubStars": 87,
     "githubWatchers": 10,
     "githubCreated_at": "2014-07-02T16:45:20Z",
-    "githubUpdated_at": "2018-12-18T17:00:52Z"
+    "githubUpdated_at": "2019-06-26T09:03:39Z"
   },
   {
     "githubUrl": "https://github.com/micromata/bootstrap-kickstart",
@@ -58,7 +58,7 @@
     "githubDescription": "A simple and easy CDN hosted Bootstrap Boilerplate page.",
     "githubSize": 9,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/2080494?v=4",
-    "githubForks": 6,
+    "githubForks": 5,
     "githubStars": 8,
     "githubWatchers": 4,
     "githubCreated_at": "2013-10-20T20:35:19Z",
@@ -71,10 +71,10 @@
     "githubDescription": "Initializr's generated page",
     "githubSize": 118,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/522007?v=4",
-    "githubForks": 399,
-    "githubStars": 1142,
-    "githubWatchers": 117,
+    "githubForks": 398,
+    "githubStars": 1138,
+    "githubWatchers": 112,
     "githubCreated_at": "2011-12-09T00:32:32Z",
-    "githubUpdated_at": "2019-01-09T09:31:36Z"
+    "githubUpdated_at": "2019-10-19T00:04:11Z"
   }
 ]
