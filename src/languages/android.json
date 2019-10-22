@@ -123,11 +123,11 @@
     "githubDescription": "This sample shows how to implement an audio media app that works across multiple form factors and provide a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices",
     "githubSize": 8314,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/32689599?v=4",
-    "githubForks": 3342,
-    "githubStars": 11169,
-    "githubWatchers": 626,
+    "githubForks": 3343,
+    "githubStars": 11170,
+    "githubWatchers": 627,
     "githubCreated_at": "2015-03-10T00:04:35Z",
-    "githubUpdated_at": "2019-10-21T16:02:12Z"
+    "githubUpdated_at": "2019-10-22T07:48:32Z"
   },
   {
     "githubUrl": "https://github.com/googlesamples/android-architecture",
@@ -136,11 +136,11 @@
     "githubDescription": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
     "githubSize": 12072,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/32689599?v=4",
-    "githubForks": 9616,
-    "githubStars": 34534,
+    "githubForks": 9621,
+    "githubStars": 34544,
     "githubWatchers": 2556,
     "githubCreated_at": "2016-02-05T13:42:07Z",
-    "githubUpdated_at": "2019-10-21T12:44:41Z"
+    "githubUpdated_at": "2019-10-22T10:45:58Z"
   },
   {
     "githubUrl": "https://github.com/ribot/android-boilerplate",
@@ -153,7 +153,7 @@
     "githubStars": 4112,
     "githubWatchers": 256,
     "githubCreated_at": "2015-04-21T11:45:16Z",
-    "githubUpdated_at": "2019-10-21T02:29:09Z"
+    "githubUpdated_at": "2019-10-22T03:34:06Z"
   },
   {
     "githubUrl": "https://github.com/blocoio/android-template",

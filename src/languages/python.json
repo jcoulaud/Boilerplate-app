@@ -19,7 +19,7 @@
     "githubDescription": "A bootstrap Python application, so that you can focus on writing code",
     "githubSize": 112,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1074304?v=4",
-    "githubForks": 31,
+    "githubForks": 30,
     "githubStars": 286,
     "githubWatchers": 17,
     "githubCreated_at": "2013-09-09T09:37:44Z",
@@ -33,10 +33,10 @@
     "githubSize": 612,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/368066?v=4",
     "githubForks": 269,
-    "githubStars": 1585,
+    "githubStars": 1586,
     "githubWatchers": 77,
     "githubCreated_at": "2012-10-17T04:23:32Z",
-    "githubUpdated_at": "2019-10-19T22:56:32Z"
+    "githubUpdated_at": "2019-10-22T05:57:26Z"
   },
   {
     "githubUrl": "https://github.com/esbullington/flask-bootstrap",
@@ -58,11 +58,11 @@
     "githubDescription": "A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.",
     "githubSize": 2418,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/12502901?v=4",
-    "githubForks": 1156,
-    "githubStars": 10457,
+    "githubForks": 1157,
+    "githubStars": 10469,
     "githubWatchers": 228,
     "githubCreated_at": "2013-07-14T18:31:22Z",
-    "githubUpdated_at": "2019-10-21T12:47:50Z"
+    "githubUpdated_at": "2019-10-22T07:44:11Z"
   },
   {
     "githubUrl": "https://github.com/JackStouffer/Flask-Foundation",

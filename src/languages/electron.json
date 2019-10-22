@@ -6,11 +6,11 @@
     "githubDescription": "A Foundation for Scalable Cross-Platform Apps",
     "githubSize": 8324,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/28049053?v=4",
-    "githubForks": 2161,
-    "githubStars": 13002,
+    "githubForks": 2160,
+    "githubStars": 13006,
     "githubWatchers": 260,
     "githubCreated_at": "2015-05-18T09:54:57Z",
-    "githubUpdated_at": "2019-10-21T13:11:35Z"
+    "githubUpdated_at": "2019-10-22T10:24:38Z"
   },
   {
     "githubUrl": "https://github.com/szwacz/electron-boilerplate",
@@ -20,10 +20,10 @@
     "githubSize": 813,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/4573903?v=4",
     "githubForks": 465,
-    "githubStars": 2741,
+    "githubStars": 2740,
     "githubWatchers": 112,
     "githubCreated_at": "2015-04-25T09:16:40Z",
-    "githubUpdated_at": "2019-10-21T08:41:03Z"
+    "githubUpdated_at": "2019-10-22T02:19:23Z"
   },
   {
     "githubUrl": "https://github.com/SimulatedGREG/electron-vue",
@@ -32,11 +32,11 @@
     "githubDescription": "An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.",
     "githubSize": 5893,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/8327811?v=4",
-    "githubForks": 1092,
-    "githubStars": 10851,
+    "githubForks": 1094,
+    "githubStars": 10861,
     "githubWatchers": 245,
     "githubCreated_at": "2016-05-12T07:08:12Z",
-    "githubUpdated_at": "2019-10-21T15:12:01Z"
+    "githubUpdated_at": "2019-10-22T10:09:22Z"
   },
   {
     "githubUrl": "https://github.com/bradstewart/electron-boilerplate-vue",
@@ -59,10 +59,10 @@
     "githubSize": 386,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/170270?v=4",
     "githubForks": 52,
-    "githubStars": 605,
+    "githubStars": 604,
     "githubWatchers": 20,
     "githubCreated_at": "2015-04-23T11:28:40Z",
-    "githubUpdated_at": "2019-10-17T02:42:56Z"
+    "githubUpdated_at": "2019-10-22T05:25:13Z"
   },
   {
     "githubUrl": "https://github.com/sindresorhus/electron-boilerplate",
@@ -72,10 +72,10 @@
     "githubSize": 338,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/170270?v=4",
     "githubForks": 149,
-    "githubStars": 1315,
+    "githubStars": 1314,
     "githubWatchers": 35,
     "githubCreated_at": "2015-04-23T11:38:29Z",
-    "githubUpdated_at": "2019-10-12T22:06:53Z"
+    "githubUpdated_at": "2019-10-21T19:38:59Z"
   },
   {
     "githubUrl": "https://github.com/Equanox/gotron",
@@ -84,7 +84,7 @@
     "githubDescription": "Go Api for Electron",
     "githubSize": 5379,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/3776893?v=4",
-    "githubForks": 60,
+    "githubForks": 59,
     "githubStars": 657,
     "githubWatchers": 45,
     "githubCreated_at": "2017-03-31T12:05:44Z",

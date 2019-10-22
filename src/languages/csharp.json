@@ -19,24 +19,24 @@
     "githubDescription": "ASP.NET Boilerplate - Web Application Framework",
     "githubSize": 59170,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/5957277?v=4",
-    "githubForks": 2871,
-    "githubStars": 7525,
-    "githubWatchers": 811,
+    "githubForks": 2868,
+    "githubStars": 7526,
+    "githubWatchers": 813,
     "githubCreated_at": "2013-08-18T20:45:08Z",
-    "githubUpdated_at": "2019-10-21T13:45:42Z"
+    "githubUpdated_at": "2019-10-22T08:33:50Z"
   },
   {
     "githubUrl": "https://github.com/ASP-NET-MVC-Boilerplate/Templates",
     "githubOwner": "ASP-NET-MVC-Boilerplate",
     "githubName": "Templates",
     "githubDescription": ".NET project templates with batteries included, providing the minimum amount of code required to get you going faster.",
-    "githubSize": 47613,
+    "githubSize": 47620,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/22211766?v=4",
     "githubForks": 353,
-    "githubStars": 1838,
+    "githubStars": 1841,
     "githubWatchers": 164,
     "githubCreated_at": "2014-10-27T08:57:45Z",
-    "githubUpdated_at": "2019-10-21T15:57:03Z"
+    "githubUpdated_at": "2019-10-22T10:08:35Z"
   },
   {
     "githubUrl": "https://github.com/aspnetboilerplate/module-zero",
@@ -72,9 +72,9 @@
     "githubSize": 38080,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1057779?v=4",
     "githubForks": 1948,
-    "githubStars": 6774,
-    "githubWatchers": 471,
+    "githubStars": 6776,
+    "githubWatchers": 472,
     "githubCreated_at": "2009-11-16T02:01:45Z",
-    "githubUpdated_at": "2019-10-21T03:27:58Z"
+    "githubUpdated_at": "2019-10-22T09:59:18Z"
   }
 ]
