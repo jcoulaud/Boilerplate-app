@@ -6,11 +6,11 @@
     "githubDescription": "A boilerplate for Django web applications",
     "githubSize": 4821,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1226900?v=4",
-    "githubForks": 270,
-    "githubStars": 1391,
-    "githubWatchers": 71,
+    "githubForks": 272,
+    "githubStars": 1402,
+    "githubWatchers": 68,
     "githubCreated_at": "2015-05-08T02:26:16Z",
-    "githubUpdated_at": "2019-10-20T05:24:23Z"
+    "githubUpdated_at": "2019-12-11T19:49:43Z"
   },
   {
     "githubUrl": "https://github.com/zapier/django-knowledge",
@@ -20,10 +20,10 @@
     "githubSize": 1033,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1261889?v=4",
     "githubForks": 105,
-    "githubStars": 456,
-    "githubWatchers": 69,
+    "githubStars": 457,
+    "githubWatchers": 72,
     "githubCreated_at": "2012-02-16T19:45:17Z",
-    "githubUpdated_at": "2019-10-10T08:14:25Z"
+    "githubUpdated_at": "2019-12-02T08:20:46Z"
   },
   {
     "githubUrl": "https://github.com/mbrochh/django-reactjs-boilerplate",
@@ -32,11 +32,11 @@
     "githubDescription": "An example how you can use ReactJS with your Django project.",
     "githubSize": 795,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/166590?v=4",
-    "githubForks": 199,
-    "githubStars": 761,
+    "githubForks": 203,
+    "githubStars": 764,
     "githubWatchers": 76,
     "githubCreated_at": "2016-03-05T09:52:38Z",
-    "githubUpdated_at": "2019-10-18T05:13:46Z"
+    "githubUpdated_at": "2019-12-12T18:54:08Z"
   },
   {
     "githubUrl": "https://github.com/lincolnloop/django-startproject",
@@ -49,7 +49,7 @@
     "githubStars": 242,
     "githubWatchers": 10,
     "githubCreated_at": "2009-08-19T05:34:50Z",
-    "githubUpdated_at": "2019-08-17T14:16:34Z"
+    "githubUpdated_at": "2019-12-05T10:55:45Z"
   },
   {
     "githubUrl": "https://github.com/agconti/cookiecutter-django-rest",
@@ -58,11 +58,11 @@
     "githubDescription": "Build best practiced apis fast with Python3",
     "githubSize": 4743,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/3332051?v=4",
-    "githubForks": 127,
-    "githubStars": 799,
+    "githubForks": 128,
+    "githubStars": 818,
     "githubWatchers": 22,
     "githubCreated_at": "2015-06-04T16:46:49Z",
-    "githubUpdated_at": "2019-10-22T03:17:34Z"
+    "githubUpdated_at": "2019-12-11T00:54:38Z"
   },
   {
     "githubUrl": "https://github.com/brwr/thinkster-django-angular-boilerplate",
@@ -71,11 +71,11 @@
     "githubDescription": "Boilerplate for the Thinkster.io Django and AngularJS tutorial.",
     "githubSize": 417,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/4095660?v=4",
-    "githubForks": 1422,
+    "githubForks": 1415,
     "githubStars": 214,
-    "githubWatchers": 13,
+    "githubWatchers": 12,
     "githubCreated_at": "2014-11-03T21:04:43Z",
-    "githubUpdated_at": "2019-10-20T19:52:17Z"
+    "githubUpdated_at": "2019-12-09T14:42:49Z"
   },
   {
     "githubUrl": "https://github.com/mike360/django-html5-boilerplate",
@@ -95,13 +95,13 @@
     "githubOwner": "vintasoftware",
     "githubName": "django-react-boilerplate",
     "githubDescription": "Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate",
-    "githubSize": 638,
+    "githubSize": 747,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/5529080?v=4",
-    "githubForks": 140,
-    "githubStars": 664,
-    "githubWatchers": 38,
+    "githubForks": 152,
+    "githubStars": 702,
+    "githubWatchers": 39,
     "githubCreated_at": "2016-07-19T20:37:29Z",
-    "githubUpdated_at": "2019-10-18T09:48:41Z"
+    "githubUpdated_at": "2019-12-12T07:39:41Z"
   },
   {
     "githubUrl": "https://github.com/bueda/django-boilerplate",
@@ -110,10 +110,10 @@
     "githubDescription": " A standard layout for Django apps",
     "githubSize": 1048,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/187098?v=4",
-    "githubForks": 16,
+    "githubForks": 17,
     "githubStars": 70,
     "githubWatchers": 6,
     "githubCreated_at": "2010-11-13T05:21:41Z",
-    "githubUpdated_at": "2019-08-21T06:24:08Z"
+    "githubUpdated_at": "2019-11-19T20:01:56Z"
   }
 ]
