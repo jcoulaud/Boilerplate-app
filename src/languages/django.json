@@ -6,11 +6,11 @@
     "githubDescription": "A boilerplate for Django web applications",
     "githubSize": 4821,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1226900?v=4",
-    "githubForks": 272,
-    "githubStars": 1402,
-    "githubWatchers": 68,
+    "githubForks": 276,
+    "githubStars": 1408,
+    "githubWatchers": 69,
     "githubCreated_at": "2015-05-08T02:26:16Z",
-    "githubUpdated_at": "2019-12-11T19:49:43Z"
+    "githubUpdated_at": "2020-01-29T21:31:25Z"
   },
   {
     "githubUrl": "https://github.com/zapier/django-knowledge",
@@ -19,11 +19,11 @@
     "githubDescription": "Add a help desk or knowledge base to your Django project with only a few lines of boilerplate code.",
     "githubSize": 1033,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1261889?v=4",
-    "githubForks": 105,
-    "githubStars": 457,
-    "githubWatchers": 72,
+    "githubForks": 107,
+    "githubStars": 462,
+    "githubWatchers": 73,
     "githubCreated_at": "2012-02-16T19:45:17Z",
-    "githubUpdated_at": "2019-12-02T08:20:46Z"
+    "githubUpdated_at": "2020-01-29T09:20:01Z"
   },
   {
     "githubUrl": "https://github.com/mbrochh/django-reactjs-boilerplate",
@@ -32,11 +32,11 @@
     "githubDescription": "An example how you can use ReactJS with your Django project.",
     "githubSize": 795,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/166590?v=4",
-    "githubForks": 203,
-    "githubStars": 764,
-    "githubWatchers": 76,
+    "githubForks": 204,
+    "githubStars": 771,
+    "githubWatchers": 77,
     "githubCreated_at": "2016-03-05T09:52:38Z",
-    "githubUpdated_at": "2019-12-12T18:54:08Z"
+    "githubUpdated_at": "2020-01-25T18:03:57Z"
   },
   {
     "githubUrl": "https://github.com/lincolnloop/django-startproject",
@@ -56,13 +56,13 @@
     "githubOwner": "agconti",
     "githubName": "cookiecutter-django-rest",
     "githubDescription": "Build best practiced apis fast with Python3",
-    "githubSize": 4743,
+    "githubSize": 4780,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/3332051?v=4",
-    "githubForks": 128,
-    "githubStars": 818,
-    "githubWatchers": 22,
+    "githubForks": 133,
+    "githubStars": 850,
+    "githubWatchers": 23,
     "githubCreated_at": "2015-06-04T16:46:49Z",
-    "githubUpdated_at": "2019-12-11T00:54:38Z"
+    "githubUpdated_at": "2020-01-29T08:09:22Z"
   },
   {
     "githubUrl": "https://github.com/brwr/thinkster-django-angular-boilerplate",
@@ -71,11 +71,11 @@
     "githubDescription": "Boilerplate for the Thinkster.io Django and AngularJS tutorial.",
     "githubSize": 417,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/4095660?v=4",
-    "githubForks": 1415,
-    "githubStars": 214,
+    "githubForks": 1408,
+    "githubStars": 212,
     "githubWatchers": 12,
     "githubCreated_at": "2014-11-03T21:04:43Z",
-    "githubUpdated_at": "2019-12-09T14:42:49Z"
+    "githubUpdated_at": "2020-02-02T06:40:15Z"
   },
   {
     "githubUrl": "https://github.com/mike360/django-html5-boilerplate",
@@ -85,23 +85,23 @@
     "githubSize": 634,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/243422?v=4",
     "githubForks": 42,
-    "githubStars": 178,
+    "githubStars": 177,
     "githubWatchers": 14,
     "githubCreated_at": "2011-02-04T18:48:42Z",
-    "githubUpdated_at": "2019-07-28T13:45:16Z"
+    "githubUpdated_at": "2020-01-22T21:55:08Z"
   },
   {
     "githubUrl": "https://github.com/vintasoftware/django-react-boilerplate",
     "githubOwner": "vintasoftware",
     "githubName": "django-react-boilerplate",
     "githubDescription": "Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate",
-    "githubSize": 747,
+    "githubSize": 796,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/5529080?v=4",
-    "githubForks": 152,
-    "githubStars": 702,
-    "githubWatchers": 39,
+    "githubForks": 167,
+    "githubStars": 767,
+    "githubWatchers": 43,
     "githubCreated_at": "2016-07-19T20:37:29Z",
-    "githubUpdated_at": "2019-12-12T07:39:41Z"
+    "githubUpdated_at": "2020-02-03T20:35:43Z"
   },
   {
     "githubUrl": "https://github.com/bueda/django-boilerplate",

@@ -6,11 +6,11 @@
     "githubDescription": ":ng: An AngularJS Starter repo for AngularJS + ES6 + Webpack",
     "githubSize": 216,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1016365?v=4",
-    "githubForks": 1510,
-    "githubStars": 1946,
-    "githubWatchers": 88,
+    "githubForks": 1504,
+    "githubStars": 1947,
+    "githubWatchers": 85,
     "githubCreated_at": "2015-05-16T05:43:03Z",
-    "githubUpdated_at": "2019-12-09T10:54:08Z"
+    "githubUpdated_at": "2020-01-30T11:08:57Z"
   },
   {
     "githubUrl": "https://github.com/tomastrajan/angular-js-es6-testing-example",
@@ -45,11 +45,11 @@
     "githubDescription": "Angular admin dashboard with material design",
     "githubSize": 1767,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/8533408?v=4",
-    "githubForks": 463,
-    "githubStars": 1287,
+    "githubForks": 464,
+    "githubStars": 1289,
     "githubWatchers": 103,
     "githubCreated_at": "2015-03-12T12:07:23Z",
-    "githubUpdated_at": "2019-12-07T00:21:49Z"
+    "githubUpdated_at": "2020-01-13T04:11:08Z"
   },
   {
     "githubUrl": "https://github.com/ngbp/ngbp",
@@ -58,11 +58,11 @@
     "githubDescription": "A sophisticated build management system for web apps (formerly ng-boilerplate). Created by @joshdmiller",
     "githubSize": 2763,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/5474351?v=4",
-    "githubForks": 1138,
-    "githubStars": 4035,
-    "githubWatchers": 187,
+    "githubForks": 1136,
+    "githubStars": 4028,
+    "githubWatchers": 186,
     "githubCreated_at": "2013-02-14T19:07:06Z",
-    "githubUpdated_at": "2019-12-03T16:03:06Z"
+    "githubUpdated_at": "2020-01-25T16:35:23Z"
   },
   {
     "githubUrl": "https://github.com/vesparny/angular-kickstart",
@@ -72,10 +72,10 @@
     "githubSize": 3789,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/82070?v=4",
     "githubForks": 89,
-    "githubStars": 580,
+    "githubStars": 575,
     "githubWatchers": 31,
     "githubCreated_at": "2013-11-11T08:11:07Z",
-    "githubUpdated_at": "2019-12-03T16:02:33Z"
+    "githubUpdated_at": "2020-01-24T00:30:13Z"
   },
   {
     "githubUrl": "https://github.com/okigan/angular-sensible-seed",
@@ -97,11 +97,11 @@
     "githubDescription": "Seed project for angular apps. ",
     "githubSize": 14494,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/139426?v=4",
-    "githubForks": 7361,
-    "githubStars": 13366,
-    "githubWatchers": 748,
+    "githubForks": 7338,
+    "githubStars": 13359,
+    "githubWatchers": 747,
     "githubCreated_at": "2010-12-24T06:07:50Z",
-    "githubUpdated_at": "2019-12-12T16:26:30Z"
+    "githubUpdated_at": "2020-02-03T20:21:31Z"
   },
   {
     "githubUrl": "https://github.com/vesparny/angularjs-playground",
@@ -136,11 +136,11 @@
     "githubDescription": null,
     "githubSize": 1093,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/214628?v=4",
-    "githubForks": 327,
-    "githubStars": 1063,
+    "githubForks": 325,
+    "githubStars": 1061,
     "githubWatchers": 79,
     "githubCreated_at": "2013-02-24T17:38:00Z",
-    "githubUpdated_at": "2019-12-11T21:09:17Z"
+    "githubUpdated_at": "2020-01-26T20:24:52Z"
   },
   {
     "githubUrl": "https://github.com/btford/angular-express-blog",
@@ -149,11 +149,11 @@
     "githubDescription": "Example AngularJS app using an Express + Node.js backend.",
     "githubSize": 1210,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/474988?v=4",
-    "githubForks": 260,
+    "githubForks": 259,
     "githubStars": 603,
     "githubWatchers": 42,
     "githubCreated_at": "2012-06-19T22:45:26Z",
-    "githubUpdated_at": "2019-12-08T12:22:10Z"
+    "githubUpdated_at": "2019-12-23T18:53:19Z"
   },
   {
     "githubUrl": "https://github.com/btford/angular-socket-io-seed",
@@ -188,24 +188,24 @@
     "githubDescription": "A Lineman Application Template using AngularJS",
     "githubSize": 2278,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/6569918?v=4",
-    "githubForks": 96,
-    "githubStars": 255,
+    "githubForks": 95,
+    "githubStars": 254,
     "githubWatchers": 34,
     "githubCreated_at": "2013-04-18T22:34:30Z",
-    "githubUpdated_at": "2019-11-14T19:49:14Z"
+    "githubUpdated_at": "2020-02-02T22:52:16Z"
   },
   {
     "githubUrl": "https://github.com/meanjs/mean",
     "githubOwner": "meanjs",
     "githubName": "mean",
     "githubDescription": "MEAN.JS - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js - ",
-    "githubSize": 4321,
+    "githubSize": 4251,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/6232122?v=4",
-    "githubForks": 1941,
-    "githubStars": 4792,
-    "githubWatchers": 329,
+    "githubForks": 1951,
+    "githubStars": 4812,
+    "githubWatchers": 323,
     "githubCreated_at": "2013-12-29T13:01:15Z",
-    "githubUpdated_at": "2019-12-12T04:40:33Z"
+    "githubUpdated_at": "2020-02-02T16:13:34Z"
   },
   {
     "githubUrl": "https://github.com/linnovate/mean",
@@ -214,11 +214,11 @@
     "githubDescription": "The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications",
     "githubSize": 8539,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/307487?v=4",
-    "githubForks": 3585,
-    "githubStars": 11825,
-    "githubWatchers": 675,
+    "githubForks": 3577,
+    "githubStars": 11864,
+    "githubWatchers": 674,
     "githubCreated_at": "2013-05-22T12:15:47Z",
-    "githubUpdated_at": "2019-12-13T06:19:20Z"
+    "githubUpdated_at": "2020-02-03T18:36:27Z"
   },
   {
     "githubUrl": "https://github.com/akveo/blur-admin",
@@ -227,11 +227,11 @@
     "githubDescription": "AngularJS Bootstrap Admin Panel Framework",
     "githubSize": 87532,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/11921694?v=4",
-    "githubForks": 3086,
-    "githubStars": 10635,
-    "githubWatchers": 534,
+    "githubForks": 3091,
+    "githubStars": 10701,
+    "githubWatchers": 538,
     "githubCreated_at": "2016-04-08T08:30:20Z",
-    "githubUpdated_at": "2019-12-12T16:40:58Z"
+    "githubUpdated_at": "2020-02-03T17:32:35Z"
   },
   {
     "githubUrl": "https://github.com/gusgard/angular-seed-es6",
@@ -254,9 +254,9 @@
     "githubSize": 2625,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/7040162?v=4",
     "githubForks": 111,
-    "githubStars": 705,
+    "githubStars": 704,
     "githubWatchers": 41,
     "githubCreated_at": "2015-03-04T01:59:47Z",
-    "githubUpdated_at": "2019-12-03T11:32:22Z"
+    "githubUpdated_at": "2020-02-03T10:27:14Z"
   }
 ]

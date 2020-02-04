@@ -4,13 +4,13 @@
     "githubOwner": "emil-e",
     "githubName": "rapidcheck",
     "githubDescription": "QuickCheck clone for C++ with the goal of being simple to use with as little boilerplate as possible.",
-    "githubSize": 1654,
+    "githubSize": 1649,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/5737870?v=4",
-    "githubForks": 108,
-    "githubStars": 604,
-    "githubWatchers": 36,
+    "githubForks": 113,
+    "githubStars": 623,
+    "githubWatchers": 38,
     "githubCreated_at": "2014-05-08T20:19:43Z",
-    "githubUpdated_at": "2019-12-12T21:05:41Z"
+    "githubUpdated_at": "2020-01-31T09:04:12Z"
   },
   {
     "githubUrl": "https://github.com/senbon/gloom",
@@ -19,11 +19,11 @@
     "githubDescription": "A minimalistic boilerplate for OpenGL with C++.",
     "githubSize": 422,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/3490366?v=4",
-    "githubForks": 20,
-    "githubStars": 48,
+    "githubForks": 21,
+    "githubStars": 51,
     "githubWatchers": 5,
     "githubCreated_at": "2016-01-29T13:26:55Z",
-    "githubUpdated_at": "2019-11-30T21:21:37Z"
+    "githubUpdated_at": "2019-12-31T10:21:11Z"
   },
   {
     "githubUrl": "https://github.com/Paspartout/BoilerplatePP",
@@ -33,10 +33,10 @@
     "githubSize": 84,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/2720369?v=4",
     "githubForks": 17,
-    "githubStars": 17,
+    "githubStars": 19,
     "githubWatchers": 1,
     "githubCreated_at": "2013-11-30T22:28:50Z",
-    "githubUpdated_at": "2019-09-14T18:02:33Z"
+    "githubUpdated_at": "2020-01-16T20:31:55Z"
   },
   {
     "githubUrl": "https://github.com/kafeman/cpp-boilerplate",
@@ -56,78 +56,78 @@
     "githubOwner": "boostorg",
     "githubName": "boost",
     "githubDescription": "Super-project for modularized Boost",
-    "githubSize": 61986,
+    "githubSize": 62219,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/3170529?v=4",
-    "githubForks": 941,
-    "githubStars": 3178,
-    "githubWatchers": 297,
+    "githubForks": 972,
+    "githubStars": 3272,
+    "githubWatchers": 295,
     "githubCreated_at": "2013-01-13T15:59:31Z",
-    "githubUpdated_at": "2019-12-13T06:31:17Z"
+    "githubUpdated_at": "2020-02-03T18:30:12Z"
   },
   {
     "githubUrl": "https://github.com/davisking/dlib",
     "githubOwner": "davisking",
     "githubName": "dlib",
     "githubDescription": "A toolkit for making real world machine learning and data analysis applications in C++",
-    "githubSize": 23060,
+    "githubSize": 23220,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/6259399?v=4",
-    "githubForks": 2480,
-    "githubStars": 8331,
-    "githubWatchers": 491,
+    "githubForks": 2546,
+    "githubStars": 8550,
+    "githubWatchers": 498,
     "githubCreated_at": "2014-01-29T00:45:33Z",
-    "githubUpdated_at": "2019-12-13T06:24:55Z"
+    "githubUpdated_at": "2020-02-04T00:54:51Z"
   },
   {
     "githubUrl": "https://github.com/sumeetchhetri/ffead-cpp",
     "githubOwner": "sumeetchhetri",
     "githubName": "ffead-cpp",
     "githubDescription": "Framework for Enterprise Application Development, c++ framework, c++ web framework, c++ application framework, c++ rest framework, c++ soap framework, c++ web sites,c++ web applications, c++ driven web development - c++",
-    "githubSize": 63713,
+    "githubSize": 63993,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1655705?v=4",
-    "githubForks": 115,
-    "githubStars": 348,
+    "githubForks": 114,
+    "githubStars": 351,
     "githubWatchers": 63,
     "githubCreated_at": "2012-04-20T17:19:47Z",
-    "githubUpdated_at": "2019-12-09T04:32:23Z"
+    "githubUpdated_at": "2020-01-11T08:18:21Z"
   },
   {
     "githubUrl": "https://github.com/facebook/folly",
     "githubOwner": "facebook",
     "githubName": "folly",
     "githubDescription": "An open-source C++ library developed and used at Facebook.",
-    "githubSize": 27211,
+    "githubSize": 28006,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/69631?v=4",
-    "githubForks": 3375,
-    "githubStars": 14025,
-    "githubWatchers": 976,
+    "githubForks": 3439,
+    "githubStars": 14246,
+    "githubWatchers": 975,
     "githubCreated_at": "2012-06-01T20:49:04Z",
-    "githubUpdated_at": "2019-12-13T06:06:43Z"
+    "githubUpdated_at": "2020-02-04T02:54:13Z"
   },
   {
     "githubUrl": "https://github.com/WeAreROLI/JUCE",
     "githubOwner": "WeAreROLI",
     "githubName": "JUCE",
     "githubDescription": "The JUCE cross-platform C++ framework",
-    "githubSize": 218093,
+    "githubSize": 216575,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/3866938?v=4",
-    "githubForks": 755,
-    "githubStars": 1814,
-    "githubWatchers": 185,
+    "githubForks": 774,
+    "githubStars": 1871,
+    "githubWatchers": 189,
     "githubCreated_at": "2012-03-31T11:19:43Z",
-    "githubUpdated_at": "2019-12-12T13:20:22Z"
+    "githubUpdated_at": "2020-02-04T03:50:01Z"
   },
   {
     "githubUrl": "https://github.com/openframeworks/openFrameworks",
     "githubOwner": "openframeworks",
     "githubName": "openFrameworks",
     "githubDescription": "openFrameworks is a community-developed cross platform toolkit for creative coding in C++.",
-    "githubSize": 1999510,
+    "githubSize": 1999529,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/142866?v=4",
-    "githubForks": 2357,
-    "githubStars": 7400,
-    "githubWatchers": 533,
+    "githubForks": 2375,
+    "githubStars": 7498,
+    "githubWatchers": 542,
     "githubCreated_at": "2009-10-21T21:55:54Z",
-    "githubUpdated_at": "2019-12-13T05:07:22Z"
+    "githubUpdated_at": "2020-02-04T00:47:31Z"
   },
   {
     "githubUrl": "https://github.com/stxxl/stxxl",
@@ -137,35 +137,35 @@
     "githubSize": 12931,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/5766331?v=4",
     "githubForks": 68,
-    "githubStars": 358,
-    "githubWatchers": 47,
+    "githubStars": 369,
+    "githubWatchers": 48,
     "githubCreated_at": "2013-12-04T18:01:38Z",
-    "githubUpdated_at": "2019-12-12T01:41:19Z"
+    "githubUpdated_at": "2020-02-03T09:41:32Z"
   },
   {
     "githubUrl": "https://github.com/bloomberg/bde",
     "githubOwner": "bloomberg",
     "githubName": "bde",
     "githubDescription": "Basic Development Environment - a set of foundational C++ libraries used at Bloomberg.",
-    "githubSize": 144125,
+    "githubSize": 144981,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1416818?v=4",
-    "githubForks": 232,
-    "githubStars": 1056,
-    "githubWatchers": 167,
+    "githubForks": 236,
+    "githubStars": 1067,
+    "githubWatchers": 163,
     "githubCreated_at": "2012-11-09T20:00:30Z",
-    "githubUpdated_at": "2019-12-12T19:00:09Z"
+    "githubUpdated_at": "2020-02-01T13:47:04Z"
   },
   {
     "githubUrl": "https://github.com/treefrogframework/treefrog-framework",
     "githubOwner": "treefrogframework",
     "githubName": "treefrog-framework",
     "githubDescription": "TreeFrog Framework : High-speed C++ MVC Framework for Web Application",
-    "githubSize": 27050,
+    "githubSize": 27126,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/2995876?v=4",
-    "githubForks": 169,
-    "githubStars": 722,
+    "githubForks": 170,
+    "githubStars": 735,
     "githubWatchers": 74,
     "githubCreated_at": "2012-12-08T13:17:01Z",
-    "githubUpdated_at": "2019-12-11T08:17:09Z"
+    "githubUpdated_at": "2020-01-27T02:44:00Z"
   }
 ]
