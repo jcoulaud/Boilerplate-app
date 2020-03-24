@@ -6,7 +6,7 @@
     "githubDescription": "Boilerplate meteor app - starting point for meteor apps",
     "githubSize": 2585,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/4521527?v=4",
-    "githubForks": 194,
+    "githubForks": 192,
     "githubStars": 897,
     "githubWatchers": 67,
     "githubCreated_at": "2013-09-26T15:02:38Z",
@@ -20,10 +20,10 @@
     "githubSize": 3070,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1301147?v=4",
     "githubForks": 152,
-    "githubStars": 852,
+    "githubStars": 849,
     "githubWatchers": 49,
     "githubCreated_at": "2013-09-09T19:42:09Z",
-    "githubUpdated_at": "2020-02-03T09:43:38Z"
+    "githubUpdated_at": "2020-03-22T19:04:11Z"
   },
   {
     "githubUrl": "https://github.com/themeteorchef/base",
@@ -32,11 +32,11 @@
     "githubDescription": "A starting point for Meteor apps.",
     "githubSize": 3367,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/8183166?v=4",
-    "githubForks": 242,
-    "githubStars": 661,
+    "githubForks": 239,
+    "githubStars": 660,
     "githubWatchers": 46,
     "githubCreated_at": "2014-07-21T20:44:21Z",
-    "githubUpdated_at": "2020-01-09T10:18:30Z"
+    "githubUpdated_at": "2020-03-17T22:08:22Z"
   },
   {
     "githubUrl": "https://github.com/radiegtya/meteoris2",
@@ -58,11 +58,11 @@
     "githubDescription": "A starter project for React & Meteor",
     "githubSize": 29,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1445367?v=4",
-    "githubForks": 74,
+    "githubForks": 73,
     "githubStars": 172,
-    "githubWatchers": 19,
+    "githubWatchers": 18,
     "githubCreated_at": "2015-07-26T22:12:48Z",
-    "githubUpdated_at": "2020-01-29T19:00:25Z"
+    "githubUpdated_at": "2020-03-10T01:09:44Z"
   },
   {
     "githubUrl": "https://github.com/ffxsam/ffx-meteor-react-boilerplate",
@@ -71,11 +71,11 @@
     "githubDescription": "Meteor 1.4 + React boilerplate (DEPRECATED/ABANDONED) 👋",
     "githubSize": 132,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/12532733?v=4",
-    "githubForks": 21,
-    "githubStars": 135,
+    "githubForks": 20,
+    "githubStars": 134,
     "githubWatchers": 16,
     "githubCreated_at": "2016-01-28T21:20:25Z",
-    "githubUpdated_at": "2019-04-15T21:36:36Z"
+    "githubUpdated_at": "2020-03-10T00:40:25Z"
   },
   {
     "githubUrl": "https://github.com/meteor-useraccounts/boilerplates",
@@ -84,11 +84,11 @@
     "githubDescription": "Boilerplates Application for Meteor.js using different flavors of AccountsTemplates packages",
     "githubSize": 5097,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/8916931?v=4",
-    "githubForks": 67,
-    "githubStars": 107,
+    "githubForks": 66,
+    "githubStars": 106,
     "githubWatchers": 14,
     "githubCreated_at": "2014-08-23T06:03:28Z",
-    "githubUpdated_at": "2019-11-13T00:35:20Z"
+    "githubUpdated_at": "2020-03-21T22:11:21Z"
   },
   {
     "githubUrl": "https://github.com/patrickocoffeyo/meteor-boilerplate",
@@ -101,7 +101,7 @@
     "githubStars": 95,
     "githubWatchers": 7,
     "githubCreated_at": "2013-11-12T20:18:35Z",
-    "githubUpdated_at": "2019-07-13T15:55:53Z"
+    "githubUpdated_at": "2020-03-08T02:31:34Z"
   },
   {
     "githubUrl": "https://github.com/SilentCicero/meteor-dapp-boilerplate",
@@ -123,10 +123,10 @@
     "githubDescription": "Meteor 1.8, Apollo 2, React 16, Multilingual ready, PWA, Styled-Components boilerplate",
     "githubSize": 3315,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1092550?v=4",
-    "githubForks": 15,
-    "githubStars": 72,
-    "githubWatchers": 10,
+    "githubForks": 14,
+    "githubStars": 75,
+    "githubWatchers": 11,
     "githubCreated_at": "2018-10-04T15:30:30Z",
-    "githubUpdated_at": "2019-12-12T02:55:41Z"
+    "githubUpdated_at": "2020-03-19T23:24:23Z"
   }
 ]

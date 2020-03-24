@@ -6,11 +6,11 @@
     "githubDescription": "A boilerplate for Django web applications",
     "githubSize": 4821,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1226900?v=4",
-    "githubForks": 276,
-    "githubStars": 1408,
-    "githubWatchers": 69,
+    "githubForks": 277,
+    "githubStars": 1421,
+    "githubWatchers": 70,
     "githubCreated_at": "2015-05-08T02:26:16Z",
-    "githubUpdated_at": "2020-01-29T21:31:25Z"
+    "githubUpdated_at": "2020-03-20T21:04:45Z"
   },
   {
     "githubUrl": "https://github.com/kirang89/bootstrapy",
@@ -33,10 +33,10 @@
     "githubSize": 612,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/368066?v=4",
     "githubForks": 270,
-    "githubStars": 1604,
-    "githubWatchers": 77,
+    "githubStars": 1616,
+    "githubWatchers": 78,
     "githubCreated_at": "2012-10-17T04:23:32Z",
-    "githubUpdated_at": "2020-02-01T00:48:08Z"
+    "githubUpdated_at": "2020-03-21T01:45:24Z"
   },
   {
     "githubUrl": "https://github.com/esbullington/flask-bootstrap",
@@ -46,23 +46,23 @@
     "githubSize": 1244,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1138625?v=4",
     "githubForks": 44,
-    "githubStars": 187,
-    "githubWatchers": 11,
+    "githubStars": 188,
+    "githubWatchers": 10,
     "githubCreated_at": "2012-03-06T17:53:29Z",
-    "githubUpdated_at": "2019-12-18T22:00:58Z"
+    "githubUpdated_at": "2020-03-05T11:42:26Z"
   },
   {
     "githubUrl": "https://github.com/audreyr/cookiecutter",
     "githubOwner": "audreyr",
     "githubName": "cookiecutter",
-    "githubDescription": "A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, jQuery plugin projects.",
-    "githubSize": 2584,
+    "githubDescription": "A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.",
+    "githubSize": 2596,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/12502901?v=4",
-    "githubForks": 1210,
-    "githubStars": 11085,
+    "githubForks": 1244,
+    "githubStars": 11479,
     "githubWatchers": 238,
     "githubCreated_at": "2013-07-14T18:31:22Z",
-    "githubUpdated_at": "2020-02-04T02:30:50Z"
+    "githubUpdated_at": "2020-03-24T08:24:12Z"
   },
   {
     "githubUrl": "https://github.com/JackStouffer/Flask-Foundation",
@@ -72,10 +72,10 @@
     "githubSize": 1437,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/680068?v=4",
     "githubForks": 138,
-    "githubStars": 1221,
-    "githubWatchers": 42,
+    "githubStars": 1224,
+    "githubWatchers": 41,
     "githubCreated_at": "2013-09-15T06:34:48Z",
-    "githubUpdated_at": "2020-01-29T20:58:21Z"
+    "githubUpdated_at": "2020-03-23T11:45:13Z"
   },
   {
     "githubUrl": "https://github.com/coto/gae-boilerplate",
@@ -84,7 +84,7 @@
     "githubDescription": "Google App Engine Boilerplate",
     "githubSize": 6429,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/25914?v=4",
-    "githubForks": 205,
+    "githubForks": 204,
     "githubStars": 697,
     "githubWatchers": 93,
     "githubCreated_at": "2012-02-12T16:17:18Z",
@@ -99,22 +99,22 @@
     "githubAvatar": "https://avatars3.githubusercontent.com/u/133923?v=4",
     "githubForks": 204,
     "githubStars": 1085,
-    "githubWatchers": 67,
+    "githubWatchers": 68,
     "githubCreated_at": "2010-09-19T17:42:15Z",
-    "githubUpdated_at": "2020-01-22T18:28:55Z"
+    "githubUpdated_at": "2020-03-16T05:14:42Z"
   },
   {
     "githubUrl": "https://github.com/fasouto/django-starter-template",
     "githubOwner": "fasouto",
     "githubName": "django-starter-template",
     "githubDescription": "A project template for Django 2.0 that follows best practices.",
-    "githubSize": 705,
+    "githubSize": 718,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/194200?v=4",
     "githubForks": 37,
-    "githubStars": 132,
+    "githubStars": 133,
     "githubWatchers": 14,
     "githubCreated_at": "2014-07-20T16:52:39Z",
-    "githubUpdated_at": "2020-01-16T02:32:43Z"
+    "githubUpdated_at": "2020-03-05T06:10:19Z"
   },
   {
     "githubUrl": "https://github.com/kdeldycke/cherrypy_mako_formish_ooop_boilerplate",
@@ -137,10 +137,10 @@
     "githubSize": 15,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/44689?v=4",
     "githubForks": 19,
-    "githubStars": 67,
+    "githubStars": 68,
     "githubWatchers": 3,
     "githubCreated_at": "2013-04-01T16:51:18Z",
-    "githubUpdated_at": "2020-01-17T23:09:11Z"
+    "githubUpdated_at": "2020-02-12T17:22:10Z"
   },
   {
     "githubUrl": "https://github.com/bueda/tornado-boilerplate",
@@ -150,9 +150,9 @@
     "githubSize": 276,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/187098?v=4",
     "githubForks": 104,
-    "githubStars": 431,
+    "githubStars": 429,
     "githubWatchers": 27,
     "githubCreated_at": "2010-11-13T22:19:42Z",
-    "githubUpdated_at": "2020-01-21T07:49:14Z"
+    "githubUpdated_at": "2020-03-13T06:40:42Z"
   }
 ]
