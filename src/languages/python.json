@@ -6,11 +6,11 @@
     "githubDescription": "A boilerplate for Django web applications",
     "githubSize": 4821,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1226900?v=4",
-    "githubForks": 277,
-    "githubStars": 1421,
+    "githubForks": 282,
+    "githubStars": 1429,
     "githubWatchers": 70,
     "githubCreated_at": "2015-05-08T02:26:16Z",
-    "githubUpdated_at": "2020-03-20T21:04:45Z"
+    "githubUpdated_at": "2020-04-16T21:18:14Z"
   },
   {
     "githubUrl": "https://github.com/kirang89/bootstrapy",
@@ -36,7 +36,7 @@
     "githubStars": 1616,
     "githubWatchers": 78,
     "githubCreated_at": "2012-10-17T04:23:32Z",
-    "githubUpdated_at": "2020-03-21T01:45:24Z"
+    "githubUpdated_at": "2020-04-09T09:27:31Z"
   },
   {
     "githubUrl": "https://github.com/esbullington/flask-bootstrap",
@@ -46,23 +46,23 @@
     "githubSize": 1244,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1138625?v=4",
     "githubForks": 44,
-    "githubStars": 188,
+    "githubStars": 189,
     "githubWatchers": 10,
     "githubCreated_at": "2012-03-06T17:53:29Z",
-    "githubUpdated_at": "2020-03-05T11:42:26Z"
+    "githubUpdated_at": "2020-04-16T20:56:09Z"
   },
   {
     "githubUrl": "https://github.com/audreyr/cookiecutter",
     "githubOwner": "audreyr",
     "githubName": "cookiecutter",
     "githubDescription": "A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.",
-    "githubSize": 2596,
+    "githubSize": 2696,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/12502901?v=4",
-    "githubForks": 1244,
-    "githubStars": 11479,
-    "githubWatchers": 238,
+    "githubForks": 1269,
+    "githubStars": 11699,
+    "githubWatchers": 242,
     "githubCreated_at": "2013-07-14T18:31:22Z",
-    "githubUpdated_at": "2020-03-24T08:24:12Z"
+    "githubUpdated_at": "2020-04-17T10:34:37Z"
   },
   {
     "githubUrl": "https://github.com/JackStouffer/Flask-Foundation",
@@ -71,11 +71,11 @@
     "githubDescription": "A solid foundation for your flask app",
     "githubSize": 1437,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/680068?v=4",
-    "githubForks": 138,
-    "githubStars": 1224,
+    "githubForks": 139,
+    "githubStars": 1226,
     "githubWatchers": 41,
     "githubCreated_at": "2013-09-15T06:34:48Z",
-    "githubUpdated_at": "2020-03-23T11:45:13Z"
+    "githubUpdated_at": "2020-04-12T19:20:03Z"
   },
   {
     "githubUrl": "https://github.com/coto/gae-boilerplate",
@@ -84,7 +84,7 @@
     "githubDescription": "Google App Engine Boilerplate",
     "githubSize": 6429,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/25914?v=4",
-    "githubForks": 204,
+    "githubForks": 203,
     "githubStars": 697,
     "githubWatchers": 93,
     "githubCreated_at": "2012-02-12T16:17:18Z",
@@ -97,11 +97,11 @@
     "githubDescription": "Boilerplate project template for running Flask on Google App Engine -- supplanted by https://github.com/kamalgill/cloud-starterkit-flask-appengine",
     "githubSize": 3367,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/133923?v=4",
-    "githubForks": 204,
+    "githubForks": 202,
     "githubStars": 1085,
     "githubWatchers": 68,
     "githubCreated_at": "2010-09-19T17:42:15Z",
-    "githubUpdated_at": "2020-03-16T05:14:42Z"
+    "githubUpdated_at": "2020-04-11T14:35:38Z"
   },
   {
     "githubUrl": "https://github.com/fasouto/django-starter-template",
@@ -111,10 +111,10 @@
     "githubSize": 718,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/194200?v=4",
     "githubForks": 37,
-    "githubStars": 133,
+    "githubStars": 135,
     "githubWatchers": 14,
     "githubCreated_at": "2014-07-20T16:52:39Z",
-    "githubUpdated_at": "2020-03-05T06:10:19Z"
+    "githubUpdated_at": "2020-04-10T10:10:01Z"
   },
   {
     "githubUrl": "https://github.com/kdeldycke/cherrypy_mako_formish_ooop_boilerplate",

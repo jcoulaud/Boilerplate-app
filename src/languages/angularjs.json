@@ -6,9 +6,9 @@
     "githubDescription": ":ng: An AngularJS Starter repo for AngularJS + ES6 + Webpack",
     "githubSize": 216,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1016365?v=4",
-    "githubForks": 1495,
+    "githubForks": 1490,
     "githubStars": 1942,
-    "githubWatchers": 85,
+    "githubWatchers": 84,
     "githubCreated_at": "2015-05-16T05:43:03Z",
     "githubUpdated_at": "2020-03-24T08:20:18Z"
   },
@@ -45,11 +45,11 @@
     "githubDescription": "Angular admin dashboard with material design",
     "githubSize": 1768,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/8533408?v=4",
-    "githubForks": 469,
-    "githubStars": 1296,
-    "githubWatchers": 104,
+    "githubForks": 467,
+    "githubStars": 1298,
+    "githubWatchers": 105,
     "githubCreated_at": "2015-03-12T12:07:23Z",
-    "githubUpdated_at": "2020-03-18T17:29:03Z"
+    "githubUpdated_at": "2020-04-17T11:55:53Z"
   },
   {
     "githubUrl": "https://github.com/ngbp/ngbp",
@@ -58,11 +58,11 @@
     "githubDescription": "A sophisticated build management system for web apps (formerly ng-boilerplate). Created by @joshdmiller",
     "githubSize": 2763,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/5474351?v=4",
-    "githubForks": 1129,
-    "githubStars": 4021,
+    "githubForks": 1126,
+    "githubStars": 4017,
     "githubWatchers": 186,
     "githubCreated_at": "2013-02-14T19:07:06Z",
-    "githubUpdated_at": "2020-03-24T04:49:28Z"
+    "githubUpdated_at": "2020-04-13T03:17:19Z"
   },
   {
     "githubUrl": "https://github.com/vesparny/angular-kickstart",
@@ -97,11 +97,11 @@
     "githubDescription": "Seed project for angular apps. ",
     "githubSize": 14494,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/139426?v=4",
-    "githubForks": 7322,
-    "githubStars": 13349,
-    "githubWatchers": 740,
+    "githubForks": 7308,
+    "githubStars": 13342,
+    "githubWatchers": 739,
     "githubCreated_at": "2010-12-24T06:07:50Z",
-    "githubUpdated_at": "2020-03-23T12:15:45Z"
+    "githubUpdated_at": "2020-04-16T21:09:47Z"
   },
   {
     "githubUrl": "https://github.com/vesparny/angularjs-playground",
@@ -137,10 +137,10 @@
     "githubSize": 1093,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/214628?v=4",
     "githubForks": 322,
-    "githubStars": 1060,
+    "githubStars": 1058,
     "githubWatchers": 79,
     "githubCreated_at": "2013-02-24T17:38:00Z",
-    "githubUpdated_at": "2020-03-15T04:02:11Z"
+    "githubUpdated_at": "2020-04-02T14:59:27Z"
   },
   {
     "githubUrl": "https://github.com/btford/angular-express-blog",
@@ -162,11 +162,11 @@
     "githubDescription": "A great starting point for writing AngularJS apps backed by a Socket.io-powered node.js server.",
     "githubSize": 4420,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/474988?v=4",
-    "githubForks": 200,
-    "githubStars": 785,
+    "githubForks": 199,
+    "githubStars": 784,
     "githubWatchers": 51,
     "githubCreated_at": "2012-06-27T23:37:18Z",
-    "githubUpdated_at": "2020-03-16T05:14:59Z"
+    "githubUpdated_at": "2020-04-05T21:25:48Z"
   },
   {
     "githubUrl": "https://github.com/ziyasal/ratchet-angular-seed",
@@ -199,26 +199,26 @@
     "githubOwner": "meanjs",
     "githubName": "mean",
     "githubDescription": "MEAN.JS - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js - ",
-    "githubSize": 4123,
+    "githubSize": 4296,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/6232122?v=4",
-    "githubForks": 1962,
-    "githubStars": 4829,
-    "githubWatchers": 322,
+    "githubForks": 1967,
+    "githubStars": 4838,
+    "githubWatchers": 320,
     "githubCreated_at": "2013-12-29T13:01:15Z",
-    "githubUpdated_at": "2020-03-24T04:20:57Z"
+    "githubUpdated_at": "2020-04-17T13:13:50Z"
   },
   {
     "githubUrl": "https://github.com/linnovate/mean",
     "githubOwner": "linnovate",
     "githubName": "mean",
     "githubDescription": "The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications",
-    "githubSize": 8539,
+    "githubSize": 8534,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/307487?v=4",
-    "githubForks": 3579,
-    "githubStars": 11909,
-    "githubWatchers": 670,
+    "githubForks": 3587,
+    "githubStars": 11930,
+    "githubWatchers": 671,
     "githubCreated_at": "2013-05-22T12:15:47Z",
-    "githubUpdated_at": "2020-03-24T10:05:26Z"
+    "githubUpdated_at": "2020-04-17T13:07:10Z"
   },
   {
     "githubUrl": "https://github.com/akveo/blur-admin",
@@ -227,11 +227,11 @@
     "githubDescription": "AngularJS Bootstrap Admin Panel Framework",
     "githubSize": 87532,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/11921694?v=4",
-    "githubForks": 3109,
-    "githubStars": 10784,
+    "githubForks": 3115,
+    "githubStars": 10820,
     "githubWatchers": 538,
     "githubCreated_at": "2016-04-08T08:30:20Z",
-    "githubUpdated_at": "2020-03-24T10:17:12Z"
+    "githubUpdated_at": "2020-04-17T09:56:10Z"
   },
   {
     "githubUrl": "https://github.com/gusgard/angular-seed-es6",
@@ -254,9 +254,9 @@
     "githubSize": 2625,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/7040162?v=4",
     "githubForks": 111,
-    "githubStars": 702,
+    "githubStars": 701,
     "githubWatchers": 41,
     "githubCreated_at": "2015-03-04T01:59:47Z",
-    "githubUpdated_at": "2020-03-22T11:50:41Z"
+    "githubUpdated_at": "2020-03-26T22:37:08Z"
   }
 ]

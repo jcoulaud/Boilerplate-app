@@ -6,24 +6,24 @@
     "githubDescription": "A workflow for building Backbone applications.",
     "githubSize": 6388,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/181635?v=4",
-    "githubForks": 521,
-    "githubStars": 4581,
+    "githubForks": 519,
+    "githubStars": 4568,
     "githubWatchers": 139,
     "githubCreated_at": "2011-12-01T18:35:51Z",
-    "githubUpdated_at": "2020-03-20T10:25:13Z"
+    "githubUpdated_at": "2020-04-17T13:18:14Z"
   },
   {
     "githubUrl": "https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate",
     "githubOwner": "BoilerplateMVC",
     "githubName": "Backbone-Require-Boilerplate",
     "githubDescription": "A Rad Backbone.js and Require.js Boilerplate Project.",
-    "githubSize": 5592,
+    "githubSize": 4826,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/4105161?v=4",
-    "githubForks": 141,
+    "githubForks": 140,
     "githubStars": 628,
     "githubWatchers": 52,
     "githubCreated_at": "2012-05-24T17:01:43Z",
-    "githubUpdated_at": "2020-01-20T19:53:52Z"
+    "githubUpdated_at": "2020-04-16T14:45:00Z"
   },
   {
     "githubUrl": "https://github.com/addyosmani/backbone-boilerplates",
@@ -33,10 +33,10 @@
     "githubSize": 455,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/110953?v=4",
     "githubForks": 184,
-    "githubStars": 494,
+    "githubStars": 492,
     "githubWatchers": 40,
     "githubCreated_at": "2011-12-25T00:34:11Z",
-    "githubUpdated_at": "2020-02-12T08:37:55Z"
+    "githubUpdated_at": "2020-04-11T16:54:58Z"
   },
   {
     "githubUrl": "https://github.com/alexbeletsky/backbone-express-spa",
@@ -60,7 +60,7 @@
     "githubAvatar": "https://avatars3.githubusercontent.com/u/546231?v=4",
     "githubForks": 28,
     "githubStars": 280,
-    "githubWatchers": 52,
+    "githubWatchers": 54,
     "githubCreated_at": "2013-10-28T23:57:53Z",
     "githubUpdated_at": "2020-02-10T17:04:51Z"
   },
