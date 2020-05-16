@@ -6,11 +6,11 @@
     "githubDescription": "A workflow for building Backbone applications.",
     "githubSize": 6388,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/181635?v=4",
-    "githubForks": 519,
-    "githubStars": 4568,
-    "githubWatchers": 139,
+    "githubForks": 518,
+    "githubStars": 4563,
+    "githubWatchers": 138,
     "githubCreated_at": "2011-12-01T18:35:51Z",
-    "githubUpdated_at": "2020-04-17T13:18:14Z"
+    "githubUpdated_at": "2020-05-12T15:58:51Z"
   },
   {
     "githubUrl": "https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate",
@@ -20,10 +20,10 @@
     "githubSize": 4826,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/4105161?v=4",
     "githubForks": 140,
-    "githubStars": 628,
+    "githubStars": 627,
     "githubWatchers": 52,
     "githubCreated_at": "2012-05-24T17:01:43Z",
-    "githubUpdated_at": "2020-04-16T14:45:00Z"
+    "githubUpdated_at": "2020-05-04T12:21:56Z"
   },
   {
     "githubUrl": "https://github.com/addyosmani/backbone-boilerplates",
@@ -60,7 +60,7 @@
     "githubAvatar": "https://avatars3.githubusercontent.com/u/546231?v=4",
     "githubForks": 28,
     "githubStars": 280,
-    "githubWatchers": 54,
+    "githubWatchers": 55,
     "githubCreated_at": "2013-10-28T23:57:53Z",
     "githubUpdated_at": "2020-02-10T17:04:51Z"
   },
@@ -71,7 +71,7 @@
     "githubDescription": "Boilerplate web app using Backbone.js, ExpressJS, node.js, MongoDB",
     "githubSize": 10559,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/3021049?v=4",
-    "githubForks": 94,
+    "githubForks": 93,
     "githubStars": 175,
     "githubWatchers": 16,
     "githubCreated_at": "2013-12-21T04:21:11Z",
@@ -85,10 +85,10 @@
     "githubSize": 243,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1191206?v=4",
     "githubForks": 45,
-    "githubStars": 187,
+    "githubStars": 186,
     "githubWatchers": 11,
     "githubCreated_at": "2015-03-11T13:50:14Z",
-    "githubUpdated_at": "2019-08-29T12:34:18Z"
+    "githubUpdated_at": "2020-05-09T10:45:19Z"
   },
   {
     "githubUrl": "https://github.com/phawk/Backbone-Stack",
@@ -123,7 +123,7 @@
     "githubDescription": "Boilerplate for React and Backbone",
     "githubSize": 1466,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/6189375?v=4",
-    "githubForks": 11,
+    "githubForks": 10,
     "githubStars": 80,
     "githubWatchers": 10,
     "githubCreated_at": "2015-04-12T20:49:46Z",

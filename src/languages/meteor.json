@@ -7,10 +7,10 @@
     "githubSize": 2585,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/4521527?v=4",
     "githubForks": 192,
-    "githubStars": 897,
+    "githubStars": 898,
     "githubWatchers": 66,
     "githubCreated_at": "2013-09-26T15:02:38Z",
-    "githubUpdated_at": "2020-02-03T09:43:39Z"
+    "githubUpdated_at": "2020-04-28T13:07:09Z"
   },
   {
     "githubUrl": "https://github.com/matteodem/meteor-boilerplate",
@@ -19,11 +19,11 @@
     "githubDescription": "A lightweight boilerplate for meteor projects",
     "githubSize": 3070,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1301147?v=4",
-    "githubForks": 152,
+    "githubForks": 150,
     "githubStars": 848,
     "githubWatchers": 49,
     "githubCreated_at": "2013-09-09T19:42:09Z",
-    "githubUpdated_at": "2020-03-31T08:15:24Z"
+    "githubUpdated_at": "2020-05-10T13:48:30Z"
   },
   {
     "githubUrl": "https://github.com/themeteorchef/base",
@@ -32,7 +32,7 @@
     "githubDescription": "A starting point for Meteor apps.",
     "githubSize": 3367,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/8183166?v=4",
-    "githubForks": 239,
+    "githubForks": 236,
     "githubStars": 660,
     "githubWatchers": 46,
     "githubCreated_at": "2014-07-21T20:44:21Z",
@@ -58,7 +58,7 @@
     "githubDescription": "A starter project for React & Meteor",
     "githubSize": 29,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1445367?v=4",
-    "githubForks": 73,
+    "githubForks": 72,
     "githubStars": 172,
     "githubWatchers": 18,
     "githubCreated_at": "2015-07-26T22:12:48Z",
@@ -84,7 +84,7 @@
     "githubDescription": "Boilerplates Application for Meteor.js using different flavors of AccountsTemplates packages",
     "githubSize": 5097,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/8916931?v=4",
-    "githubForks": 66,
+    "githubForks": 65,
     "githubStars": 106,
     "githubWatchers": 14,
     "githubCreated_at": "2014-08-23T06:03:28Z",
@@ -110,11 +110,11 @@
     "githubDescription": "Boilerplate meteor dapp - starting point for meteor dapps using bootstrap",
     "githubSize": 2904,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/9806174?v=4",
-    "githubForks": 39,
-    "githubStars": 143,
+    "githubForks": 38,
+    "githubStars": 141,
     "githubWatchers": 12,
     "githubCreated_at": "2015-03-09T20:02:44Z",
-    "githubUpdated_at": "2020-01-23T11:32:03Z"
+    "githubUpdated_at": "2020-04-22T18:52:27Z"
   },
   {
     "githubUrl": "https://github.com/timothyarmes/ta-meteor-apollo-starter-kit",
@@ -127,6 +127,6 @@
     "githubStars": 76,
     "githubWatchers": 11,
     "githubCreated_at": "2018-10-04T15:30:30Z",
-    "githubUpdated_at": "2020-03-24T13:12:30Z"
+    "githubUpdated_at": "2020-05-06T01:18:11Z"
   }
 ]

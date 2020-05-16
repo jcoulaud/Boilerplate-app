@@ -6,11 +6,11 @@
     "githubDescription": "A jump-start for jQuery plugins development",
     "githubSize": 2227,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/3077375?v=4",
-    "githubForks": 534,
-    "githubStars": 2584,
+    "githubForks": 533,
+    "githubStars": 2581,
     "githubWatchers": 101,
     "githubCreated_at": "2011-05-17T12:49:29Z",
-    "githubUpdated_at": "2020-04-14T22:06:27Z"
+    "githubUpdated_at": "2020-05-07T05:16:10Z"
   },
   {
     "githubUrl": "https://github.com/commadelimited/jQuery-Mobile-Boilerplate",
@@ -20,10 +20,10 @@
     "githubSize": 2764,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/563460?v=4",
     "githubForks": 74,
-    "githubStars": 262,
+    "githubStars": 261,
     "githubWatchers": 29,
     "githubCreated_at": "2012-02-02T17:43:21Z",
-    "githubUpdated_at": "2019-08-13T14:56:24Z"
+    "githubUpdated_at": "2020-04-25T16:12:41Z"
   },
   {
     "githubUrl": "https://github.com/elclanrs/advanced-jquery-boilerplate",
@@ -33,10 +33,10 @@
     "githubSize": 260,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1661925?v=4",
     "githubForks": 14,
-    "githubStars": 158,
+    "githubStars": 157,
     "githubWatchers": 7,
     "githubCreated_at": "2013-09-10T03:42:17Z",
-    "githubUpdated_at": "2019-08-13T15:26:36Z"
+    "githubUpdated_at": "2020-05-05T18:14:15Z"
   },
   {
     "githubUrl": "https://github.com/sebbie1o1/cordova-jquerymobile-boilerplate",
@@ -123,7 +123,7 @@
     "githubDescription": "Some boilerplate code to get a JQuery Mobile/Twitter Bootstrap Sinatra application up and running fast",
     "githubSize": 166,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1030168?v=4",
-    "githubForks": 13,
+    "githubForks": 12,
     "githubStars": 61,
     "githubWatchers": 8,
     "githubCreated_at": "2012-01-31T22:38:36Z",
