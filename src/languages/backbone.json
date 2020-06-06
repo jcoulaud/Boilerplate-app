@@ -7,10 +7,10 @@
     "githubSize": 6388,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/181635?v=4",
     "githubForks": 518,
-    "githubStars": 4563,
+    "githubStars": 4564,
     "githubWatchers": 138,
     "githubCreated_at": "2011-12-01T18:35:51Z",
-    "githubUpdated_at": "2020-05-12T15:58:51Z"
+    "githubUpdated_at": "2020-06-05T10:04:03Z"
   },
   {
     "githubUrl": "https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate",
@@ -32,7 +32,7 @@
     "githubDescription": "Backbone.js stack boilerplates demonstrating integration with Express, Ruby, PHP, Grails and more.",
     "githubSize": 455,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/110953?v=4",
-    "githubForks": 184,
+    "githubForks": 183,
     "githubStars": 492,
     "githubWatchers": 40,
     "githubCreated_at": "2011-12-25T00:34:11Z",
@@ -45,7 +45,7 @@
     "githubDescription": "Backbone.js + Express.js single page application boilerplate",
     "githubSize": 291,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/304929?v=4",
-    "githubForks": 78,
+    "githubForks": 77,
     "githubStars": 443,
     "githubWatchers": 28,
     "githubCreated_at": "2013-04-22T16:56:15Z",
@@ -59,10 +59,10 @@
     "githubSize": 2368,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/546231?v=4",
     "githubForks": 28,
-    "githubStars": 280,
-    "githubWatchers": 55,
+    "githubStars": 281,
+    "githubWatchers": 56,
     "githubCreated_at": "2013-10-28T23:57:53Z",
-    "githubUpdated_at": "2020-02-10T17:04:51Z"
+    "githubUpdated_at": "2020-05-25T15:54:44Z"
   },
   {
     "githubUrl": "https://github.com/shorttompkins/benm",
@@ -71,7 +71,7 @@
     "githubDescription": "Boilerplate web app using Backbone.js, ExpressJS, node.js, MongoDB",
     "githubSize": 10559,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/3021049?v=4",
-    "githubForks": 93,
+    "githubForks": 92,
     "githubStars": 175,
     "githubWatchers": 16,
     "githubCreated_at": "2013-12-21T04:21:11Z",
@@ -88,7 +88,7 @@
     "githubStars": 186,
     "githubWatchers": 11,
     "githubCreated_at": "2015-03-11T13:50:14Z",
-    "githubUpdated_at": "2020-05-09T10:45:19Z"
+    "githubUpdated_at": "2020-05-28T02:41:04Z"
   },
   {
     "githubUrl": "https://github.com/phawk/Backbone-Stack",

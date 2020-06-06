@@ -4,13 +4,13 @@
     "githubOwner": "modularcode",
     "githubName": "modular-admin-html",
     "githubDescription": "ModularAdmin - Free Dashboard Theme Built On Bootstrap 4 | HTML Version",
-    "githubSize": 7566,
+    "githubSize": 7644,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/12553500?v=4",
-    "githubForks": 785,
-    "githubStars": 2702,
-    "githubWatchers": 228,
+    "githubForks": 791,
+    "githubStars": 2712,
+    "githubWatchers": 229,
     "githubCreated_at": "2015-07-25T13:35:26Z",
-    "githubUpdated_at": "2020-05-15T06:03:59Z"
+    "githubUpdated_at": "2020-06-05T16:01:22Z"
   },
   {
     "githubUrl": "https://github.com/lewagon/bootstrap-boilerplate",
@@ -19,11 +19,11 @@
     "githubDescription": "A nice Bootstrap HTML boilerplate using official Bootstrap CDN to start coding right away!",
     "githubSize": 8,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/5470001?v=4",
-    "githubForks": 71,
-    "githubStars": 92,
+    "githubForks": 72,
+    "githubStars": 93,
     "githubWatchers": 10,
     "githubCreated_at": "2014-07-02T16:45:20Z",
-    "githubUpdated_at": "2020-04-05T15:25:25Z"
+    "githubUpdated_at": "2020-06-05T13:14:47Z"
   },
   {
     "githubUrl": "https://github.com/micromata/bootstrap-kickstart",
@@ -32,7 +32,7 @@
     "githubDescription": "[deprecated] Check the successor Baumeister instead.",
     "githubSize": 1544,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1773167?v=4",
-    "githubForks": 0,
+    "githubForks": 1,
     "githubStars": 1,
     "githubWatchers": 6,
     "githubCreated_at": "2017-06-16T20:13:18Z",
