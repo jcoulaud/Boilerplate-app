@@ -6,11 +6,11 @@
     "githubDescription": "A boilerplate for Django web applications",
     "githubSize": 4821,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1226900?v=4",
-    "githubForks": 285,
-    "githubStars": 1437,
+    "githubForks": 288,
+    "githubStars": 1450,
     "githubWatchers": 70,
     "githubCreated_at": "2015-05-08T02:26:16Z",
-    "githubUpdated_at": "2020-06-03T17:11:55Z"
+    "githubUpdated_at": "2020-07-16T02:55:47Z"
   },
   {
     "githubUrl": "https://github.com/zapier/django-knowledge",
@@ -20,10 +20,10 @@
     "githubSize": 1033,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1261889?v=4",
     "githubForks": 107,
-    "githubStars": 468,
-    "githubWatchers": 71,
+    "githubStars": 469,
+    "githubWatchers": 73,
     "githubCreated_at": "2012-02-16T19:45:17Z",
-    "githubUpdated_at": "2020-06-03T09:32:01Z"
+    "githubUpdated_at": "2020-06-14T21:06:38Z"
   },
   {
     "githubUrl": "https://github.com/mbrochh/django-reactjs-boilerplate",
@@ -32,11 +32,11 @@
     "githubDescription": "An example how you can use ReactJS with your Django project.",
     "githubSize": 795,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/166590?v=4",
-    "githubForks": 201,
-    "githubStars": 776,
-    "githubWatchers": 77,
+    "githubForks": 199,
+    "githubStars": 778,
+    "githubWatchers": 76,
     "githubCreated_at": "2016-03-05T09:52:38Z",
-    "githubUpdated_at": "2020-05-31T20:13:56Z"
+    "githubUpdated_at": "2020-07-13T21:57:46Z"
   },
   {
     "githubUrl": "https://github.com/lincolnloop/django-startproject",
@@ -45,24 +45,24 @@
     "githubDescription": "Boilerplate code for new Django projects.",
     "githubSize": 176,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1964?v=4",
-    "githubForks": 40,
-    "githubStars": 243,
+    "githubForks": 41,
+    "githubStars": 241,
     "githubWatchers": 10,
     "githubCreated_at": "2009-08-19T05:34:50Z",
-    "githubUpdated_at": "2020-04-22T18:35:47Z"
+    "githubUpdated_at": "2020-06-20T16:03:58Z"
   },
   {
     "githubUrl": "https://github.com/agconti/cookiecutter-django-rest",
     "githubOwner": "agconti",
     "githubName": "cookiecutter-django-rest",
     "githubDescription": "Build best practiced apis fast with Python3",
-    "githubSize": 4790,
+    "githubSize": 4819,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/3332051?v=4",
-    "githubForks": 146,
-    "githubStars": 936,
+    "githubForks": 149,
+    "githubStars": 964,
     "githubWatchers": 21,
     "githubCreated_at": "2015-06-04T16:46:49Z",
-    "githubUpdated_at": "2020-06-06T16:34:30Z"
+    "githubUpdated_at": "2020-07-15T13:32:03Z"
   },
   {
     "githubUrl": "https://github.com/brwr/thinkster-django-angular-boilerplate",
@@ -71,7 +71,7 @@
     "githubDescription": "Boilerplate for the Thinkster.io Django and AngularJS tutorial.",
     "githubSize": 417,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/4095660?v=4",
-    "githubForks": 1382,
+    "githubForks": 1376,
     "githubStars": 211,
     "githubWatchers": 12,
     "githubCreated_at": "2014-11-03T21:04:43Z",
@@ -97,11 +97,11 @@
     "githubDescription": "Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate",
     "githubSize": 958,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/5529080?v=4",
-    "githubForks": 212,
-    "githubStars": 916,
-    "githubWatchers": 45,
+    "githubForks": 223,
+    "githubStars": 954,
+    "githubWatchers": 44,
     "githubCreated_at": "2016-07-19T20:37:29Z",
-    "githubUpdated_at": "2020-06-06T23:08:12Z"
+    "githubUpdated_at": "2020-07-17T06:55:59Z"
   },
   {
     "githubUrl": "https://github.com/bueda/django-boilerplate",
@@ -111,9 +111,9 @@
     "githubSize": 1048,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/187098?v=4",
     "githubForks": 19,
-    "githubStars": 74,
+    "githubStars": 75,
     "githubWatchers": 6,
     "githubCreated_at": "2010-11-13T05:21:41Z",
-    "githubUpdated_at": "2020-05-26T19:15:12Z"
+    "githubUpdated_at": "2020-07-12T11:38:12Z"
   }
 ]

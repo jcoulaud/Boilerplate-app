@@ -4,13 +4,13 @@
     "githubOwner": "modularcode",
     "githubName": "modular-admin-html",
     "githubDescription": "ModularAdmin - Free Dashboard Theme Built On Bootstrap 4 | HTML Version",
-    "githubSize": 7644,
+    "githubSize": 7723,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/12553500?v=4",
-    "githubForks": 791,
-    "githubStars": 2712,
-    "githubWatchers": 229,
+    "githubForks": 795,
+    "githubStars": 2736,
+    "githubWatchers": 230,
     "githubCreated_at": "2015-07-25T13:35:26Z",
-    "githubUpdated_at": "2020-06-05T16:01:22Z"
+    "githubUpdated_at": "2020-07-17T08:52:46Z"
   },
   {
     "githubUrl": "https://github.com/lewagon/bootstrap-boilerplate",
@@ -20,10 +20,10 @@
     "githubSize": 8,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/5470001?v=4",
     "githubForks": 72,
-    "githubStars": 93,
+    "githubStars": 94,
     "githubWatchers": 10,
     "githubCreated_at": "2014-07-02T16:45:20Z",
-    "githubUpdated_at": "2020-06-05T13:14:47Z"
+    "githubUpdated_at": "2020-06-28T10:28:29Z"
   },
   {
     "githubUrl": "https://github.com/micromata/bootstrap-kickstart",
@@ -71,10 +71,10 @@
     "githubDescription": "Initializr's generated page",
     "githubSize": 118,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/522007?v=4",
-    "githubForks": 397,
-    "githubStars": 1130,
+    "githubForks": 396,
+    "githubStars": 1131,
     "githubWatchers": 111,
     "githubCreated_at": "2011-12-09T00:32:32Z",
-    "githubUpdated_at": "2020-05-11T09:58:33Z"
+    "githubUpdated_at": "2020-06-12T09:47:33Z"
   }
 ]

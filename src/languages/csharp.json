@@ -17,26 +17,26 @@
     "githubOwner": "aspnetboilerplate",
     "githubName": "aspnetboilerplate",
     "githubDescription": "ASP.NET Boilerplate - Web Application Framework",
-    "githubSize": 60566,
+    "githubSize": 60580,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/5957277?v=4",
-    "githubForks": 3145,
-    "githubStars": 8415,
-    "githubWatchers": 809,
+    "githubForks": 3200,
+    "githubStars": 8550,
+    "githubWatchers": 815,
     "githubCreated_at": "2013-08-18T20:45:08Z",
-    "githubUpdated_at": "2020-06-06T21:52:53Z"
+    "githubUpdated_at": "2020-07-17T07:36:07Z"
   },
   {
     "githubUrl": "https://github.com/ASP-NET-MVC-Boilerplate/Templates",
     "githubOwner": "ASP-NET-MVC-Boilerplate",
     "githubName": "Templates",
     "githubDescription": ".NET project templates with batteries included, providing the minimum amount of code required to get you going faster.",
-    "githubSize": 47901,
+    "githubSize": 47941,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/22211766?v=4",
-    "githubForks": 380,
-    "githubStars": 2133,
-    "githubWatchers": 174,
+    "githubForks": 389,
+    "githubStars": 2206,
+    "githubWatchers": 176,
     "githubCreated_at": "2014-10-27T08:57:45Z",
-    "githubUpdated_at": "2020-06-05T09:05:34Z"
+    "githubUpdated_at": "2020-07-16T17:00:53Z"
   },
   {
     "githubUrl": "https://github.com/aspnetboilerplate/module-zero",
@@ -46,10 +46,10 @@
     "githubSize": 19443,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/5957277?v=4",
     "githubForks": 371,
-    "githubStars": 512,
+    "githubStars": 509,
     "githubWatchers": 124,
     "githubCreated_at": "2014-08-22T17:57:19Z",
-    "githubUpdated_at": "2020-04-30T07:55:54Z"
+    "githubUpdated_at": "2020-07-01T17:03:10Z"
   },
   {
     "githubUrl": "https://github.com/kriasoft/aspnet-starter-kit",
@@ -59,22 +59,22 @@
     "githubSize": 1560,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/773036?v=4",
     "githubForks": 203,
-    "githubStars": 1058,
+    "githubStars": 1063,
     "githubWatchers": 99,
     "githubCreated_at": "2014-08-21T09:51:46Z",
-    "githubUpdated_at": "2020-06-06T09:14:35Z"
+    "githubUpdated_at": "2020-07-16T04:21:42Z"
   },
   {
     "githubUrl": "https://github.com/restsharp/RestSharp",
     "githubOwner": "restsharp",
     "githubName": "RestSharp",
     "githubDescription": "Simple REST and HTTP API Client for .NET",
-    "githubSize": 38999,
+    "githubSize": 39023,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1057779?v=4",
-    "githubForks": 2022,
-    "githubStars": 7244,
-    "githubWatchers": 452,
+    "githubForks": 2049,
+    "githubStars": 7328,
+    "githubWatchers": 455,
     "githubCreated_at": "2009-11-16T02:01:45Z",
-    "githubUpdated_at": "2020-06-05T13:51:10Z"
+    "githubUpdated_at": "2020-07-17T06:42:51Z"
   }
 ]
