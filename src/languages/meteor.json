@@ -6,7 +6,7 @@
     "githubDescription": "Boilerplate meteor app - starting point for meteor apps",
     "githubSize": 2585,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/4521527?v=4",
-    "githubForks": 191,
+    "githubForks": 190,
     "githubStars": 896,
     "githubWatchers": 66,
     "githubCreated_at": "2013-09-26T15:02:38Z",
@@ -84,11 +84,11 @@
     "githubDescription": "Boilerplates Application for Meteor.js using different flavors of AccountsTemplates packages",
     "githubSize": 5097,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/8916931?v=4",
-    "githubForks": 65,
-    "githubStars": 106,
-    "githubWatchers": 14,
+    "githubForks": 66,
+    "githubStars": 107,
+    "githubWatchers": 15,
     "githubCreated_at": "2014-08-23T06:03:28Z",
-    "githubUpdated_at": "2020-03-21T22:11:21Z"
+    "githubUpdated_at": "2020-10-03T08:20:16Z"
   },
   {
     "githubUrl": "https://github.com/patrickocoffeyo/meteor-boilerplate",
@@ -123,10 +123,23 @@
     "githubDescription": "Meteor 1.8, Apollo 2, React 16, Multilingual ready, PWA, Styled-Components boilerplate",
     "githubSize": 3315,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1092550?v=4",
-    "githubForks": 15,
+    "githubForks": 16,
     "githubStars": 76,
     "githubWatchers": 10,
     "githubCreated_at": "2018-10-04T15:30:30Z",
     "githubUpdated_at": "2020-05-06T01:18:11Z"
+  },
+  {
+    "githubUrl": "https://github.com/naschpitz/meteor.js-boilerplate",
+    "githubOwner": "naschpitz",
+    "githubName": "meteor.js-boilerplate",
+    "githubDescription": "A simple Meteor.JS boilerplate that uses React.JS, Bootstrap 4, MUP (easy deployment) and Cypress (end-to-end testing).",
+    "githubSize": 90,
+    "githubAvatar": "https://avatars1.githubusercontent.com/u/6058679?v=4",
+    "githubForks": 0,
+    "githubStars": 0,
+    "githubWatchers": 1,
+    "githubCreated_at": "2020-09-26T23:32:38Z",
+    "githubUpdated_at": "2020-09-26T23:55:17Z"
   }
 ]

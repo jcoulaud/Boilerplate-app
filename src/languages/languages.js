@@ -29,8 +29,8 @@ const languages = [
       "https://github.com/jquintozamora/react-typescript-webpack2-cssModules-postCSS",
       "https://github.com/akveo/kittenTricks",
       "https://github.com/MustansirZia/next-express-bootstrap-boilerplate",
-      "https://github.com/Atyantik/react-pwa"
-    ]
+      "https://github.com/Atyantik/react-pwa",
+    ],
   },
   {
     lang: "Android",
@@ -51,8 +51,8 @@ const languages = [
       "https://github.com/blocoio/android-template",
       "https://github.com/qijitech/android-starter-kit",
       "https://github.com/smaugho/declex",
-      "https://github.com/m1010j/android-webview-boilerplate"
-    ]
+      "https://github.com/m1010j/android-webview-boilerplate",
+    ],
   },
   {
     lang: "Python",
@@ -69,8 +69,8 @@ const languages = [
       "https://github.com/fasouto/django-starter-template",
       "https://github.com/kdeldycke/cherrypy_mako_formish_ooop_boilerplate",
       "https://github.com/mtchavez/python-package-boilerplate",
-      "https://github.com/bueda/tornado-boilerplate"
-    ]
+      "https://github.com/bueda/tornado-boilerplate",
+    ],
   },
   {
     lang: "iOS",
@@ -81,8 +81,8 @@ const languages = [
       "https://github.com/openaphid/Boilerplate-iOS",
       "https://github.com/nabilfreeman/ios-universal-webview-boilerplate",
       "https://github.com/JohnSundell/SwiftPlate",
-      "https://github.com/thoughtbot/liftoff"
-    ]
+      "https://github.com/thoughtbot/liftoff",
+    ],
   },
   {
     lang: "NodeJS",
@@ -112,8 +112,8 @@ const languages = [
       "https://github.com/sandoche/Jekyll-webpack-boilerplate",
       "https://github.com/ngduc/node-rem",
       "https://github.com/agencyenterprise/aeboilerplate",
-      "https://github.com/watscho/express-graphql-mongodb-boilerplate"
-    ]
+      "https://github.com/watscho/express-graphql-mongodb-boilerplate",
+    ],
   },
   {
     lang: "AngularJS",
@@ -138,8 +138,8 @@ const languages = [
       "https://github.com/linnovate/mean",
       "https://github.com/akveo/blur-admin",
       "https://github.com/gusgard/angular-seed-es6",
-      "https://github.com/ericmdantas/generator-ng-fullstack"
-    ]
+      "https://github.com/ericmdantas/generator-ng-fullstack",
+    ],
   },
   {
     lang: "jQuery",
@@ -154,8 +154,8 @@ const languages = [
       "https://github.com/jonathan-fielding/AppBoilerplate",
       "https://github.com/gfranko/Document-Bootstrap",
       "https://github.com/miniJs/miniBoilerplate",
-      "https://github.com/rziehl/sinatra-boilerplate"
-    ]
+      "https://github.com/rziehl/sinatra-boilerplate",
+    ],
   },
   {
     lang: "Csharp",
@@ -166,8 +166,8 @@ const languages = [
       "https://github.com/ASP-NET-MVC-Boilerplate/Templates",
       "https://github.com/aspnetboilerplate/module-zero",
       "https://github.com/kriasoft/aspnet-starter-kit",
-      "https://github.com/restsharp/RestSharp"
-    ]
+      "https://github.com/restsharp/RestSharp",
+    ],
   },
   {
     lang: "Go",
@@ -189,8 +189,8 @@ const languages = [
       "https://github.com/googollee/go-socket.io",
       "https://github.com/gocraft/web",
       "https://github.com/lunny/tango",
-      "https://github.com/ericmdantas/generator-ng-fullstack"
-    ]
+      "https://github.com/ericmdantas/generator-ng-fullstack",
+    ],
   },
   {
     lang: "WordPress",
@@ -214,8 +214,8 @@ const languages = [
       "https://github.com/ViLourenco/woocommerce-extension-plugin-boilerplate",
       "https://github.com/Vizir/wordpress-plugin-boilerplate",
       "https://github.com/automattic/_s",
-      "https://github.com/wordplate/wordplate"
-    ]
+      "https://github.com/wordplate/wordplate",
+    ],
   },
   {
     lang: "Html",
@@ -226,8 +226,8 @@ const languages = [
       "https://github.com/IceCreamYou/HTML5-Canvas-Game-Boilerplate",
       "https://github.com/imarc/boilerplate",
       "https://github.com/verekia/initializr-template",
-      "https://github.com/sesh/base.html"
-    ]
+      "https://github.com/sesh/base.html",
+    ],
   },
   {
     lang: "Bootstrap",
@@ -238,8 +238,8 @@ const languages = [
       "https://github.com/micromata/bootstrap-kickstart",
       "https://github.com/mneuhaus/Bootstrap-Boilerplate",
       "https://github.com/abhinayrathore/Bootstrap-Boilerplate",
-      "https://github.com/verekia/initializr-template"
-    ]
+      "https://github.com/verekia/initializr-template",
+    ],
   },
   {
     lang: "Electron",
@@ -257,8 +257,8 @@ const languages = [
       "https://github.com/Quramy/electron-jsx-babel-boilerplate",
       "https://github.com/sohelamin/electron-vue-boilerplate",
       "https://github.com/react-photonkit/epp",
-      "https://github.com/taichi/js-boilerplate"
-    ]
+      "https://github.com/taichi/js-boilerplate",
+    ],
   },
   {
     lang: "Backbone",
@@ -273,8 +273,8 @@ const languages = [
       "https://github.com/sabarasaba/modern-backbone-starterkit",
       "https://github.com/phawk/Backbone-Stack",
       "https://github.com/david0178418/BackboneJS-AMD-Boilerplate",
-      "https://github.com/AlexSergey/rocket"
-    ]
+      "https://github.com/AlexSergey/rocket",
+    ],
   },
   {
     lang: "Django",
@@ -288,8 +288,8 @@ const languages = [
       "https://github.com/brwr/thinkster-django-angular-boilerplate",
       "https://github.com/mike360/django-html5-boilerplate",
       "https://github.com/vintasoftware/django-react-boilerplate",
-      "https://github.com/bueda/django-boilerplate"
-    ]
+      "https://github.com/bueda/django-boilerplate",
+    ],
   },
   {
     lang: "Meteor",
@@ -304,8 +304,9 @@ const languages = [
       "https://github.com/meteor-useraccounts/boilerplates",
       "https://github.com/patrickocoffeyo/meteor-boilerplate",
       "https://github.com/SilentCicero/meteor-dapp-boilerplate",
-      "https://github.com/timothyarmes/ta-meteor-apollo-starter-kit"
-    ]
+      "https://github.com/timothyarmes/ta-meteor-apollo-starter-kit",
+      "https://github.com/naschpitz/meteor.js-boilerplate",
+    ],
   },
   {
     lang: "Rails",
@@ -316,8 +317,8 @@ const languages = [
       "https://github.com/sporkd/html5-rails",
       "https://github.com/TristanToye/rails-4-boilerplate",
       "https://github.com/RailsApps/rails-composer",
-      "https://github.com/RailsApps/rails-bootstrap"
-    ]
+      "https://github.com/RailsApps/rails-bootstrap",
+    ],
   },
   {
     lang: "Css",
@@ -329,8 +330,8 @@ const languages = [
       "https://github.com/WhatsNewSaes/Skeleton-Sass",
       "https://github.com/grahammiller/ResponsiveGridSystem",
       "https://github.com/jonikorpi/Less-Framework",
-      "https://github.com/growdigital/groundwork"
-    ]
+      "https://github.com/growdigital/groundwork",
+    ],
   },
   {
     lang: "C++",
@@ -348,8 +349,8 @@ const languages = [
       "https://github.com/openframeworks/openFrameworks",
       "https://github.com/stxxl/stxxl",
       "https://github.com/bloomberg/bde",
-      "https://github.com/treefrogframework/treefrog-framework"
-    ]
+      "https://github.com/treefrogframework/treefrog-framework",
+    ],
   },
   {
     lang: "Php",
@@ -369,9 +370,9 @@ const languages = [
       "https://github.com/mikecao/flight",
       "https://github.com/panique/mini",
       "https://github.com/zikula/core",
-      "https://github.com/tylerhall/simple-php-framework/"
-    ]
-  }
+      "https://github.com/tylerhall/simple-php-framework/",
+    ],
+  },
 ];
 
 module.exports = languages;

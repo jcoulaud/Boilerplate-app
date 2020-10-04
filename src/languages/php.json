@@ -4,26 +4,26 @@
     "githubOwner": "laravel",
     "githubName": "laravel",
     "githubDescription": "A PHP framework for web artisans",
-    "githubSize": 10084,
+    "githubSize": 10106,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/958072?v=4",
-    "githubForks": 19260,
-    "githubStars": 61246,
-    "githubWatchers": 4747,
+    "githubForks": 19497,
+    "githubStars": 61801,
+    "githubWatchers": 4754,
     "githubCreated_at": "2011-06-08T03:06:08Z",
-    "githubUpdated_at": "2020-09-09T12:22:30Z"
+    "githubUpdated_at": "2020-10-04T11:52:18Z"
   },
   {
     "githubUrl": "https://github.com/symfony/symfony",
     "githubOwner": "symfony",
     "githubName": "symfony",
     "githubDescription": "The Symfony PHP framework",
-    "githubSize": 176268,
+    "githubSize": 178324,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/143937?v=4",
-    "githubForks": 7781,
-    "githubStars": 23861,
-    "githubWatchers": 1275,
+    "githubForks": 7810,
+    "githubStars": 23986,
+    "githubWatchers": 1266,
     "githubCreated_at": "2010-01-04T14:21:21Z",
-    "githubUpdated_at": "2020-09-09T12:42:48Z"
+    "githubUpdated_at": "2020-10-04T08:54:43Z"
   },
   {
     "githubUrl": "https://github.com/bcit-ci/CodeIgniter",
@@ -32,24 +32,24 @@
     "githubDescription": "Open Source PHP Framework (originally from EllisLab)",
     "githubSize": 53458,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/8863432?v=4",
-    "githubForks": 7866,
-    "githubStars": 18076,
-    "githubWatchers": 1683,
+    "githubForks": 7864,
+    "githubStars": 18078,
+    "githubWatchers": 1679,
     "githubCreated_at": "2011-08-19T13:34:00Z",
-    "githubUpdated_at": "2020-09-09T11:04:43Z"
+    "githubUpdated_at": "2020-09-30T02:15:56Z"
   },
   {
     "githubUrl": "https://github.com/cakephp/cakephp",
     "githubOwner": "cakephp",
     "githubName": "cakephp",
     "githubDescription": "CakePHP: The Rapid Development Framework for PHP - Official Repository",
-    "githubSize": 93810,
+    "githubSize": 93440,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/23666?v=4",
-    "githubForks": 3446,
-    "githubStars": 8233,
-    "githubWatchers": 612,
+    "githubForks": 3449,
+    "githubStars": 8253,
+    "githubWatchers": 608,
     "githubCreated_at": "2010-05-08T14:38:22Z",
-    "githubUpdated_at": "2020-09-09T10:36:47Z"
+    "githubUpdated_at": "2020-10-04T01:40:32Z"
   },
   {
     "githubUrl": "https://github.com/zendframework/zendframework",
@@ -58,50 +58,50 @@
     "githubDescription": "Official Zend Framework repository",
     "githubSize": 98962,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/296074?v=4",
-    "githubForks": 2768,
-    "githubStars": 5692,
+    "githubForks": 2763,
+    "githubStars": 5691,
     "githubWatchers": 544,
     "githubCreated_at": "2010-06-04T02:42:05Z",
-    "githubUpdated_at": "2020-09-08T20:34:04Z"
+    "githubUpdated_at": "2020-09-30T10:39:26Z"
   },
   {
     "githubUrl": "https://github.com/phalcon/cphalcon",
     "githubOwner": "phalcon",
     "githubName": "cphalcon",
     "githubDescription": "High performance, full-stack PHP framework delivered as a C extension.",
-    "githubSize": 192115,
+    "githubSize": 192851,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1221505?v=4",
-    "githubForks": 1878,
-    "githubStars": 10236,
-    "githubWatchers": 699,
+    "githubForks": 1883,
+    "githubStars": 10255,
+    "githubWatchers": 697,
     "githubCreated_at": "2011-11-26T05:52:50Z",
-    "githubUpdated_at": "2020-09-06T11:14:46Z"
+    "githubUpdated_at": "2020-10-03T20:08:45Z"
   },
   {
     "githubUrl": "https://github.com/slimphp/Slim",
     "githubOwner": "slimphp",
     "githubName": "Slim",
     "githubDescription": "Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.",
-    "githubSize": 6800,
+    "githubSize": 6813,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/11195762?v=4",
-    "githubForks": 1912,
-    "githubStars": 10722,
-    "githubWatchers": 562,
+    "githubForks": 1916,
+    "githubStars": 10761,
+    "githubWatchers": 561,
     "githubCreated_at": "2010-09-21T01:17:06Z",
-    "githubUpdated_at": "2020-09-09T12:15:23Z"
+    "githubUpdated_at": "2020-10-04T09:50:19Z"
   },
   {
     "githubUrl": "https://github.com/yiisoft/yii",
     "githubOwner": "yiisoft",
     "githubName": "yii",
     "githubDescription": "Yii PHP Framework 1.1.x",
-    "githubSize": 28985,
+    "githubSize": 28937,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/993323?v=4",
-    "githubForks": 2288,
-    "githubStars": 4848,
-    "githubWatchers": 455,
+    "githubForks": 2294,
+    "githubStars": 4849,
+    "githubWatchers": 454,
     "githubCreated_at": "2012-02-15T16:26:22Z",
-    "githubUpdated_at": "2020-09-06T02:56:02Z"
+    "githubUpdated_at": "2020-10-03T19:18:48Z"
   },
   {
     "githubUrl": "https://github.com/bcosca/fatfree",
@@ -110,11 +110,11 @@
     "githubDescription": "A powerful yet easy-to-use PHP micro-framework designed to help you build dynamic and robust Web applications - fast!",
     "githubSize": 18047,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/199570?v=4",
-    "githubForks": 443,
-    "githubStars": 2409,
+    "githubForks": 442,
+    "githubStars": 2419,
     "githubWatchers": 228,
     "githubCreated_at": "2012-02-28T00:35:21Z",
-    "githubUpdated_at": "2020-09-09T06:38:16Z"
+    "githubUpdated_at": "2020-09-29T12:58:31Z"
   },
   {
     "githubUrl": "https://github.com/kohana/kohana",
@@ -123,11 +123,11 @@
     "githubDescription": "Basic application with official modules included",
     "githubSize": 1244,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/39584?v=4",
-    "githubForks": 448,
-    "githubStars": 1594,
+    "githubForks": 447,
+    "githubStars": 1592,
     "githubWatchers": 153,
     "githubCreated_at": "2009-07-28T16:09:23Z",
-    "githubUpdated_at": "2020-08-27T11:02:43Z"
+    "githubUpdated_at": "2020-09-27T14:48:55Z"
   },
   {
     "githubUrl": "https://github.com/fuel/fuel",
@@ -136,11 +136,11 @@
     "githubDescription": "FuelPHP v1.x is a simple, flexible, community driven PHP 5.3+ framework, based on the best ideas of other frameworks, with a fresh start! FuelPHP is fully PHP 7 compatible.",
     "githubSize": 5526,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/452101?v=4",
-    "githubForks": 293,
-    "githubStars": 1437,
+    "githubForks": 292,
+    "githubStars": 1440,
     "githubWatchers": 109,
     "githubCreated_at": "2010-10-24T18:55:12Z",
-    "githubUpdated_at": "2020-09-07T21:38:50Z"
+    "githubUpdated_at": "2020-09-27T10:08:28Z"
   },
   {
     "githubUrl": "https://github.com/mikecao/flight",
@@ -149,11 +149,11 @@
     "githubDescription": "An extensible micro-framework for PHP",
     "githubSize": 282,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/477975?v=4",
-    "githubForks": 370,
-    "githubStars": 2271,
-    "githubWatchers": 184,
+    "githubForks": 369,
+    "githubStars": 2282,
+    "githubWatchers": 185,
     "githubCreated_at": "2011-03-31T07:48:42Z",
-    "githubUpdated_at": "2020-09-04T09:47:42Z"
+    "githubUpdated_at": "2020-10-03T16:23:22Z"
   },
   {
     "githubUrl": "https://github.com/panique/mini",
@@ -162,24 +162,24 @@
     "githubDescription": "Just an extremely simple naked PHP application, useful for small projects and quick prototypes. Some might call it a micro framework :)",
     "githubSize": 2976,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/156321?v=4",
-    "githubForks": 494,
-    "githubStars": 1280,
+    "githubForks": 493,
+    "githubStars": 1285,
     "githubWatchers": 115,
     "githubCreated_at": "2013-11-06T22:13:20Z",
-    "githubUpdated_at": "2020-09-01T08:43:55Z"
+    "githubUpdated_at": "2020-10-04T08:06:19Z"
   },
   {
     "githubUrl": "https://github.com/zikula/core",
     "githubOwner": "zikula",
     "githubName": "core",
     "githubDescription": "Zikula Core Framework",
-    "githubSize": 80095,
+    "githubSize": 80501,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/251211?v=4",
     "githubForks": 73,
     "githubStars": 213,
     "githubWatchers": 37,
     "githubCreated_at": "2010-07-18T10:35:53Z",
-    "githubUpdated_at": "2020-09-07T07:35:31Z"
+    "githubUpdated_at": "2020-10-01T11:20:58Z"
   },
   {
     "githubUrl": "https://github.com/tylerhall/simple-php-framework/",
