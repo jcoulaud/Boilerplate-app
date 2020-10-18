@@ -17,26 +17,26 @@
     "githubOwner": "aspnetboilerplate",
     "githubName": "aspnetboilerplate",
     "githubDescription": "ASP.NET Boilerplate - Web Application Framework",
-    "githubSize": 60687,
+    "githubSize": 60727,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/5957277?v=4",
-    "githubForks": 3269,
-    "githubStars": 8874,
-    "githubWatchers": 822,
+    "githubForks": 3283,
+    "githubStars": 8926,
+    "githubWatchers": 826,
     "githubCreated_at": "2013-08-18T20:45:08Z",
-    "githubUpdated_at": "2020-10-03T20:12:58Z"
+    "githubUpdated_at": "2020-10-18T11:25:24Z"
   },
   {
     "githubUrl": "https://github.com/ASP-NET-MVC-Boilerplate/Templates",
     "githubOwner": "ASP-NET-MVC-Boilerplate",
     "githubName": "Templates",
     "githubDescription": ".NET project templates with batteries included, providing the minimum amount of code required to get you going faster.",
-    "githubSize": 48138,
+    "githubSize": 48143,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/22211766?v=4",
-    "githubForks": 398,
-    "githubStars": 2289,
-    "githubWatchers": 176,
+    "githubForks": 399,
+    "githubStars": 2294,
+    "githubWatchers": 174,
     "githubCreated_at": "2014-10-27T08:57:45Z",
-    "githubUpdated_at": "2020-10-04T09:32:17Z"
+    "githubUpdated_at": "2020-10-16T18:25:52Z"
   },
   {
     "githubUrl": "https://github.com/aspnetboilerplate/module-zero",
@@ -59,10 +59,10 @@
     "githubSize": 1711,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/773036?v=4",
     "githubForks": 205,
-    "githubStars": 1075,
+    "githubStars": 1076,
     "githubWatchers": 99,
     "githubCreated_at": "2014-08-21T09:51:46Z",
-    "githubUpdated_at": "2020-09-30T20:53:18Z"
+    "githubUpdated_at": "2020-10-10T20:03:24Z"
   },
   {
     "githubUrl": "https://github.com/restsharp/RestSharp",
@@ -71,10 +71,10 @@
     "githubDescription": "Simple REST and HTTP API Client for .NET",
     "githubSize": 39057,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1057779?v=4",
-    "githubForks": 2053,
-    "githubStars": 7439,
+    "githubForks": 2052,
+    "githubStars": 7456,
     "githubWatchers": 456,
     "githubCreated_at": "2009-11-16T02:01:45Z",
-    "githubUpdated_at": "2020-10-01T16:07:23Z"
+    "githubUpdated_at": "2020-10-17T12:58:07Z"
   }
 ]
