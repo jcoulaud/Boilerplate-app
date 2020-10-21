@@ -6,11 +6,11 @@
     "githubDescription": "A boilerplate for Django web applications",
     "githubSize": 4821,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1226900?v=4",
-    "githubForks": 287,
-    "githubStars": 1487,
+    "githubForks": 286,
+    "githubStars": 1489,
     "githubWatchers": 71,
     "githubCreated_at": "2015-05-08T02:26:16Z",
-    "githubUpdated_at": "2020-10-12T07:04:20Z"
+    "githubUpdated_at": "2020-10-20T18:50:15Z"
   },
   {
     "githubUrl": "https://github.com/zapier/django-knowledge",
@@ -33,10 +33,10 @@
     "githubSize": 795,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/166590?v=4",
     "githubForks": 197,
-    "githubStars": 781,
+    "githubStars": 780,
     "githubWatchers": 75,
     "githubCreated_at": "2016-03-05T09:52:38Z",
-    "githubUpdated_at": "2020-10-01T20:44:22Z"
+    "githubUpdated_at": "2020-10-20T09:16:04Z"
   },
   {
     "githubUrl": "https://github.com/lincolnloop/django-startproject",
@@ -56,13 +56,13 @@
     "githubOwner": "agconti",
     "githubName": "cookiecutter-django-rest",
     "githubDescription": "Build best practiced apis fast with Python3",
-    "githubSize": 4875,
+    "githubSize": 4878,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/3332051?v=4",
     "githubForks": 158,
     "githubStars": 1021,
     "githubWatchers": 23,
     "githubCreated_at": "2015-06-04T16:46:49Z",
-    "githubUpdated_at": "2020-10-17T18:14:31Z"
+    "githubUpdated_at": "2020-10-21T14:15:54Z"
   },
   {
     "githubUrl": "https://github.com/brwr/thinkster-django-angular-boilerplate",
@@ -71,7 +71,7 @@
     "githubDescription": "Boilerplate for the Thinkster.io Django and AngularJS tutorial.",
     "githubSize": 417,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/4095660?v=4",
-    "githubForks": 1363,
+    "githubForks": 1362,
     "githubStars": 211,
     "githubWatchers": 12,
     "githubCreated_at": "2014-11-03T21:04:43Z",
@@ -97,11 +97,11 @@
     "githubDescription": "Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate",
     "githubSize": 842,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/5529080?v=4",
-    "githubForks": 244,
-    "githubStars": 1028,
-    "githubWatchers": 48,
+    "githubForks": 246,
+    "githubStars": 1035,
+    "githubWatchers": 49,
     "githubCreated_at": "2016-07-19T20:37:29Z",
-    "githubUpdated_at": "2020-10-18T00:18:46Z"
+    "githubUpdated_at": "2020-10-21T18:26:50Z"
   },
   {
     "githubUrl": "https://github.com/bueda/django-boilerplate",
@@ -111,9 +111,9 @@
     "githubSize": 1048,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/187098?v=4",
     "githubForks": 19,
-    "githubStars": 75,
+    "githubStars": 76,
     "githubWatchers": 6,
     "githubCreated_at": "2010-11-13T05:21:41Z",
-    "githubUpdated_at": "2020-07-12T11:38:12Z"
+    "githubUpdated_at": "2020-10-20T02:31:53Z"
   }
 ]

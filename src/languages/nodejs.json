@@ -20,10 +20,10 @@
     "githubSize": 30,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/170270?v=4",
     "githubForks": 63,
-    "githubStars": 654,
+    "githubStars": 655,
     "githubWatchers": 17,
     "githubCreated_at": "2015-03-14T05:47:45Z",
-    "githubUpdated_at": "2020-10-02T01:37:14Z"
+    "githubUpdated_at": "2020-10-18T17:11:34Z"
   },
   {
     "githubUrl": "https://github.com/expressjs/generator",
@@ -33,10 +33,10 @@
     "githubSize": 248,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/5658226?v=4",
     "githubForks": 472,
-    "githubStars": 1517,
+    "githubStars": 1525,
     "githubWatchers": 59,
     "githubCreated_at": "2013-11-20T22:24:21Z",
-    "githubUpdated_at": "2020-10-17T10:38:53Z"
+    "githubUpdated_at": "2020-10-21T18:06:35Z"
   },
   {
     "githubUrl": "https://github.com/sahat/hackathon-starter",
@@ -45,11 +45,11 @@
     "githubDescription": "A boilerplate for Node.js web applications",
     "githubSize": 13171,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/544954?v=4",
-    "githubForks": 6872,
-    "githubStars": 30936,
-    "githubWatchers": 833,
+    "githubForks": 6883,
+    "githubStars": 30957,
+    "githubWatchers": 831,
     "githubCreated_at": "2013-11-13T17:24:12Z",
-    "githubUpdated_at": "2020-10-18T10:57:24Z"
+    "githubUpdated_at": "2020-10-21T10:17:54Z"
   },
   {
     "githubUrl": "https://github.com/skaapgif/webapp-boilerplate",
@@ -82,13 +82,13 @@
     "githubOwner": "kriasoft",
     "githubName": "nodejs-api-starter",
     "githubDescription": "💥 Yarn v2 based monorepo template (seed project) pre-configured with GraphQL API and PostgreSQL.",
-    "githubSize": 157710,
+    "githubSize": 171807,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/773036?v=4",
-    "githubForks": 481,
-    "githubStars": 2985,
+    "githubForks": 482,
+    "githubStars": 2988,
     "githubWatchers": 80,
     "githubCreated_at": "2016-09-30T13:14:17Z",
-    "githubUpdated_at": "2020-10-18T07:23:22Z"
+    "githubUpdated_at": "2020-10-21T04:44:38Z"
   },
   {
     "githubUrl": "https://github.com/neogeek/nodejs-starter-kit",
@@ -123,11 +123,11 @@
     "githubDescription": ":star: MEVN Full stack JS web app boilerplate with NodeJS, Express, Mongo and VueJS",
     "githubSize": 15774,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/306521?v=4",
-    "githubForks": 729,
-    "githubStars": 2674,
+    "githubForks": 730,
+    "githubStars": 2676,
     "githubWatchers": 126,
     "githubCreated_at": "2016-06-18T12:09:40Z",
-    "githubUpdated_at": "2020-10-15T17:56:35Z"
+    "githubUpdated_at": "2020-10-20T03:36:47Z"
   },
   {
     "githubUrl": "https://github.com/diki/nodejs-passport-boilerplate",
@@ -150,10 +150,10 @@
     "githubSize": 1178,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/17815977?v=4",
     "githubForks": 705,
-    "githubStars": 2923,
+    "githubStars": 2925,
     "githubWatchers": 217,
     "githubCreated_at": "2016-06-24T06:26:05Z",
-    "githubUpdated_at": "2020-10-16T15:17:15Z"
+    "githubUpdated_at": "2020-10-20T20:55:13Z"
   },
   {
     "githubUrl": "https://github.com/diegohaz/rest",
@@ -163,10 +163,10 @@
     "githubSize": 800,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/3068563?v=4",
     "githubForks": 258,
-    "githubStars": 1436,
+    "githubStars": 1438,
     "githubWatchers": 71,
     "githubCreated_at": "2016-09-06T23:05:11Z",
-    "githubUpdated_at": "2020-10-16T14:59:57Z"
+    "githubUpdated_at": "2020-10-21T15:13:58Z"
   },
   {
     "githubUrl": "https://github.com/ericmdantas/generator-ng-fullstack",
@@ -175,7 +175,7 @@
     "githubDescription": "Client, server or fullstack - it's up to you. ng-fullstack gives you the best of the latest.",
     "githubSize": 2476,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/7040162?v=4",
-    "githubForks": 108,
+    "githubForks": 109,
     "githubStars": 700,
     "githubWatchers": 42,
     "githubCreated_at": "2015-03-04T01:59:47Z",
@@ -214,11 +214,11 @@
     "githubDescription": "DDD/Clean Architecture inspired boilerplate for Node web APIs",
     "githubSize": 317,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/4325587?v=4",
-    "githubForks": 421,
-    "githubStars": 2449,
-    "githubWatchers": 93,
+    "githubForks": 422,
+    "githubStars": 2451,
+    "githubWatchers": 94,
     "githubCreated_at": "2017-03-13T21:16:09Z",
-    "githubUpdated_at": "2020-10-16T21:20:50Z"
+    "githubUpdated_at": "2020-10-20T11:38:47Z"
   },
   {
     "githubUrl": "https://github.com/FredericHeem/starhackit",
@@ -307,7 +307,7 @@
     "githubAvatar": "https://avatars2.githubusercontent.com/u/831220?v=4",
     "githubForks": 6,
     "githubStars": 23,
-    "githubWatchers": 23,
+    "githubWatchers": 22,
     "githubCreated_at": "2018-08-29T01:50:15Z",
     "githubUpdated_at": "2020-06-05T04:10:17Z"
   },

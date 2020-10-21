@@ -6,7 +6,7 @@
     "githubDescription": ":ng: An AngularJS Starter repo for AngularJS + ES6 + Webpack",
     "githubSize": 215,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/1016365?v=4",
-    "githubForks": 1470,
+    "githubForks": 1468,
     "githubStars": 1947,
     "githubWatchers": 84,
     "githubCreated_at": "2015-05-16T05:43:03Z",
@@ -46,10 +46,10 @@
     "githubSize": 1620,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/8533408?v=4",
     "githubForks": 477,
-    "githubStars": 1308,
+    "githubStars": 1309,
     "githubWatchers": 103,
     "githubCreated_at": "2015-03-12T12:07:23Z",
-    "githubUpdated_at": "2020-10-09T08:42:18Z"
+    "githubUpdated_at": "2020-10-20T11:29:04Z"
   },
   {
     "githubUrl": "https://github.com/ngbp/ngbp",
@@ -97,11 +97,11 @@
     "githubDescription": "Seed project for angular apps. ",
     "githubSize": 14494,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/139426?v=4",
-    "githubForks": 7241,
-    "githubStars": 13303,
-    "githubWatchers": 731,
+    "githubForks": 7236,
+    "githubStars": 13302,
+    "githubWatchers": 730,
     "githubCreated_at": "2010-12-24T06:07:50Z",
-    "githubUpdated_at": "2020-10-17T12:56:19Z"
+    "githubUpdated_at": "2020-10-19T18:40:18Z"
   },
   {
     "githubUrl": "https://github.com/vesparny/angularjs-playground",
@@ -202,10 +202,10 @@
     "githubSize": 5549,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/6232122?v=4",
     "githubForks": 1990,
-    "githubStars": 4881,
+    "githubStars": 4882,
     "githubWatchers": 314,
     "githubCreated_at": "2013-12-29T13:01:15Z",
-    "githubUpdated_at": "2020-10-18T06:29:18Z"
+    "githubUpdated_at": "2020-10-18T14:45:22Z"
   },
   {
     "githubUrl": "https://github.com/linnovate/mean",
@@ -214,11 +214,11 @@
     "githubDescription": "The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications",
     "githubSize": 8770,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/307487?v=4",
-    "githubForks": 3588,
-    "githubStars": 11998,
+    "githubForks": 3589,
+    "githubStars": 12005,
     "githubWatchers": 656,
     "githubCreated_at": "2013-05-22T12:15:47Z",
-    "githubUpdated_at": "2020-10-16T20:18:40Z"
+    "githubUpdated_at": "2020-10-21T13:52:16Z"
   },
   {
     "githubUrl": "https://github.com/akveo/blur-admin",
@@ -228,10 +228,10 @@
     "githubSize": 87532,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/11921694?v=4",
     "githubForks": 3152,
-    "githubStars": 11073,
+    "githubStars": 11074,
     "githubWatchers": 540,
     "githubCreated_at": "2016-04-08T08:30:20Z",
-    "githubUpdated_at": "2020-10-16T15:30:05Z"
+    "githubUpdated_at": "2020-10-21T17:52:59Z"
   },
   {
     "githubUrl": "https://github.com/gusgard/angular-seed-es6",
@@ -253,7 +253,7 @@
     "githubDescription": "Client, server or fullstack - it's up to you. ng-fullstack gives you the best of the latest.",
     "githubSize": 2476,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/7040162?v=4",
-    "githubForks": 108,
+    "githubForks": 109,
     "githubStars": 700,
     "githubWatchers": 42,
     "githubCreated_at": "2015-03-04T01:59:47Z",

@@ -6,11 +6,11 @@
     "githubDescription": "A boilerplate for Django web applications",
     "githubSize": 4821,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1226900?v=4",
-    "githubForks": 287,
-    "githubStars": 1487,
+    "githubForks": 286,
+    "githubStars": 1489,
     "githubWatchers": 71,
     "githubCreated_at": "2015-05-08T02:26:16Z",
-    "githubUpdated_at": "2020-10-12T07:04:20Z"
+    "githubUpdated_at": "2020-10-20T18:50:15Z"
   },
   {
     "githubUrl": "https://github.com/kirang89/bootstrapy",
@@ -58,11 +58,11 @@
     "githubDescription": "A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.",
     "githubSize": 2761,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/12502901?v=4",
-    "githubForks": 1351,
-    "githubStars": 13030,
-    "githubWatchers": 251,
+    "githubForks": 1353,
+    "githubStars": 13062,
+    "githubWatchers": 252,
     "githubCreated_at": "2013-07-14T18:31:22Z",
-    "githubUpdated_at": "2020-10-18T05:36:42Z"
+    "githubUpdated_at": "2020-10-21T18:26:05Z"
   },
   {
     "githubUrl": "https://github.com/JackStouffer/Flask-Foundation",
@@ -85,10 +85,10 @@
     "githubSize": 6427,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/25914?v=4",
     "githubForks": 199,
-    "githubStars": 692,
+    "githubStars": 690,
     "githubWatchers": 94,
     "githubCreated_at": "2012-02-12T16:17:18Z",
-    "githubUpdated_at": "2020-08-27T19:18:27Z"
+    "githubUpdated_at": "2020-10-19T18:02:22Z"
   },
   {
     "githubUrl": "https://github.com/kamalgill/flask-appengine-template",
@@ -110,7 +110,7 @@
     "githubDescription": "A project template for Django 2.0 that follows best practices.",
     "githubSize": 718,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/194200?v=4",
-    "githubForks": 39,
+    "githubForks": 40,
     "githubStars": 138,
     "githubWatchers": 14,
     "githubCreated_at": "2014-07-20T16:52:39Z",
@@ -150,9 +150,9 @@
     "githubSize": 276,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/187098?v=4",
     "githubForks": 104,
-    "githubStars": 436,
+    "githubStars": 435,
     "githubWatchers": 27,
     "githubCreated_at": "2010-11-13T22:19:42Z",
-    "githubUpdated_at": "2020-10-16T03:27:43Z"
+    "githubUpdated_at": "2020-10-21T18:59:06Z"
   }
 ]
