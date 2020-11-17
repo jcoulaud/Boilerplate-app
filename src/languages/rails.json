@@ -6,24 +6,24 @@
     "githubDescription": "Jump start your Rails development with Le Wagon best practices",
     "githubSize": 292,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/5470001?v=4",
-    "githubForks": 198,
-    "githubStars": 359,
+    "githubForks": 200,
+    "githubStars": 368,
     "githubWatchers": 25,
     "githubCreated_at": "2015-08-23T19:48:19Z",
-    "githubUpdated_at": "2020-10-14T05:11:09Z"
+    "githubUpdated_at": "2020-11-17T08:13:39Z"
   },
   {
     "githubUrl": "https://github.com/mattbrictson/rails-template",
     "githubOwner": "mattbrictson",
     "githubName": "rails-template",
     "githubDescription": "Application template for Rails 6 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.",
-    "githubSize": 394,
+    "githubSize": 407,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/189693?v=4",
-    "githubForks": 181,
-    "githubStars": 689,
+    "githubForks": 184,
+    "githubStars": 696,
     "githubWatchers": 28,
     "githubCreated_at": "2015-01-30T22:17:11Z",
-    "githubUpdated_at": "2020-10-19T19:18:44Z"
+    "githubUpdated_at": "2020-11-13T04:36:12Z"
   },
   {
     "githubUrl": "https://github.com/sporkd/html5-rails",
@@ -32,7 +32,7 @@
     "githubDescription": "Generate Html5 Boilerplate for your Rails apps!",
     "githubSize": 453,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/11115?v=4",
-    "githubForks": 39,
+    "githubForks": 38,
     "githubStars": 241,
     "githubWatchers": 13,
     "githubCreated_at": "2011-06-20T21:35:09Z",
@@ -58,11 +58,11 @@
     "githubDescription": "Rails Composer. The Rails generator on steroids for starter apps.",
     "githubSize": 760,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/788200?v=4",
-    "githubForks": 510,
-    "githubStars": 3374,
+    "githubForks": 508,
+    "githubStars": 3372,
     "githubWatchers": 153,
     "githubCreated_at": "2012-07-24T18:43:01Z",
-    "githubUpdated_at": "2020-10-13T01:40:48Z"
+    "githubUpdated_at": "2020-11-17T06:32:22Z"
   },
   {
     "githubUrl": "https://github.com/RailsApps/rails-bootstrap",
@@ -71,7 +71,7 @@
     "githubDescription": "Rails 5.1 starter app with the Bootstrap 4 front-end framework.",
     "githubSize": 426,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/788200?v=4",
-    "githubForks": 245,
+    "githubForks": 246,
     "githubStars": 536,
     "githubWatchers": 42,
     "githubCreated_at": "2013-07-10T03:35:06Z",

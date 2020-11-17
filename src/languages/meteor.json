@@ -7,10 +7,10 @@
     "githubSize": 2585,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/4521527?v=4",
     "githubForks": 190,
-    "githubStars": 895,
+    "githubStars": 894,
     "githubWatchers": 66,
     "githubCreated_at": "2013-09-26T15:02:38Z",
-    "githubUpdated_at": "2020-10-19T10:59:11Z"
+    "githubUpdated_at": "2020-11-15T13:01:11Z"
   },
   {
     "githubUrl": "https://github.com/matteodem/meteor-boilerplate",
@@ -20,10 +20,10 @@
     "githubSize": 3070,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1301147?v=4",
     "githubForks": 150,
-    "githubStars": 846,
+    "githubStars": 847,
     "githubWatchers": 49,
     "githubCreated_at": "2013-09-09T19:42:09Z",
-    "githubUpdated_at": "2020-10-09T05:42:03Z"
+    "githubUpdated_at": "2020-10-25T10:21:43Z"
   },
   {
     "githubUrl": "https://github.com/themeteorchef/base",
@@ -58,11 +58,11 @@
     "githubDescription": "A starter project for React & Meteor",
     "githubSize": 29,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1445367?v=4",
-    "githubForks": 72,
-    "githubStars": 172,
+    "githubForks": 71,
+    "githubStars": 171,
     "githubWatchers": 18,
     "githubCreated_at": "2015-07-26T22:12:48Z",
-    "githubUpdated_at": "2020-03-10T01:09:44Z"
+    "githubUpdated_at": "2020-11-05T22:20:04Z"
   },
   {
     "githubUrl": "https://github.com/ffxsam/ffx-meteor-react-boilerplate",
@@ -73,7 +73,7 @@
     "githubAvatar": "https://avatars2.githubusercontent.com/u/12532733?v=4",
     "githubForks": 20,
     "githubStars": 134,
-    "githubWatchers": 16,
+    "githubWatchers": 15,
     "githubCreated_at": "2016-01-28T21:20:25Z",
     "githubUpdated_at": "2020-03-10T00:40:25Z"
   },
@@ -84,7 +84,7 @@
     "githubDescription": "Boilerplates Application for Meteor.js using different flavors of AccountsTemplates packages",
     "githubSize": 5097,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/8916931?v=4",
-    "githubForks": 67,
+    "githubForks": 68,
     "githubStars": 107,
     "githubWatchers": 15,
     "githubCreated_at": "2014-08-23T06:03:28Z",
