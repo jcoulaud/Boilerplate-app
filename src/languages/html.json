@@ -7,36 +7,36 @@
     "githubSize": 402,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/224636?v=4",
     "githubForks": 33,
-    "githubStars": 529,
+    "githubStars": 527,
     "githubWatchers": 14,
     "githubCreated_at": "2013-11-10T23:01:30Z",
-    "githubUpdated_at": "2020-10-28T03:24:30Z"
+    "githubUpdated_at": "2020-12-24T16:12:49Z"
   },
   {
     "githubUrl": "https://github.com/h5bp/html5-boilerplate",
     "githubOwner": "h5bp",
     "githubName": "html5-boilerplate",
     "githubDescription": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
-    "githubSize": 16831,
+    "githubSize": 17360,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1136800?v=4",
-    "githubForks": 11192,
-    "githubStars": 47783,
-    "githubWatchers": 2684,
+    "githubForks": 11274,
+    "githubStars": 48808,
+    "githubWatchers": 2708,
     "githubCreated_at": "2010-01-24T18:03:24Z",
-    "githubUpdated_at": "2020-11-17T08:44:21Z"
+    "githubUpdated_at": "2021-01-04T14:19:03Z"
   },
   {
     "githubUrl": "https://github.com/IceCreamYou/HTML5-Canvas-Game-Boilerplate",
     "githubOwner": "IceCreamYou",
     "githubName": "HTML5-Canvas-Game-Boilerplate",
     "githubDescription": "Provides a set of default code that makes getting up and running with an HTML5 canvas game very easy.",
-    "githubSize": 4973,
+    "githubSize": 5002,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/203177?v=4",
-    "githubForks": 43,
-    "githubStars": 173,
+    "githubForks": 45,
+    "githubStars": 177,
     "githubWatchers": 10,
     "githubCreated_at": "2012-01-28T00:34:56Z",
-    "githubUpdated_at": "2020-10-08T18:59:08Z"
+    "githubUpdated_at": "2021-01-03T19:04:47Z"
   },
   {
     "githubUrl": "https://github.com/imarc/boilerplate",
@@ -47,7 +47,7 @@
     "githubAvatar": "https://avatars3.githubusercontent.com/u/363482?v=4",
     "githubForks": 13,
     "githubStars": 48,
-    "githubWatchers": 25,
+    "githubWatchers": 26,
     "githubCreated_at": "2013-01-18T06:24:23Z",
     "githubUpdated_at": "2020-10-07T20:16:54Z"
   },
@@ -59,10 +59,10 @@
     "githubSize": 118,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/522007?v=4",
     "githubForks": 391,
-    "githubStars": 1130,
+    "githubStars": 1129,
     "githubWatchers": 110,
     "githubCreated_at": "2011-12-09T00:32:32Z",
-    "githubUpdated_at": "2020-10-30T11:25:02Z"
+    "githubUpdated_at": "2020-12-17T17:07:31Z"
   },
   {
     "githubUrl": "https://github.com/sesh/base.html",
@@ -71,10 +71,10 @@
     "githubDescription": "The absolute minimum base.html template to get your started",
     "githubSize": 13,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/59980?v=4",
-    "githubForks": 1,
-    "githubStars": 15,
+    "githubForks": 3,
+    "githubStars": 31,
     "githubWatchers": 0,
     "githubCreated_at": "2016-11-07T01:44:04Z",
-    "githubUpdated_at": "2020-09-15T05:19:33Z"
+    "githubUpdated_at": "2021-01-04T14:57:48Z"
   }
 ]

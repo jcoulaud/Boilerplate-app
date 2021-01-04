@@ -6,11 +6,11 @@
     "githubDescription": "Boilerplate meteor app - starting point for meteor apps",
     "githubSize": 2585,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/4521527?v=4",
-    "githubForks": 190,
-    "githubStars": 894,
+    "githubForks": 189,
+    "githubStars": 893,
     "githubWatchers": 66,
     "githubCreated_at": "2013-09-26T15:02:38Z",
-    "githubUpdated_at": "2020-11-15T13:01:11Z"
+    "githubUpdated_at": "2020-11-22T11:54:45Z"
   },
   {
     "githubUrl": "https://github.com/matteodem/meteor-boilerplate",
@@ -20,10 +20,10 @@
     "githubSize": 3070,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/1301147?v=4",
     "githubForks": 150,
-    "githubStars": 847,
+    "githubStars": 843,
     "githubWatchers": 49,
     "githubCreated_at": "2013-09-09T19:42:09Z",
-    "githubUpdated_at": "2020-10-25T10:21:43Z"
+    "githubUpdated_at": "2020-12-31T02:06:45Z"
   },
   {
     "githubUrl": "https://github.com/themeteorchef/base",
@@ -33,10 +33,10 @@
     "githubSize": 3367,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/8183166?v=4",
     "githubForks": 234,
-    "githubStars": 658,
-    "githubWatchers": 46,
+    "githubStars": 657,
+    "githubWatchers": 45,
     "githubCreated_at": "2014-07-21T20:44:21Z",
-    "githubUpdated_at": "2020-10-09T02:35:55Z"
+    "githubUpdated_at": "2020-12-15T02:40:12Z"
   },
   {
     "githubUrl": "https://github.com/radiegtya/meteoris2",
@@ -47,7 +47,7 @@
     "githubAvatar": "https://avatars1.githubusercontent.com/u/2161622?v=4",
     "githubForks": 47,
     "githubStars": 248,
-    "githubWatchers": 44,
+    "githubWatchers": 43,
     "githubCreated_at": "2014-09-11T11:19:54Z",
     "githubUpdated_at": "2020-06-11T17:27:40Z"
   },
@@ -60,7 +60,7 @@
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1445367?v=4",
     "githubForks": 71,
     "githubStars": 171,
-    "githubWatchers": 18,
+    "githubWatchers": 19,
     "githubCreated_at": "2015-07-26T22:12:48Z",
     "githubUpdated_at": "2020-11-05T22:20:04Z"
   },
@@ -112,7 +112,7 @@
     "githubAvatar": "https://avatars1.githubusercontent.com/u/9806174?v=4",
     "githubForks": 37,
     "githubStars": 141,
-    "githubWatchers": 12,
+    "githubWatchers": 11,
     "githubCreated_at": "2015-03-09T20:02:44Z",
     "githubUpdated_at": "2020-08-06T15:15:54Z"
   },

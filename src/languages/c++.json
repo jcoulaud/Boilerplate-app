@@ -4,13 +4,13 @@
     "githubOwner": "emil-e",
     "githubName": "rapidcheck",
     "githubDescription": "QuickCheck clone for C++ with the goal of being simple to use with as little boilerplate as possible.",
-    "githubSize": 1653,
+    "githubSize": 1658,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/5737870?v=4",
-    "githubForks": 119,
-    "githubStars": 693,
+    "githubForks": 125,
+    "githubStars": 700,
     "githubWatchers": 37,
     "githubCreated_at": "2014-05-08T20:19:43Z",
-    "githubUpdated_at": "2020-11-15T11:09:39Z"
+    "githubUpdated_at": "2020-12-25T02:03:37Z"
   },
   {
     "githubUrl": "https://github.com/senbon/gloom",
@@ -56,78 +56,78 @@
     "githubOwner": "boostorg",
     "githubName": "boost",
     "githubDescription": "Super-project for modularized Boost",
-    "githubSize": 63212,
+    "githubSize": 63425,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/3170529?v=4",
-    "githubForks": 1146,
-    "githubStars": 3835,
-    "githubWatchers": 300,
+    "githubForks": 1163,
+    "githubStars": 3912,
+    "githubWatchers": 302,
     "githubCreated_at": "2013-01-13T15:59:31Z",
-    "githubUpdated_at": "2020-11-16T19:25:14Z"
+    "githubUpdated_at": "2021-01-04T11:04:29Z"
   },
   {
     "githubUrl": "https://github.com/davisking/dlib",
     "githubOwner": "davisking",
     "githubName": "dlib",
     "githubDescription": "A toolkit for making real world machine learning and data analysis applications in C++",
-    "githubSize": 23586,
+    "githubSize": 23651,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/6259399?v=4",
-    "githubForks": 2822,
-    "githubStars": 9609,
-    "githubWatchers": 510,
+    "githubForks": 2849,
+    "githubStars": 9774,
+    "githubWatchers": 508,
     "githubCreated_at": "2014-01-29T00:45:33Z",
-    "githubUpdated_at": "2020-11-17T06:23:53Z"
+    "githubUpdated_at": "2021-01-04T12:31:57Z"
   },
   {
     "githubUrl": "https://github.com/sumeetchhetri/ffead-cpp",
     "githubOwner": "sumeetchhetri",
     "githubName": "ffead-cpp",
     "githubDescription": "Framework for Enterprise Application Development in c++, HTTP1/HTTP2/HTTP3 compliant, Supports multiple server backends  ",
-    "githubSize": 83158,
+    "githubSize": 83215,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/1655705?v=4",
     "githubForks": 120,
-    "githubStars": 405,
+    "githubStars": 415,
     "githubWatchers": 64,
     "githubCreated_at": "2012-04-20T17:19:47Z",
-    "githubUpdated_at": "2020-11-15T11:13:27Z"
+    "githubUpdated_at": "2021-01-02T07:07:38Z"
   },
   {
     "githubUrl": "https://github.com/facebook/folly",
     "githubOwner": "facebook",
     "githubName": "folly",
     "githubDescription": "An open-source C++ library developed and used at Facebook.",
-    "githubSize": 31338,
+    "githubSize": 31838,
     "githubAvatar": "https://avatars3.githubusercontent.com/u/69631?v=4",
-    "githubForks": 3744,
-    "githubStars": 15875,
+    "githubForks": 3775,
+    "githubStars": 16094,
     "githubWatchers": 986,
     "githubCreated_at": "2012-06-01T20:49:04Z",
-    "githubUpdated_at": "2020-11-17T08:31:18Z"
+    "githubUpdated_at": "2021-01-04T14:57:30Z"
   },
   {
     "githubUrl": "https://github.com/WeAreROLI/JUCE",
     "githubOwner": "WeAreROLI",
     "githubName": "JUCE",
     "githubDescription": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.",
-    "githubSize": 226285,
+    "githubSize": 226751,
     "githubAvatar": "https://avatars1.githubusercontent.com/u/62880632?v=4",
-    "githubForks": 875,
-    "githubStars": 2450,
-    "githubWatchers": 218,
+    "githubForks": 895,
+    "githubStars": 2560,
+    "githubWatchers": 220,
     "githubCreated_at": "2012-03-31T11:19:43Z",
-    "githubUpdated_at": "2020-11-16T20:21:23Z"
+    "githubUpdated_at": "2021-01-04T14:38:03Z"
   },
   {
     "githubUrl": "https://github.com/openframeworks/openFrameworks",
     "githubOwner": "openframeworks",
     "githubName": "openFrameworks",
     "githubDescription": "openFrameworks is a community-developed cross platform toolkit for creative coding in C++.",
-    "githubSize": 1999872,
+    "githubSize": 2000072,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/142866?v=4",
-    "githubForks": 2410,
-    "githubStars": 8048,
-    "githubWatchers": 552,
+    "githubForks": 2418,
+    "githubStars": 8128,
+    "githubWatchers": 553,
     "githubCreated_at": "2009-10-21T21:55:54Z",
-    "githubUpdated_at": "2020-11-15T22:42:01Z"
+    "githubUpdated_at": "2021-01-04T11:43:27Z"
   },
   {
     "githubUrl": "https://github.com/stxxl/stxxl",
@@ -137,35 +137,35 @@
     "githubSize": 12931,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/5766331?v=4",
     "githubForks": 76,
-    "githubStars": 392,
+    "githubStars": 396,
     "githubWatchers": 50,
     "githubCreated_at": "2013-12-04T18:01:38Z",
-    "githubUpdated_at": "2020-11-13T12:30:17Z"
+    "githubUpdated_at": "2020-12-28T08:24:13Z"
   },
   {
     "githubUrl": "https://github.com/bloomberg/bde",
     "githubOwner": "bloomberg",
     "githubName": "bde",
     "githubDescription": "Basic Development Environment - a set of foundational C++ libraries used at Bloomberg.",
-    "githubSize": 169789,
+    "githubSize": 169715,
     "githubAvatar": "https://avatars2.githubusercontent.com/u/1416818?v=4",
-    "githubForks": 250,
-    "githubStars": 1153,
+    "githubForks": 256,
+    "githubStars": 1175,
     "githubWatchers": 155,
     "githubCreated_at": "2012-11-09T20:00:30Z",
-    "githubUpdated_at": "2020-11-16T20:17:55Z"
+    "githubUpdated_at": "2020-12-31T17:50:38Z"
   },
   {
     "githubUrl": "https://github.com/treefrogframework/treefrog-framework",
     "githubOwner": "treefrogframework",
     "githubName": "treefrog-framework",
     "githubDescription": "TreeFrog Framework : High-speed C++ MVC Framework for Web Application",
-    "githubSize": 27575,
+    "githubSize": 27617,
     "githubAvatar": "https://avatars0.githubusercontent.com/u/2995876?v=4",
-    "githubForks": 186,
-    "githubStars": 832,
-    "githubWatchers": 79,
+    "githubForks": 188,
+    "githubStars": 851,
+    "githubWatchers": 78,
     "githubCreated_at": "2012-12-08T13:17:01Z",
-    "githubUpdated_at": "2020-11-07T01:19:32Z"
+    "githubUpdated_at": "2021-01-02T08:22:24Z"
   }
 ]
